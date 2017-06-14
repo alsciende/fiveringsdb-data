@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "lion",
+        "code": "vengeful-oathkeeper",
+        "cost": 2,
+        "element_code": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "illustrator": "Darren Tan",
+        "influence": null,
+        "influence_cost": 2,
+        "is_conflict": true,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": "Bushi.",
+        "military_strength": "2",
+        "military_strength_mod": null,
+        "name": "Vengeful Oathkeeper",
+        "political_strength": "1",
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "<b>Reaction:<\/b> After you lose a [conflict-military] conflict – put this character into play from your hand.",
+        "type_code": "character"
+    }
+]

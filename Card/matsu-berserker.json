@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "lion",
+        "code": "matsu-berserker",
+        "cost": 1,
+        "element_code": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "illustrator": "Héctor Herrera",
+        "influence": null,
+        "influence_cost": null,
+        "is_conflict": false,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": "Bushi. Berserker.",
+        "military_strength": "3",
+        "military_strength_mod": null,
+        "name": "Matsu Berserker",
+        "political_strength": null,
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": null,
+        "type_code": "character"
+    }
+]

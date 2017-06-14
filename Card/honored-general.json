@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "lion",
+        "code": "honored-general",
+        "cost": 4,
+        "element_code": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "illustrator": "Diego Gisbert Llorens",
+        "influence": null,
+        "influence_cost": null,
+        "is_conflict": false,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": "Bushi. Commander.",
+        "military_strength": "3",
+        "military_strength_mod": null,
+        "name": "Honored General",
+        "political_strength": "1",
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "During a conflict in which this character is participating, each other participating [clan-lion] character you control gets +1[conflict-military].\n<b>Reaction:<\/b> After this character enters play – honor it.",
+        "type_code": "character"
+    }
+]

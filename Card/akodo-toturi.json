@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "lion",
+        "code": "akodo-toturi",
+        "cost": 5,
+        "element_code": null,
+        "fate": null,
+        "glory": 3,
+        "honor": null,
+        "illustrator": "Shawn Ignatius Tan",
+        "influence": null,
+        "influence_cost": null,
+        "is_conflict": false,
+        "is_destiny": false,
+        "is_unique": true,
+        "keywords": "Bushi. Champion.",
+        "military_strength": "6",
+        "military_strength_mod": null,
+        "name": "Akodo Toturi",
+        "political_strength": "3",
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "<b>Reaction:<\/b> After you claim a ring during a [conflict-military] conflict in which this character is participating – resolve that ring's effect.",
+        "type_code": "character"
+    }
+]

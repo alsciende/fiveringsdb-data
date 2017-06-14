@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "lion",
+        "code": "way-of-the-lion",
+        "cost": 0,
+        "element_code": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "illustrator": "Scott Wade",
+        "influence": null,
+        "influence_cost": null,
+        "is_conflict": true,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": "Philosophy.",
+        "military_strength": null,
+        "military_strength_mod": null,
+        "name": "Way of the Lion",
+        "political_strength": null,
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "<b>Action:<\/b> During a conflict, choose a [clan-lion] character – double that character's base [conflict-military] skill until the end of the conflict.",
+        "type_code": "event"
+    }
+]

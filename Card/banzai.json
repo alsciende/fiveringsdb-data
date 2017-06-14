@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "neutral",
+        "code": "banzai",
+        "cost": 0,
+        "element_code": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "illustrator": "Troy Graham",
+        "influence": null,
+        "influence_cost": null,
+        "is_conflict": true,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": null,
+        "military_strength": null,
+        "military_strength_mod": null,
+        "name": "Banzai!",
+        "political_strength": null,
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "<b>Action:<\/b> During a conflict, choose a participating character – that character gets +2[conflict-military] until the end of the conflict. You may lose 1 honor to resolve this ability twice. (Max 1 per conflict.)",
+        "type_code": "event"
+    }
+]

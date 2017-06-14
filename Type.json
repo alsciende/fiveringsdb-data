@@ -1,0 +1,30 @@
+[
+    {
+        "code": "attachment",
+        "name": "Attachment"
+    },
+    {
+        "code": "character",
+        "name": "Character"
+    },
+    {
+        "code": "event",
+        "name": "Event"
+    },
+    {
+        "code": "holding",
+        "name": "Holding"
+    },
+    {
+        "code": "province",
+        "name": "Province"
+    },
+    {
+        "code": "role",
+        "name": "Role"
+    },
+    {
+        "code": "stronghold",
+        "name": "Stronghold"
+    }
+]

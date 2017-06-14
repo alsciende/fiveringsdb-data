@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "lion",
+        "code": "for-greater-glory",
+        "cost": 1,
+        "element_code": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "illustrator": "Niten",
+        "influence": null,
+        "influence_cost": 3,
+        "is_conflict": true,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": null,
+        "military_strength": null,
+        "military_strength_mod": null,
+        "name": "For Greater Glory",
+        "political_strength": null,
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "<b>Reaction:<\/b> After you break a province during a [conflict-military] conflict – place 1 fate on each participating <i>Bushi<\/i> character you control. (Max 1 per conflict.)",
+        "type_code": "event"
+    }
+]

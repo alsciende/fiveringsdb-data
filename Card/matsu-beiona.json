@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "lion",
+        "code": "matsu-beiona",
+        "cost": 3,
+        "element_code": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "illustrator": "Cassandre Bolan",
+        "influence": null,
+        "influence_cost": null,
+        "is_conflict": false,
+        "is_destiny": false,
+        "is_unique": true,
+        "keywords": "Bushi.",
+        "military_strength": "3",
+        "military_strength_mod": null,
+        "name": "Matsu Beiona",
+        "political_strength": "2",
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "<b>Reaction:<\/b> After this character enters play, if you control 3 or more other <i>Bushi<\/i> characters – place 2 fate on this character.",
+        "type_code": "character"
+    }
+]

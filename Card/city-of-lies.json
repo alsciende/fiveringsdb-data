@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "scorpion",
+        "code": "city-of-lies",
+        "cost": null,
+        "element_code": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "illustrator": "Chris Ostrowski",
+        "influence": null,
+        "influence_cost": null,
+        "is_conflict": false,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": "City.",
+        "military_strength": null,
+        "military_strength_mod": null,
+        "name": "City of Lies",
+        "political_strength": null,
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "<b>Action:<\/b> Reduce the cost of the next event you play this phase by 1.",
+        "type_code": "holding"
+    }
+]

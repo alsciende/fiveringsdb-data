@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "crane",
+        "code": "guest-of-honor",
+        "cost": 4,
+        "element_code": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "illustrator": "Wen Juinn",
+        "influence": null,
+        "influence_cost": null,
+        "is_conflict": false,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": "Courtier.",
+        "military_strength": "1",
+        "military_strength_mod": null,
+        "name": "Guest of Honor",
+        "political_strength": "4",
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "While this character is participating in a conflict, opponents cannot play events.",
+        "type_code": "character"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "crane",
+        "code": "above-question",
+        "cost": 1,
+        "element_code": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "illustrator": "Stu Barnes",
+        "influence": null,
+        "influence_cost": 2,
+        "is_conflict": true,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": "Condition.",
+        "military_strength": null,
+        "military_strength_mod": "+0",
+        "name": "Above Question",
+        "political_strength": null,
+        "political_strength_mod": "+0",
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "Attached character cannot be chosen as a target of an opponent's event.",
+        "type_code": "attachment"
+    }
+]

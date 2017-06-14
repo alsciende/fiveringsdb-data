@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "phoenix",
+        "code": "solemn-scholar",
+        "cost": 1,
+        "element_code": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "illustrator": "Aaron Miller",
+        "influence": null,
+        "influence_cost": null,
+        "is_conflict": false,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": "Shugenja. Earth. Scholar.",
+        "military_strength": "1",
+        "military_strength_mod": null,
+        "name": "Solemn Scholar",
+        "political_strength": "1",
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "<b>Action:<\/b> During a conflict, if the [element-earth] ring is in your claimed ring pool, choose an attacking character – bow that character.",
+        "type_code": "character"
+    }
+]

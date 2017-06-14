@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "neutral",
+        "code": "spies-at-court",
+        "cost": 0,
+        "element_code": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "illustrator": "Mike Capprotti",
+        "influence": null,
+        "influence_cost": null,
+        "is_conflict": true,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": null,
+        "military_strength": null,
+        "military_strength_mod": null,
+        "name": "Spies at Court",
+        "political_strength": null,
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "<b>Reaction:<\/b> After you win a [conflict-political] conflict, dishonor a participating character – discard 2 cards at random from your opponent's hand. (Max 1 per conflict.)",
+        "type_code": "event"
+    }
+]

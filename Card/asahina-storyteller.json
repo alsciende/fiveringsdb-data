@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "crane",
+        "code": "asahina-storyteller",
+        "cost": 4,
+        "element_code": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "illustrator": "Caravan Studio",
+        "influence": null,
+        "influence_cost": null,
+        "is_conflict": false,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": "Courtier. Shugenja. Air.",
+        "military_strength": "2",
+        "military_strength_mod": null,
+        "name": "Asahina Storyteller",
+        "political_strength": "4",
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "Sincerity. (When this character leaves play, draw 1 card.)\nEach honored [clan-crane] character you control gains sincerity.",
+        "type_code": "character"
+    }
+]

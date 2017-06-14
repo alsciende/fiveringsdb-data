@@ -1,0 +1,22 @@
+[
+  {
+    "code": "air",
+    "name": "Air"
+  },
+  {
+    "code": "earth",
+    "name": "Earth"
+  },
+  {
+    "code": "fire",
+    "name": "Fire"
+  },
+  {
+    "code": "void",
+    "name": "Void"
+  },
+  {
+    "code": "water",
+    "name": "Water"
+  }
+]

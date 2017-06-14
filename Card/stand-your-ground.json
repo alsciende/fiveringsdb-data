@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "lion",
+        "code": "stand-your-ground",
+        "cost": 0,
+        "element_code": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "illustrator": "Jeff Hill",
+        "influence": null,
+        "influence_cost": 2,
+        "is_conflict": true,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": null,
+        "military_strength": null,
+        "military_strength_mod": null,
+        "name": "Stand Your Ground",
+        "political_strength": null,
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "<b>Interrupt:<\/b> When an honored character you control would leave play – instead discard that character's status token.",
+        "type_code": "event"
+    }
+]

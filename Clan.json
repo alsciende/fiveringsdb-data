@@ -1,0 +1,42 @@
+[
+    {
+        "code": "crab",
+        "name": "Crab",
+        "is_neutral": false
+    },
+    {
+        "code": "crane",
+        "name": "Crane",
+        "is_neutral": false
+    },
+    {
+        "code": "dragon",
+        "name": "Dragon",
+        "is_neutral": false
+    },
+    {
+        "code": "lion",
+        "name": "Lion",
+        "is_neutral": false
+    },
+    {
+        "code": "neutral",
+        "name": "Neutral",
+        "is_neutral": true
+    },
+    {
+        "code": "phoenix",
+        "name": "Phoenix",
+        "is_neutral": false
+    },
+    {
+        "code": "scorpion",
+        "name": "Scorpion",
+        "is_neutral": false
+    },
+    {
+        "code": "unicorn",
+        "name": "Unicorn",
+        "is_neutral": false
+    }
+]

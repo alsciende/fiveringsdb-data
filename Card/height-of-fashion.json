@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "crane",
+        "code": "height-of-fashion",
+        "cost": 2,
+        "element_code": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "illustrator": "Gemma Tegelaers",
+        "influence": null,
+        "influence_cost": 3,
+        "is_conflict": true,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": "Condition.",
+        "military_strength": null,
+        "military_strength_mod": "+0",
+        "name": "Height of Fashion",
+        "political_strength": null,
+        "political_strength_mod": "+4",
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "This attachment cannot be played during a conflict.",
+        "type_code": "attachment"
+    }
+]

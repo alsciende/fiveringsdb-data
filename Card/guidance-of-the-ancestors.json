@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "lion",
+        "code": "guidance-of-the-ancestors",
+        "cost": 1,
+        "element_code": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "illustrator": "Matt Zeilinger",
+        "influence": null,
+        "influence_cost": 1,
+        "is_conflict": true,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": "Condition.",
+        "military_strength": null,
+        "military_strength_mod": "+1",
+        "name": "Guidance of the Ancestors",
+        "political_strength": null,
+        "political_strength_mod": "+1",
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "<b>Action:<\/b> Play this attachment from your conflict discard pile.",
+        "type_code": "attachment"
+    }
+]

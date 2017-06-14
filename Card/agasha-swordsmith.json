@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "dragon",
+        "code": "agasha-swordsmith",
+        "cost": 2,
+        "element_code": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "illustrator": "Stanislav Dikolenko",
+        "influence": null,
+        "influence_cost": null,
+        "is_conflict": false,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": "Shugenja. Fire.",
+        "military_strength": "1",
+        "military_strength_mod": null,
+        "name": "Agasha Swordsmith",
+        "political_strength": "2",
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "<b>Action:<\/b> Search the top 5 cards of your conflict deck for an attachment, reveal it, and add it to your hand. Shuffle.",
+        "type_code": "character"
+    }
+]

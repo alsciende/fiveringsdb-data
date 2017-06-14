@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "dragon",
+        "code": "togashi-initiate",
+        "cost": 1,
+        "element_code": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "illustrator": "Darren Tan",
+        "influence": null,
+        "influence_cost": null,
+        "is_conflict": false,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": "Monk. Tattooed.",
+        "military_strength": "1",
+        "military_strength_mod": null,
+        "name": "Togashi Initiate",
+        "political_strength": "1",
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "<b>Action:<\/b> While this character is attacking, spend 1 fate to an unclaimed ring – honor this character.",
+        "type_code": "character"
+    }
+]

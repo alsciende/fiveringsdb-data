@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "scorpion",
+        "code": "blackmail",
+        "cost": 3,
+        "element_code": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "illustrator": "Charles Urbach",
+        "influence": null,
+        "influence_cost": 3,
+        "is_conflict": true,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": null,
+        "military_strength": null,
+        "military_strength_mod": null,
+        "name": "Blackmail",
+        "political_strength": null,
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "Play only if you are less honorable than your opponent.\n<b>Action:<\/b> During a conflict, choose a character with printed cost 2 or lower controlled by your opponent – take control of that character until the end of the conflict.",
+        "type_code": "event"
+    }
+]

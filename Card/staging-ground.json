@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "lion",
+        "code": "staging-ground",
+        "cost": null,
+        "element_code": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "illustrator": "Shen Fei",
+        "influence": null,
+        "influence_cost": null,
+        "is_conflict": false,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": "Battlefield.",
+        "military_strength": null,
+        "military_strength_mod": null,
+        "name": "Staging Ground",
+        "political_strength": null,
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "<b>Action:<\/b> Choose up to 2 facedown cards in your provinces – turn the chosen cards faceup.",
+        "type_code": "holding"
+    }
+]

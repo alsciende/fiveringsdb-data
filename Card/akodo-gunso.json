@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "lion",
+        "code": "akodo-gunso",
+        "cost": 2,
+        "element_code": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "illustrator": "Polar Engine",
+        "influence": null,
+        "influence_cost": null,
+        "is_conflict": false,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": "Bushi.",
+        "military_strength": "2",
+        "military_strength_mod": null,
+        "name": "Akodo Gunsō",
+        "political_strength": "1",
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "Pride. (After this character wins a conflict, honor it. After this character loses a conflict, dishonor it.)\n<b>Reaction:<\/b> After this character enters play from a province – refill that province faceup.",
+        "type_code": "character"
+    }
+]

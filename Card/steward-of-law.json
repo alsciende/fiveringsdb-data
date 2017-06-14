@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "crane",
+        "code": "steward-of-law",
+        "cost": 1,
+        "element_code": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "illustrator": "Alayna Lemmer",
+        "influence": null,
+        "influence_cost": 1,
+        "is_conflict": true,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": "Courtier. Scholar.",
+        "military_strength": "1",
+        "military_strength_mod": null,
+        "name": "Steward of Law",
+        "political_strength": "1",
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "While this character is participating in a conflict, characters cannot become dishonored.",
+        "type_code": "character"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "lion",
+        "code": "strength-in-numbers",
+        "cost": 1,
+        "element_code": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "illustrator": "Kevin Zamir Goeke",
+        "influence": null,
+        "influence_cost": 2,
+        "is_conflict": true,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": null,
+        "military_strength": null,
+        "military_strength_mod": null,
+        "name": "Strength in Numbers",
+        "political_strength": null,
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "<b>Action:<\/b> While you are the attacking player, choose a defending character with glory X or lower – move that character home. X is equal to the number of attacking characters.",
+        "type_code": "event"
+    }
+]

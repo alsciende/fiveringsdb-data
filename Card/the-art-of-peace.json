@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "crane",
+        "code": "the-art-of-peace",
+        "cost": null,
+        "element_code": "air",
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "illustrator": "Eli Ring",
+        "influence": null,
+        "influence_cost": null,
+        "is_conflict": false,
+        "is_destiny": false,
+        "is_unique": true,
+        "keywords": null,
+        "military_strength": null,
+        "military_strength_mod": null,
+        "name": "The Art of Peace",
+        "political_strength": null,
+        "political_strength_mod": null,
+        "province_strength": 4,
+        "province_strength_mod": null,
+        "text": "<b>Interrupt:<\/b> When this province is broken – dishonor each attacking character and honor each defending character.",
+        "type_code": "province"
+    }
+]

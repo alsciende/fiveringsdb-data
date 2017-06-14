@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "lion",
+        "code": "obstinate-recruit",
+        "cost": 0,
+        "element_code": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "illustrator": "Leonardo Borazio",
+        "influence": null,
+        "influence_cost": null,
+        "is_conflict": false,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": "Bushi.",
+        "military_strength": "2",
+        "military_strength_mod": null,
+        "name": "Obstinate Recruit",
+        "political_strength": "0",
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "If an opponent is more honorable than you, discard this character.",
+        "type_code": "character"
+    }
+]

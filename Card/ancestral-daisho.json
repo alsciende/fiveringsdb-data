@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "dragon",
+        "code": "ancestral-daisho",
+        "cost": 1,
+        "element_code": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "illustrator": "Jason Juta",
+        "influence": null,
+        "influence_cost": 2,
+        "is_conflict": true,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": "Weapon.",
+        "military_strength": null,
+        "military_strength_mod": "+2",
+        "name": "Ancestral Daishō",
+        "political_strength": null,
+        "political_strength_mod": "+0",
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "Ancestral. (When attached card leaves play, return this card to your hand.)\nRestricted. (No more than two restricted attachments per character.)",
+        "type_code": "attachment"
+    }
+]

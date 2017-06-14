@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "neutral",
+        "code": "otomo-courtier",
+        "cost": 1,
+        "element_code": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "illustrator": "Jake Murray",
+        "influence": null,
+        "influence_cost": null,
+        "is_conflict": false,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": "Courtier. Imperial.",
+        "military_strength": null,
+        "military_strength_mod": null,
+        "name": "Otomo Courtier",
+        "political_strength": "2",
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "This character cannot participate in conflicts as an attacker against a player that controls the Imperial Favor.",
+        "type_code": "character"
+    }
+]

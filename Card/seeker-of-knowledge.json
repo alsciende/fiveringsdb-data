@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "phoenix",
+        "code": "seeker-of-knowledge",
+        "cost": 2,
+        "element_code": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "illustrator": "Jim Pavelec",
+        "influence": null,
+        "influence_cost": 1,
+        "is_conflict": true,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": "Courtier. Shugenja. Air.",
+        "military_strength": "0",
+        "military_strength_mod": null,
+        "name": "Seeker of Knowledge",
+        "political_strength": "2",
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "While this character is attacking, the contested ring gains the [element-air] element. If this character wins the conflict as an attacker, you may choose which of its ring effects to resolve.",
+        "type_code": "character"
+    }
+]

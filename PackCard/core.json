@@ -1,0 +1,317 @@
+[
+    {
+        "card_code": "the-art-of-peace",
+        "quantity": 1,
+        "position": 9
+    },
+    {
+        "card_code": "the-art-of-war",
+        "quantity": 1,
+        "position": 11
+    },
+    {
+        "card_code": "elemental-fury",
+        "quantity": 1,
+        "position": 16
+    },
+    {
+        "card_code": "shrewd-yasuki",
+        "quantity": 1,
+        "position": 29
+    },
+    {
+        "card_code": "borderlands-fortifications",
+        "quantity": 1,
+        "position": 38
+    },
+    {
+        "card_code": "savvy-politician",
+        "quantity": 1,
+        "position": 45
+    },
+    {
+        "card_code": "daidoji-nerishma",
+        "quantity": 1,
+        "position": 46
+    },
+    {
+        "card_code": "kakita-asami",
+        "quantity": 1,
+        "position": 48
+    },
+    {
+        "card_code": "kakita-kaezin",
+        "quantity": 1,
+        "position": 49
+    },
+    {
+        "card_code": "asahina-storyteller",
+        "quantity": 1,
+        "position": 50
+    },
+    {
+        "card_code": "guest-of-honor",
+        "quantity": 1,
+        "position": 51
+    },
+    {
+        "card_code": "doji-hotaru",
+        "quantity": 1,
+        "position": 52
+    },
+    {
+        "card_code": "togashi-initiate",
+        "quantity": 1,
+        "position": 55
+    },
+    {
+        "card_code": "agasha-swordsmith",
+        "quantity": 1,
+        "position": 56
+    },
+    {
+        "card_code": "seeker-of-enlightenment",
+        "quantity": 1,
+        "position": 59
+    },
+    {
+        "card_code": "obstinate-recruit",
+        "quantity": 1,
+        "position": 67
+    },
+    {
+        "card_code": "matsu-berserker",
+        "quantity": 1,
+        "position": 69
+    },
+    {
+        "card_code": "steadfast-samurai",
+        "quantity": 1,
+        "position": 70
+    },
+    {
+        "card_code": "akodo-gunso",
+        "quantity": 1,
+        "position": 71
+    },
+    {
+        "card_code": "kitsu-spiritcaller",
+        "quantity": 1,
+        "position": 74
+    },
+    {
+        "card_code": "lion-s-pride-brawler",
+        "quantity": 1,
+        "position": 75
+    },
+    {
+        "card_code": "matsu-beiona",
+        "quantity": 1,
+        "position": 76
+    },
+    {
+        "card_code": "honored-general",
+        "quantity": 1,
+        "position": 77
+    },
+    {
+        "card_code": "ikoma-eiji",
+        "quantity": 1,
+        "position": 78
+    },
+    {
+        "card_code": "akodo-toturi",
+        "quantity": 1,
+        "position": 79
+    },
+    {
+        "card_code": "staging-ground",
+        "quantity": 1,
+        "position": 80
+    },
+    {
+        "card_code": "shiba-peacemaker",
+        "quantity": 1,
+        "position": 82
+    },
+    {
+        "card_code": "solemn-scholar",
+        "quantity": 1,
+        "position": 83
+    },
+    {
+        "card_code": "isawa-masahiro",
+        "quantity": 1,
+        "position": 90
+    },
+    {
+        "card_code": "bayushi-manipulator",
+        "quantity": 1,
+        "position": 96
+    },
+    {
+        "card_code": "young-rumormonger",
+        "quantity": 1,
+        "position": 101
+    },
+    {
+        "card_code": "city-of-lies",
+        "quantity": 1,
+        "position": 108
+    },
+    {
+        "card_code": "border-rider",
+        "quantity": 1,
+        "position": 112
+    },
+    {
+        "card_code": "shinjo-outrider",
+        "quantity": 1,
+        "position": 114
+    },
+    {
+        "card_code": "otomo-courtier",
+        "quantity": 1,
+        "position": 122
+    },
+    {
+        "card_code": "wandering-ronin",
+        "quantity": 1,
+        "position": 127
+    },
+    {
+        "card_code": "reprieve",
+        "quantity": 1,
+        "position": 132
+    },
+    {
+        "card_code": "steward-of-law",
+        "quantity": 1,
+        "position": 139
+    },
+    {
+        "card_code": "above-question",
+        "quantity": 1,
+        "position": 141
+    },
+    {
+        "card_code": "duelist-training",
+        "quantity": 1,
+        "position": 142
+    },
+    {
+        "card_code": "height-of-fashion",
+        "quantity": 1,
+        "position": 143
+    },
+    {
+        "card_code": "voice-of-honor",
+        "quantity": 1,
+        "position": 145
+    },
+    {
+        "card_code": "way-of-the-crane",
+        "quantity": 1,
+        "position": 146
+    },
+    {
+        "card_code": "admit-defeat",
+        "quantity": 1,
+        "position": 147
+    },
+    {
+        "card_code": "ancestral-daisho",
+        "quantity": 1,
+        "position": 151
+    },
+    {
+        "card_code": "vengeful-oathkeeper",
+        "quantity": 1,
+        "position": 160
+    },
+    {
+        "card_code": "guidance-of-the-ancestors",
+        "quantity": 1,
+        "position": 162
+    },
+    {
+        "card_code": "sashimono",
+        "quantity": 1,
+        "position": 164
+    },
+    {
+        "card_code": "stand-your-ground",
+        "quantity": 1,
+        "position": 166
+    },
+    {
+        "card_code": "way-of-the-lion",
+        "quantity": 1,
+        "position": 167
+    },
+    {
+        "card_code": "for-greater-glory",
+        "quantity": 1,
+        "position": 168
+    },
+    {
+        "card_code": "strength-in-numbers",
+        "quantity": 1,
+        "position": 169
+    },
+    {
+        "card_code": "seeker-of-knowledge",
+        "quantity": 1,
+        "position": 171
+    },
+    {
+        "card_code": "pacifism",
+        "quantity": 1,
+        "position": 174
+    },
+    {
+        "card_code": "i-can-swim",
+        "quantity": 1,
+        "position": 187
+    },
+    {
+        "card_code": "blackmail",
+        "quantity": 1,
+        "position": 189
+    },
+    {
+        "card_code": "way-of-the-unicorn",
+        "quantity": 1,
+        "position": 198
+    },
+    {
+        "card_code": "fine-katana",
+        "quantity": 1,
+        "position": 200
+    },
+    {
+        "card_code": "cloud-the-mind",
+        "quantity": 1,
+        "position": 202
+    },
+    {
+        "card_code": "banzai",
+        "quantity": 1,
+        "position": 204
+    },
+    {
+        "card_code": "for-shame",
+        "quantity": 1,
+        "position": 207
+    },
+    {
+        "card_code": "spies-at-court",
+        "quantity": 1,
+        "position": 209
+    },
+    {
+        "card_code": "fallen-in-battle",
+        "quantity": 1,
+        "position": 211
+    }
+]

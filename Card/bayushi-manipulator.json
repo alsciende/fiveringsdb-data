@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "scorpion",
+        "code": "bayushi-manipulator",
+        "cost": 1,
+        "element_code": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "illustrator": "Polar Engine",
+        "influence": null,
+        "influence_cost": null,
+        "is_conflict": false,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": "Courtier.",
+        "military_strength": "1",
+        "military_strength_mod": null,
+        "name": "Bayushi Manipulator",
+        "political_strength": "1",
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "<b>Reaction:<\/b> After honor dials are revealed – increase the value of your bid by 1.",
+        "type_code": "character"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "crab",
+        "code": "borderlands-fortifications",
+        "cost": null,
+        "element_code": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "illustrator": "Noah Bradley",
+        "influence": null,
+        "influence_cost": null,
+        "is_conflict": false,
+        "is_destiny": false,
+        "is_unique": false,
+        "keywords": "Battlefield.",
+        "military_strength": null,
+        "military_strength_mod": null,
+        "name": "Borderlands Fortifications",
+        "political_strength": null,
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "text": "<b>Action:<\/b> Choose a card in one of your provinces – switch this holding with that card.",
+        "type_code": "holding"
+    }
+]
