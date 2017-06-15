@@ -8,10 +8,8 @@
         "glory": 1,
         "honor": null,
         "illustrator": "Charles Urbach",
-        "influence": null,
         "influence_cost": null,
-        "is_conflict": false,
-        "is_destiny": false,
+        "influence_pool": null,
         "is_unique": false,
         "keywords": "Bushi. Cavalry.",
         "military_strength": "2",
@@ -21,6 +19,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
+        "side": "dynasty",
         "text": "<b>Action:<\/b> Ready this character.",
         "type_code": "character"
     }

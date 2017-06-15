@@ -8,10 +8,8 @@
         "glory": 1,
         "honor": null,
         "illustrator": "Bob Stevlic",
-        "influence": null,
         "influence_cost": null,
-        "is_conflict": false,
-        "is_destiny": false,
+        "influence_pool": null,
         "is_unique": false,
         "keywords": "Bushi.",
         "military_strength": "1",
@@ -21,6 +19,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
+        "side": "dynasty",
         "text": "Forced <b>Reaction:<\/b> After the fate phase begins, if you have at least 5 more honor than an opponent – this character cannot be discarded or lose fate this phase.",
         "type_code": "character"
     }

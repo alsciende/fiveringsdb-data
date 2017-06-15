@@ -8,10 +8,8 @@
         "glory": 2,
         "honor": null,
         "illustrator": "Polar Engine",
-        "influence": null,
         "influence_cost": null,
-        "is_conflict": false,
-        "is_destiny": false,
+        "influence_pool": null,
         "is_unique": true,
         "keywords": "Shugenja. Fire.",
         "military_strength": "3",
@@ -21,6 +19,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
+        "side": "dynasty",
         "text": "<b>Action:<\/b> During a [element-fire] conflict, bow this character, choose a participating character with printed cost 2 or lower – discard that character.",
         "type_code": "character"
     }

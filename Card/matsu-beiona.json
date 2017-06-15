@@ -8,10 +8,8 @@
         "glory": 2,
         "honor": null,
         "illustrator": "Cassandre Bolan",
-        "influence": null,
         "influence_cost": null,
-        "is_conflict": false,
-        "is_destiny": false,
+        "influence_pool": null,
         "is_unique": true,
         "keywords": "Bushi.",
         "military_strength": "3",
@@ -21,6 +19,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
+        "side": "dynasty",
         "text": "<b>Reaction:<\/b> After this character enters play, if you control 3 or more other <i>Bushi<\/i> characters – place 2 fate on this character.",
         "type_code": "character"
     }

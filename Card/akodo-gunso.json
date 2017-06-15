@@ -8,10 +8,8 @@
         "glory": 2,
         "honor": null,
         "illustrator": "Polar Engine",
-        "influence": null,
         "influence_cost": null,
-        "is_conflict": false,
-        "is_destiny": false,
+        "influence_pool": null,
         "is_unique": false,
         "keywords": "Bushi.",
         "military_strength": "2",
@@ -21,6 +19,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
+        "side": "dynasty",
         "text": "Pride. (After this character wins a conflict, honor it. After this character loses a conflict, dishonor it.)\n<b>Reaction:<\/b> After this character enters play from a province – refill that province faceup.",
         "type_code": "character"
     }

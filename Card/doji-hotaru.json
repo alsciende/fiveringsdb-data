@@ -8,10 +8,8 @@
         "glory": 3,
         "honor": null,
         "illustrator": "Shawn Ignatius Tan",
-        "influence": null,
         "influence_cost": null,
-        "is_conflict": false,
-        "is_destiny": false,
+        "influence_pool": null,
         "is_unique": true,
         "keywords": "Bushi. Champion.",
         "military_strength": "3",
@@ -21,6 +19,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
+        "side": "dynasty",
         "text": "<b>Reaction:<\/b> After you claim a ring during a [conflict-political] conflict in which this character is participating – resolve that ring's effect.",
         "type_code": "character"
     }

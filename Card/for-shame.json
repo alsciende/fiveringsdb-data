@@ -8,10 +8,8 @@
         "glory": null,
         "honor": null,
         "illustrator": "Shen Fei",
-        "influence": null,
-        "influence_cost": null,
-        "is_conflict": true,
-        "is_destiny": false,
+        "influence_cost": 0,
+        "influence_pool": null,
         "is_unique": false,
         "keywords": null,
         "military_strength": null,
@@ -21,6 +19,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
+        "side": "conflict",
         "text": "<b>Action:<\/b> During a conflict, if you control a participating <i>Courtier<\/i> character, choose a participating character controlled by your opponent, your opponent must select one – dishonor that character or bow it.",
         "type_code": "event"
     }

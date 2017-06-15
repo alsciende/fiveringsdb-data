@@ -8,10 +8,8 @@
         "glory": null,
         "honor": null,
         "illustrator": "Polar Engine",
-        "influence": null,
         "influence_cost": 2,
-        "is_conflict": true,
-        "is_destiny": false,
+        "influence_pool": null,
         "is_unique": false,
         "keywords": null,
         "military_strength": null,
@@ -21,6 +19,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
+        "side": "conflict",
         "text": "<b>Interrupt:<\/b> When the effects of an event would initiate, if you control more honored characters than an opponent – cancel those effects.",
         "type_code": "event"
     }

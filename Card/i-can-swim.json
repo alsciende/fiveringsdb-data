@@ -8,10 +8,8 @@
         "glory": null,
         "honor": null,
         "illustrator": "Scott Wade",
-        "influence": null,
         "influence_cost": 1,
-        "is_conflict": true,
-        "is_destiny": false,
+        "influence_pool": null,
         "is_unique": false,
         "keywords": "Philosophy.",
         "military_strength": null,
@@ -21,6 +19,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
+        "side": "conflict",
         "text": "<b>Action:<\/b> During a conflict, if the bid on your honor dial is higher than an opponent's, choose a participating dishonored character controlled by that opponent – discard that character.",
         "type_code": "event"
     }

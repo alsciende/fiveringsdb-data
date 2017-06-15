@@ -8,10 +8,8 @@
         "glory": null,
         "honor": null,
         "illustrator": "Matt Zeilinger",
-        "influence": null,
         "influence_cost": 1,
-        "is_conflict": true,
-        "is_destiny": false,
+        "influence_pool": null,
         "is_unique": false,
         "keywords": "Condition.",
         "military_strength": null,
@@ -21,6 +19,7 @@
         "political_strength_mod": "+1",
         "province_strength": null,
         "province_strength_mod": null,
+        "side": "conflict",
         "text": "<b>Action:<\/b> Play this attachment from your conflict discard pile.",
         "type_code": "attachment"
     }

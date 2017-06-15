@@ -8,10 +8,8 @@
         "glory": 1,
         "honor": null,
         "illustrator": "Wen Juinn",
-        "influence": null,
         "influence_cost": null,
-        "is_conflict": false,
-        "is_destiny": false,
+        "influence_pool": null,
         "is_unique": false,
         "keywords": "Courtier.",
         "military_strength": "1",
@@ -21,6 +19,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
+        "side": "dynasty",
         "text": "While this character is participating in a conflict, opponents cannot play events.",
         "type_code": "character"
     }

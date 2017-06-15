@@ -8,10 +8,8 @@
         "glory": 0,
         "honor": null,
         "illustrator": "Darren Tan",
-        "influence": null,
         "influence_cost": 2,
-        "is_conflict": true,
-        "is_destiny": false,
+        "influence_pool": null,
         "is_unique": false,
         "keywords": "Bushi.",
         "military_strength": "2",
@@ -21,6 +19,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
+        "side": "conflict",
         "text": "<b>Reaction:<\/b> After you lose a [conflict-military] conflict – put this character into play from your hand.",
         "type_code": "character"
     }

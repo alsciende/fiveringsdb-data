@@ -8,10 +8,8 @@
         "glory": 0,
         "honor": null,
         "illustrator": "Alayna Lemmer",
-        "influence": null,
         "influence_cost": 1,
-        "is_conflict": true,
-        "is_destiny": false,
+        "influence_pool": null,
         "is_unique": false,
         "keywords": "Courtier. Scholar.",
         "military_strength": "1",
@@ -21,6 +19,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
+        "side": "conflict",
         "text": "While this character is participating in a conflict, characters cannot become dishonored.",
         "type_code": "character"
     }

@@ -8,10 +8,8 @@
         "glory": null,
         "honor": null,
         "illustrator": "Scott Wade",
-        "influence": null,
         "influence_cost": null,
-        "is_conflict": true,
-        "is_destiny": false,
+        "influence_pool": null,
         "is_unique": false,
         "keywords": "Philosophy.",
         "military_strength": null,
@@ -21,6 +19,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
+        "side": "conflict",
         "text": "<b>Interrupt:<\/b> When you would pass the first player token – keep it instead.",
         "type_code": "event"
     }

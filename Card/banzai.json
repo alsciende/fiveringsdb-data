@@ -8,10 +8,8 @@
         "glory": null,
         "honor": null,
         "illustrator": "Troy Graham",
-        "influence": null,
-        "influence_cost": null,
-        "is_conflict": true,
-        "is_destiny": false,
+        "influence_cost": 0,
+        "influence_pool": null,
         "is_unique": false,
         "keywords": null,
         "military_strength": null,
@@ -21,6 +19,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
+        "side": "conflict",
         "text": "<b>Action:<\/b> During a conflict, choose a participating character – that character gets +2[conflict-military] until the end of the conflict. You may lose 1 honor to resolve this ability twice. (Max 1 per conflict.)",
         "type_code": "event"
     }

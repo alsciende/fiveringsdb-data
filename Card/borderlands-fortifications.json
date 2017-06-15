@@ -8,10 +8,8 @@
         "glory": null,
         "honor": null,
         "illustrator": "Noah Bradley",
-        "influence": null,
         "influence_cost": null,
-        "is_conflict": false,
-        "is_destiny": false,
+        "influence_pool": null,
         "is_unique": false,
         "keywords": "Battlefield.",
         "military_strength": null,
@@ -21,6 +19,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": "+2",
+        "side": "dynasty",
         "text": "<b>Action:<\/b> Choose a card in one of your provinces – switch this holding with that card.",
         "type_code": "holding"
     }

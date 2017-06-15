@@ -8,10 +8,8 @@
         "glory": null,
         "honor": null,
         "illustrator": "Charles Urbach",
-        "influence": null,
         "influence_cost": 1,
-        "is_conflict": true,
-        "is_destiny": false,
+        "influence_pool": null,
         "is_unique": false,
         "keywords": "Technique.",
         "military_strength": null,
@@ -21,6 +19,7 @@
         "political_strength_mod": "+0",
         "province_strength": null,
         "province_strength_mod": null,
+        "side": "conflict",
         "text": "Attached character gains: \"<b>Action:<\/b> While this character is participating in a conflict, choose a participating character controlled by your opponent – challenge that character to a [conflict-military] duel. Instead of giving honor for this duel's bid, a player may choose and discard the required number of cards from hand. Bow the loser of the duel.\"",
         "type_code": "attachment"
     }

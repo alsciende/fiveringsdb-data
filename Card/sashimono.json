@@ -8,10 +8,8 @@
         "glory": null,
         "honor": null,
         "illustrator": "Immar Palomera",
-        "influence": null,
         "influence_cost": 2,
-        "is_conflict": true,
-        "is_destiny": false,
+        "influence_pool": null,
         "is_unique": false,
         "keywords": "Item. Banner.",
         "military_strength": null,
@@ -21,6 +19,7 @@
         "political_strength_mod": "+0",
         "province_strength": null,
         "province_strength_mod": null,
+        "side": "conflict",
         "text": "Attach to a <i>Bushi<\/i> character you control.\nAttached character does not bow as a result of conflict resolution during [conflict-military] conflicts.",
         "type_code": "attachment"
     }

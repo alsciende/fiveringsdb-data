@@ -8,10 +8,8 @@
         "glory": 1,
         "honor": null,
         "illustrator": "Jim Pavelec",
-        "influence": null,
         "influence_cost": 1,
-        "is_conflict": true,
-        "is_destiny": false,
+        "influence_pool": null,
         "is_unique": false,
         "keywords": "Courtier. Shugenja. Air.",
         "military_strength": "0",
@@ -21,6 +19,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
+        "side": "conflict",
         "text": "While this character is attacking, the contested ring gains the [element-air] element. If this character wins the conflict as an attacker, you may choose which of its ring effects to resolve.",
         "type_code": "character"
     }

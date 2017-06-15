@@ -8,10 +8,8 @@
         "glory": 1,
         "honor": null,
         "illustrator": "Polar Engine",
-        "influence": null,
         "influence_cost": null,
-        "is_conflict": false,
-        "is_destiny": false,
+        "influence_pool": null,
         "is_unique": true,
         "keywords": "Bushi. Scout.",
         "military_strength": "3",
@@ -21,6 +19,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
+        "side": "dynasty",
         "text": "<b>Action:<\/b> Choose a facedown card in one of your provinces – turn that card faceup.",
         "type_code": "character"
     }

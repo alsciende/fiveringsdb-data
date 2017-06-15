@@ -8,10 +8,8 @@
         "glory": null,
         "honor": null,
         "illustrator": "Eli Ring",
-        "influence": null,
         "influence_cost": null,
-        "is_conflict": false,
-        "is_destiny": false,
+        "influence_pool": null,
         "is_unique": false,
         "keywords": null,
         "military_strength": null,
@@ -21,6 +19,7 @@
         "political_strength_mod": null,
         "province_strength": 3,
         "province_strength_mod": null,
+        "side": null,
         "text": "<b>Interrupt:<\/b> When this province is broken – draw 3 cards.",
         "type_code": "province"
     }

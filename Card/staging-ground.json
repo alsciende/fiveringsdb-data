@@ -8,10 +8,8 @@
         "glory": null,
         "honor": null,
         "illustrator": "Shen Fei",
-        "influence": null,
         "influence_cost": null,
-        "is_conflict": false,
-        "is_destiny": false,
+        "influence_pool": null,
         "is_unique": false,
         "keywords": "Battlefield.",
         "military_strength": null,
@@ -21,6 +19,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": "+1",
+        "side": "dynasty",
         "text": "<b>Action:<\/b> Choose up to 2 facedown cards in your provinces – turn the chosen cards faceup.",
         "type_code": "holding"
     }

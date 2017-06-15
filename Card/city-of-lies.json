@@ -8,10 +8,8 @@
         "glory": null,
         "honor": null,
         "illustrator": "Chris Ostrowski",
-        "influence": null,
         "influence_cost": null,
-        "is_conflict": false,
-        "is_destiny": false,
+        "influence_pool": null,
         "is_unique": false,
         "keywords": "City.",
         "military_strength": null,
@@ -21,6 +19,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": "+1",
+        "side": "dynasty",
         "text": "<b>Action:<\/b> Reduce the cost of the next event you play this phase by 1.",
         "type_code": "holding"
     }

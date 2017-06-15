@@ -8,10 +8,8 @@
         "glory": 2,
         "honor": null,
         "illustrator": "Diego Gisbert Llorens",
-        "influence": null,
         "influence_cost": null,
-        "is_conflict": false,
-        "is_destiny": false,
+        "influence_pool": null,
         "is_unique": true,
         "keywords": "Bushi. Duelist. Kenshinzen.",
         "military_strength": "3",
@@ -21,6 +19,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
+        "side": "dynasty",
         "text": "<b>Action:<\/b> While this character is participating in a conflict, your opponent must choose a participating character he or she controls – challenge that character to a [conflict-military] duel. If this character wins, move each character not involved in the duel home. If it loses, send it home.",
         "type_code": "character"
     }

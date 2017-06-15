@@ -8,10 +8,8 @@
         "glory": 1,
         "honor": null,
         "illustrator": "Jake Murray",
-        "influence": null,
         "influence_cost": null,
-        "is_conflict": false,
-        "is_destiny": false,
+        "influence_pool": null,
         "is_unique": false,
         "keywords": "Courtier. Imperial.",
         "military_strength": null,
@@ -21,6 +19,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
+        "side": "dynasty",
         "text": "This character cannot participate in conflicts as an attacker against a player that controls the Imperial Favor.",
         "type_code": "character"
     }

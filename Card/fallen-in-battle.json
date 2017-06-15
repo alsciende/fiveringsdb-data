@@ -8,10 +8,8 @@
         "glory": null,
         "honor": null,
         "illustrator": "Chris Pritchard",
-        "influence": null,
-        "influence_cost": null,
-        "is_conflict": true,
-        "is_destiny": false,
+        "influence_cost": 0,
+        "influence_pool": null,
         "is_unique": false,
         "keywords": null,
         "military_strength": null,
@@ -21,6 +19,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
+        "side": "conflict",
         "text": "<b>Reaction:<\/b> After you win a [conflict-military] conflict by 5 or more skill, choose a participating character – discard that character. (Max 1 per conflict.)",
         "type_code": "event"
     }

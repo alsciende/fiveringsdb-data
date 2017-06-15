@@ -8,10 +8,8 @@
         "glory": null,
         "honor": null,
         "illustrator": "Veronica V. Jones",
-        "influence": null,
-        "influence_cost": null,
-        "is_conflict": true,
-        "is_destiny": false,
+        "influence_cost": 0,
+        "influence_pool": null,
         "is_unique": false,
         "keywords": "Spell. Air.",
         "military_strength": null,
@@ -21,6 +19,7 @@
         "political_strength_mod": "+0",
         "province_strength": null,
         "province_strength_mod": null,
+        "side": "conflict",
         "text": "Play only if you control a <i>Shugenja<\/i> character.\nTreat attached character as if its printed text box were blank (except for <i>Traits<\/i>).",
         "type_code": "attachment"
     }

@@ -8,10 +8,8 @@
         "glory": 0,
         "honor": null,
         "illustrator": "Kim Sokol",
-        "influence": null,
         "influence_cost": null,
-        "is_conflict": false,
-        "is_destiny": false,
+        "influence_pool": null,
         "is_unique": false,
         "keywords": "Bushi. Ronin.",
         "military_strength": "2",
@@ -21,6 +19,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
+        "side": "dynasty",
         "text": "<b>Action:<\/b> During a conflict, remove 1 fate from this character – it gets +2[conflict-military] and +2[conflict-political] until the end of the conflict. (Limit twice per conflict.)",
         "type_code": "character"
     }

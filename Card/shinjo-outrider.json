@@ -8,10 +8,8 @@
         "glory": 2,
         "honor": null,
         "illustrator": "Kevin Zamir Goeke",
-        "influence": null,
         "influence_cost": null,
-        "is_conflict": false,
-        "is_destiny": false,
+        "influence_pool": null,
         "is_unique": false,
         "keywords": "Bushi. Cavalry. Scout.",
         "military_strength": "2",
@@ -21,6 +19,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
+        "side": "dynasty",
         "text": "<b>Action:<\/b> During a conflict – move this character to the conflict.",
         "type_code": "character"
     }
