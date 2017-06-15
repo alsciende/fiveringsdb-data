@@ -20,7 +20,7 @@
         "political_strength": null,
         "political_strength_mod": null,
         "province_strength": null,
-        "province_strength_mod": null,
+        "province_strength_mod": "+2",
         "text": "<b>Action:<\/b> Choose a card in one of your provinces – switch this holding with that card.",
         "type_code": "holding"
     }

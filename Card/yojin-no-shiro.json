@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "lion",
+        "code": "yojin-no-shiro",
+        "cost": null,
+        "element_code": null,
+        "fate": 7,
+        "glory": null,
+        "honor": 12,
+        "illustrator": "Chris Ostrowski",
+        "influence": 10,
+        "influence_cost": null,
+        "is_conflict": false,
+        "is_destiny": false,
+        "is_unique": true,
+        "keywords": "Castle.",
+        "military_strength": null,
+        "military_strength_mod": null,
+        "name": "Yōjin no Shiro",
+        "political_strength": null,
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": "+2",
+        "text": "<b>Action:<\/b> During a conflict, bow this stronghold – each attacking character you control gets +1[conflict-military] until the end of the conflict.",
+        "type_code": "stronghold"
+    }
+]

@@ -12,7 +12,7 @@
         "influence_cost": null,
         "is_conflict": false,
         "is_destiny": false,
-        "is_unique": true,
+        "is_unique": false,
         "keywords": null,
         "military_strength": null,
         "military_strength_mod": null,
