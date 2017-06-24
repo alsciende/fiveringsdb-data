@@ -1,5 +1,10 @@
 [
     {
+        "card_code": "shizuka-toshi",
+        "quantity": 1,
+        "position": 2
+    },
+    {
         "card_code": "yojin-no-shiro",
         "quantity": 1,
         "position": 4
