@@ -3,6 +3,7 @@
         "clan_code": "scorpion",
         "code": "city-of-lies",
         "cost": null,
+        "deck_limit": 3,
         "element_code": null,
         "fate": null,
         "glory": null,
@@ -19,7 +20,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": "+1",
-        "side": "dynasty",
+        "side_code": "dynasty",
         "text": "<b>Action:<\/b> Reduce the cost of the next event you play this phase by 1.",
         "type_code": "holding"
     }

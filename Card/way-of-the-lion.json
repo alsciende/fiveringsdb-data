@@ -3,6 +3,7 @@
         "clan_code": "lion",
         "code": "way-of-the-lion",
         "cost": 0,
+        "deck_limit": 3,
         "element_code": null,
         "fate": null,
         "glory": null,
@@ -19,7 +20,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
-        "side": "conflict",
+        "side_code": "conflict",
         "text": "<b>Action:<\/b> During a conflict, choose a [clan-lion] character – double that character's base [conflict-military] skill until the end of the conflict.",
         "type_code": "event"
     }

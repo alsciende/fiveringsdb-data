@@ -3,6 +3,7 @@
         "clan_code": "phoenix",
         "code": "seeker-of-knowledge",
         "cost": 2,
+        "deck_limit": 3,
         "element_code": null,
         "fate": null,
         "glory": 1,
@@ -19,7 +20,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
-        "side": "conflict",
+        "side_code": "conflict",
         "text": "While this character is attacking, the contested ring gains the [element-air] element. If this character wins the conflict as an attacker, you may choose which of its ring effects to resolve.",
         "type_code": "character"
     }

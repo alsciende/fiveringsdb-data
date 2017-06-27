@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "dragon",
+        "code": "mountain-s-anvil-castle",
+        "cost": null,
+        "deck_limit": 1,
+        "element_code": null,
+        "fate": 7,
+        "glory": null,
+        "honor": 11,
+        "illustrator": "Alayna Lemmer",
+        "influence_cost": null,
+        "influence_pool": 10,
+        "is_unique": true,
+        "keywords": "Castle.",
+        "military_strength": null,
+        "military_strength_mod": null,
+        "name": "Mountain's Anvil Castle",
+        "political_strength": null,
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": "+2",
+        "side_code": null,
+        "text": "<b>Action:<\/b> During a conflict, bow this stronghold, choose a participating character – that character gets +X[conflict-military] and +X[conflict-political] until the end of the conflict. X is equal to the number of attachments on that character. (To a maximum of +3[conflict-military] and +3[conflict-political].)",
+        "type_code": "stronghold"
+    }
+]

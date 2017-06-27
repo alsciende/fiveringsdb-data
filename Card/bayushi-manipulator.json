@@ -3,6 +3,7 @@
         "clan_code": "scorpion",
         "code": "bayushi-manipulator",
         "cost": 1,
+        "deck_limit": 3,
         "element_code": null,
         "fate": null,
         "glory": 1,
@@ -19,7 +20,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
-        "side": "dynasty",
+        "side_code": "dynasty",
         "text": "<b>Reaction:<\/b> After honor dials are revealed – increase the value of your bid by 1.",
         "type_code": "character"
     }

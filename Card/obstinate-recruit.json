@@ -3,6 +3,7 @@
         "clan_code": "lion",
         "code": "obstinate-recruit",
         "cost": 0,
+        "deck_limit": 3,
         "element_code": null,
         "fate": null,
         "glory": 0,
@@ -19,7 +20,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
-        "side": "dynasty",
+        "side_code": "dynasty",
         "text": "If an opponent is more honorable than you, discard this character.",
         "type_code": "character"
     }

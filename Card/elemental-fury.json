@@ -3,6 +3,7 @@
         "clan_code": "neutral",
         "code": "elemental-fury",
         "cost": null,
+        "deck_limit": 1,
         "element_code": "water",
         "fate": null,
         "glory": null,
@@ -19,7 +20,7 @@
         "political_strength_mod": null,
         "province_strength": 4,
         "province_strength_mod": null,
-        "side": null,
+        "side_code": null,
         "text": "<b>Reaction:<\/b> After this province is revealed – switch the contested ring with an unclaimed ring. (The conflict retains its type.)",
         "type_code": "province"
     }

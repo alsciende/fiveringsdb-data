@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "crane",
+        "code": "noble-sacrifice",
+        "cost": 1,
+        "deck_limit": 3,
+        "element_code": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "illustrator": "Eli Ring",
+        "influence_cost": 2,
+        "influence_pool": null,
+        "is_unique": false,
+        "keywords": null,
+        "military_strength": null,
+        "military_strength_mod": null,
+        "name": "Noble Sacrifice",
+        "political_strength": null,
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "side_code": "conflict",
+        "text": "<b>Action:<\/b> Sacrifice an honored character, choose a dishonored character – discard that character.",
+        "type_code": "event"
+    }
+]

@@ -3,6 +3,7 @@
         "clan_code": "lion",
         "code": "stand-your-ground",
         "cost": 0,
+        "deck_limit": 3,
         "element_code": null,
         "fate": null,
         "glory": null,
@@ -19,7 +20,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
-        "side": "conflict",
+        "side_code": "conflict",
         "text": "<b>Interrupt:<\/b> When an honored character you control would leave play – instead discard that character's status token.",
         "type_code": "event"
     }

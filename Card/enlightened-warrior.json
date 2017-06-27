@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "dragon",
+        "code": "enlightened-warrior",
+        "cost": 3,
+        "deck_limit": 3,
+        "element_code": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "illustrator": "Carlos Nuñez de Castro Torres",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_unique": false,
+        "keywords": "Bushi.",
+        "military_strength": "2",
+        "military_strength_mod": null,
+        "name": "Enlightened Warrior",
+        "political_strength": "2",
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "side_code": "dynasty",
+        "text": "<b>Reaction:<\/b> After an opponent selects a ring with fate on it – place 1 fate on this character.",
+        "type_code": "character"
+    }
+]

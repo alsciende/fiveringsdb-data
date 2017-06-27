@@ -3,6 +3,7 @@
         "clan_code": "crane",
         "code": "savvy-politician",
         "cost": 2,
+        "deck_limit": 3,
         "element_code": null,
         "fate": null,
         "glory": 1,
@@ -19,7 +20,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
-        "side": "dynasty",
+        "side_code": "dynasty",
         "text": "<b>Reaction:<\/b> After this character is honored, choose a character – honor that character.",
         "type_code": "character"
     }

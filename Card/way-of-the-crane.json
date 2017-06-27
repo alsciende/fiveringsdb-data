@@ -3,6 +3,7 @@
         "clan_code": "crane",
         "code": "way-of-the-crane",
         "cost": 0,
+        "deck_limit": 3,
         "element_code": null,
         "fate": null,
         "glory": null,
@@ -19,7 +20,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
-        "side": "conflict",
+        "side_code": "conflict",
         "text": "<b>Action:<\/b> Choose a [clan-crane] character you control – honor that character.",
         "type_code": "event"
     }

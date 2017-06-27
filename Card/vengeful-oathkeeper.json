@@ -3,6 +3,7 @@
         "clan_code": "lion",
         "code": "vengeful-oathkeeper",
         "cost": 2,
+        "deck_limit": 3,
         "element_code": null,
         "fate": null,
         "glory": 0,
@@ -19,7 +20,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
-        "side": "conflict",
+        "side_code": "conflict",
         "text": "<b>Reaction:<\/b> After you lose a [conflict-military] conflict – put this character into play from your hand.",
         "type_code": "character"
     }

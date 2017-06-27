@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "dragon",
+        "code": "restoration-of-balance",
+        "cost": null,
+        "deck_limit": 1,
+        "element_code": "fire",
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "illustrator": "Anna Christenson",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_unique": false,
+        "keywords": null,
+        "military_strength": null,
+        "military_strength_mod": null,
+        "name": "Restoration of Balance",
+        "political_strength": null,
+        "political_strength_mod": null,
+        "province_strength": 3,
+        "province_strength_mod": null,
+        "side_code": null,
+        "text": "<b>Reaction:<\/b> After this province is revealed – your opponent chooses and discards cards from his or her hand until that player has 4 or fewer cards in hand.",
+        "type_code": "province"
+    }
+]

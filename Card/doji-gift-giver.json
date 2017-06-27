@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "crane",
+        "code": "doji-gift-giver",
+        "cost": 2,
+        "deck_limit": 3,
+        "element_code": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "illustrator": "Lukas Banas",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_unique": false,
+        "keywords": "Courtier.",
+        "military_strength": "0",
+        "military_strength_mod": null,
+        "name": "Doji Gift Giver",
+        "political_strength": "2",
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "side_code": "dynasty",
+        "text": "<b>Action:<\/b> While this character is participating in a conflict, give your opponent 1 fate, that opponent must choose a ready participating character he or she controls – bow that character.",
+        "type_code": "character"
+    }
+]

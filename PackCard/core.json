@@ -5,6 +5,11 @@
         "position": 2
     },
     {
+        "card_code": "mountain-s-anvil-castle",
+        "quantity": 1,
+        "position": 3
+    },
+    {
         "card_code": "yojin-no-shiro",
         "quantity": 1,
         "position": 4
@@ -13,6 +18,11 @@
         "card_code": "the-art-of-peace",
         "quantity": 1,
         "position": 9
+    },
+    {
+        "card_code": "restoration-of-balance",
+        "quantity": 1,
+        "position": 10
     },
     {
         "card_code": "the-art-of-war",
@@ -33,6 +43,11 @@
         "card_code": "borderlands-fortifications",
         "quantity": 1,
         "position": 38
+    },
+    {
+        "card_code": "doji-gift-giver",
+        "quantity": 1,
+        "position": 44
     },
     {
         "card_code": "savvy-politician",
@@ -70,6 +85,11 @@
         "position": 52
     },
     {
+        "card_code": "artisan-academy",
+        "quantity": 1,
+        "position": 53
+    },
+    {
         "card_code": "togashi-initiate",
         "quantity": 1,
         "position": 55
@@ -80,9 +100,49 @@
         "position": 56
     },
     {
+        "card_code": "niten-adept",
+        "quantity": 1,
+        "position": 58
+    },
+    {
         "card_code": "seeker-of-enlightenment",
         "quantity": 1,
         "position": 59
+    },
+    {
+        "card_code": "enlightened-warrior",
+        "quantity": 1,
+        "position": 60
+    },
+    {
+        "card_code": "kitsuki-investigator",
+        "quantity": 1,
+        "position": 61
+    },
+    {
+        "card_code": "mirumoto-raitsugu",
+        "quantity": 1,
+        "position": 62
+    },
+    {
+        "card_code": "ascetic-visionary",
+        "quantity": 1,
+        "position": 63
+    },
+    {
+        "card_code": "niten-master",
+        "quantity": 1,
+        "position": 64
+    },
+    {
+        "card_code": "togashi-yokuni",
+        "quantity": 1,
+        "position": 65
+    },
+    {
+        "card_code": "secluded-temple",
+        "quantity": 1,
+        "position": 66
     },
     {
         "card_code": "obstinate-recruit",
@@ -103,6 +163,11 @@
         "card_code": "akodo-gunso",
         "quantity": 1,
         "position": 71
+    },
+    {
+        "card_code": "deathseeker",
+        "quantity": 1,
+        "position": 72
     },
     {
         "card_code": "kitsu-spiritcaller",
@@ -215,6 +280,11 @@
         "position": 143
     },
     {
+        "card_code": "the-perfect-gift",
+        "quantity": 1,
+        "position": 144
+    },
+    {
         "card_code": "voice-of-honor",
         "quantity": 1,
         "position": 145
@@ -230,9 +300,49 @@
         "position": 147
     },
     {
+        "card_code": "noble-sacrifice",
+        "quantity": 1,
+        "position": 148
+    },
+    {
+        "card_code": "tattooed-wanderer",
+        "quantity": 1,
+        "position": 149
+    },
+    {
+        "card_code": "togashi-kazue",
+        "quantity": 1,
+        "position": 150
+    },
+    {
         "card_code": "ancestral-daisho",
         "quantity": 1,
         "position": 151
+    },
+    {
+        "card_code": "kitsuki-s-method",
+        "quantity": 1,
+        "position": 153
+    },
+    {
+        "card_code": "way-of-the-dragon",
+        "quantity": 1,
+        "position": 154
+    },
+    {
+        "card_code": "mantra-of-fire",
+        "quantity": 1,
+        "position": 156
+    },
+    {
+        "card_code": "indomitable-will",
+        "quantity": 1,
+        "position": 158
+    },
+    {
+        "card_code": "mirumoto-s-fury",
+        "quantity": 1,
+        "position": 159
     },
     {
         "card_code": "vengeful-oathkeeper",
@@ -248,6 +358,11 @@
         "card_code": "sashimono",
         "quantity": 1,
         "position": 164
+    },
+    {
+        "card_code": "ready-for-battle",
+        "quantity": 1,
+        "position": 165
     },
     {
         "card_code": "stand-your-ground",
@@ -278,6 +393,11 @@
         "card_code": "pacifism",
         "quantity": 1,
         "position": 174
+    },
+    {
+        "card_code": "know-the-world",
+        "quantity": 1,
+        "position": 178
     },
     {
         "card_code": "i-can-swim",
@@ -313,6 +433,11 @@
         "card_code": "for-shame",
         "quantity": 1,
         "position": 207
+    },
+    {
+        "card_code": "good-omen",
+        "quantity": 1,
+        "position": 208
     },
     {
         "card_code": "spies-at-court",

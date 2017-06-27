@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "neutral",
+        "code": "good-omen",
+        "cost": 0,
+        "deck_limit": 3,
+        "element_code": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "illustrator": "Eli Ring",
+        "influence_cost": 0,
+        "influence_pool": null,
+        "is_unique": false,
+        "keywords": null,
+        "military_strength": null,
+        "military_strength_mod": null,
+        "name": "Good Omen",
+        "political_strength": null,
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "side_code": "conflict",
+        "text": "Play only if your honor bid is lower than an opponent's.\n<b>Action:<\/b> Choose a character with printed cost 3 or higher – place 1 fate on that character.",
+        "type_code": "event"
+    }
+]

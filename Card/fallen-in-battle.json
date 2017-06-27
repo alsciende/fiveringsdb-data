@@ -3,6 +3,7 @@
         "clan_code": "neutral",
         "code": "fallen-in-battle",
         "cost": 1,
+        "deck_limit": 3,
         "element_code": null,
         "fate": null,
         "glory": null,
@@ -19,7 +20,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
-        "side": "conflict",
+        "side_code": "conflict",
         "text": "<b>Reaction:<\/b> After you win a [conflict-military] conflict by 5 or more skill, choose a participating character – discard that character. (Max 1 per conflict.)",
         "type_code": "event"
     }

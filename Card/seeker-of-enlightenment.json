@@ -3,6 +3,7 @@
         "clan_code": "dragon",
         "code": "seeker-of-enlightenment",
         "cost": 2,
+        "deck_limit": 3,
         "element_code": null,
         "fate": null,
         "glory": 0,
@@ -19,7 +20,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
-        "side": "dynasty",
+        "side_code": "dynasty",
         "text": "This character gets +1[conflict-military] and +1[conflict-political] for each fate on each unclaimed ring.",
         "type_code": "character"
     }

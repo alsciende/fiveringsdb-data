@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "lion",
+        "code": "deathseeker",
+        "cost": 2,
+        "deck_limit": 3,
+        "element_code": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "illustrator": "Conceptopolis",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_unique": false,
+        "keywords": "Bushi.",
+        "military_strength": "2",
+        "military_strength_mod": null,
+        "name": "Deathseeker",
+        "political_strength": "1",
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "side_code": "dynasty",
+        "text": "<b>Reaction:<\/b> After this character loses a conflict as an attacker, sacrifice this character, choose a character controlled by your opponent – if that character has no fate on it, discard it. Otherwise, remove 1 fate from that character.",
+        "type_code": "character"
+    }
+]

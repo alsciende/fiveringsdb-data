@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "lion",
+        "code": "ready-for-battle",
+        "cost": 0,
+        "deck_limit": 3,
+        "element_code": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "illustrator": "Gemma Tegelaers",
+        "influence_cost": 1,
+        "influence_pool": null,
+        "is_unique": false,
+        "keywords": null,
+        "military_strength": null,
+        "military_strength_mod": null,
+        "name": "Ready for Battle",
+        "political_strength": null,
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "side_code": "conflict",
+        "text": "<b>Reaction:<\/b> After an opponent's card effect or a ring effect bows a character you control – ready that character.",
+        "type_code": "event"
+    }
+]

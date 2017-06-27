@@ -3,6 +3,7 @@
         "clan_code": "dragon",
         "code": "ancestral-daisho",
         "cost": 1,
+        "deck_limit": 3,
         "element_code": null,
         "fate": null,
         "glory": null,
@@ -19,7 +20,7 @@
         "political_strength_mod": "+0",
         "province_strength": null,
         "province_strength_mod": null,
-        "side": "conflict",
+        "side_code": "conflict",
         "text": "Ancestral. (When attached card leaves play, return this card to your hand.)\nRestricted. (No more than two restricted attachments per character.)",
         "type_code": "attachment"
     }

@@ -3,6 +3,7 @@
         "clan_code": "lion",
         "code": "strength-in-numbers",
         "cost": 1,
+        "deck_limit": 3,
         "element_code": null,
         "fate": null,
         "glory": null,
@@ -19,7 +20,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
-        "side": "conflict",
+        "side_code": "conflict",
         "text": "<b>Action:<\/b> While you are the attacking player, choose a defending character with glory X or lower – move that character home. X is equal to the number of attacking characters.",
         "type_code": "event"
     }

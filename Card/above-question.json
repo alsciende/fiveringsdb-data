@@ -3,6 +3,7 @@
         "clan_code": "crane",
         "code": "above-question",
         "cost": 1,
+        "deck_limit": 3,
         "element_code": null,
         "fate": null,
         "glory": null,
@@ -19,7 +20,7 @@
         "political_strength_mod": "+0",
         "province_strength": null,
         "province_strength_mod": null,
-        "side": "conflict",
+        "side_code": "conflict",
         "text": "Attached character cannot be chosen as a target of an opponent's event.",
         "type_code": "attachment"
     }

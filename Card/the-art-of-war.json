@@ -3,6 +3,7 @@
         "clan_code": "lion",
         "code": "the-art-of-war",
         "cost": null,
+        "deck_limit": 1,
         "element_code": "water",
         "fate": null,
         "glory": null,
@@ -19,7 +20,7 @@
         "political_strength_mod": null,
         "province_strength": 3,
         "province_strength_mod": null,
-        "side": null,
+        "side_code": null,
         "text": "<b>Interrupt:<\/b> When this province is broken – draw 3 cards.",
         "type_code": "province"
     }

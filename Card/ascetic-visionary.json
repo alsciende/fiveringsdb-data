@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "dragon",
+        "code": "ascetic-visionary",
+        "cost": 4,
+        "deck_limit": 3,
+        "element_code": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "illustrator": "Conceptopolis",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_unique": false,
+        "keywords": "Monk. Tattooed.",
+        "military_strength": "3",
+        "military_strength_mod": null,
+        "name": "Ascetic Visionary",
+        "political_strength": "4",
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "side_code": "dynasty",
+        "text": "No attachments except <i>Monk<\/i> or <i>Tattoo<\/i>.\n<b>Action:<\/b> While this character is attacking, spend 1 fate to an unclaimed ring, choose a <i>Monk<\/i> character or a character with a <i>Monk<\/i> attachment – ready that character.",
+        "type_code": "character"
+    }
+]

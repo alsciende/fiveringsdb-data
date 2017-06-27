@@ -3,6 +3,7 @@
         "clan_code": "lion",
         "code": "matsu-beiona",
         "cost": 3,
+        "deck_limit": 3,
         "element_code": null,
         "fate": null,
         "glory": 2,
@@ -19,7 +20,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
-        "side": "dynasty",
+        "side_code": "dynasty",
         "text": "<b>Reaction:<\/b> After this character enters play, if you control 3 or more other <i>Bushi<\/i> characters – place 2 fate on this character.",
         "type_code": "character"
     }

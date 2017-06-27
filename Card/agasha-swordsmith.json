@@ -3,6 +3,7 @@
         "clan_code": "dragon",
         "code": "agasha-swordsmith",
         "cost": 2,
+        "deck_limit": 3,
         "element_code": null,
         "fate": null,
         "glory": 1,
@@ -19,7 +20,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
-        "side": "dynasty",
+        "side_code": "dynasty",
         "text": "<b>Action:<\/b> Search the top 5 cards of your conflict deck for an attachment, reveal it, and add it to your hand. Shuffle.",
         "type_code": "character"
     }

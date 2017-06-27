@@ -3,6 +3,7 @@
         "clan_code": "lion",
         "code": "ikoma-eiji",
         "cost": 4,
+        "deck_limit": 3,
         "element_code": null,
         "fate": null,
         "glory": 3,
@@ -19,7 +20,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
-        "side": "dynasty",
+        "side_code": "dynasty",
         "text": "<b>Reaction:<\/b> After you lose a [conflict-political] conflict – put a <i>Bushi<\/i> character with printed cost 3 or lower into play from your dynasty discard pile or provinces.",
         "type_code": "character"
     }

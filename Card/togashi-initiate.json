@@ -3,6 +3,7 @@
         "clan_code": "dragon",
         "code": "togashi-initiate",
         "cost": 1,
+        "deck_limit": 3,
         "element_code": null,
         "fate": null,
         "glory": 2,
@@ -19,7 +20,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
-        "side": "dynasty",
+        "side_code": "dynasty",
         "text": "<b>Action:<\/b> While this character is attacking, spend 1 fate to an unclaimed ring – honor this character.",
         "type_code": "character"
     }

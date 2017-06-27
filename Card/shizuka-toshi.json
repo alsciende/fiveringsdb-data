@@ -3,6 +3,7 @@
         "clan_code": "crane",
         "code": "shizuka-toshi",
         "cost": null,
+        "deck_limit": 1,
         "element_code": null,
         "fate": 7,
         "glory": null,
@@ -19,7 +20,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": "+2",
-        "side": null,
+        "side_code": null,
         "text": "<b>Action:<\/b> During a [conflict-political] conflict, bow this stronghold, choose a participating character with [conflict-political] skill 2 or lower – bow that character.",
         "type_code": "stronghold"
     }

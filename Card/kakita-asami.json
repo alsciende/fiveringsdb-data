@@ -3,6 +3,7 @@
         "clan_code": "crane",
         "code": "kakita-asami",
         "cost": 3,
+        "deck_limit": 3,
         "element_code": null,
         "fate": null,
         "glory": 2,
@@ -19,7 +20,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
-        "side": "dynasty",
+        "side_code": "dynasty",
         "text": "<b>Action:<\/b> While this character is participating in a [conflict-political] conflict, if you count more current [conflict-political] skill in the conflict than your opponent – take 1 honor from that opponent.",
         "type_code": "character"
     }

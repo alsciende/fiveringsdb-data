@@ -3,6 +3,7 @@
         "clan_code": "lion",
         "code": "kitsu-spiritcaller",
         "cost": 3,
+        "deck_limit": 3,
         "element_code": null,
         "fate": null,
         "glory": 2,
@@ -19,7 +20,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
-        "side": "dynasty",
+        "side_code": "dynasty",
         "text": "<b>Action:<\/b> During a conflict, bow this character, choose a character in one of your discard piles – put that character into play in the conflict. If that character is still in play at the end of the conflict, return it to the bottom of its deck.",
         "type_code": "character"
     }

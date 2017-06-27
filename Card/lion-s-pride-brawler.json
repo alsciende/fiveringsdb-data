@@ -3,6 +3,7 @@
         "clan_code": "lion",
         "code": "lion-s-pride-brawler",
         "cost": 3,
+        "deck_limit": 3,
         "element_code": null,
         "fate": null,
         "glory": 1,
@@ -19,7 +20,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
-        "side": "dynasty",
+        "side_code": "dynasty",
         "text": "<b>Action:<\/b> While this character is attacking, choose a character with equal or lower [conflict-military] skill than this character – bow that character.",
         "type_code": "character"
     }

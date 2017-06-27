@@ -3,6 +3,7 @@
         "clan_code": "lion",
         "code": "sashimono",
         "cost": 2,
+        "deck_limit": 3,
         "element_code": null,
         "fate": null,
         "glory": null,
@@ -19,7 +20,7 @@
         "political_strength_mod": "+0",
         "province_strength": null,
         "province_strength_mod": null,
-        "side": "conflict",
+        "side_code": "conflict",
         "text": "Attach to a <i>Bushi<\/i> character you control.\nAttached character does not bow as a result of conflict resolution during [conflict-military] conflicts.",
         "type_code": "attachment"
     }

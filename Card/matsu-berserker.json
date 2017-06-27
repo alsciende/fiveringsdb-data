@@ -3,6 +3,7 @@
         "clan_code": "lion",
         "code": "matsu-berserker",
         "cost": 1,
+        "deck_limit": 3,
         "element_code": null,
         "fate": null,
         "glory": 1,
@@ -19,7 +20,7 @@
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
-        "side": "dynasty",
+        "side_code": "dynasty",
         "text": null,
         "type_code": "character"
     }
