@@ -21,7 +21,7 @@
         "province_strength": null,
         "province_strength_mod": null,
         "side_code": "conflict",
-        "text": "Play only if you are less honorable than your opponent.\n<b>Action:<\/b> During a conflict, choose a character with printed cost 2 or lower controlled by your opponent – take control of that character until the end of the conflict.",
+        "text": "Play only if you are less honorable than your opponent.\n<b>Action:<\/b> During a conflict, choose a character with printed cost 2 or lower – take control of that character until the end of the conflict.",
         "type_code": "event"
     }
 ]

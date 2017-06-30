@@ -21,7 +21,7 @@
         "province_strength": null,
         "province_strength_mod": null,
         "side_code": "dynasty",
-        "text": "<b>Action:<\/b> While this character is participating in a conflict, bow an attachment on it, choose a participating character without attachments – bow that character.",
+        "text": "<b>Action:<\/b> While this character is participating in a conflict, bow a (friendly) attachment on it. Choose a participating character without attachments – bow that character.",
         "type_code": "character"
     }
 ]

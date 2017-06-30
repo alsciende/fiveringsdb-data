@@ -21,7 +21,7 @@
         "province_strength": null,
         "province_strength_mod": null,
         "side_code": "dynasty",
-        "text": "No attachments except <i>Monk<\/i> or <i>Tattoo<\/i>.\n<b>Action:<\/b> While this character is attacking, spend 1 fate to an unclaimed ring, choose a <i>Monk<\/i> character or a character with a <i>Monk<\/i> attachment – ready that character.",
+        "text": "No attachments except <i>Monk<\/i> or <i>Tattoo<\/i>.\n<b>Action:<\/b> While this character is attacking, spend 1 fate to an unclaimed ring. Choose a <i>Monk<\/i> character or a character with a <i>Monk<\/i> attachment – ready that character.",
         "type_code": "character"
     }
 ]

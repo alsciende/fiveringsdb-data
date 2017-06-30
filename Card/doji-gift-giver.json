@@ -21,7 +21,7 @@
         "province_strength": null,
         "province_strength_mod": null,
         "side_code": "dynasty",
-        "text": "<b>Action:<\/b> While this character is participating in a conflict, give your opponent 1 fate, that opponent must choose a ready participating character he or she controls – bow that character.",
+        "text": "<b>Action:<\/b> While this character is participating in a conflict, give your opponent 1 fate. That opponent must choose a ready participating character he or she controls – bow that character.",
         "type_code": "character"
     }
 ]

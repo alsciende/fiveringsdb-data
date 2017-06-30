@@ -21,7 +21,7 @@
         "province_strength": null,
         "province_strength_mod": "+2",
         "side_code": null,
-        "text": "<b>Action:<\/b> During a conflict, bow this stronghold, choose a participating character – that character gets +X[conflict-military] and +X[conflict-political] until the end of the conflict. X is equal to the number of attachments on that character. (To a maximum of +3[conflict-military] and +3[conflict-political].)",
+        "text": "<b>Action:<\/b> During a conflict, bow this stronghold. Choose a participating character with 1 or more attachments on it – until the end of the conflict, that character gets +1[conflict-military] and +1[conflict-political] (+2[conflict-military] and +2[conflict-political] instead if it has 2 or more attachments on it).",
         "type_code": "stronghold"
     }
 ]

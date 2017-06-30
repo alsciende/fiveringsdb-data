@@ -1,27 +1,27 @@
 [
     {
-        "clan_code": "neutral",
-        "code": "for-shame",
+        "clan_code": "dragon",
+        "code": "let-go",
         "cost": 0,
         "deck_limit": 3,
         "element_code": null,
         "fate": null,
         "glory": null,
         "honor": null,
-        "illustrator": "Shen Fei",
-        "influence_cost": 0,
+        "illustrator": "Felipe Gaona",
+        "influence_cost": 2,
         "influence_pool": null,
         "is_unique": false,
         "keywords": null,
         "military_strength": null,
         "military_strength_mod": null,
-        "name": "For Shame!",
+        "name": "Let Go",
         "political_strength": null,
         "political_strength_mod": null,
         "province_strength": null,
         "province_strength_mod": null,
         "side_code": "conflict",
-        "text": "<b>Action:<\/b> During a conflict, if you control a participating <i>Courtier<\/i> character, choose a participating character controlled by your opponent. Your opponent must select one – dishonor that character or bow it.",
+        "text": "<b>Action:<\/b> Choose an attachment – discard it.",
         "type_code": "event"
     }
 ]

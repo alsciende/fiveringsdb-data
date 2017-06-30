@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "neutral",
+        "code": "night-raid",
+        "cost": null,
+        "deck_limit": 1,
+        "element_code": "fire",
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "illustrator": "Niten",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_unique": false,
+        "keywords": null,
+        "military_strength": null,
+        "military_strength_mod": null,
+        "name": "Night Raid",
+        "political_strength": null,
+        "political_strength_mod": null,
+        "province_strength": 4,
+        "province_strength_mod": null,
+        "side_code": null,
+        "text": "<b>Reaction:<\/b> After this province is revealed – your opponent chooses and discards X cards from his or her hand. X is equal to the number of attacking characters.",
+        "type_code": "province"
+    }
+]

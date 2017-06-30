@@ -21,7 +21,7 @@
         "province_strength": null,
         "province_strength_mod": null,
         "side_code": "dynasty",
-        "text": "<b>Action:<\/b> During a [element-fire] conflict, bow this character, choose a participating character with printed cost 2 or lower – discard that character.",
+        "text": "<b>Action:<\/b> During a [element-fire] conflict, bow this character. Choose a participating character with printed cost 2 or lower – discard that character.",
         "type_code": "character"
     }
 ]

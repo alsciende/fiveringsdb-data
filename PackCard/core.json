@@ -35,6 +35,16 @@
         "position": 16
     },
     {
+        "card_code": "night-raid",
+        "quantity": 1,
+        "position": 21
+    },
+    {
+        "card_code": "pilgrimage",
+        "quantity": 1,
+        "position": 22
+    },
+    {
         "card_code": "shrewd-yasuki",
         "quantity": 1,
         "position": 29
@@ -330,6 +340,11 @@
         "position": 154
     },
     {
+        "card_code": "let-go",
+        "quantity": 1,
+        "position": 155
+    },
+    {
         "card_code": "mantra-of-fire",
         "quantity": 1,
         "position": 156
@@ -353,6 +368,11 @@
         "card_code": "guidance-of-the-ancestors",
         "quantity": 1,
         "position": 162
+    },
+    {
+        "card_code": "honored-blade",
+        "quantity": 1,
+        "position": 163
     },
     {
         "card_code": "sashimono",

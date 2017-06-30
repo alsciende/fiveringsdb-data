@@ -21,7 +21,7 @@
         "province_strength": null,
         "province_strength_mod": null,
         "side_code": "conflict",
-        "text": "<b>Action:<\/b> Sacrifice an honored character, choose a dishonored character – discard that character.",
+        "text": "<b>Action:<\/b> Sacrifice a (friendly) honored character. Choose a dishonored character – discard that character.",
         "type_code": "event"
     }
 ]

@@ -21,7 +21,7 @@
         "province_strength": null,
         "province_strength_mod": null,
         "side_code": "conflict",
-        "text": "Ancestral. (When attached card leaves play, return this card to your hand.)",
+        "text": "Ancestral. (When attached card leaves play, return this card to your hand.)\nRestricted. (No more than two restriced attachments per character.)",
         "type_code": "attachment"
     }
 ]

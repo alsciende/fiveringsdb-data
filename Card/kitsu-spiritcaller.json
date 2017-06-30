@@ -21,7 +21,7 @@
         "province_strength": null,
         "province_strength_mod": null,
         "side_code": "dynasty",
-        "text": "<b>Action:<\/b> During a conflict, bow this character, choose a character in one of your discard piles – put that character into play in the conflict. If that character is still in play at the end of the conflict, return it to the bottom of its deck.",
+        "text": "<b>Action:<\/b> During a conflict, bow this character. Choose a character in one of your discard piles – put that character into play in the conflict. If that character is still in play at the end of the conflict, return it to the bottom of its deck.",
         "type_code": "character"
     }
 ]
