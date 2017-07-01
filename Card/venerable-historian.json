@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "lion",
+        "code": "venerable-historian",
+        "cost": 2,
+        "deck_limit": 3,
+        "element_code": null,
+        "fate": null,
+        "glory": 3,
+        "honor": null,
+        "illustrator": "Kathryn Steele",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_unique": false,
+        "keywords": "Courtier. Scholar.",
+        "military_strength": null,
+        "military_strength_mod": null,
+        "name": "Venerable Historian",
+        "political_strength": "1",
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "side_code": "dynasty",
+        "text": "<b>Action:<\/b> While this character is participating in a conflict, if you are more honorable than your opponent – honor this character.",
+        "type_code": "character"
+    }
+]

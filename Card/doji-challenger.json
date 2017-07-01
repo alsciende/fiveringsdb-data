@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "crane",
+        "code": "doji-challenger",
+        "cost": 3,
+        "deck_limit": 3,
+        "element_code": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "illustrator": "Zezhou Chen",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_unique": false,
+        "keywords": "Bushi. Duelist.",
+        "military_strength": "3",
+        "military_strength_mod": null,
+        "name": "Doji Challenger",
+        "political_strength": "3",
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "side_code": "dynasty",
+        "text": "<b>Action:<\/b> While this character is attacking, choose a character controlled by your opponent – move that character to this conflict.",
+        "type_code": "character"
+    }
+]

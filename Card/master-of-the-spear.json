@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "lion",
+        "code": "master-of-the-spear",
+        "cost": 3,
+        "deck_limit": 3,
+        "element_code": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "illustrator": "Mario Wibisono",
+        "influence_cost": 3,
+        "influence_pool": null,
+        "is_unique": false,
+        "keywords": "Bushi.",
+        "military_strength": "2",
+        "military_strength_mod": null,
+        "name": "Master of the Spear",
+        "political_strength": "2",
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "side_code": "conflict",
+        "text": "<b>Action:<\/b> While this character is attacking, your opponent must choose a participating character he or she controls – move that character home.",
+        "type_code": "character"
+    }
+]

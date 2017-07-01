@@ -55,6 +55,11 @@
         "position": 38
     },
     {
+        "card_code": "asahina-artisan",
+        "quantity": 1,
+        "position": 40
+    },
+    {
         "card_code": "doji-gift-giver",
         "quantity": 1,
         "position": 44
@@ -68,6 +73,11 @@
         "card_code": "daidoji-nerishma",
         "quantity": 1,
         "position": 46
+    },
+    {
+        "card_code": "doji-challenger",
+        "quantity": 1,
+        "position": 47
     },
     {
         "card_code": "kakita-asami",
@@ -180,6 +190,11 @@
         "position": 72
     },
     {
+        "card_code": "venerable-historian",
+        "quantity": 1,
+        "position": 73
+    },
+    {
         "card_code": "kitsu-spiritcaller",
         "quantity": 1,
         "position": 74
@@ -263,6 +278,11 @@
         "card_code": "wandering-ronin",
         "quantity": 1,
         "position": 127
+    },
+    {
+        "card_code": "stoic-gunso",
+        "quantity": 1,
+        "position": 131
     },
     {
         "card_code": "reprieve",
@@ -363,6 +383,11 @@
         "card_code": "vengeful-oathkeeper",
         "quantity": 1,
         "position": 160
+    },
+    {
+        "card_code": "master-of-the-spear",
+        "quantity": 1,
+        "position": 161
     },
     {
         "card_code": "guidance-of-the-ancestors",

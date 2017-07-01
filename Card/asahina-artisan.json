@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "crane",
+        "code": "asahina-artisan",
+        "cost": 1,
+        "deck_limit": 3,
+        "element_code": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "illustrator": "Alayna Lemmer",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_unique": false,
+        "keywords": "Shugenja. Air.",
+        "military_strength": "0",
+        "military_strength_mod": null,
+        "name": "Asahina Artisan",
+        "political_strength": "0",
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "side_code": "dynasty",
+        "text": "<b>Action:<\/b> During a conflict, bow this character. Choose another [clan-crane] character – that character gets +3[conflict-political] until the end of the conflict.",
+        "type_code": "character"
+    }
+]

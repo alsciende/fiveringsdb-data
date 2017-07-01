@@ -1,0 +1,27 @@
+[
+    {
+        "clan_code": "crab",
+        "code": "stoic-gunso",
+        "cost": 2,
+        "deck_limit": 3,
+        "element_code": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "illustrator": "Matt Zeilinger",
+        "influence_cost": 1,
+        "influence_pool": null,
+        "is_unique": false,
+        "keywords": "Bushi.",
+        "military_strength": "2",
+        "military_strength_mod": null,
+        "name": "Stoic Gunsō",
+        "political_strength": "1",
+        "political_strength_mod": null,
+        "province_strength": null,
+        "province_strength_mod": null,
+        "side_code": "conflict",
+        "text": "<b>Action:<\/b> During a conflict, sacrifice a (friendly) character – this character gets +3[conflict-military] until the end of the conflict.",
+        "type_code": "character"
+    }
+]
