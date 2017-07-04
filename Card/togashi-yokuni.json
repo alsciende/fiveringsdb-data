@@ -12,7 +12,11 @@
         "influence_cost": null,
         "influence_pool": null,
         "is_unique": true,
-        "keywords": "Bushi. Shugenja. Champion.",
+        "keywords": [
+            "bushi",
+            "shugenja",
+            "champion"
+        ],
         "military": "5",
         "military_bonus": null,
         "name": "Togashi Yokuni",

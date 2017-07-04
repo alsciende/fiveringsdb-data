@@ -12,7 +12,10 @@
         "influence_cost": null,
         "influence_pool": null,
         "is_unique": false,
-        "keywords": "Bushi. Ronin.",
+        "keywords": [
+            "bushi",
+            "ronin"
+        ],
         "military": "2",
         "military_bonus": null,
         "name": "Wandering Ronin",

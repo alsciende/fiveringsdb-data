@@ -12,7 +12,9 @@
         "influence_cost": null,
         "influence_pool": null,
         "is_unique": false,
-        "keywords": "Courtier.",
+        "keywords": [
+            "courtier"
+        ],
         "military": "0",
         "military_bonus": null,
         "name": "Doji Gift Giver",

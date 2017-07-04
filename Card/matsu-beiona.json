@@ -12,7 +12,9 @@
         "influence_cost": null,
         "influence_pool": null,
         "is_unique": true,
-        "keywords": "Bushi.",
+        "keywords": [
+            "bushi"
+        ],
         "military": "3",
         "military_bonus": null,
         "name": "Matsu Beiona",

@@ -12,7 +12,10 @@
         "influence_cost": null,
         "influence_pool": null,
         "is_unique": false,
-        "keywords": "Bushi. Cavalry.",
+        "keywords": [
+            "bushi",
+            "cavalry"
+        ],
         "military": "2",
         "military_bonus": null,
         "name": "Border Rider",

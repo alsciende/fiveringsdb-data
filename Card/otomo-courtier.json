@@ -12,7 +12,10 @@
         "influence_cost": null,
         "influence_pool": null,
         "is_unique": false,
-        "keywords": "Courtier. Imperial.",
+        "keywords": [
+            "courtier",
+            "imperial"
+        ],
         "military": null,
         "military_bonus": null,
         "name": "Otomo Courtier",

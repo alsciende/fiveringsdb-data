@@ -12,7 +12,10 @@
         "influence_cost": null,
         "influence_pool": null,
         "is_unique": false,
-        "keywords": "Courtier. Scholar.",
+        "keywords": [
+            "courtier",
+            "scholar"
+        ],
         "military": null,
         "military_bonus": null,
         "name": "Venerable Historian",

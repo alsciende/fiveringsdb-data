@@ -12,7 +12,9 @@
         "influence_cost": 3,
         "influence_pool": null,
         "is_unique": false,
-        "keywords": "Condition.",
+        "keywords": [
+            "condition"
+        ],
         "military": null,
         "military_bonus": "+0",
         "name": "Height of Fashion",

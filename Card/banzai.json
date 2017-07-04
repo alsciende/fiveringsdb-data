@@ -12,7 +12,7 @@
         "influence_cost": 0,
         "influence_pool": null,
         "is_unique": false,
-        "keywords": null,
+        "keywords": [],
         "military": null,
         "military_bonus": null,
         "name": "Banzai!",

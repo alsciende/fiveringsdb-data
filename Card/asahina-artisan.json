@@ -12,7 +12,10 @@
         "influence_cost": null,
         "influence_pool": null,
         "is_unique": false,
-        "keywords": "Shugenja. Air.",
+        "keywords": [
+            "shugenja",
+            "air"
+        ],
         "military": "0",
         "military_bonus": null,
         "name": "Asahina Artisan",

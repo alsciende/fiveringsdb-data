@@ -12,7 +12,10 @@
         "influence_cost": null,
         "influence_pool": null,
         "is_unique": true,
-        "keywords": "Bushi. Scout.",
+        "keywords": [
+            "bushi",
+            "scout"
+        ],
         "military": "3",
         "military_bonus": null,
         "name": "Daidoji Nerishma",

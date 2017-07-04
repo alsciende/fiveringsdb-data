@@ -12,7 +12,9 @@
         "influence_cost": null,
         "influence_pool": null,
         "is_unique": false,
-        "keywords": "Battlefield.",
+        "keywords": [
+            "battlefield"
+        ],
         "military": null,
         "military_bonus": null,
         "name": "Borderlands Fortifications",

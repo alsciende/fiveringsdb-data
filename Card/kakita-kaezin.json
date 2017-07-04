@@ -12,7 +12,11 @@
         "influence_cost": null,
         "influence_pool": null,
         "is_unique": true,
-        "keywords": "Bushi. Duelist. Kenshinzen.",
+        "keywords": [
+            "bushi",
+            "duelist",
+            "kenshinzen"
+        ],
         "military": "3",
         "military_bonus": null,
         "name": "Kakita Kaezin",

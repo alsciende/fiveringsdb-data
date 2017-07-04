@@ -12,7 +12,7 @@
         "influence_cost": 1,
         "influence_pool": null,
         "is_unique": false,
-        "keywords": null,
+        "keywords": [],
         "military": null,
         "military_bonus": null,
         "name": "The Perfect Gift",

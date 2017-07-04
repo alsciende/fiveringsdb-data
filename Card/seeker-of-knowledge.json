@@ -12,7 +12,11 @@
         "influence_cost": 1,
         "influence_pool": null,
         "is_unique": false,
-        "keywords": "Courtier. Shugenja. Air.",
+        "keywords": [
+            "courtier",
+            "shugenja",
+            "air"
+        ],
         "military": "0",
         "military_bonus": null,
         "name": "Seeker of Knowledge",

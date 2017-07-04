@@ -12,7 +12,10 @@
         "influence_cost": 2,
         "influence_pool": null,
         "is_unique": false,
-        "keywords": "Item. Banner.",
+        "keywords": [
+            "item",
+            "banner"
+        ],
         "military": null,
         "military_bonus": "+0",
         "name": "Sashimono",

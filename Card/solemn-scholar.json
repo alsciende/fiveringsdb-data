@@ -12,7 +12,11 @@
         "influence_cost": null,
         "influence_pool": null,
         "is_unique": false,
-        "keywords": "Shugenja. Earth. Scholar.",
+        "keywords": [
+            "shugenja",
+            "earth",
+            "scholar"
+        ],
         "military": "1",
         "military_bonus": null,
         "name": "Solemn Scholar",

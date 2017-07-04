@@ -12,7 +12,9 @@
         "influence_cost": null,
         "influence_pool": 10,
         "is_unique": true,
-        "keywords": "Castle.",
+        "keywords": [
+            "castle"
+        ],
         "military": null,
         "military_bonus": null,
         "name": "Yōjin no Shiro",

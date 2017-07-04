@@ -12,7 +12,10 @@
         "influence_cost": 3,
         "influence_pool": null,
         "is_unique": false,
-        "keywords": "Spell. Void.",
+        "keywords": [
+            "spell",
+            "void"
+        ],
         "military": null,
         "military_bonus": null,
         "name": "Know the World",

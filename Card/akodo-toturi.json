@@ -12,7 +12,10 @@
         "influence_cost": null,
         "influence_pool": null,
         "is_unique": true,
-        "keywords": "Bushi. Champion.",
+        "keywords": [
+            "bushi",
+            "champion"
+        ],
         "military": "6",
         "military_bonus": null,
         "name": "Akodo Toturi",

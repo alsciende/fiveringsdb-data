@@ -12,7 +12,10 @@
         "influence_cost": null,
         "influence_pool": null,
         "is_unique": false,
-        "keywords": "Bushi. Courtier.",
+        "keywords": [
+            "bushi",
+            "courtier"
+        ],
         "military": "3",
         "military_bonus": null,
         "name": "Lion's Pride Brawler",

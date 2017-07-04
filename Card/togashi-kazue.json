@@ -12,7 +12,10 @@
         "influence_cost": 2,
         "influence_pool": null,
         "is_unique": true,
-        "keywords": "Monk. Tattooed.",
+        "keywords": [
+            "monk",
+            "tattooed"
+        ],
         "military": "3",
         "military_bonus": null,
         "name": "Togashi Kazue",

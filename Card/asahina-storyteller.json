@@ -12,7 +12,11 @@
         "influence_cost": null,
         "influence_pool": null,
         "is_unique": false,
-        "keywords": "Courtier. Shugenja. Air.",
+        "keywords": [
+            "courtier",
+            "shugenja",
+            "air"
+        ],
         "military": "2",
         "military_bonus": null,
         "name": "Asahina Storyteller",

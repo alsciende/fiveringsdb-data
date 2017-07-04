@@ -12,7 +12,10 @@
         "influence_cost": 1,
         "influence_pool": null,
         "is_unique": false,
-        "keywords": "Courtier. Scholar.",
+        "keywords": [
+            "courtier",
+            "scholar"
+        ],
         "military": "1",
         "military_bonus": null,
         "name": "Steward of Law",

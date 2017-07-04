@@ -12,7 +12,11 @@
         "influence_cost": null,
         "influence_pool": null,
         "is_unique": false,
-        "keywords": "Bushi. Cavalry. Scout.",
+        "keywords": [
+            "bushi",
+            "cavalry",
+            "scout"
+        ],
         "military": "2",
         "military_bonus": null,
         "name": "Shinjo Outrider",

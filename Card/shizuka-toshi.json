@@ -12,7 +12,9 @@
         "influence_cost": null,
         "influence_pool": 10,
         "is_unique": true,
-        "keywords": "City.",
+        "keywords": [
+            "city"
+        ],
         "military": null,
         "military_bonus": null,
         "name": "Shizuka Toshi",

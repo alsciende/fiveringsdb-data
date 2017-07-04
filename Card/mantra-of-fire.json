@@ -12,7 +12,10 @@
         "influence_cost": 2,
         "influence_pool": null,
         "is_unique": false,
-        "keywords": "Kihō. Fire.",
+        "keywords": [
+            "kiho",
+            "fire"
+        ],
         "military": null,
         "military_bonus": null,
         "name": "Mantra of Fire",

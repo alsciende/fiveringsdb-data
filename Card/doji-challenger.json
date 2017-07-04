@@ -12,7 +12,10 @@
         "influence_cost": null,
         "influence_pool": null,
         "is_unique": false,
-        "keywords": "Bushi. Duelist.",
+        "keywords": [
+            "bushi",
+            "duelist"
+        ],
         "military": "3",
         "military_bonus": null,
         "name": "Doji Challenger",
