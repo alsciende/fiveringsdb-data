@@ -1,26 +1,26 @@
 [
     {
-        "clan_code": "dragon",
+        "clan": "dragon",
         "code": "mirumoto-s-fury",
         "cost": 1,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
         "influence_cost": 2,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [],
         "military": null,
         "military_bonus": null,
         "name": "Mirumoto's Fury",
         "political": null,
         "political_bonus": null,
-        "side_code": "conflict",
+        "side": "conflict",
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Action:<\/b> During a conflict, choose an attacking character with glory X or lower – bow that character. X is equal to the number of unrevealed provinces you control.",
-        "type_code": "event"
+        "type": "event",
+        "unicity": false
     }
 ]

@@ -1,16 +1,15 @@
 [
     {
-        "clan_code": "neutral",
+        "clan": "neutral",
         "code": "cloud-the-mind",
         "cost": 1,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
         "influence_cost": 0,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [
             "spell",
             "air"
@@ -20,10 +19,11 @@
         "name": "Cloud the Mind",
         "political": null,
         "political_bonus": "+0",
-        "side_code": "conflict",
+        "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "Play only if you control a <i>Shugenja<\/i> character.\nTreat attached character as if its printed text box were blank (except for <i>Traits<\/i>).",
-        "type_code": "attachment"
+        "text": "Play only if you control a <em>Shugenja<\/em> character.\nTreat attached character as if its printed text box were blank (except for <em>Traits<\/em>).",
+        "type": "attachment",
+        "unicity": false
     }
 ]

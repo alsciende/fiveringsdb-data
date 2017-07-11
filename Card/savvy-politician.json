@@ -1,16 +1,15 @@
 [
     {
-        "clan_code": "crane",
+        "clan": "crane",
         "code": "savvy-politician",
         "cost": 2,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": 1,
         "honor": null,
         "influence_cost": null,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [
             "courtier"
         ],
@@ -19,10 +18,11 @@
         "name": "Savvy Politician",
         "political": "2",
         "political_bonus": null,
-        "side_code": "dynasty",
+        "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Reaction:<\/b> After this character is honored, choose a character – honor that character.",
-        "type_code": "character"
+        "type": "character",
+        "unicity": false
     }
 ]

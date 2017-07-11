@@ -1,16 +1,15 @@
 [
     {
-        "clan_code": "crane",
+        "clan": "crane",
         "code": "shizuka-toshi",
         "cost": null,
         "deck_limit": 1,
-        "element_code": null,
+        "element": null,
         "fate": 7,
         "glory": null,
         "honor": 11,
         "influence_cost": null,
         "influence_pool": 10,
-        "is_unique": true,
         "keywords": [
             "city"
         ],
@@ -19,10 +18,11 @@
         "name": "Shizuka Toshi",
         "political": null,
         "political_bonus": null,
-        "side_code": null,
+        "side": null,
         "strength": null,
         "strength_bonus": "+2",
         "text": "<b>Action:<\/b> During a [conflict-political] conflict, bow this stronghold, choose a participating character with [conflict-political] skill 2 or lower – bow that character.",
-        "type_code": "stronghold"
+        "type": "stronghold",
+        "unicity": true
     }
 ]

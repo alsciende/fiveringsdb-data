@@ -1,26 +1,26 @@
 [
     {
-        "clan_code": "lion",
+        "clan": "lion",
         "code": "stand-your-ground",
         "cost": 0,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
         "influence_cost": 2,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [],
         "military": null,
         "military_bonus": null,
         "name": "Stand Your Ground",
         "political": null,
         "political_bonus": null,
-        "side_code": "conflict",
+        "side": "conflict",
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Interrupt:<\/b> When an honored character you control would leave play – instead discard that character's status token.",
-        "type_code": "event"
+        "type": "event",
+        "unicity": false
     }
 ]

@@ -1,16 +1,15 @@
 [
     {
-        "clan_code": "lion",
+        "clan": "lion",
         "code": "guidance-of-the-ancestors",
         "cost": 1,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
         "influence_cost": 1,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [
             "condition"
         ],
@@ -19,10 +18,11 @@
         "name": "Guidance of the Ancestors",
         "political": null,
         "political_bonus": "+1",
-        "side_code": "conflict",
+        "side": "conflict",
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Action:<\/b> Play this attachment from your conflict discard pile.",
-        "type_code": "attachment"
+        "type": "attachment",
+        "unicity": false
     }
 ]

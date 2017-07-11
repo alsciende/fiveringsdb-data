@@ -1,26 +1,26 @@
 [
     {
-        "clan_code": "lion",
+        "clan": "lion",
         "code": "ready-for-battle",
         "cost": 0,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
         "influence_cost": 1,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [],
         "military": null,
         "military_bonus": null,
         "name": "Ready for Battle",
         "political": null,
         "political_bonus": null,
-        "side_code": "conflict",
+        "side": "conflict",
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Reaction:<\/b> After an opponent's card effect or a ring effect bows a character you control – ready that character.",
-        "type_code": "event"
+        "type": "event",
+        "unicity": false
     }
 ]

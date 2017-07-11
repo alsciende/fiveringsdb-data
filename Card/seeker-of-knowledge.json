@@ -1,16 +1,15 @@
 [
     {
-        "clan_code": "phoenix",
+        "clan": "phoenix",
         "code": "seeker-of-knowledge",
         "cost": 2,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": 1,
         "honor": null,
         "influence_cost": 1,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [
             "courtier",
             "shugenja",
@@ -21,10 +20,11 @@
         "name": "Seeker of Knowledge",
         "political": "2",
         "political_bonus": null,
-        "side_code": "conflict",
+        "side": "conflict",
         "strength": null,
         "strength_bonus": null,
         "text": "While this character is attacking, the contested ring gains the [element-air] element. If this character wins the conflict as an attacker, you may choose which of its ring effects to resolve.",
-        "type_code": "character"
+        "type": "character",
+        "unicity": false
     }
 ]

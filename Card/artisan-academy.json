@@ -1,16 +1,15 @@
 [
     {
-        "clan_code": "crane",
+        "clan": "crane",
         "code": "artisan-academy",
         "cost": null,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
         "influence_cost": null,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [
             "academy"
         ],
@@ -19,10 +18,11 @@
         "name": "Artisan Academy",
         "political": null,
         "political_bonus": null,
-        "side_code": "dynasty",
+        "side": "dynasty",
         "strength": null,
         "strength_bonus": "+1",
         "text": "<b>Action:<\/b> During the conflict phase – reveal the top card of your conflict deck. Until the end of the phase, you may play that card as if it were in your hand.",
-        "type_code": "holding"
+        "type": "holding",
+        "unicity": false
     }
 ]

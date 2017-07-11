@@ -1,16 +1,15 @@
 [
     {
-        "clan_code": "lion",
+        "clan": "lion",
         "code": "obstinate-recruit",
         "cost": 0,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": 0,
         "honor": null,
         "influence_cost": null,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [
             "bushi"
         ],
@@ -19,10 +18,11 @@
         "name": "Obstinate Recruit",
         "political": "0",
         "political_bonus": null,
-        "side_code": "dynasty",
+        "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
         "text": "If an opponent is more honorable than you, discard this character.",
-        "type_code": "character"
+        "type": "character",
+        "unicity": false
     }
 ]

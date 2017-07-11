@@ -1,16 +1,15 @@
 [
     {
-        "clan_code": "lion",
+        "clan": "lion",
         "code": "sashimono",
         "cost": 2,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
         "influence_cost": 2,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [
             "item",
             "banner"
@@ -20,10 +19,11 @@
         "name": "Sashimono",
         "political": null,
         "political_bonus": "+0",
-        "side_code": "conflict",
+        "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "Attach to a <i>Bushi<\/i> character you control.\nAttached character does not bow as a result of conflict resolution during [conflict-military] conflicts.",
-        "type_code": "attachment"
+        "text": "Attach to a <em>Bushi<\/em> character you control.\nAttached character does not bow as a result of conflict resolution during [conflict-military] conflicts.",
+        "type": "attachment",
+        "unicity": false
     }
 ]

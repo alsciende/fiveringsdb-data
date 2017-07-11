@@ -1,16 +1,15 @@
 [
     {
-        "clan_code": "scorpion",
+        "clan": "scorpion",
         "code": "i-can-swim",
         "cost": 2,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
         "influence_cost": 1,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [
             "philosophy"
         ],
@@ -19,10 +18,11 @@
         "name": "I Can Swim",
         "political": null,
         "political_bonus": null,
-        "side_code": "conflict",
+        "side": "conflict",
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Action:<\/b> During a conflict, if the bid on your honor dial is higher than an opponent's, choose a participating dishonored character controlled by that opponent – discard that character.",
-        "type_code": "event"
+        "type": "event",
+        "unicity": false
     }
 ]

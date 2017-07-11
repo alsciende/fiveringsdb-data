@@ -1,16 +1,15 @@
 [
     {
-        "clan_code": "crane",
+        "clan": "crane",
         "code": "height-of-fashion",
         "cost": 2,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
         "influence_cost": 3,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [
             "condition"
         ],
@@ -19,10 +18,11 @@
         "name": "Height of Fashion",
         "political": null,
         "political_bonus": "+4",
-        "side_code": "conflict",
+        "side": "conflict",
         "strength": null,
         "strength_bonus": null,
         "text": "This attachment cannot be played during a conflict.",
-        "type_code": "attachment"
+        "type": "attachment",
+        "unicity": false
     }
 ]

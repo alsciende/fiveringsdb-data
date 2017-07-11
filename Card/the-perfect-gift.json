@@ -1,26 +1,26 @@
 [
     {
-        "clan_code": "crane",
+        "clan": "crane",
         "code": "the-perfect-gift",
         "cost": 0,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
         "influence_cost": 1,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [],
         "military": null,
         "military_bonus": null,
         "name": "The Perfect Gift",
         "political": null,
         "political_bonus": null,
-        "side_code": "conflict",
+        "side": "conflict",
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Action:<\/b> Reveal the top 4 cards of each player's conflict deck. Choose 1 revealed card owned by each player and add it to its owner's hand. Shuffle.",
-        "type_code": "event"
+        "type": "event",
+        "unicity": false
     }
 ]

@@ -1,16 +1,15 @@
 [
     {
-        "clan_code": "phoenix",
+        "clan": "phoenix",
         "code": "isawa-masahiro",
         "cost": 3,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
         "influence_cost": null,
         "influence_pool": null,
-        "is_unique": true,
         "keywords": [
             "shugenja",
             "fire"
@@ -20,10 +19,11 @@
         "name": "Isawa Masahiro",
         "political": "2",
         "political_bonus": null,
-        "side_code": "dynasty",
+        "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Action:<\/b> During a [element-fire] conflict, bow this character. Choose a participating character with printed cost 2 or lower – discard that character.",
-        "type_code": "character"
+        "type": "character",
+        "unicity": true
     }
 ]

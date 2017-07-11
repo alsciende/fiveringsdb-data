@@ -1,16 +1,15 @@
 [
     {
-        "clan_code": "phoenix",
+        "clan": "phoenix",
         "code": "shiba-peacemaker",
         "cost": 1,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": 1,
         "honor": null,
         "influence_cost": null,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [
             "bushi"
         ],
@@ -19,10 +18,11 @@
         "name": "Shiba Peacemaker",
         "political": "1",
         "political_bonus": null,
-        "side_code": "dynasty",
+        "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
         "text": "This character cannot participate in conflicts as an attacker.",
-        "type_code": "character"
+        "type": "character",
+        "unicity": false
     }
 ]

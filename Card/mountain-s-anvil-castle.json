@@ -1,16 +1,15 @@
 [
     {
-        "clan_code": "dragon",
+        "clan": "dragon",
         "code": "mountain-s-anvil-castle",
         "cost": null,
         "deck_limit": 1,
-        "element_code": null,
+        "element": null,
         "fate": 7,
         "glory": null,
         "honor": 11,
         "influence_cost": null,
         "influence_pool": 10,
-        "is_unique": true,
         "keywords": [
             "castle"
         ],
@@ -19,10 +18,11 @@
         "name": "Mountain's Anvil Castle",
         "political": null,
         "political_bonus": null,
-        "side_code": null,
+        "side": null,
         "strength": null,
         "strength_bonus": "+2",
         "text": "<b>Action:<\/b> During a conflict, bow this stronghold. Choose a participating character with 1 or more attachments on it – until the end of the conflict, that character gets +1[conflict-military] and +1[conflict-political] (+2[conflict-military] and +2[conflict-political] instead if it has 2 or more attachments on it).",
-        "type_code": "stronghold"
+        "type": "stronghold",
+        "unicity": true
     }
 ]

@@ -1,26 +1,26 @@
 [
     {
-        "clan_code": "lion",
+        "clan": "lion",
         "code": "the-art-of-war",
         "cost": null,
         "deck_limit": 1,
-        "element_code": "water",
+        "element": "water",
         "fate": null,
         "glory": null,
         "honor": null,
         "influence_cost": null,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [],
         "military": null,
         "military_bonus": null,
         "name": "The Art of War",
         "political": null,
         "political_bonus": null,
-        "side_code": null,
+        "side": null,
         "strength": 3,
         "strength_bonus": null,
         "text": "<b>Interrupt:<\/b> When this province is broken – draw 3 cards.",
-        "type_code": "province"
+        "type": "province",
+        "unicity": false
     }
 ]

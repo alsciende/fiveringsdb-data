@@ -1,26 +1,26 @@
 [
     {
-        "clan_code": "neutral",
+        "clan": "neutral",
         "code": "for-shame",
         "cost": 0,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
         "influence_cost": 0,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [],
         "military": null,
         "military_bonus": null,
         "name": "For Shame!",
         "political": null,
         "political_bonus": null,
-        "side_code": "conflict",
+        "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:<\/b> During a conflict, if you control a participating <i>Courtier<\/i> character, choose a participating character controlled by your opponent. Your opponent must select one – dishonor that character or bow it.",
-        "type_code": "event"
+        "text": "<b>Action:<\/b> During a conflict, if you control a participating <em>Courtier<\/em> character, choose a participating character controlled by your opponent. Your opponent must select one – dishonor that character or bow it.",
+        "type": "event",
+        "unicity": false
     }
 ]

@@ -1,16 +1,15 @@
 [
     {
-        "clan_code": "dragon",
+        "clan": "dragon",
         "code": "niten-adept",
         "cost": 2,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": 1,
         "honor": null,
         "influence_cost": null,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [
             "bushi"
         ],
@@ -19,10 +18,11 @@
         "name": "Niten Adept",
         "political": "1",
         "political_bonus": null,
-        "side_code": "dynasty",
+        "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:<\/b> While this character is participating in a conflict, bow a (friendly) attachment on it. Choose a participating character without attachments – bow that character.",
-        "type_code": "character"
+        "text": "<b>Action:<\/b> While this character is participating in a conflict, bow a <i>(friendly)<\/i> attachment on it. Choose a participating character without attachments – bow that character.",
+        "type": "character",
+        "unicity": false
     }
 ]

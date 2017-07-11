@@ -1,16 +1,15 @@
 [
     {
-        "clan_code": "neutral",
+        "clan": "neutral",
         "code": "fine-katana",
         "cost": 0,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
         "influence_cost": 0,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [
             "weapon"
         ],
@@ -19,10 +18,11 @@
         "name": "Fine Katana",
         "political": null,
         "political_bonus": "+0",
-        "side_code": "conflict",
+        "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "Restricted. (No more than two restricted attachments per character.)",
-        "type_code": "attachment"
+        "text": "Restricted. <i>(No more than two restricted attachments per character.)<\/i>",
+        "type": "attachment",
+        "unicity": false
     }
 ]

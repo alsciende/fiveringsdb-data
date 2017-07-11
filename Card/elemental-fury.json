@@ -1,26 +1,26 @@
 [
     {
-        "clan_code": "neutral",
+        "clan": "neutral",
         "code": "elemental-fury",
         "cost": null,
         "deck_limit": 1,
-        "element_code": "water",
+        "element": "water",
         "fate": null,
         "glory": null,
         "honor": null,
         "influence_cost": null,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [],
         "military": null,
         "military_bonus": null,
         "name": "Elemental Fury",
         "political": null,
         "political_bonus": null,
-        "side_code": null,
+        "side": null,
         "strength": 4,
         "strength_bonus": null,
-        "text": "<b>Reaction:<\/b> After this province is revealed – switch the contested ring with an unclaimed ring. (The conflict retains its type.)",
-        "type_code": "province"
+        "text": "<b>Reaction:<\/b> After this province is revealed – switch the contested ring with an unclaimed ring. <i>(The conflict retains its type.)<\/i>",
+        "type": "province",
+        "unicity": false
     }
 ]

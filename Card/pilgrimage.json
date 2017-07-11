@@ -1,26 +1,26 @@
 [
     {
-        "clan_code": "neutral",
+        "clan": "neutral",
         "code": "pilgrimage",
         "cost": null,
         "deck_limit": 1,
-        "element_code": "void",
+        "element": "void",
         "fate": null,
         "glory": null,
         "honor": null,
         "influence_cost": null,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [],
         "military": null,
         "military_bonus": null,
         "name": "Pilgrimage",
         "political": null,
         "political_bonus": null,
-        "side_code": null,
+        "side": null,
         "strength": 5,
         "strength_bonus": null,
-        "text": "During conflicts at this province, cancel all ring effects. (If this province breaks, resolve ring effects as normal.)",
-        "type_code": "province"
+        "text": "During conflicts at this province, cancel all ring effects. <i>(If this province breaks, resolve ring effects as normal.)<\/i>",
+        "type": "province",
+        "unicity": false
     }
 ]

@@ -1,16 +1,15 @@
 [
     {
-        "clan_code": "lion",
+        "clan": "lion",
         "code": "matsu-beiona",
         "cost": 3,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
         "influence_cost": null,
         "influence_pool": null,
-        "is_unique": true,
         "keywords": [
             "bushi"
         ],
@@ -19,10 +18,11 @@
         "name": "Matsu Beiona",
         "political": "2",
         "political_bonus": null,
-        "side_code": "dynasty",
+        "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:<\/b> After this character enters play, if you control 3 or more other <i>Bushi<\/i> characters – place 2 fate on this character.",
-        "type_code": "character"
+        "text": "<b>Reaction:<\/b> After this character enters play, if you control 3 or more other <em>Bushi<\/em> characters – place 2 fate on this character.",
+        "type": "character",
+        "unicity": true
     }
 ]

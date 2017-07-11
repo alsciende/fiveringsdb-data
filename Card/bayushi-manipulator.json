@@ -1,16 +1,15 @@
 [
     {
-        "clan_code": "scorpion",
+        "clan": "scorpion",
         "code": "bayushi-manipulator",
         "cost": 1,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": 1,
         "honor": null,
         "influence_cost": null,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [
             "courtier"
         ],
@@ -19,10 +18,11 @@
         "name": "Bayushi Manipulator",
         "political": "1",
         "political_bonus": null,
-        "side_code": "dynasty",
+        "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Reaction:<\/b> After honor dials are revealed – increase the value of your bid by 1.",
-        "type_code": "character"
+        "type": "character",
+        "unicity": false
     }
 ]

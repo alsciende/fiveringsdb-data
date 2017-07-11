@@ -1,16 +1,15 @@
 [
     {
-        "clan_code": "lion",
+        "clan": "lion",
         "code": "ikoma-eiji",
         "cost": 4,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": 3,
         "honor": null,
         "influence_cost": null,
         "influence_pool": null,
-        "is_unique": true,
         "keywords": [
             "courtier"
         ],
@@ -19,10 +18,11 @@
         "name": "Ikoma Eiji",
         "political": "3",
         "political_bonus": null,
-        "side_code": "dynasty",
+        "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:<\/b> After you lose a [conflict-political] conflict – put a <i>Bushi<\/i> character with printed cost 3 or lower into play from your dynasty discard pile or provinces.",
-        "type_code": "character"
+        "text": "<b>Reaction:<\/b> After you lose a [conflict-political] conflict – put a <em>Bushi<\/em> character with printed cost 3 or lower into play from your dynasty discard pile or provinces.",
+        "type": "character",
+        "unicity": true
     }
 ]

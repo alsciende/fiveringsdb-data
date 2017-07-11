@@ -1,16 +1,15 @@
 [
     {
-        "clan_code": "dragon",
+        "clan": "dragon",
         "code": "secluded-temple",
         "cost": null,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
         "influence_cost": null,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [
             "shrine"
         ],
@@ -19,10 +18,11 @@
         "name": "Secluded Temple",
         "political": null,
         "political_bonus": null,
-        "side_code": "dynasty",
+        "side": "dynasty",
         "strength": null,
         "strength_bonus": "+1",
         "text": "<b>Reaction:<\/b> After the conflict phase begins, each opponent who controls more characters than you must choose a character he or she controls with 1 or more fate on it – remove 1 fate from each chosen character.",
-        "type_code": "holding"
+        "type": "holding",
+        "unicity": false
     }
 ]

@@ -1,16 +1,15 @@
 [
     {
-        "clan_code": "unicorn",
+        "clan": "unicorn",
         "code": "way-of-the-unicorn",
         "cost": 0,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
         "influence_cost": null,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [
             "philosophy"
         ],
@@ -19,10 +18,11 @@
         "name": "Way of the Unicorn",
         "political": null,
         "political_bonus": null,
-        "side_code": "conflict",
+        "side": "conflict",
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Interrupt:<\/b> When you would pass the first player token – keep it instead.",
-        "type_code": "event"
+        "type": "event",
+        "unicity": false
     }
 ]

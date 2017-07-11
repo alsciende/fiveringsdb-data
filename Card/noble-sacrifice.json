@@ -1,26 +1,26 @@
 [
     {
-        "clan_code": "crane",
+        "clan": "crane",
         "code": "noble-sacrifice",
         "cost": 1,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
         "influence_cost": 2,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [],
         "military": null,
         "military_bonus": null,
         "name": "Noble Sacrifice",
         "political": null,
         "political_bonus": null,
-        "side_code": "conflict",
+        "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:<\/b> Sacrifice a (friendly) honored character. Choose a dishonored character – discard that character.",
-        "type_code": "event"
+        "text": "<b>Action:<\/b> Sacrifice a <i>(friendly)<\/i> honored character. Choose a dishonored character – discard that character.",
+        "type": "event",
+        "unicity": false
     }
 ]

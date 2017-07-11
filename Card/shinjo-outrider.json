@@ -1,16 +1,15 @@
 [
     {
-        "clan_code": "unicorn",
+        "clan": "unicorn",
         "code": "shinjo-outrider",
         "cost": 2,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
         "influence_cost": null,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [
             "bushi",
             "cavalry",
@@ -21,10 +20,11 @@
         "name": "Shinjo Outrider",
         "political": "2",
         "political_bonus": null,
-        "side_code": "dynasty",
+        "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Action:<\/b> During a conflict – move this character to the conflict.",
-        "type_code": "character"
+        "type": "character",
+        "unicity": false
     }
 ]

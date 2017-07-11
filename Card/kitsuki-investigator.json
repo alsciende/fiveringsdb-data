@@ -1,16 +1,15 @@
 [
     {
-        "clan_code": "dragon",
+        "clan": "dragon",
         "code": "kitsuki-investigator",
         "cost": 3,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
         "influence_cost": null,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [
             "courtier"
         ],
@@ -19,10 +18,11 @@
         "name": "Kitsuki Investigator",
         "political": "3",
         "political_bonus": null,
-        "side_code": "dynasty",
+        "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Action:<\/b> While this character is participating in a [conflict-political] conflict, spend 1 fate to an unclaimed ring – look at your opponent's hand. Choose 1 of those cards and discard it. (Max 1 per conflict.)",
-        "type_code": "character"
+        "type": "character",
+        "unicity": false
     }
 ]

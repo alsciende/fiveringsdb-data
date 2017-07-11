@@ -1,16 +1,15 @@
 [
     {
-        "clan_code": "dragon",
+        "clan": "dragon",
         "code": "mantra-of-fire",
         "cost": 0,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
         "influence_cost": 2,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [
             "kiho",
             "fire"
@@ -20,10 +19,11 @@
         "name": "Mantra of Fire",
         "political": null,
         "political_bonus": null,
-        "side_code": "conflict",
+        "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:<\/b> After an opponent declares a [element-fire] conflict, choose a <i>Monk<\/i> character or a character with a <i>Monk<\/i> attachment – place 1 fate on that character and draw 1 card.",
-        "type_code": "event"
+        "text": "<b>Reaction:<\/b> After an opponent declares a [element-fire] conflict, choose a <em>Monk<\/em> character or a character with a <em>Monk<\/em> attachment – place 1 fate on that character and draw 1 card.",
+        "type": "event",
+        "unicity": false
     }
 ]

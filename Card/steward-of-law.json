@@ -1,16 +1,15 @@
 [
     {
-        "clan_code": "crane",
+        "clan": "crane",
         "code": "steward-of-law",
         "cost": 1,
         "deck_limit": 3,
-        "element_code": null,
+        "element": null,
         "fate": null,
         "glory": 0,
         "honor": null,
         "influence_cost": 1,
         "influence_pool": null,
-        "is_unique": false,
         "keywords": [
             "courtier",
             "scholar"
@@ -20,10 +19,11 @@
         "name": "Steward of Law",
         "political": "1",
         "political_bonus": null,
-        "side_code": "conflict",
+        "side": "conflict",
         "strength": null,
         "strength_bonus": null,
         "text": "While this character is participating in a conflict, characters cannot become dishonored.",
-        "type_code": "character"
+        "type": "character",
+        "unicity": false
     }
 ]
