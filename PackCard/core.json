@@ -1,5 +1,11 @@
 [
     {
+        "card_code": "shiro-nishiyama",
+        "quantity": 1,
+        "position": 1,
+        "illustrator": "Alayna Lemmer"
+    },
+    {
         "card_code": "shizuka-toshi",
         "quantity": 1,
         "position": 2,
@@ -15,6 +21,12 @@
         "card_code": "yojin-no-shiro",
         "quantity": 1,
         "position": 4,
+        "illustrator": "Chris Ostrowski"
+    },
+    {
+        "card_code": "defend-the-wall",
+        "quantity": 1,
+        "position": 8,
         "illustrator": "Chris Ostrowski"
     },
     {
@@ -54,16 +66,52 @@
         "illustrator": "Nele Diel"
     },
     {
+        "card_code": "hiruma-yojimbo",
+        "quantity": 1,
+        "position": 28,
+        "illustrator": "Shen Fei"
+    },
+    {
         "card_code": "shrewd-yasuki",
         "quantity": 1,
         "position": 29,
         "illustrator": "Carlos Palma Cruchaga"
     },
     {
+        "card_code": "vengeful-berserker",
+        "quantity": 1,
+        "position": 33,
+        "illustrator": "Edwin David"
+    },
+    {
+        "card_code": "hida-tomonatsu",
+        "quantity": 1,
+        "position": 34,
+        "illustrator": "Muyoung Kim"
+    },
+    {
+        "card_code": "steadfast-witch-hunter",
+        "quantity": 1,
+        "position": 35,
+        "illustrator": "Le Vuong"
+    },
+    {
+        "card_code": "hida-kisada",
+        "quantity": 1,
+        "position": 37,
+        "illustrator": "Shawn Ignatius Tan"
+    },
+    {
         "card_code": "borderlands-fortifications",
         "quantity": 1,
         "position": 38,
         "illustrator": "Noah Bradley"
+    },
+    {
+        "card_code": "funeral-pyre",
+        "quantity": 1,
+        "position": 39,
+        "illustrator": "Kevin Zamir Goeke"
     },
     {
         "card_code": "asahina-artisan",
@@ -336,6 +384,12 @@
         "illustrator": "Kim Sokol"
     },
     {
+        "card_code": "hiruma-ambusher",
+        "quantity": 1,
+        "position": 130,
+        "illustrator": "Brandon Leach"
+    },
+    {
         "card_code": "stoic-gunso",
         "quantity": 1,
         "position": 131,
@@ -352,6 +406,18 @@
         "quantity": 1,
         "position": 133,
         "illustrator": "Niten"
+    },
+    {
+        "card_code": "way-of-the-crab",
+        "quantity": 1,
+        "position": 137,
+        "illustrator": "Scott Wade"
+    },
+    {
+        "card_code": "the-mountain-does-not-fall",
+        "quantity": 1,
+        "position": 138,
+        "illustrator": "Antonio José Manzanedo"
     },
     {
         "card_code": "steward-of-law",

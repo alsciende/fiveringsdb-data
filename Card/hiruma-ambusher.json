@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "crab",
+        "code": "hiruma-ambusher",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "influence_cost": 1,
+        "influence_pool": null,
+        "keywords": [
+            "bushi",
+            "scout"
+        ],
+        "military": "2",
+        "military_bonus": null,
+        "name": "Hiruma Ambusher",
+        "political": "2",
+        "political_bonus": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:<\/b> After this character enters play as a defender, choose a character – that character's abilities cannot be triggered during this conflict.",
+        "type": "character",
+        "unicity": false
+    }
+]

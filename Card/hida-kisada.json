@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "crab",
+        "code": "hida-kisada",
+        "cost": 5,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "influence_cost": null,
+        "influence_pool": null,
+        "keywords": [
+            "bushi",
+            "champion"
+        ],
+        "military": "7",
+        "military_bonus": null,
+        "name": "Hida Kisada",
+        "political": "2",
+        "political_bonus": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "While you have not lost a conflict this phase, cancel the effects of the first action ability your opponent triggers from a card during each conflict.",
+        "type": "character",
+        "unicity": true
+    }
+]

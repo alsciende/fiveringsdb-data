@@ -1,0 +1,28 @@
+[
+    {
+        "clan": "crab",
+        "code": "hida-tomonatsu",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "influence_cost": null,
+        "influence_pool": null,
+        "keywords": [
+            "bushi"
+        ],
+        "military": "3",
+        "military_bonus": null,
+        "name": "Hida Tomonatsu",
+        "political": "2",
+        "political_bonus": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:<\/b> After this character wins a conflict as a defender, sacrifice it. Choose a non-unique attacking character – return that character to the top of its owner's deck.",
+        "type": "character",
+        "unicity": true
+    }
+]
