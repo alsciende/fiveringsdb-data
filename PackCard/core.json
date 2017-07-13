@@ -96,6 +96,12 @@
         "illustrator": "Le Vuong"
     },
     {
+        "card_code": "kaiu-shuichi",
+        "quantity": 1,
+        "position": 36,
+        "illustrator": "Antonio José Manzanedo"
+    },
+    {
         "card_code": "hida-kisada",
         "quantity": 1,
         "position": 37,
@@ -406,6 +412,12 @@
         "quantity": 1,
         "position": 133,
         "illustrator": "Niten"
+    },
+    {
+        "card_code": "levy",
+        "quantity": 1,
+        "position": 135,
+        "illustrator": "Caravan Studio"
     },
     {
         "card_code": "way-of-the-crab",
