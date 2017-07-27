@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "phoenix",
+        "code": "ishiken-initiate",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "influence_cost": 2,
+        "influence_pool": null,
+        "keywords": [
+            "shugenja",
+            "void"
+        ],
+        "military": "1",
+        "military_bonus": null,
+        "name": "Ishiken Initiate",
+        "political": "1",
+        "political_bonus": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "This character gets +1[conflict-military] and +1[conflict-political] for each claimed ring.",
+        "type": "character",
+        "unicity": false
+    }
+]

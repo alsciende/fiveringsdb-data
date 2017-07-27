@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "phoenix",
+        "code": "grasp-of-earth",
+        "cost": 1,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "influence_cost": 1,
+        "influence_pool": null,
+        "keywords": [
+            "spell",
+            "earth"
+        ],
+        "military": null,
+        "military_bonus": "+1",
+        "name": "Grasp of Earth",
+        "political": null,
+        "political_bonus": "+1",
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Attach to a <em>Shugenja<\/em> character you control.\n<b>Action:<\/b> During a conflict, bow this attachment – opponents' characters cannot move to this conflict or be played from hand until the end of the conflict.",
+        "type": "attachment",
+        "unicity": false
+    }
+]

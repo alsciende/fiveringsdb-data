@@ -1,0 +1,28 @@
+[
+    {
+        "clan": "phoenix",
+        "code": "way-of-the-phoenix",
+        "cost": 0,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "influence_cost": null,
+        "influence_pool": null,
+        "keywords": [
+            "philosophy"
+        ],
+        "military": null,
+        "military_bonus": null,
+        "name": "Way of the Phoenix",
+        "political": null,
+        "political_bonus": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:<\/b> Choose a ring and an opponent – that player cannot declare conflicts of that ring's element this phase. (Max 1 per phase.)",
+        "type": "event",
+        "unicity": false
+    }
+]

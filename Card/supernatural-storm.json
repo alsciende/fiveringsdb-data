@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "phoenix",
+        "code": "supernatural-storm",
+        "cost": 0,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "influence_cost": 1,
+        "influence_pool": null,
+        "keywords": [
+            "spell",
+            "water"
+        ],
+        "military": null,
+        "military_bonus": null,
+        "name": "Supernatural Storm",
+        "political": null,
+        "political_bonus": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:<\/b> Choose a participating character – that character gets +X[conflict-military] and +X[conflict-political] until the end of the conflict. X is equal to the number of <em>Shugenja<\/em> characters you control.",
+        "type": "event",
+        "unicity": false
+    }
+]

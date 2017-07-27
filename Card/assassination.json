@@ -1,0 +1,26 @@
+[
+    {
+        "clan": "neutral",
+        "code": "assassination",
+        "cost": 0,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "influence_cost": 0,
+        "influence_pool": null,
+        "keywords": [],
+        "military": null,
+        "military_bonus": null,
+        "name": "Assassination",
+        "political": null,
+        "political_bonus": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:<\/b> During a conflict, lose 3 honor. Choose a character with printed cost 2 or lower – discard that character. (Max 1 per round.)",
+        "type": "event",
+        "unicity": false
+    }
+]

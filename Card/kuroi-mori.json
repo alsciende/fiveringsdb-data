@@ -1,0 +1,26 @@
+[
+    {
+        "clan": "phoenix",
+        "code": "kuroi-mori",
+        "cost": null,
+        "deck_limit": 1,
+        "element": "void",
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "influence_cost": null,
+        "influence_pool": null,
+        "keywords": [],
+        "military": null,
+        "military_bonus": null,
+        "name": "Kuroi Mori",
+        "political": null,
+        "political_bonus": null,
+        "side": null,
+        "strength": 4,
+        "strength_bonus": null,
+        "text": "<b>Action:<\/b> During a conflict at this province, select one – switch the contested ring with an unclaimed ring <i>(the conflict retains its type)<\/i>, or switch the conflict type <i>(the conflict retains its element)<\/i>.",
+        "type": "province",
+        "unicity": false
+    }
+]

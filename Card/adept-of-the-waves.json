@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "phoenix",
+        "code": "adept-of-the-waves",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "influence_cost": null,
+        "influence_pool": null,
+        "keywords": [
+            "shugenja",
+            "water"
+        ],
+        "military": "2",
+        "military_bonus": null,
+        "name": "Adept of the Waves",
+        "political": "2",
+        "political_bonus": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:<\/b> Choose a character – until the end of the phase, that character gains covert during [element-water] conflicts.",
+        "type": "character",
+        "unicity": false
+    }
+]

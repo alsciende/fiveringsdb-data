@@ -24,6 +24,12 @@
         "illustrator": "Chris Ostrowski"
     },
     {
+        "card_code": "isawa-mori-seido",
+        "quantity": 1,
+        "position": 5,
+        "illustrator": "Alayna Lemmer"
+    },
+    {
         "card_code": "defend-the-wall",
         "quantity": 1,
         "position": 8,
@@ -46,6 +52,12 @@
         "quantity": 1,
         "position": 11,
         "illustrator": "Eli Ring"
+    },
+    {
+        "card_code": "kuroi-mori",
+        "quantity": 1,
+        "position": 12,
+        "illustrator": "Oliver Specht"
     },
     {
         "card_code": "elemental-fury",
@@ -342,10 +354,58 @@
         "illustrator": "Aaron Miller"
     },
     {
+        "card_code": "adept-of-the-waves",
+        "quantity": 1,
+        "position": 84,
+        "illustrator": "Jason Engle"
+    },
+    {
+        "card_code": "asako-diplomat",
+        "quantity": 1,
+        "position": 85,
+        "illustrator": "Tony Foti"
+    },
+    {
+        "card_code": "radiant-orator",
+        "quantity": 1,
+        "position": 87,
+        "illustrator": "Polar Engine"
+    },
+    {
+        "card_code": "serene-warrior",
+        "quantity": 1,
+        "position": 88,
+        "illustrator": "Shawn Ignatius Tan"
+    },
+    {
+        "card_code": "shiba-yojimbo",
+        "quantity": 1,
+        "position": 89,
+        "illustrator": "Mario Wibisono"
+    },
+    {
         "card_code": "isawa-masahiro",
         "quantity": 1,
         "position": 90,
         "illustrator": "Polar Engine"
+    },
+    {
+        "card_code": "fearsome-mystic",
+        "quantity": 1,
+        "position": 91,
+        "illustrator": "Shawn Ignatius Tan"
+    },
+    {
+        "card_code": "isawa-atsuko",
+        "quantity": 1,
+        "position": 92,
+        "illustrator": "Le Vuong"
+    },
+    {
+        "card_code": "shiba-tsukune",
+        "quantity": 1,
+        "position": 93,
+        "illustrator": "Shawn Ignatius Tan"
     },
     {
         "card_code": "bayushi-manipulator",
@@ -600,10 +660,28 @@
         "illustrator": "Kevin Zamir Goeke"
     },
     {
+        "card_code": "ishiken-initiate",
+        "quantity": 1,
+        "position": 170,
+        "illustrator": "Shen Fei"
+    },
+    {
         "card_code": "seeker-of-knowledge",
         "quantity": 1,
         "position": 171,
         "illustrator": "Jim Pavelec"
+    },
+    {
+        "card_code": "magnificent-kimono",
+        "quantity": 1,
+        "position": 172,
+        "illustrator": "Heather V. Kreiter"
+    },
+    {
+        "card_code": "grasp-of-earth",
+        "quantity": 1,
+        "position": 173,
+        "illustrator": "Janathan Hunt"
     },
     {
         "card_code": "pacifism",
@@ -612,10 +690,28 @@
         "illustrator": "Carlos Palma Cruchaga"
     },
     {
+        "card_code": "supernatural-storm",
+        "quantity": 1,
+        "position": 175,
+        "illustrator": "Stephanie Law"
+    },
+    {
+        "card_code": "way-of-the-phoenix",
+        "quantity": 1,
+        "position": 176,
+        "illustrator": "Scott Wade"
+    },
+    {
         "card_code": "know-the-world",
         "quantity": 1,
         "position": 178,
         "illustrator": "Anna Christenson"
+    },
+    {
+        "card_code": "display-of-power",
+        "quantity": 1,
+        "position": 179,
+        "illustrator": "Shen Fei"
     },
     {
         "card_code": "i-can-swim",
@@ -648,10 +744,22 @@
         "illustrator": "Veronica V. Jones"
     },
     {
+        "card_code": "assassination",
+        "quantity": 1,
+        "position": 203,
+        "illustrator": "Greg Lambrakis"
+    },
+    {
         "card_code": "banzai",
         "quantity": 1,
         "position": 204,
         "illustrator": "Troy Graham"
+    },
+    {
+        "card_code": "court-games",
+        "quantity": 1,
+        "position": 206,
+        "illustrator": "Shen Fei"
     },
     {
         "card_code": "for-shame",

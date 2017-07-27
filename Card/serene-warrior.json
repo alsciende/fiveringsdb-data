@@ -1,0 +1,28 @@
+[
+    {
+        "clan": "phoenix",
+        "code": "serene-warrior",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 4,
+        "honor": null,
+        "influence_cost": null,
+        "influence_pool": null,
+        "keywords": [
+            "bushi"
+        ],
+        "military": "3",
+        "military_bonus": null,
+        "name": "Serene Warrior",
+        "political": "2",
+        "political_bonus": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": null,
+        "type": "character",
+        "unicity": false
+    }
+]
