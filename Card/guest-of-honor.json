@@ -1,18 +1,15 @@
 [
     {
         "clan": "crane",
-        "code": "guest-of-honor",
         "cost": 4,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 1,
         "honor": null,
+        "id": "guest-of-honor",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [
-            "courtier"
-        ],
         "military": "1",
         "military_bonus": null,
         "name": "Guest of Honor",
@@ -22,6 +19,9 @@
         "strength": null,
         "strength_bonus": null,
         "text": "While this character is participating in a conflict, opponents cannot play events.",
+        "traits": [
+            "courtier"
+        ],
         "type": "character",
         "unicity": false
     }

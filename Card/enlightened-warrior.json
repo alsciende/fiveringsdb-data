@@ -1,18 +1,15 @@
 [
     {
         "clan": "dragon",
-        "code": "enlightened-warrior",
         "cost": 3,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 1,
         "honor": null,
+        "id": "enlightened-warrior",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [
-            "bushi"
-        ],
         "military": "2",
         "military_bonus": null,
         "name": "Enlightened Warrior",
@@ -22,6 +19,9 @@
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Reaction:<\/b> After an opponent selects a ring with fate on it – place 1 fate on this character.",
+        "traits": [
+            "bushi"
+        ],
         "type": "character",
         "unicity": false
     }

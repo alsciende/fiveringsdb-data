@@ -1,16 +1,15 @@
 [
     {
         "clan": "crane",
-        "code": "the-art-of-peace",
         "cost": null,
         "deck_limit": 1,
         "element": "air",
         "fate": null,
         "glory": null,
         "honor": null,
+        "id": "the-art-of-peace",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [],
         "military": null,
         "military_bonus": null,
         "name": "The Art of Peace",
@@ -20,6 +19,7 @@
         "strength": 4,
         "strength_bonus": null,
         "text": "<b>Interrupt:<\/b> When this province is broken – dishonor each attacking character and honor each defending character.",
+        "traits": [],
         "type": "province",
         "unicity": false
     }

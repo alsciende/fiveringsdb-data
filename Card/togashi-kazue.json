@@ -1,19 +1,15 @@
 [
     {
         "clan": "dragon",
-        "code": "togashi-kazue",
         "cost": 3,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 1,
         "honor": null,
+        "id": "togashi-kazue",
         "influence_cost": 2,
         "influence_pool": null,
-        "keywords": [
-            "monk",
-            "tattooed"
-        ],
         "military": "3",
         "military_bonus": null,
         "name": "Togashi Kazue",
@@ -23,6 +19,10 @@
         "strength": null,
         "strength_bonus": null,
         "text": "You may play this character as an attachment with the text: \"<b>Action:<\/b> During a conflict in which attached character is participating, choose another participating character – move 1 fate from that character to the attached character.\"",
+        "traits": [
+            "monk",
+            "tattooed"
+        ],
         "type": "character",
         "unicity": true
     }

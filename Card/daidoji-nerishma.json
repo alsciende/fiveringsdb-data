@@ -1,19 +1,15 @@
 [
     {
         "clan": "crane",
-        "code": "daidoji-nerishma",
         "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 1,
         "honor": null,
+        "id": "daidoji-nerishma",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [
-            "bushi",
-            "scout"
-        ],
         "military": "3",
         "military_bonus": null,
         "name": "Daidoji Nerishma",
@@ -23,6 +19,10 @@
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Action:<\/b> Choose a facedown card in one of your provinces – turn that card faceup.",
+        "traits": [
+            "bushi",
+            "scout"
+        ],
         "type": "character",
         "unicity": true
     }

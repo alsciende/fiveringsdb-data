@@ -1,19 +1,15 @@
 [
     {
         "clan": "crab",
-        "code": "hiruma-yojimbo",
         "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
+        "id": "hiruma-yojimbo",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [
-            "bushi",
-            "yojimbo"
-        ],
         "military": "4",
         "military_bonus": null,
         "name": "Hiruma Yōjimbō",
@@ -23,6 +19,10 @@
         "strength": null,
         "strength_bonus": null,
         "text": "This character cannot be declared as an attacker.",
+        "traits": [
+            "bushi",
+            "yojimbo"
+        ],
         "type": "character",
         "unicity": false
     }

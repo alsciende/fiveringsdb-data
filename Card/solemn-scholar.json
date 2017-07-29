@@ -1,20 +1,15 @@
 [
     {
         "clan": "phoenix",
-        "code": "solemn-scholar",
         "cost": 1,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 1,
         "honor": null,
+        "id": "solemn-scholar",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [
-            "shugenja",
-            "earth",
-            "scholar"
-        ],
         "military": "1",
         "military_bonus": null,
         "name": "Solemn Scholar",
@@ -24,6 +19,11 @@
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Action:<\/b> During a conflict, if the [element-earth] ring is in your claimed ring pool, choose an attacking character – bow that character.",
+        "traits": [
+            "shugenja",
+            "earth",
+            "scholar"
+        ],
         "type": "character",
         "unicity": false
     }

@@ -1,18 +1,15 @@
 [
     {
         "clan": "scorpion",
-        "code": "young-rumormonger",
         "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 1,
         "honor": null,
+        "id": "young-rumormonger",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [
-            "courtier"
-        ],
         "military": "2",
         "military_bonus": null,
         "name": "Young Rumormonger",
@@ -22,6 +19,9 @@
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Interrupt:<\/b> When a character would be honored or dishonored, choose another character controlled by the same player – that character receives the honor or dishonor instead.",
+        "traits": [
+            "courtier"
+        ],
         "type": "character",
         "unicity": false
     }

@@ -1,19 +1,15 @@
 [
     {
         "clan": "phoenix",
-        "code": "display-of-power",
         "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
+        "id": "display-of-power",
         "influence_cost": 3,
         "influence_pool": null,
-        "keywords": [
-            "spell",
-            "fire"
-        ],
         "military": null,
         "military_bonus": null,
         "name": "Display of Power",
@@ -23,6 +19,10 @@
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Reaction:<\/b> After you lose an unopposed conflict – cancel the ring effect of that conflict. Then, you resolve that ring effect as if you had won the conflict as the attacking player. Claim that ring.",
+        "traits": [
+            "spell",
+            "fire"
+        ],
         "type": "event",
         "unicity": false
     }

@@ -1,19 +1,15 @@
 [
     {
         "clan": "dragon",
-        "code": "tattooed-wanderer",
         "cost": 1,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 0,
         "honor": null,
+        "id": "tattooed-wanderer",
         "influence_cost": 2,
         "influence_pool": null,
-        "keywords": [
-            "monk",
-            "tattooed"
-        ],
         "military": "2",
         "military_bonus": null,
         "name": "Tattooed Wanderer",
@@ -23,6 +19,10 @@
         "strength": null,
         "strength_bonus": null,
         "text": "You may play this character as an attachment with the text: \"Attached character gains covert.\"",
+        "traits": [
+            "monk",
+            "tattooed"
+        ],
         "type": "character",
         "unicity": false
     }

@@ -1,18 +1,15 @@
 [
     {
         "clan": "lion",
-        "code": "akodo-gunso",
         "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
+        "id": "akodo-gunso",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [
-            "bushi"
-        ],
         "military": "2",
         "military_bonus": null,
         "name": "Akodo Gunsō",
@@ -22,6 +19,9 @@
         "strength": null,
         "strength_bonus": null,
         "text": "Pride. <i>(After this character wins a conflict, honor it. After this character loses a conflict, dishonor it.)<\/i>\n<b>Reaction:<\/b> After this character enters play from a province – refill that province faceup.",
+        "traits": [
+            "bushi"
+        ],
         "type": "character",
         "unicity": false
     }

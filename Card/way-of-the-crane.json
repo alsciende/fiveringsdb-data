@@ -1,18 +1,15 @@
 [
     {
         "clan": "crane",
-        "code": "way-of-the-crane",
         "cost": 0,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
+        "id": "way-of-the-crane",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [
-            "philosophy"
-        ],
         "military": null,
         "military_bonus": null,
         "name": "Way of the Crane",
@@ -22,6 +19,9 @@
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Action:<\/b> Choose a [clan-crane] character you control – honor that character.",
+        "traits": [
+            "philosophy"
+        ],
         "type": "event",
         "unicity": false
     }

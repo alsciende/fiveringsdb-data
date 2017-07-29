@@ -1,19 +1,15 @@
 [
     {
         "clan": "dragon",
-        "code": "togashi-initiate",
         "cost": 1,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
+        "id": "togashi-initiate",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [
-            "monk",
-            "tattooed"
-        ],
         "military": "1",
         "military_bonus": null,
         "name": "Togashi Initiate",
@@ -23,6 +19,10 @@
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Action:<\/b> While this character is attacking, spend 1 fate to an unclaimed ring – honor this character.",
+        "traits": [
+            "monk",
+            "tattooed"
+        ],
         "type": "character",
         "unicity": false
     }

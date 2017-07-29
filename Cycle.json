@@ -1,6 +1,6 @@
 [
     {
-        "code": "core",
+        "id": "core",
         "name": "Core Set",
         "position": 1,
         "size": 1

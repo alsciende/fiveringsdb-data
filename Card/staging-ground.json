@@ -1,18 +1,15 @@
 [
     {
         "clan": "lion",
-        "code": "staging-ground",
         "cost": null,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
+        "id": "staging-ground",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [
-            "battlefield"
-        ],
         "military": null,
         "military_bonus": null,
         "name": "Staging Ground",
@@ -22,6 +19,9 @@
         "strength": null,
         "strength_bonus": "+1",
         "text": "<b>Action:<\/b> Choose up to 2 facedown cards in your provinces – turn the chosen cards faceup.",
+        "traits": [
+            "battlefield"
+        ],
         "type": "holding",
         "unicity": false
     }

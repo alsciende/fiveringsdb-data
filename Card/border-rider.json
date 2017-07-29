@@ -1,19 +1,15 @@
 [
     {
         "clan": "unicorn",
-        "code": "border-rider",
         "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 1,
         "honor": null,
+        "id": "border-rider",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [
-            "bushi",
-            "cavalry"
-        ],
         "military": "2",
         "military_bonus": null,
         "name": "Border Rider",
@@ -23,6 +19,10 @@
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Action:<\/b> Ready this character.",
+        "traits": [
+            "bushi",
+            "cavalry"
+        ],
         "type": "character",
         "unicity": false
     }

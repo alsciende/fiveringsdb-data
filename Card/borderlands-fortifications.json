@@ -1,18 +1,15 @@
 [
     {
         "clan": "crab",
-        "code": "borderlands-fortifications",
         "cost": null,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
+        "id": "borderlands-fortifications",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [
-            "battlefield"
-        ],
         "military": null,
         "military_bonus": null,
         "name": "Borderlands Fortifications",
@@ -22,6 +19,9 @@
         "strength": null,
         "strength_bonus": "+2",
         "text": "<b>Action:<\/b> Choose a card in one of your provinces – switch this holding with that card.",
+        "traits": [
+            "battlefield"
+        ],
         "type": "holding",
         "unicity": false
     }

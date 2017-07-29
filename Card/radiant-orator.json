@@ -1,18 +1,15 @@
 [
     {
         "clan": "phoenix",
-        "code": "radiant-orator",
         "cost": 3,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
+        "id": "radiant-orator",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [
-            "courtier"
-        ],
         "military": "1",
         "military_bonus": null,
         "name": "Radiant Orator",
@@ -22,6 +19,9 @@
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Action:<\/b> While this character is participating in a conflict, if you count more current glory than your opponent among ready participating characters, choose an enemy character – move that character home.",
+        "traits": [
+            "courtier"
+        ],
         "type": "character",
         "unicity": false
     }

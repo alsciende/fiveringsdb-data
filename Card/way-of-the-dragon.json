@@ -1,18 +1,15 @@
 [
     {
         "clan": "dragon",
-        "code": "way-of-the-dragon",
         "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
+        "id": "way-of-the-dragon",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [
-            "philosophy"
-        ],
         "military": null,
         "military_bonus": "+1",
         "name": "Way of the Dragon",
@@ -22,6 +19,9 @@
         "strength": null,
         "strength_bonus": null,
         "text": "Attach to a character you control. Limit 1 per character.\nYou may trigger each of attached character's triggered abilities an additional time each round (or specified period).",
+        "traits": [
+            "philosophy"
+        ],
         "type": "attachment",
         "unicity": false
     }

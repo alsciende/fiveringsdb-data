@@ -1,19 +1,15 @@
 [
     {
         "clan": "crane",
-        "code": "doji-challenger",
         "cost": 3,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
+        "id": "doji-challenger",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [
-            "bushi",
-            "duelist"
-        ],
         "military": "3",
         "military_bonus": null,
         "name": "Doji Challenger",
@@ -23,6 +19,10 @@
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Action:<\/b> While this character is attacking, choose a character controlled by your opponent – move that character to this conflict.",
+        "traits": [
+            "bushi",
+            "duelist"
+        ],
         "type": "character",
         "unicity": false
     }

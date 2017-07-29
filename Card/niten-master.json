@@ -1,18 +1,15 @@
 [
     {
         "clan": "dragon",
-        "code": "niten-master",
         "cost": 4,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
+        "id": "niten-master",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [
-            "bushi"
-        ],
         "military": "3",
         "military_bonus": null,
         "name": "Niten Master",
@@ -22,6 +19,9 @@
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Reaction:<\/b> After you attach a <em>Weapon<\/em> attachment to this character – ready this character. (Limit twice per round.)",
+        "traits": [
+            "bushi"
+        ],
         "type": "character",
         "unicity": false
     }

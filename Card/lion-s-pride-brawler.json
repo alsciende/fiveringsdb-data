@@ -1,19 +1,15 @@
 [
     {
         "clan": "lion",
-        "code": "lion-s-pride-brawler",
         "cost": 3,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 1,
         "honor": null,
+        "id": "lion-s-pride-brawler",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [
-            "bushi",
-            "courtier"
-        ],
         "military": "3",
         "military_bonus": null,
         "name": "Lion's Pride Brawler",
@@ -23,6 +19,10 @@
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Action:<\/b> While this character is attacking, choose a character with equal or lower [conflict-military] skill than this character – bow that character.",
+        "traits": [
+            "bushi",
+            "courtier"
+        ],
         "type": "character",
         "unicity": false
     }

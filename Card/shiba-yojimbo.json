@@ -1,19 +1,15 @@
 [
     {
         "clan": "phoenix",
-        "code": "shiba-yojimbo",
         "cost": 3,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
+        "id": "shiba-yojimbo",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [
-            "bushi",
-            "yojimbo"
-        ],
         "military": "3",
         "military_bonus": null,
         "name": "Shiba Yōjimbō",
@@ -23,6 +19,10 @@
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Interrupt:<\/b> When the effects of a triggered ability that targets a <em>Shugenja<\/em> you control would initiate – cancel those effects.",
+        "traits": [
+            "bushi",
+            "yojimbo"
+        ],
         "type": "character",
         "unicity": false
     }
