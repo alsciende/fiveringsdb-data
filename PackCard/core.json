@@ -438,6 +438,12 @@
         "illustrator": "Kevin Zamir Goeke"
     },
     {
+        "card_id": "warrior-poet",
+        "quantity": 1,
+        "position": 117,
+        "illustrator": "Le Vuong"
+    },
+    {
         "card_id": "otomo-courtier",
         "quantity": 1,
         "position": 122,
@@ -702,6 +708,12 @@
         "illustrator": "Scott Wade"
     },
     {
+        "card_id": "against-the-waves",
+        "quantity": 1,
+        "position": 177,
+        "illustrator": "Calvin Chua"
+    },
+    {
         "card_id": "know-the-world",
         "quantity": 1,
         "position": 178,
@@ -724,6 +736,12 @@
         "quantity": 1,
         "position": 189,
         "illustrator": "Charles Urbach"
+    },
+    {
+        "card_id": "breakthrough",
+        "quantity": 1,
+        "position": 195,
+        "illustrator": "Sergio Camarena"
     },
     {
         "card_id": "way-of-the-unicorn",
