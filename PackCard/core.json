@@ -802,5 +802,65 @@
         "quantity": 1,
         "position": 211,
         "illustrator": "Chris Pritchard"
+    },
+    {
+        "card_id": "keeper-of-air",
+        "quantity": 1,
+        "position": 214,
+        "illustrator": null
+    },
+    {
+        "card_id": "keeper-of-earth",
+        "quantity": 1,
+        "position": 215,
+        "illustrator": null
+    },
+    {
+        "card_id": "keeper-of-fire",
+        "quantity": 1,
+        "position": 216,
+        "illustrator": null
+    },
+    {
+        "card_id": "keeper-of-void",
+        "quantity": 1,
+        "position": 217,
+        "illustrator": null
+    },
+    {
+        "card_id": "keeper-of-water",
+        "quantity": 1,
+        "position": 218,
+        "illustrator": null
+    },
+    {
+        "card_id": "seeker-of-air",
+        "quantity": 1,
+        "position": 219,
+        "illustrator": null
+    },
+    {
+        "card_id": "seeker-of-earth",
+        "quantity": 1,
+        "position": 220,
+        "illustrator": null
+    },
+    {
+        "card_id": "seeker-of-fire",
+        "quantity": 1,
+        "position": 221,
+        "illustrator": null
+    },
+    {
+        "card_id": "seeker-of-void",
+        "quantity": 1,
+        "position": 222,
+        "illustrator": null
+    },
+    {
+        "card_id": "seeker-of-water",
+        "quantity": 1,
+        "position": 223,
+        "illustrator": null
     }
 ]

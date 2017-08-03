@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "neutral",
+        "cost": null,
+        "deck_limit": 1,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "seeker-of-void",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Seeker of Void",
+        "political": null,
+        "political_bonus": null,
+        "side": null,
+        "strength": null,
+        "strength_bonus": null,
+        "text": "You may replace 1 province of any element with an additional [element-void] province while deckbuilding.\n<b>Reaction:<\/b> After an [element-void] province you control is revealed – gain 1 fate.",
+        "traits": [
+            "seeker",
+            "void"
+        ],
+        "type": "role",
+        "unicity": false
+    }
+]
