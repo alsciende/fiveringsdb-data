@@ -426,6 +426,12 @@
         "illustrator": "Chris Ostrowski"
     },
     {
+        "card_id": "utaku-infantry",
+        "quantity": 1,
+        "position": 110,
+        "illustrator": "Bob Stevlic"
+    },
+    {
         "card_id": "border-rider",
         "quantity": 1,
         "position": 112,
