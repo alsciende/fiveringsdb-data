@@ -1,0 +1,28 @@
+[
+    {
+        "clan": "crane",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "brash-samurai",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Brash Samurai",
+        "political": "1",
+        "political_bonus": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:<\/b> While this character is your only participating character in a conflict – honor this character.",
+        "traits": [
+            "bushi"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

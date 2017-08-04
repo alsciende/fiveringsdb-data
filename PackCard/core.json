@@ -138,6 +138,12 @@
         "illustrator": "Alayna Lemmer"
     },
     {
+        "card_id": "brash-samurai",
+        "quantity": 1,
+        "position": 42,
+        "illustrator": "Calvin Chua"
+    },
+    {
         "card_id": "doji-gift-giver",
         "quantity": 1,
         "position": 44,
@@ -418,6 +424,12 @@
         "quantity": 1,
         "position": 101,
         "illustrator": "Leonardo Borazio"
+    },
+    {
+        "card_id": "favored-niece",
+        "quantity": 1,
+        "position": 102,
+        "illustrator": "Wen Juinn"
     },
     {
         "card_id": "city-of-lies",
