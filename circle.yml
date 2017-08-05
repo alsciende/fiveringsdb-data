@@ -10,16 +10,16 @@ checkout:
     - cp /home/ubuntu/fiveringsdb/vue/config/prod.env.js.dist /home/ubuntu/fiveringsdb/vue/config/prod.env.js
 
 dependencies:
-  pre:
+  override:
     - cp /home/ubuntu/fiveringsdb/app/config/parameters.circle.yml /home/ubuntu/fiveringsdb/app/config/parameters.yml
-  post:
+    - cd /home/ubuntu/fiveringsdb && composer install
     - sudo cp /home/ubuntu/fiveringsdb/app/config/apache.circle.conf /etc/apache2/sites-available/fiveringsdb.conf
     - sudo rm /etc/apache2/mods-enabled/php5.load
     - sudo a2ensite fiveringsdb
     - sudo service apache2 restart
 
 database:
-  post:
+  override:
     - cd /home/ubuntu/fiveringsdb && bin/console doctrine:schema:update --no-interaction  --force
     - cd /home/ubuntu/fiveringsdb && bin/console doctrine:fixtures:load --no-interaction
     - cd /home/ubuntu/fiveringsdb && bin/console app:data:import --no-interaction
