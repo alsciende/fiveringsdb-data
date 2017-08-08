@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "scorpion",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "id": "adept-of-shadows",
+        "influence_cost": 3,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Adept of Shadows",
+        "political": "2",
+        "political_bonus": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:<\/b> Lose 1 honor – return this character to your hand.",
+        "traits": [
+            "bushi",
+            "shinobi"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]
