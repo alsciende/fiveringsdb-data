@@ -30,6 +30,12 @@
         "illustrator": "Alayna Lemmer"
     },
     {
+        "card_id": "golden-plains-outpost",
+        "quantity": 1,
+        "position": 7,
+        "illustrator": "Alayna Lemmer"
+    },
+    {
         "card_id": "defend-the-wall",
         "quantity": 1,
         "position": 8,
@@ -58,6 +64,12 @@
         "quantity": 1,
         "position": 12,
         "illustrator": "Oliver Specht"
+    },
+    {
+        "card_id": "endless-plains",
+        "quantity": 1,
+        "position": 14,
+        "illustrator": "Alayna Lemmer"
     },
     {
         "card_id": "elemental-fury",
@@ -444,6 +456,12 @@
         "illustrator": "Chris Ostrowski"
     },
     {
+        "card_id": "moto-youth",
+        "quantity": 1,
+        "position": 109,
+        "illustrator": "Polar Engine"
+    },
+    {
         "card_id": "utaku-infantry",
         "quantity": 1,
         "position": 110,
@@ -456,16 +474,52 @@
         "illustrator": "Charles Urbach"
     },
     {
+        "card_id": "meishodo-wielder",
+        "quantity": 1,
+        "position": 113,
+        "illustrator": "Felipe Gaona"
+    },
+    {
         "card_id": "shinjo-outrider",
         "quantity": 1,
         "position": 114,
         "illustrator": "Kevin Zamir Goeke"
     },
     {
+        "card_id": "giver-of-gifts",
+        "quantity": 1,
+        "position": 115,
+        "illustrator": "Smirtouille"
+    },
+    {
+        "card_id": "ide-trader",
+        "quantity": 1,
+        "position": 116,
+        "illustrator": "Caravan Studio"
+    },
+    {
         "card_id": "warrior-poet",
         "quantity": 1,
         "position": 117,
         "illustrator": "Le Vuong"
+    },
+    {
+        "card_id": "moto-horde",
+        "quantity": 1,
+        "position": 119,
+        "illustrator": "Calvin Chua"
+    },
+    {
+        "card_id": "shinjo-tatsuo",
+        "quantity": 1,
+        "position": 120,
+        "illustrator": "Sergio Camarena"
+    },
+    {
+        "card_id": "shinjo-altansarnai",
+        "quantity": 1,
+        "position": 121,
+        "illustrator": "Shawn Ignatius Tan Le Vuong"
     },
     {
         "card_id": "otomo-courtier",
@@ -768,16 +822,58 @@
         "illustrator": "Charles Urbach"
     },
     {
+        "card_id": "ide-messenger",
+        "quantity": 1,
+        "position": 191,
+        "illustrator": "Lin Hsiang"
+    },
+    {
+        "card_id": "favored-mount",
+        "quantity": 1,
+        "position": 192,
+        "illustrator": "Lin Hsiang"
+    },
+    {
+        "card_id": "spyglass",
+        "quantity": 1,
+        "position": 193,
+        "illustrator": "Aaron Miller"
+    },
+    {
+        "card_id": "born-in-war",
+        "quantity": 1,
+        "position": 194,
+        "illustrator": "Kevin Zamir Goeke"
+    },
+    {
         "card_id": "breakthrough",
         "quantity": 1,
         "position": 195,
         "illustrator": "Sergio Camarena"
     },
     {
+        "card_id": "captive-audience",
+        "quantity": 1,
+        "position": 196,
+        "illustrator": "Calvin Chua"
+    },
+    {
+        "card_id": "i-am-ready",
+        "quantity": 1,
+        "position": 197,
+        "illustrator": "Drew Baker"
+    },
+    {
         "card_id": "way-of-the-unicorn",
         "quantity": 1,
         "position": 198,
         "illustrator": "Scott Wade"
+    },
+    {
+        "card_id": "cavalry-reserves",
+        "quantity": 1,
+        "position": 199,
+        "illustrator": "Andy Hepworth"
     },
     {
         "card_id": "fine-katana",
