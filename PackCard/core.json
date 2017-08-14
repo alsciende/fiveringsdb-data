@@ -30,6 +30,12 @@
         "illustrator": "Alayna Lemmer"
     },
     {
+        "card_id": "city-of-the-open-hand",
+        "quantity": 1,
+        "position": 6,
+        "illustrator": "Chris Ostrowski"
+    },
+    {
         "card_id": "golden-plains-outpost",
         "quantity": 1,
         "position": 7,
@@ -64,6 +70,12 @@
         "quantity": 1,
         "position": 12,
         "illustrator": "Oliver Specht"
+    },
+    {
+        "card_id": "secret-cache",
+        "quantity": 1,
+        "position": 13,
+        "illustrator": "Carlos Palma Cruchaga"
     },
     {
         "card_id": "endless-plains",
@@ -432,6 +444,18 @@
         "illustrator": "Polar Engine"
     },
     {
+        "card_id": "soshi-illusionist",
+        "quantity": 1,
+        "position": 99,
+        "illustrator": "Antonio José Manzanedo"
+    },
+    {
+        "card_id": "yogo-outcast",
+        "quantity": 1,
+        "position": 100,
+        "illustrator": "Drew Baker"
+    },
+    {
         "card_id": "young-rumormonger",
         "quantity": 1,
         "position": 101,
@@ -448,6 +472,30 @@
         "quantity": 1,
         "position": 103,
         "illustrator": "Jake Murray"
+    },
+    {
+        "card_id": "shosuro-miyako",
+        "quantity": 1,
+        "position": 104,
+        "illustrator": "Steve Argyle"
+    },
+    {
+        "card_id": "bayushi-yunako",
+        "quantity": 1,
+        "position": 105,
+        "illustrator": "Adam Schumpert"
+    },
+    {
+        "card_id": "yogo-hiroue",
+        "quantity": 1,
+        "position": 106,
+        "illustrator": "Magali Villeneuve"
+    },
+    {
+        "card_id": "bayushi-shoju",
+        "quantity": 1,
+        "position": 107,
+        "illustrator": "Shawn Ignatius Tan Le Vuong"
     },
     {
         "card_id": "city-of-lies",
@@ -808,6 +856,36 @@
         "quantity": 1,
         "position": 180,
         "illustrator": "Felipe Gaona"
+    },
+    {
+        "card_id": "unassuming-yojimbo",
+        "quantity": 1,
+        "position": 181,
+        "illustrator": "Shen Fei"
+    },
+    {
+        "card_id": "court-mask",
+        "quantity": 1,
+        "position": 182,
+        "illustrator": "Diego Gisbert Llorens"
+    },
+    {
+        "card_id": "fiery-madness",
+        "quantity": 1,
+        "position": 183,
+        "illustrator": "Jorge Matar"
+    },
+    {
+        "card_id": "forged-edict",
+        "quantity": 1,
+        "position": 184,
+        "illustrator": "Llyn Hunter"
+    },
+    {
+        "card_id": "way-of-the-scorpion",
+        "quantity": 1,
+        "position": 185,
+        "illustrator": "Scott Wade"
     },
     {
         "card_id": "calling-in-favors",

@@ -1,0 +1,28 @@
+[
+    {
+        "clan": "scorpion",
+        "cost": null,
+        "deck_limit": 1,
+        "element": null,
+        "fate": 7,
+        "glory": null,
+        "honor": 10,
+        "id": "city-of-the-open-hand",
+        "influence_cost": null,
+        "influence_pool": 10,
+        "military": null,
+        "military_bonus": null,
+        "name": "City of the Open Hand",
+        "political": null,
+        "political_bonus": null,
+        "side": null,
+        "strength": null,
+        "strength_bonus": "+1",
+        "text": "<b>Action:<\/b> If you are less honorable than an opponent, bow this stronghold – take 1 honor from that player.",
+        "traits": [
+            "city"
+        ],
+        "type": "stronghold",
+        "unicity": true
+    }
+]
