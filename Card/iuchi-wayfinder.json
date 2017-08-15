@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 1,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "id": "iuchi-wayfinder",
+        "influence_cost": 1,
+        "influence_pool": null,
+        "military": "1",
+        "military_bonus": null,
+        "name": "Iuchi Wayfinder",
+        "political": "1",
+        "political_bonus": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:<\/b> After this character enters play – look at a facedown province.",
+        "traits": [
+            "shugenja",
+            "water",
+            "cavalry"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

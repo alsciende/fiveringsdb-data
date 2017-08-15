@@ -1,0 +1,28 @@
+[
+    {
+        "clan": "crab",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "intimidating-hida",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "4",
+        "military_bonus": null,
+        "name": "Intimidating Hida",
+        "political": "2",
+        "political_bonus": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:<\/b> After an opponent passes on declaring a conflict – that player loses 1 honor.",
+        "traits": [
+            "bushi"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

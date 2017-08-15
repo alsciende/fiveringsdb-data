@@ -1,0 +1,28 @@
+[
+    {
+        "clan": "neutral",
+        "cost": null,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "favorable-ground",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Favorable Ground",
+        "political": null,
+        "political_bonus": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": "+1",
+        "text": "<b>Action:<\/b> During a conflict, sacrifice this holding. Choose a character you control – move that character to the conflict or home from the conflict.",
+        "traits": [
+            "battlefield"
+        ],
+        "type": "holding",
+        "unicity": false
+    }
+]

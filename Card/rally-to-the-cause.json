@@ -1,0 +1,26 @@
+[
+    {
+        "clan": "neutral",
+        "cost": null,
+        "deck_limit": 1,
+        "element": "water",
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "rally-to-the-cause",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Rally to the Cause",
+        "political": null,
+        "political_bonus": null,
+        "side": null,
+        "strength": 4,
+        "strength_bonus": null,
+        "text": "<b>Reaction:<\/b> After this province is revealed – switch the conflict type. <i>(The conflict retains its element.)<\/i>",
+        "traits": [],
+        "type": "province",
+        "unicity": false
+    }
+]

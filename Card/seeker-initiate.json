@@ -1,0 +1,28 @@
+[
+    {
+        "clan": "neutral",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "seeker-initiate",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "1",
+        "military_bonus": null,
+        "name": "Seeker Initiate",
+        "political": "1",
+        "political_bonus": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Seeker role only.\n<b>Reaction:<\/b> After you claim a ring that matches the element of your role – search the top 5 cards of your conflict deck for a card and add it to your hand. Shuffle.",
+        "traits": [
+            "monk"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

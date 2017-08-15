@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "dragon",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "mirumoto-prodigy",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Mirumoto Prodigy",
+        "political": "2",
+        "political_bonus": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "While this character is attacking alone, your opponent cannot declare more than one defender.",
+        "traits": [
+            "bushi",
+            "duelist"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

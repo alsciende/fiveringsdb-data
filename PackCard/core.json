@@ -84,10 +84,40 @@
         "illustrator": "Alayna Lemmer"
     },
     {
+        "card_id": "ancestral-lands",
+        "quantity": 1,
+        "position": 15,
+        "illustrator": "Nele Diel"
+    },
+    {
         "card_id": "elemental-fury",
         "quantity": 1,
         "position": 16,
         "illustrator": "Calvin Chua"
+    },
+    {
+        "card_id": "entrenched-position",
+        "quantity": 1,
+        "position": 17,
+        "illustrator": "Stanislav Dikolenko"
+    },
+    {
+        "card_id": "fertile-fields",
+        "quantity": 1,
+        "position": 18,
+        "illustrator": "Gong Studios"
+    },
+    {
+        "card_id": "manicured-garden",
+        "quantity": 1,
+        "position": 19,
+        "illustrator": "Stefano Baldo"
+    },
+    {
+        "card_id": "meditations-on-the-tao",
+        "quantity": 1,
+        "position": 20,
+        "illustrator": "Eli Ring"
     },
     {
         "card_id": "night-raid",
@@ -102,6 +132,36 @@
         "illustrator": "Nele Diel"
     },
     {
+        "card_id": "rally-to-the-cause",
+        "quantity": 1,
+        "position": 23,
+        "illustrator": "Carlos Palma Cruchaga"
+    },
+    {
+        "card_id": "shameful-display",
+        "quantity": 1,
+        "position": 24,
+        "illustrator": "Polar Engine"
+    },
+    {
+        "card_id": "eager-scout",
+        "quantity": 1,
+        "position": 25,
+        "illustrator": "Diego Gisbert Llorens"
+    },
+    {
+        "card_id": "hida-guardian",
+        "quantity": 1,
+        "position": 26,
+        "illustrator": "Drew Baker"
+    },
+    {
+        "card_id": "kaiu-envoy",
+        "quantity": 1,
+        "position": 27,
+        "illustrator": "Drew Baker"
+    },
+    {
         "card_id": "hiruma-yojimbo",
         "quantity": 1,
         "position": 28,
@@ -112,6 +172,24 @@
         "quantity": 1,
         "position": 29,
         "illustrator": "Carlos Palma Cruchaga"
+    },
+    {
+        "card_id": "vanguard-warrior",
+        "quantity": 1,
+        "position": 30,
+        "illustrator": "Erich Schreiner"
+    },
+    {
+        "card_id": "borderlands-defender",
+        "quantity": 1,
+        "position": 31,
+        "illustrator": "Le Vuong"
+    },
+    {
+        "card_id": "intimidating-hida",
+        "quantity": 1,
+        "position": 32,
+        "illustrator": "Sergio Camarena"
     },
     {
         "card_id": "vengeful-berserker",
@@ -162,10 +240,22 @@
         "illustrator": "Alayna Lemmer"
     },
     {
+        "card_id": "doji-whisperer",
+        "quantity": 1,
+        "position": 41,
+        "illustrator": "Kathryn Steele"
+    },
+    {
         "card_id": "brash-samurai",
         "quantity": 1,
         "position": 42,
         "illustrator": "Calvin Chua"
+    },
+    {
+        "card_id": "cautious-scout",
+        "quantity": 1,
+        "position": 43,
+        "illustrator": "Sergio Camarena"
     },
     {
         "card_id": "doji-gift-giver",
@@ -228,6 +318,12 @@
         "illustrator": "Conceptopolis"
     },
     {
+        "card_id": "doomed-shugenja",
+        "quantity": 1,
+        "position": 54,
+        "illustrator": "Smirtouille"
+    },
+    {
         "card_id": "togashi-initiate",
         "quantity": 1,
         "position": 55,
@@ -238,6 +334,12 @@
         "quantity": 1,
         "position": 56,
         "illustrator": "Stanislav Dikolenko"
+    },
+    {
+        "card_id": "mirumoto-prodigy",
+        "quantity": 1,
+        "position": 57,
+        "illustrator": "Polar Engine"
     },
     {
         "card_id": "niten-adept",
@@ -298,6 +400,12 @@
         "quantity": 1,
         "position": 67,
         "illustrator": "Leonardo Borazio"
+    },
+    {
+        "card_id": "ikoma-prodigy",
+        "quantity": 1,
+        "position": 68,
+        "illustrator": "Mario Wibisono"
     },
     {
         "card_id": "matsu-berserker",
@@ -372,6 +480,12 @@
         "illustrator": "Shen Fei"
     },
     {
+        "card_id": "naive-student",
+        "quantity": 1,
+        "position": 81,
+        "illustrator": "Matt Hansen"
+    },
+    {
         "card_id": "shiba-peacemaker",
         "quantity": 1,
         "position": 82,
@@ -394,6 +508,12 @@
         "quantity": 1,
         "position": 85,
         "illustrator": "Tony Foti"
+    },
+    {
+        "card_id": "meddling-mediator",
+        "quantity": 1,
+        "position": 86,
+        "illustrator": "Drew Baker"
     },
     {
         "card_id": "radiant-orator",
@@ -438,10 +558,34 @@
         "illustrator": "Shawn Ignatius Tan"
     },
     {
+        "card_id": "forgotten-library",
+        "quantity": 1,
+        "position": 94,
+        "illustrator": "Lino Drieghe"
+    },
+    {
+        "card_id": "bayushi-liar",
+        "quantity": 1,
+        "position": 95,
+        "illustrator": "Diego Gisbert Llorens"
+    },
+    {
         "card_id": "bayushi-manipulator",
         "quantity": 1,
         "position": 96,
         "illustrator": "Polar Engine"
+    },
+    {
+        "card_id": "sinister-soshi",
+        "quantity": 1,
+        "position": 97,
+        "illustrator": "Le Vuong"
+    },
+    {
+        "card_id": "blackmail-artist",
+        "quantity": 1,
+        "position": 98,
+        "illustrator": "Erich Schreiner"
     },
     {
         "card_id": "soshi-illusionist",
@@ -516,6 +660,12 @@
         "illustrator": "Bob Stevlic"
     },
     {
+        "card_id": "aggressive-moto",
+        "quantity": 1,
+        "position": 111,
+        "illustrator": "Polar Engine"
+    },
+    {
         "card_id": "border-rider",
         "quantity": 1,
         "position": 112,
@@ -552,6 +702,12 @@
         "illustrator": "Le Vuong"
     },
     {
+        "card_id": "utaku-yumino",
+        "quantity": 1,
+        "position": 118,
+        "illustrator": "Jazz Siy"
+    },
+    {
         "card_id": "moto-horde",
         "quantity": 1,
         "position": 119,
@@ -576,10 +732,46 @@
         "illustrator": "Jake Murray"
     },
     {
+        "card_id": "seppun-guardsman",
+        "quantity": 1,
+        "position": 123,
+        "illustrator": "Shen Fei"
+    },
+    {
+        "card_id": "keeper-initiate",
+        "quantity": 1,
+        "position": 124,
+        "illustrator": "Sergio Camarena"
+    },
+    {
+        "card_id": "miya-mystic",
+        "quantity": 1,
+        "position": 125,
+        "illustrator": "Mike Capprotti"
+    },
+    {
+        "card_id": "seeker-initiate",
+        "quantity": 1,
+        "position": 126,
+        "illustrator": "Muyoung Kim"
+    },
+    {
         "card_id": "wandering-ronin",
         "quantity": 1,
         "position": 127,
         "illustrator": "Kim Sokol"
+    },
+    {
+        "card_id": "favorable-ground",
+        "quantity": 1,
+        "position": 128,
+        "illustrator": "Jon Hodgson"
+    },
+    {
+        "card_id": "imperial-storehouse",
+        "quantity": 1,
+        "position": 129,
+        "illustrator": "Charles Urbach"
     },
     {
         "card_id": "hiruma-ambusher",
@@ -606,10 +798,22 @@
         "illustrator": "Niten"
     },
     {
+        "card_id": "jade-tetsubo",
+        "quantity": 1,
+        "position": 134,
+        "illustrator": "Lukas Banas"
+    },
+    {
         "card_id": "levy",
         "quantity": 1,
         "position": 135,
         "illustrator": "Caravan Studio"
+    },
+    {
+        "card_id": "rebuild",
+        "quantity": 1,
+        "position": 136,
+        "illustrator": "Filip Storch"
     },
     {
         "card_id": "way-of-the-crab",
@@ -628,6 +832,12 @@
         "quantity": 1,
         "position": 139,
         "illustrator": "Alayna Lemmer"
+    },
+    {
+        "card_id": "political-rival",
+        "quantity": 1,
+        "position": 140,
+        "illustrator": "Caravan Studio"
     },
     {
         "card_id": "above-question",
@@ -696,6 +906,12 @@
         "illustrator": "Jason Juta"
     },
     {
+        "card_id": "daimyo-s-favor",
+        "quantity": 1,
+        "position": 152,
+        "illustrator": "Lukas Banas"
+    },
+    {
         "card_id": "kitsuki-s-method",
         "quantity": 1,
         "position": 153,
@@ -718,6 +934,12 @@
         "quantity": 1,
         "position": 156,
         "illustrator": "Dan Martin"
+    },
+    {
+        "card_id": "tranquility",
+        "quantity": 1,
+        "position": 157,
+        "illustrator": "Conceptopolis"
     },
     {
         "card_id": "indomitable-will",
@@ -912,6 +1134,12 @@
         "illustrator": "Charles Urbach"
     },
     {
+        "card_id": "iuchi-wayfinder",
+        "quantity": 1,
+        "position": 190,
+        "illustrator": "Calvin Chua"
+    },
+    {
         "card_id": "ide-messenger",
         "quantity": 1,
         "position": 191,
@@ -972,6 +1200,12 @@
         "illustrator": "Brent Chumley"
     },
     {
+        "card_id": "ornate-fan",
+        "quantity": 1,
+        "position": 201,
+        "illustrator": "Ancor Gil Hernandez"
+    },
+    {
         "card_id": "cloud-the-mind",
         "quantity": 1,
         "position": 202,
@@ -988,6 +1222,12 @@
         "quantity": 1,
         "position": 204,
         "illustrator": "Troy Graham"
+    },
+    {
+        "card_id": "contingency-plan",
+        "quantity": 1,
+        "position": 205,
+        "illustrator": "Filip Storch"
     },
     {
         "card_id": "court-games",
@@ -1014,10 +1254,28 @@
         "illustrator": "Mike Capprotti"
     },
     {
+        "card_id": "charge",
+        "quantity": 1,
+        "position": 210,
+        "illustrator": "Niten"
+    },
+    {
         "card_id": "fallen-in-battle",
         "quantity": 1,
         "position": 211,
         "illustrator": "Chris Pritchard"
+    },
+    {
+        "card_id": "outwit",
+        "quantity": 1,
+        "position": 212,
+        "illustrator": "Anna Christenson"
+    },
+    {
+        "card_id": "rout",
+        "quantity": 1,
+        "position": 213,
+        "illustrator": "Calvin Chua"
     },
     {
         "card_id": "keeper-of-air",
