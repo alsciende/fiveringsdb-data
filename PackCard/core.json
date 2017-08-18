@@ -355,7 +355,7 @@
     },
     {
         "card_id": "favorable-ground",
-        "quantity": 1,
+        "quantity": 2,
         "position": 128,
         "illustrator": "Jon Hodgson"
     },
@@ -379,7 +379,7 @@
     },
     {
         "card_id": "fertile-fields",
-        "quantity": 1,
+        "quantity": 2,
         "position": 18,
         "illustrator": "Gong Studios"
     },
@@ -391,7 +391,7 @@
     },
     {
         "card_id": "fine-katana",
-        "quantity": 1,
+        "quantity": 2,
         "position": 200,
         "illustrator": "Brent Chumley"
     },
@@ -403,7 +403,7 @@
     },
     {
         "card_id": "for-shame",
-        "quantity": 1,
+        "quantity": 2,
         "position": 207,
         "illustrator": "Shen Fei"
     },
@@ -439,7 +439,7 @@
     },
     {
         "card_id": "good-omen",
-        "quantity": 1,
+        "quantity": 2,
         "position": 208,
         "illustrator": "Eli Ring"
     },
@@ -547,7 +547,7 @@
     },
     {
         "card_id": "imperial-storehouse",
-        "quantity": 1,
+        "quantity": 2,
         "position": 129,
         "illustrator": "Charles Urbach"
     },
@@ -625,7 +625,7 @@
     },
     {
         "card_id": "keeper-initiate",
-        "quantity": 1,
+        "quantity": 2,
         "position": 124,
         "illustrator": "Sergio Camarena"
     },
@@ -715,7 +715,7 @@
     },
     {
         "card_id": "manicured-garden",
-        "quantity": 1,
+        "quantity": 2,
         "position": 19,
         "illustrator": "Stefano Baldo"
     },
@@ -751,7 +751,7 @@
     },
     {
         "card_id": "meditations-on-the-tao",
-        "quantity": 1,
+        "quantity": 2,
         "position": 20,
         "illustrator": "Eli Ring"
     },
@@ -811,7 +811,7 @@
     },
     {
         "card_id": "night-raid",
-        "quantity": 1,
+        "quantity": 2,
         "position": 21,
         "illustrator": "Niten"
     },
@@ -841,7 +841,7 @@
     },
     {
         "card_id": "ornate-fan",
-        "quantity": 1,
+        "quantity": 2,
         "position": 201,
         "illustrator": "Ancor Gil Hernandez"
     },
@@ -853,7 +853,7 @@
     },
     {
         "card_id": "outwit",
-        "quantity": 1,
+        "quantity": 2,
         "position": 212,
         "illustrator": "Anna Christenson"
     },
@@ -865,7 +865,7 @@
     },
     {
         "card_id": "pilgrimage",
-        "quantity": 1,
+        "quantity": 2,
         "position": 22,
         "illustrator": "Nele Diel"
     },
@@ -883,7 +883,7 @@
     },
     {
         "card_id": "rally-to-the-cause",
-        "quantity": 1,
+        "quantity": 2,
         "position": 23,
         "illustrator": "Carlos Palma Cruchaga"
     },
@@ -913,7 +913,7 @@
     },
     {
         "card_id": "rout",
-        "quantity": 1,
+        "quantity": 2,
         "position": 213,
         "illustrator": "Calvin Chua"
     },
@@ -943,7 +943,7 @@
     },
     {
         "card_id": "seeker-initiate",
-        "quantity": 1,
+        "quantity": 2,
         "position": 126,
         "illustrator": "Muyoung Kim"
     },
@@ -1003,7 +1003,7 @@
     },
     {
         "card_id": "shameful-display",
-        "quantity": 1,
+        "quantity": 2,
         "position": 24,
         "illustrator": "Polar Engine"
     },
@@ -1093,7 +1093,7 @@
     },
     {
         "card_id": "spies-at-court",
-        "quantity": 1,
+        "quantity": 2,
         "position": 209,
         "illustrator": "Mike Capprotti"
     },
