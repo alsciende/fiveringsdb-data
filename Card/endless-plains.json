@@ -18,7 +18,7 @@
         "side": null,
         "strength": 2,
         "strength_bonus": null,
-        "text": "<b>Reaction:<\/b> After an attack is declared here, break this province Your opponent chooses an attacking character – discard that character.",
+        "text": "<b>Reaction:<\/b> After an attack is declared here, break this province.\nYour opponent chooses an attacking character – discard that character.",
         "traits": [],
         "type": "province",
         "unicity": false
