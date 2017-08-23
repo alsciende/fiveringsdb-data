@@ -4,5 +4,11 @@
         "name": "Core Set",
         "position": 1,
         "size": 1
+    },
+    {
+        "id": "promos",
+        "name": "Promos",
+        "position": 2,
+        "size": 1
     }
 ]

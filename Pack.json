@@ -7,5 +7,14 @@
         "released_at": null,
         "ffg_id": null,
         "cycle_id": "core"
+    },
+    {
+        "id": "gen-con-2017",
+        "name": "Gen Con 2017",
+        "position": 1,
+        "size": 9,
+        "released_at": "2017-08-17",
+        "ffg_id": null,
+        "cycle_id": "promos"
     }
 ]
