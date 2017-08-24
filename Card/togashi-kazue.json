@@ -18,7 +18,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "You may play this character as an attachment with the text: \"<b>Action:<\/b> During a conflict in which attached character is participating, choose another participating character – move 1 fate from that character to the attached character.\"",
+        "text": "You may play this character as an attachment with the text: \"<b>Action:</b> During a conflict in which attached character is participating, choose another participating character – move 1 fate from that character to the attached character.\"",
         "traits": [
             "monk",
             "tattooed"

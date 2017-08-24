@@ -18,7 +18,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Interrupt:<\/b> When the effects of a triggered ability that targets a <em>Shugenja<\/em> you control would initiate – cancel those effects.",
+        "text": "<b>Interrupt:</b> When the effects of a triggered ability that targets a <em>Shugenja</em> you control would initiate – cancel those effects.",
         "traits": [
             "bushi",
             "yojimbo"

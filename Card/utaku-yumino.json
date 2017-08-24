@@ -18,7 +18,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:<\/b> During a conflict, discard a card from your hand – this character gets +2[conflict-military] and +2[conflict-political] until the end of the conflict. (Limit once per conflict.)",
+        "text": "<b>Action:</b> During a conflict, discard a card from your hand – this character gets +2[conflict-military] and +2[conflict-political] until the end of the conflict. (Limit once per conflict.)",
         "traits": [
             "bushi",
             "battle-maiden",

@@ -18,7 +18,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:<\/b> After you lose a [conflict-political] conflict – put a <em>Bushi<\/em> character with printed cost 3 or lower into play from your dynasty discard pile or provinces.",
+        "text": "<b>Reaction:</b> After you lose a [conflict-political] conflict – put a <em>Bushi</em> character with printed cost 3 or lower into play from your dynasty discard pile or provinces.",
         "traits": [
             "courtier"
         ],

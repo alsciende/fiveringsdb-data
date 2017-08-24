@@ -18,7 +18,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:<\/b> While this character is participating in a conflict, choose a participating character controlled by your opponent – challenge that character to a [conflict-military] duel. If the loser of the duel has no fate on it, discard it. Otherwise remove 1 fate from it.",
+        "text": "<b>Action:</b> While this character is participating in a conflict, choose a participating character controlled by your opponent – challenge that character to a [conflict-military] duel. If the loser of the duel has no fate on it, discard it. Otherwise remove 1 fate from it.",
         "traits": [
             "bushi",
             "duelist"

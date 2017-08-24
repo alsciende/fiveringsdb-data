@@ -18,7 +18,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:<\/b> While this character is attacking, your opponent must choose a participating character he or she controls – move that character home.",
+        "text": "<b>Action:</b> While this character is attacking, your opponent must choose a participating character he or she controls – move that character home.",
         "traits": [
             "bushi"
         ],

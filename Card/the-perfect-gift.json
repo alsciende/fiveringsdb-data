@@ -18,7 +18,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:<\/b> Reveal the top 4 cards of each player's conflict deck. Choose 1 revealed card owned by each player and add it to its owner's hand. Shuffle.",
+        "text": "<b>Action:</b> Reveal the top 4 cards of each player's conflict deck. Choose 1 revealed card owned by each player and add it to its owner's hand. Shuffle.",
         "traits": [],
         "type": "event",
         "unicity": false

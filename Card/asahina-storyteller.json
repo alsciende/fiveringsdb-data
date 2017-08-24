@@ -18,7 +18,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "Sincerity. <i>(When this character leaves play, draw 1 card.)<\/i>\nEach honored [clan-crane] character you control gains sincerity.",
+        "text": "Sincerity. <i>(When this character leaves play, draw 1 card.)</i>\nEach honored [clan-crane] character you control gains sincerity.",
         "traits": [
             "courtier",
             "shugenja",

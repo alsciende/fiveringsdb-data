@@ -18,7 +18,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "While this character is attacking alone, treat the defending province as if its printed text box were blank (except for <em>Traits<\/em>).",
+        "text": "While this character is attacking alone, treat the defending province as if its printed text box were blank (except for <em>Traits</em>).",
         "traits": [
             "bushi",
             "scout"

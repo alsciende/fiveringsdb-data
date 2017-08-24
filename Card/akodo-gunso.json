@@ -18,7 +18,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "Pride. <i>(After this character wins a conflict, honor it. After this character loses a conflict, dishonor it.)<\/i>\n<b>Reaction:<\/b> After this character enters play from a province – refill that province faceup.",
+        "text": "Pride. <i>(After this character wins a conflict, honor it. After this character loses a conflict, dishonor it.)</i>\n<b>Reaction:</b> After this character enters play from a province – refill that province faceup.",
         "traits": [
             "bushi"
         ],
