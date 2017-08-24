@@ -15,6 +15,7 @@
         "name": "Wandering Ronin",
         "political": "2",
         "political_bonus": null,
+        "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,

@@ -15,6 +15,7 @@
         "name": "Guidance of the Ancestors",
         "political": null,
         "political_bonus": "+1",
+        "role_restriction": null,
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,

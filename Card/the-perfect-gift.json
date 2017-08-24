@@ -15,6 +15,7 @@
         "name": "The Perfect Gift",
         "political": null,
         "political_bonus": null,
+        "role_restriction": null,
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,

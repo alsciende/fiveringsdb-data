@@ -15,6 +15,7 @@
         "name": "Restoration of Balance",
         "political": null,
         "political_bonus": null,
+        "role_restriction": null,
         "side": null,
         "strength": 3,
         "strength_bonus": null,

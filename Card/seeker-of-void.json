@@ -15,6 +15,7 @@
         "name": "Seeker of Void",
         "political": null,
         "political_bonus": null,
+        "role_restriction": null,
         "side": null,
         "strength": null,
         "strength_bonus": null,

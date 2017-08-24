@@ -15,6 +15,7 @@
         "name": "Fertile Fields",
         "political": null,
         "political_bonus": null,
+        "role_restriction": null,
         "side": null,
         "strength": 4,
         "strength_bonus": null,

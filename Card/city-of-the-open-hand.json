@@ -15,6 +15,7 @@
         "name": "City of the Open Hand",
         "political": null,
         "political_bonus": null,
+        "role_restriction": null,
         "side": null,
         "strength": null,
         "strength_bonus": "+1",

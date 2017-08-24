@@ -15,6 +15,7 @@
         "name": "Height of Fashion",
         "political": null,
         "political_bonus": "+4",
+        "role_restriction": null,
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,

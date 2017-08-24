@@ -15,6 +15,7 @@
         "name": "Kaiu Envoy",
         "political": "0",
         "political_bonus": null,
+        "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,

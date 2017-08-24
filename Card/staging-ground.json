@@ -15,6 +15,7 @@
         "name": "Staging Ground",
         "political": null,
         "political_bonus": null,
+        "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": "+1",

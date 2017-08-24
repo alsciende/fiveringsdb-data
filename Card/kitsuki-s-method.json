@@ -15,6 +15,7 @@
         "name": "Kitsuki's Method",
         "political": null,
         "political_bonus": "+2",
+        "role_restriction": null,
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,

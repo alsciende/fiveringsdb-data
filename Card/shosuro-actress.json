@@ -15,6 +15,7 @@
         "name": "Shosuro Actress",
         "political": "3",
         "political_bonus": null,
+        "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,

@@ -15,6 +15,7 @@
         "name": "Endless Plains",
         "political": null,
         "political_bonus": null,
+        "role_restriction": null,
         "side": null,
         "strength": 2,
         "strength_bonus": null,
