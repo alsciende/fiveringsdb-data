@@ -18,7 +18,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:<\/b> After you play a character from your hand, your opponent must select one – discard 1 card at random from his or her hand or choose and dishonor a character he or she controls.",
+        "text": "<b>Reaction:</b> After you play a character from your hand, your opponent must select one – discard 1 card at random from his or her hand or choose and dishonor a character he or she controls.",
         "traits": [
             "bushi",
             "shinobi"

@@ -18,7 +18,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Interrupt:<\/b> When the effects of an event would initiate, dishonor a <i>(friendly)<\/i> <em>Courtier<\/em> character – cancel those effects.",
+        "text": "<b>Interrupt:</b> When the effects of an event would initiate, dishonor a <i>(friendly)</i> <em>Courtier</em> character – cancel those effects.",
         "traits": [],
         "type": "event",
         "unicity": false

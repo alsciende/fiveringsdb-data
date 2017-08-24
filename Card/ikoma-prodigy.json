@@ -18,7 +18,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:<\/b> After 1 or more fate is placed on this character – gain 1 honor.",
+        "text": "<b>Reaction:</b> After 1 or more fate is placed on this character – gain 1 honor.",
         "traits": [
             "courtier"
         ],

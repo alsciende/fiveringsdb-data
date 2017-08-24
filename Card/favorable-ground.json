@@ -18,7 +18,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": "+1",
-        "text": "<b>Action:<\/b> During a conflict, sacrifice this holding. Choose a character you control – move that character to the conflict or home from the conflict.",
+        "text": "<b>Action:</b> During a conflict, sacrifice this holding. Choose a character you control – move that character to the conflict or home from the conflict.",
         "traits": [
             "battlefield"
         ],

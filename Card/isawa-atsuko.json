@@ -18,7 +18,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:<\/b> During a [element-void] conflict – until the end of the conflict, each participating character you control gets +1[conflict-military] and +1[conflict-political] and each participating character your opponent controls gets –1[conflict-military] and –1[conflict-political].",
+        "text": "<b>Action:</b> During a [element-void] conflict – until the end of the conflict, each participating character you control gets +1[conflict-military] and +1[conflict-political] and each participating character your opponent controls gets –1[conflict-military] and –1[conflict-political].",
         "traits": [
             "shugenja",
             "void"

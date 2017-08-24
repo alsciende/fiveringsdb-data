@@ -18,7 +18,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:<\/b> During a conflict, bow this character. Choose another [clan-crane] character – that character gets +3[conflict-political] until the end of the conflict.",
+        "text": "<b>Action:</b> During a conflict, bow this character. Choose another [clan-crane] character – that character gets +3[conflict-political] until the end of the conflict.",
         "traits": [
             "shugenja",
             "air"

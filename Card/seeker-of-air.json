@@ -18,7 +18,7 @@
         "side": null,
         "strength": null,
         "strength_bonus": null,
-        "text": "You may replace 1 province of any element with an additional [element-air] province while deckbuilding.\n<b>Reaction:<\/b> After an [element-air] province you control is revealed – gain 1 fate.",
+        "text": "You may replace 1 province of any element with an additional [element-air] province while deckbuilding.\n<b>Reaction:</b> After an [element-air] province you control is revealed – gain 1 fate.",
         "traits": [
             "seeker",
             "air"

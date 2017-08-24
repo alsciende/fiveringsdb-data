@@ -18,7 +18,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:<\/b> After this character enters play as a defender, choose a character – that character's abilities cannot be triggered during this conflict.",
+        "text": "<b>Reaction:</b> After this character enters play as a defender, choose a character – that character's abilities cannot be triggered during this conflict.",
         "traits": [
             "bushi",
             "scout"

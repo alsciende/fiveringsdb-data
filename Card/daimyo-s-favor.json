@@ -18,7 +18,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "Attach to a character you control.\n<b>Action:<\/b> Bow this attachment – reduce the cost of the next attachment you play on this character this phase by 1.",
+        "text": "Attach to a character you control.\n<b>Action:</b> Bow this attachment – reduce the cost of the next attachment you play on this character this phase by 1.",
         "traits": [
             "condition"
         ],

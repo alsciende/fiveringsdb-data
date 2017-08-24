@@ -18,7 +18,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:<\/b> Dishonor a <i>(friendly)<\/i> character. Choose an opponent's attachment – take control of that attachment and attach it to that character, if able. Otherwise, discard the attachment.",
+        "text": "<b>Action:</b> Dishonor a <i>(friendly)</i> character. Choose an opponent's attachment – take control of that attachment and attach it to that character, if able. Otherwise, discard the attachment.",
         "traits": [],
         "type": "event",
         "unicity": false

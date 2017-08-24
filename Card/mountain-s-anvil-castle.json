@@ -18,7 +18,7 @@
         "side": null,
         "strength": null,
         "strength_bonus": "+2",
-        "text": "<b>Action:<\/b> During a conflict, bow this stronghold. Choose a participating character with 1 or more attachments on it – until the end of the conflict, that character gets +1[conflict-military] and +1[conflict-political] (+2[conflict-military] and +2[conflict-political] instead if it has 2 or more attachments on it).",
+        "text": "<b>Action:</b> During a conflict, bow this stronghold. Choose a participating character with 1 or more attachments on it – until the end of the conflict, that character gets +1[conflict-military] and +1[conflict-political] (+2[conflict-military] and +2[conflict-political] instead if it has 2 or more attachments on it).",
         "traits": [
             "castle"
         ],

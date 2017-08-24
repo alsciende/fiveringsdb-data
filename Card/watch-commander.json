@@ -18,7 +18,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "Attach to a character you control. Limit 1 per character.\n<b>Reaction:<\/b> After an opponent plays a card during a conflict in which attached character is participating – that player loses 1 honor. (Unlimited.)",
+        "text": "Attach to a character you control. Limit 1 per character.\n<b>Reaction:</b> After an opponent plays a card during a conflict in which attached character is participating – that player loses 1 honor. (Unlimited.)",
         "traits": [
             "follower"
         ],
