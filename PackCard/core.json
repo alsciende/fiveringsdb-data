@@ -3,1338 +3,1561 @@
         "card_id": "above-question",
         "quantity": 1,
         "position": 141,
-        "illustrator": "Stu Barnes"
+        "illustrator": "Stu Barnes",
+        "flavor": "\"Excuse me, samurai-san, but you must be mistaken! It could not possibly have been her.\""
     },
     {
         "card_id": "adept-of-shadows",
         "quantity": 1,
         "position": 180,
-        "illustrator": "Felipe Gaona"
+        "illustrator": "Felipe Gaona",
+        "flavor": "There are dozens of ways to hide, and only one way to be seen."
     },
     {
         "card_id": "adept-of-the-waves",
         "quantity": 1,
         "position": 84,
-        "illustrator": "Jason Engle"
+        "illustrator": "Jason Engle",
+        "flavor": "\"Water is flexible and yielding, yet none can withstand the crashing waves.\""
     },
     {
         "card_id": "admit-defeat",
         "quantity": 1,
         "position": 147,
-        "illustrator": "David Horne"
+        "illustrator": "David Horne",
+        "flavor": "It is not only a question of defeating one's opponents, but defeating them in such a manner that they know they have been beaten."
     },
     {
         "card_id": "against-the-waves",
         "quantity": 1,
         "position": 177,
-        "illustrator": "Calvin Chua"
+        "illustrator": "Calvin Chua",
+        "flavor": "Water is ever changing. A gentle wave one moment and a torrent of force the next."
     },
     {
         "card_id": "agasha-swordsmith",
         "quantity": 1,
         "position": 56,
-        "illustrator": "Stanislav Dikolenko"
+        "illustrator": "Stanislav Dikolenko",
+        "flavor": null
     },
     {
         "card_id": "aggressive-moto",
         "quantity": 1,
         "position": 111,
-        "illustrator": "Polar Engine"
+        "illustrator": "Polar Engine",
+        "flavor": "Moto can die but cannot yield."
     },
     {
         "card_id": "akodo-gunso",
         "quantity": 1,
         "position": 71,
-        "illustrator": "Polar Engine"
+        "illustrator": "Polar Engine",
+        "flavor": null
     },
     {
         "card_id": "akodo-toturi",
         "quantity": 1,
         "position": 79,
-        "illustrator": "Shawn Ignatius Tan"
+        "illustrator": "Shawn Ignatius Tan",
+        "flavor": "A lion is more than his roar, his mane, his teeth, his heart. A lion is all of these."
     },
     {
         "card_id": "ambush",
         "quantity": 1,
         "position": 188,
-        "illustrator": "Calvin Chua"
+        "illustrator": "Calvin Chua",
+        "flavor": null
     },
     {
         "card_id": "ancestral-daisho",
         "quantity": 1,
         "position": 151,
-        "illustrator": "Jason Juta"
+        "illustrator": "Jason Juta",
+        "flavor": null
     },
     {
         "card_id": "ancestral-lands",
         "quantity": 2,
         "position": 15,
-        "illustrator": "Nele Diel"
+        "illustrator": "Nele Diel",
+        "flavor": "\"Our claim on these lands stretches back to the dawn of the Empire.\""
     },
     {
         "card_id": "artisan-academy",
         "quantity": 1,
         "position": 53,
-        "illustrator": "Conceptopolis"
+        "illustrator": "Conceptopolis",
+        "flavor": null
     },
     {
         "card_id": "asahina-artisan",
         "quantity": 1,
         "position": 40,
-        "illustrator": "Alayna Lemmer"
+        "illustrator": "Alayna Lemmer",
+        "flavor": null
     },
     {
         "card_id": "asahina-storyteller",
         "quantity": 1,
         "position": 50,
-        "illustrator": "Caravan Studio"
+        "illustrator": "Caravan Studio",
+        "flavor": null
     },
     {
         "card_id": "asako-diplomat",
         "quantity": 1,
         "position": 85,
-        "illustrator": "Tony Foti"
+        "illustrator": "Tony Foti",
+        "flavor": null
     },
     {
         "card_id": "ascetic-visionary",
         "quantity": 1,
         "position": 63,
-        "illustrator": "Conceptopolis"
+        "illustrator": "Conceptopolis",
+        "flavor": null
     },
     {
         "card_id": "assassination",
         "quantity": 2,
         "position": 203,
-        "illustrator": "Greg Lambrakis"
+        "illustrator": "Greg Lambrakis",
+        "flavor": null
     },
     {
         "card_id": "banzai",
         "quantity": 2,
         "position": 204,
-        "illustrator": "Troy Graham"
+        "illustrator": "Troy Graham",
+        "flavor": null
     },
     {
         "card_id": "bayushi-liar",
         "quantity": 1,
         "position": 95,
-        "illustrator": "Diego Gisbert Llorens"
+        "illustrator": "Diego Gisbert Llorens",
+        "flavor": "\"I sincerely doubt that asking you to trust me will change your mind, and yet, I ask anyway.\""
     },
     {
         "card_id": "bayushi-manipulator",
         "quantity": 1,
         "position": 96,
-        "illustrator": "Polar Engine"
+        "illustrator": "Polar Engine",
+        "flavor": "\"Victory does not always go to the strongest of two opponents.\" - Bayushi's Lies"
     },
     {
         "card_id": "bayushi-shoju",
         "quantity": 1,
         "position": 107,
-        "illustrator": "Shawn Ignatius Tan Le Vuong"
+        "illustrator": "Shawn Ignatius Tan and Le Vuong",
+        "flavor": "\"Believing what is true is only sensible.\""
     },
     {
         "card_id": "bayushi-yunako",
         "quantity": 1,
         "position": 105,
-        "illustrator": "Adam Schumpert"
+        "illustrator": "Adam Schumpert",
+        "flavor": null
     },
     {
         "card_id": "blackmail",
         "quantity": 1,
         "position": 189,
-        "illustrator": "Charles Urbach"
+        "illustrator": "Charles Urbach",
+        "flavor": null
     },
     {
         "card_id": "blackmail-artist",
         "quantity": 1,
         "position": 98,
-        "illustrator": "Erich Schreiner"
+        "illustrator": "Erich Schreiner",
+        "flavor": "\"The real art lies in convincing your mark that you are bound, by duty and honor, to expose him. At which point, buying you off becomes his idea.\""
     },
     {
         "card_id": "border-rider",
         "quantity": 1,
         "position": 112,
-        "illustrator": "Charles Urbach"
+        "illustrator": "Charles Urbach",
+        "flavor": "Ride to the horizon and back again. Only then can you begin to comprehend the Unicorn."
     },
     {
         "card_id": "borderlands-defender",
         "quantity": 1,
         "position": 31,
-        "illustrator": "Le Vuong"
+        "illustrator": "Le Vuong",
+        "flavor": "Even when faced with such hardship, the Crab Clan has never wavered, standing steadfast in its duty to protect the southern border of the Empire."
     },
     {
         "card_id": "borderlands-fortifications",
         "quantity": 1,
         "position": 38,
-        "illustrator": "Noah Bradley"
+        "illustrator": "Noah Bradley",
+        "flavor": null
     },
     {
         "card_id": "born-in-war",
         "quantity": 1,
         "position": 194,
-        "illustrator": "Kevin Zamir Goeke"
+        "illustrator": "Kevin Zamir Goeke",
+        "flavor": null
     },
     {
         "card_id": "brash-samurai",
         "quantity": 1,
         "position": 42,
-        "illustrator": "Calvin Chua"
+        "illustrator": "Calvin Chua",
+        "flavor": "A samurai lives at all times three feet from death."
     },
     {
         "card_id": "breakthrough",
         "quantity": 1,
         "position": 195,
-        "illustrator": "Sergio Camarena"
+        "illustrator": "Sergio Camarena",
+        "flavor": null
     },
     {
         "card_id": "calling-in-favors",
         "quantity": 1,
         "position": 186,
-        "illustrator": "Carlos Palma Cruchaga"
+        "illustrator": "Carlos Palma Cruchaga",
+        "flavor": null
     },
     {
         "card_id": "captive-audience",
         "quantity": 1,
         "position": 196,
-        "illustrator": "Calvin Chua"
+        "illustrator": "Calvin Chua",
+        "flavor": "\"Now you must heed our demands!\""
     },
     {
         "card_id": "cautious-scout",
         "quantity": 1,
         "position": 43,
-        "illustrator": "Sergio Camarena"
+        "illustrator": "Sergio Camarena",
+        "flavor": "They told him to be careful, but there was only one way to know for sure."
     },
     {
         "card_id": "cavalry-reserves",
         "quantity": 1,
         "position": 199,
-        "illustrator": "Andy Hepworth"
+        "illustrator": "Andy Hepworth",
+        "flavor": null
     },
     {
         "card_id": "charge",
         "quantity": 2,
         "position": 210,
-        "illustrator": "Niten"
+        "illustrator": "Niten",
+        "flavor": "A samurai must always be ready. Ready to fight. And ready, if need be, to die."
     },
     {
         "card_id": "city-of-lies",
         "quantity": 1,
         "position": 108,
-        "illustrator": "Chris Ostrowski"
+        "illustrator": "Chris Ostrowski",
+        "flavor": "In Ryok&#333; Owari Toshi, koku could pave any road."
     },
     {
         "card_id": "city-of-the-open-hand",
         "quantity": 1,
         "position": 6,
-        "illustrator": "Chris Ostrowski"
+        "illustrator": "Chris Ostrowski",
+        "flavor": null
     },
     {
         "card_id": "cloud-the-mind",
         "quantity": 2,
         "position": 202,
-        "illustrator": "Veronica V. Jones"
+        "illustrator": "Veronica V. Jones",
+        "flavor": null
     },
     {
         "card_id": "contingency-plan",
         "quantity": 2,
         "position": 205,
-        "illustrator": "Filip Storch"
+        "illustrator": "Filip Storch",
+        "flavor": "\"The only thing that is certain is that something will go wrong.\" - Bayushi's Lies"
     },
     {
         "card_id": "court-games",
         "quantity": 2,
         "position": 206,
-        "illustrator": "Shen Fei"
+        "illustrator": "Shen Fei",
+        "flavor": null
     },
     {
         "card_id": "court-mask",
         "quantity": 1,
         "position": 182,
-        "illustrator": "Diego Gisbert Llorens"
+        "illustrator": "Diego Gisbert Llorens",
+        "flavor": null
     },
     {
         "card_id": "daidoji-nerishma",
         "quantity": 1,
         "position": 46,
-        "illustrator": "Polar Engine"
+        "illustrator": "Polar Engine",
+        "flavor": "\"It's an ambush! Be ready!\""
     },
     {
         "card_id": "daimyo-s-favor",
         "quantity": 1,
         "position": 152,
-        "illustrator": "Lukas Banas"
+        "illustrator": "Lukas Banas",
+        "flavor": null
     },
     {
         "card_id": "deathseeker",
         "quantity": 1,
         "position": 72,
-        "illustrator": "Conceptopolis"
+        "illustrator": "Conceptopolis",
+        "flavor": "\"I shall redeem my name in service to my clan!\""
     },
     {
         "card_id": "defend-the-wall",
         "quantity": 1,
         "position": 8,
-        "illustrator": "Chris Ostrowski"
+        "illustrator": "Chris Ostrowski",
+        "flavor": null
     },
     {
         "card_id": "display-of-power",
         "quantity": 1,
         "position": 179,
-        "illustrator": "Shen Fei"
+        "illustrator": "Shen Fei",
+        "flavor": null
     },
     {
         "card_id": "doji-challenger",
         "quantity": 1,
         "position": 47,
-        "illustrator": "Zezhou Chen"
+        "illustrator": "Zezhou Chen",
+        "flavor": "\"I hope you are prepared to defend your words with steel!\""
     },
     {
         "card_id": "doji-gift-giver",
         "quantity": 1,
         "position": 44,
-        "illustrator": "Lukas Banas"
+        "illustrator": "Lukas Banas",
+        "flavor": null
     },
     {
         "card_id": "doji-hotaru",
         "quantity": 1,
         "position": 52,
-        "illustrator": "Shawn Ignatius Tan"
+        "illustrator": "Shawn Ignatius Tan",
+        "flavor": "\"Were it not for the rule of k&#333;, we would be trapped in this game for eternity. We are nearly perfectly matched.\""
     },
     {
         "card_id": "doji-whisperer",
         "quantity": 1,
         "position": 41,
-        "illustrator": "Kathryn Steele"
+        "illustrator": "Kathryn Steele",
+        "flavor": "\"Lean closer, that I might tell you something only the willows should hear...\""
     },
     {
         "card_id": "doomed-shugenja",
         "quantity": 1,
         "position": 54,
-        "illustrator": "Smirtouille"
+        "illustrator": "Smirtouille",
+        "flavor": null
     },
     {
         "card_id": "duelist-training",
         "quantity": 1,
         "position": 142,
-        "illustrator": "Charles Urbach"
+        "illustrator": "Charles Urbach",
+        "flavor": null
     },
     {
         "card_id": "eager-scout",
         "quantity": 1,
         "position": 25,
-        "illustrator": "Diego Gisbert Llorens"
+        "illustrator": "Diego Gisbert Llorens",
+        "flavor": "The first to fight, the first to die."
     },
     {
         "card_id": "elemental-fury",
         "quantity": 2,
         "position": 16,
-        "illustrator": "Calvin Chua"
+        "illustrator": "Calvin Chua",
+        "flavor": null
     },
     {
         "card_id": "endless-plains",
         "quantity": 1,
         "position": 14,
-        "illustrator": "Alayna Lemmer"
+        "illustrator": "Alayna Lemmer",
+        "flavor": null
     },
     {
         "card_id": "enlightened-warrior",
         "quantity": 1,
         "position": 60,
-        "illustrator": "Carlos Nuñez de Castro Torres"
+        "illustrator": "Carlos Nuñez de Castro Torres",
+        "flavor": "In heart, air.In spirit, earth.In sword, fire.In body, water.In mind, void."
     },
     {
         "card_id": "entrenched-position",
         "quantity": 2,
         "position": 17,
-        "illustrator": "Stanislav Dikolenko"
+        "illustrator": "Stanislav Dikolenko",
+        "flavor": "\"It would take an entire Moto horde to break through here.\""
     },
     {
         "card_id": "fallen-in-battle",
         "quantity": 2,
         "position": 211,
-        "illustrator": "Chris Pritchard"
+        "illustrator": "Chris Pritchard",
+        "flavor": null
     },
     {
         "card_id": "favorable-ground",
         "quantity": 2,
         "position": 128,
-        "illustrator": "Jon Hodgson"
+        "illustrator": "Jon Hodgson",
+        "flavor": null
     },
     {
         "card_id": "favored-mount",
         "quantity": 1,
         "position": 192,
-        "illustrator": "Lin Hsiang"
+        "illustrator": "Lin Hsiang",
+        "flavor": null
     },
     {
         "card_id": "favored-niece",
         "quantity": 1,
         "position": 102,
-        "illustrator": "Wen Juinn"
+        "illustrator": "Wen Juinn",
+        "flavor": "Not once in her life had she needed to ask twice."
     },
     {
         "card_id": "fearsome-mystic",
         "quantity": 1,
         "position": 91,
-        "illustrator": "Shawn Ignatius Tan"
+        "illustrator": "Shawn Ignatius Tan",
+        "flavor": null
     },
     {
         "card_id": "fertile-fields",
         "quantity": 2,
         "position": 18,
-        "illustrator": "Gong Studios"
+        "illustrator": "Gong Studios",
+        "flavor": "\"Inari-no-Kami smiles upon these lands.\" - Aiko, priestess of Inari"
     },
     {
         "card_id": "fiery-madness",
         "quantity": 1,
         "position": 183,
-        "illustrator": "Jorge Matar"
+        "illustrator": "Jorge Matar",
+        "flavor": "They had considered every possible vulnerability, save one."
     },
     {
         "card_id": "fine-katana",
         "quantity": 2,
         "position": 200,
-        "illustrator": "Brent Chumley"
+        "illustrator": "Brent Chumley",
+        "flavor": "Immortal steel waitsVenerated divine bladeThe fires of the soul"
     },
     {
         "card_id": "for-greater-glory",
         "quantity": 1,
         "position": 168,
-        "illustrator": "Niten"
+        "illustrator": "Niten",
+        "flavor": "\"Our names shall never be forgotten!\""
     },
     {
         "card_id": "for-shame",
         "quantity": 2,
         "position": 207,
-        "illustrator": "Shen Fei"
+        "illustrator": "Shen Fei",
+        "flavor": null
     },
     {
         "card_id": "forged-edict",
         "quantity": 1,
         "position": 184,
-        "illustrator": "Llyn Hunter"
+        "illustrator": "Llyn Hunter",
+        "flavor": null
     },
     {
         "card_id": "forgotten-library",
         "quantity": 1,
         "position": 94,
-        "illustrator": "Lino Drieghe"
+        "illustrator": "Lino Drieghe",
+        "flavor": "Truth cannot be lost, only forgotten."
     },
     {
         "card_id": "funeral-pyre",
         "quantity": 1,
         "position": 39,
-        "illustrator": "Kevin Zamir Goeke"
+        "illustrator": "Kevin Zamir Goeke",
+        "flavor": "\"We speed our fallen to Meido, that they do not rise again.\""
     },
     {
         "card_id": "giver-of-gifts",
         "quantity": 1,
         "position": 115,
-        "illustrator": "Smirtouille"
+        "illustrator": "Smirtouille",
+        "flavor": null
     },
     {
         "card_id": "golden-plains-outpost",
         "quantity": 1,
         "position": 7,
-        "illustrator": "Alayna Lemmer"
+        "illustrator": "Alayna Lemmer",
+        "flavor": null
     },
     {
         "card_id": "good-omen",
         "quantity": 2,
         "position": 208,
-        "illustrator": "Eli Ring"
+        "illustrator": "Eli Ring",
+        "flavor": null
     },
     {
         "card_id": "grasp-of-earth",
         "quantity": 1,
         "position": 173,
-        "illustrator": "Janathan Hunt"
+        "illustrator": "Jonathan Hunt",
+        "flavor": null
     },
     {
         "card_id": "guest-of-honor",
         "quantity": 1,
         "position": 51,
-        "illustrator": "Wen Juinn"
+        "illustrator": "Wen Juinn",
+        "flavor": "\"You wouldn't want to disgrace yourself in front of our distinguished guest, would you?\""
     },
     {
         "card_id": "guidance-of-the-ancestors",
         "quantity": 1,
         "position": 162,
-        "illustrator": "Matt Zeilinger"
+        "illustrator": "Matt Zeilinger",
+        "flavor": "\"Oh blessed ancestors, hear my prayer! May the strength of your honor guide my steps and lead me to righteousness!\""
     },
     {
         "card_id": "height-of-fashion",
         "quantity": 1,
         "position": 143,
-        "illustrator": "Gemma Tegelaers"
+        "illustrator": "Gemma Tegelaers",
+        "flavor": "The tides of fashion ebb and flow. Stay ahead of them, or sink beneath the waves of obscurity."
     },
     {
         "card_id": "hida-guardian",
         "quantity": 1,
         "position": 26,
-        "illustrator": "Drew Baker"
+        "illustrator": "Drew Baker",
+        "flavor": null
     },
     {
         "card_id": "hida-kisada",
         "quantity": 1,
         "position": 37,
-        "illustrator": "Shawn Ignatius Tan"
+        "illustrator": "Shawn Ignatius Tan",
+        "flavor": "\"What need have I of glory to defend this Wall?\""
     },
     {
         "card_id": "hida-tomonatsu",
         "quantity": 1,
         "position": 34,
-        "illustrator": "Muyoung Kim"
+        "illustrator": "MuYoung Kim",
+        "flavor": null
     },
     {
         "card_id": "hiruma-ambusher",
         "quantity": 1,
         "position": 130,
-        "illustrator": "Brandon Leach"
+        "illustrator": "Brandon Leach",
+        "flavor": null
     },
     {
         "card_id": "hiruma-yojimbo",
         "quantity": 1,
         "position": 28,
-        "illustrator": "Shen Fei"
+        "illustrator": "Shen Fei",
+        "flavor": "Enemies learned quickly: it was never wise to give her reason to draw that awful blade."
     },
     {
         "card_id": "honored-blade",
         "quantity": 1,
         "position": 163,
-        "illustrator": "Conceptopolis"
+        "illustrator": "Conceptopolis",
+        "flavor": null
     },
     {
         "card_id": "honored-general",
         "quantity": 1,
         "position": 77,
-        "illustrator": "Diego Gisbert Llorens"
+        "illustrator": "Diego Gisbert Llorens",
+        "flavor": null
     },
     {
         "card_id": "i-am-ready",
         "quantity": 1,
         "position": 197,
-        "illustrator": "Drew Baker"
+        "illustrator": "Drew Baker",
+        "flavor": null
     },
     {
         "card_id": "i-can-swim",
         "quantity": 1,
         "position": 187,
-        "illustrator": "Scott Wade"
+        "illustrator": "Scott Wade",
+        "flavor": "\"But scorpion! Now we will both die!\""
     },
     {
         "card_id": "ide-messenger",
         "quantity": 1,
         "position": 191,
-        "illustrator": "Lin Hsiang"
+        "illustrator": "Lin Hsiang",
+        "flavor": null
     },
     {
         "card_id": "ide-trader",
         "quantity": 1,
         "position": 116,
-        "illustrator": "Caravan Studio"
+        "illustrator": "Caravan Studio",
+        "flavor": null
     },
     {
         "card_id": "ikoma-eiji",
         "quantity": 1,
         "position": 78,
-        "illustrator": "Carlos Palma Cruchaga"
+        "illustrator": "Carlos Palma Cruchaga",
+        "flavor": null
     },
     {
         "card_id": "ikoma-prodigy",
         "quantity": 1,
         "position": 68,
-        "illustrator": "Mario Wibisono"
+        "illustrator": "Mario Wibisono",
+        "flavor": "She was destined to follow the path of her ancestors, the path of the true Go sage."
     },
     {
         "card_id": "imperial-storehouse",
         "quantity": 2,
         "position": 129,
-        "illustrator": "Charles Urbach"
+        "illustrator": "Charles Urbach",
+        "flavor": null
     },
     {
         "card_id": "indomitable-will",
         "quantity": 1,
         "position": 158,
-        "illustrator": "Tony Foti"
+        "illustrator": "Tony Foti",
+        "flavor": null
     },
     {
         "card_id": "intimidating-hida",
         "quantity": 1,
         "position": 32,
-        "illustrator": "Sergio Camarena"
+        "illustrator": "Sergio Camarena",
+        "flavor": "\"Is that all you've got?\""
     },
     {
         "card_id": "isawa-atsuko",
         "quantity": 1,
         "position": 92,
-        "illustrator": "Le Vuong"
+        "illustrator": "Le Vuong",
+        "flavor": null
     },
     {
         "card_id": "isawa-masahiro",
         "quantity": 1,
         "position": 90,
-        "illustrator": "Polar Engine"
+        "illustrator": "Polar Engine",
+        "flavor": "\"The kami are my allies. How can you hope to stand against me?\""
     },
     {
         "card_id": "isawa-mori-seido",
         "quantity": 1,
         "position": 5,
-        "illustrator": "Alayna Lemmer"
+        "illustrator": "Alayna Lemmer",
+        "flavor": null
     },
     {
         "card_id": "ishiken-initiate",
         "quantity": 1,
         "position": 170,
-        "illustrator": "Shen Fei"
+        "illustrator": "Shen Fei",
+        "flavor": "The void is nothing. The void is everything."
     },
     {
         "card_id": "iuchi-wayfinder",
         "quantity": 1,
         "position": 190,
-        "illustrator": "Calvin Chua"
+        "illustrator": "Calvin Chua",
+        "flavor": "Chase the sun. Discover the world."
     },
     {
         "card_id": "jade-tetsubo",
         "quantity": 1,
         "position": 134,
-        "illustrator": "Lukas Banas"
+        "illustrator": "Lukas Banas",
+        "flavor": null
     },
     {
         "card_id": "kaiu-envoy",
         "quantity": 1,
         "position": 27,
-        "illustrator": "Drew Baker"
+        "illustrator": "Drew Baker",
+        "flavor": null
     },
     {
         "card_id": "kaiu-shuichi",
         "quantity": 1,
         "position": 36,
-        "illustrator": "Antonio José Manzanedo"
+        "illustrator": "Antonio José Manzanedo",
+        "flavor": null
     },
     {
         "card_id": "kakita-asami",
         "quantity": 1,
         "position": 48,
-        "illustrator": "Mario Wibisono"
+        "illustrator": "Mario Wibisono",
+        "flavor": null
     },
     {
         "card_id": "kakita-kaezin",
         "quantity": 1,
         "position": 49,
-        "illustrator": "Diego Gisbert Llorens"
+        "illustrator": "Diego Gisbert Llorens",
+        "flavor": "\"For the coward, there is no life. For the hero, there is no death.\""
     },
     {
         "card_id": "keeper-initiate",
         "quantity": 2,
         "position": 124,
-        "illustrator": "Sergio Camarena"
+        "illustrator": "Sergio Camarena",
+        "flavor": null
     },
     {
         "card_id": "keeper-of-air",
         "quantity": 1,
         "position": 214,
-        "illustrator": null
+        "illustrator": "–",
+        "flavor": null
     },
     {
         "card_id": "keeper-of-earth",
         "quantity": 1,
-        "position": 215,
-        "illustrator": null
+        "position": 216,
+        "illustrator": "–",
+        "flavor": null
     },
     {
         "card_id": "keeper-of-fire",
         "quantity": 1,
-        "position": 216,
-        "illustrator": null
+        "position": 218,
+        "illustrator": "–",
+        "flavor": null
     },
     {
         "card_id": "keeper-of-void",
         "quantity": 1,
-        "position": 217,
-        "illustrator": null
+        "position": 222,
+        "illustrator": "–",
+        "flavor": null
     },
     {
         "card_id": "keeper-of-water",
         "quantity": 1,
-        "position": 218,
-        "illustrator": null
+        "position": 220,
+        "illustrator": "–",
+        "flavor": null
     },
     {
         "card_id": "kitsu-spiritcaller",
         "quantity": 1,
         "position": 74,
-        "illustrator": "Jessica Cox"
+        "illustrator": "Jessica Cox",
+        "flavor": null
     },
     {
         "card_id": "kitsuki-investigator",
         "quantity": 1,
         "position": 61,
-        "illustrator": "Lin Hsiang"
+        "illustrator": "Lin Hsiang",
+        "flavor": null
     },
     {
         "card_id": "kitsuki-s-method",
         "quantity": 1,
         "position": 153,
-        "illustrator": "Stu Barnes"
+        "illustrator": "Stu Barnes",
+        "flavor": "Every detail, no matter how small, carries its own implications of the truth."
     },
     {
         "card_id": "know-the-world",
         "quantity": 1,
         "position": 178,
-        "illustrator": "Anna Christenson"
+        "illustrator": "Anna Christenson",
+        "flavor": null
     },
     {
         "card_id": "kuroi-mori",
         "quantity": 1,
         "position": 12,
-        "illustrator": "Oliver Specht"
+        "illustrator": "Oliver Specht",
+        "flavor": null
     },
     {
         "card_id": "let-go",
         "quantity": 1,
         "position": 155,
-        "illustrator": "Felipe Gaona"
+        "illustrator": "Felipe Gaona",
+        "flavor": "The material world is but a distraction."
     },
     {
         "card_id": "levy",
         "quantity": 1,
         "position": 135,
-        "illustrator": "Caravan Studio"
+        "illustrator": "Caravan Studio",
+        "flavor": "\"Every clan must aid in the defense of Rokugan.\""
     },
     {
         "card_id": "lion-s-pride-brawler",
         "quantity": 1,
         "position": 75,
-        "illustrator": "Polar Engine"
+        "illustrator": "Polar Engine",
+        "flavor": "\"Let me put it another way.\""
     },
     {
         "card_id": "magnificent-kimono",
         "quantity": 1,
         "position": 172,
-        "illustrator": "Heather V. Kreiter"
+        "illustrator": "Heather V. Kreiter",
+        "flavor": null
     },
     {
         "card_id": "manicured-garden",
         "quantity": 2,
         "position": 19,
-        "illustrator": "Stefano Baldo"
+        "illustrator": "Stefano Baldo",
+        "flavor": "The perfect garden maintains all five elements in harmony."
     },
     {
         "card_id": "mantra-of-fire",
         "quantity": 1,
         "position": 156,
-        "illustrator": "Dan Martin"
+        "illustrator": "Dan Martin",
+        "flavor": null
     },
     {
         "card_id": "master-of-the-spear",
         "quantity": 1,
         "position": 161,
-        "illustrator": "Mario Wibisono"
+        "illustrator": "Mario Wibisono",
+        "flavor": null
     },
     {
         "card_id": "matsu-beiona",
         "quantity": 1,
         "position": 76,
-        "illustrator": "Cassandre Bolan"
+        "illustrator": "Cassandre Bolan",
+        "flavor": null
     },
     {
         "card_id": "matsu-berserker",
         "quantity": 1,
         "position": 69,
-        "illustrator": "Héctor Herrera"
+        "illustrator": "Hector Herrera",
+        "flavor": "When the rage surged forth, none could stand against them."
     },
     {
         "card_id": "meddling-mediator",
         "quantity": 1,
         "position": 86,
-        "illustrator": "Drew Baker"
+        "illustrator": "Drew Baker",
+        "flavor": null
     },
     {
         "card_id": "meditations-on-the-tao",
         "quantity": 2,
         "position": 20,
-        "illustrator": "Eli Ring"
+        "illustrator": "Eli Ring",
+        "flavor": "\"Appreciation of beauty is the beginning of wisdom.\" - Tao of Shinsei"
     },
     {
         "card_id": "meishodo-wielder",
         "quantity": 1,
         "position": 113,
-        "illustrator": "Felipe Gaona"
+        "illustrator": "Felipe Gaona",
+        "flavor": "\"I know the kami's Name. I can bend it to my will.\""
     },
     {
         "card_id": "mirumoto-prodigy",
         "quantity": 1,
         "position": 57,
-        "illustrator": "Polar Engine"
+        "illustrator": "Polar Engine",
+        "flavor": "Each new opponent showed her more of herself."
     },
     {
         "card_id": "mirumoto-raitsugu",
         "quantity": 1,
         "position": 62,
-        "illustrator": "Brock Grossman"
+        "illustrator": "Brock Grossman",
+        "flavor": null
     },
     {
         "card_id": "mirumoto-s-fury",
         "quantity": 1,
         "position": 159,
-        "illustrator": "Polar Engine"
+        "illustrator": "Polar Engine",
+        "flavor": null
     },
     {
         "card_id": "miya-mystic",
         "quantity": 3,
         "position": 125,
-        "illustrator": "Mike Capprotti"
+        "illustrator": "Mike Capprotti",
+        "flavor": "\"Most of my family speak to the citizens of the Empire. I speak to the kami of the land itself.\""
     },
     {
         "card_id": "moto-horde",
         "quantity": 1,
         "position": 119,
-        "illustrator": "Calvin Chua"
+        "illustrator": "Calvin Chua",
+        "flavor": "Felled by swords or trampled by hooves: to face them was to face death."
     },
     {
         "card_id": "moto-youth",
         "quantity": 1,
         "position": 109,
-        "illustrator": "Polar Engine"
+        "illustrator": "Polar Engine",
+        "flavor": "Strike your enemies with such speed they cannot think to strike back."
     },
     {
         "card_id": "mountain-s-anvil-castle",
         "quantity": 1,
         "position": 3,
-        "illustrator": "Alayna Lemmer"
+        "illustrator": "Alayna Lemmer",
+        "flavor": null
     },
     {
         "card_id": "naive-student",
         "quantity": 1,
         "position": 81,
-        "illustrator": "Matt Hansen"
+        "illustrator": "Matt Hansen",
+        "flavor": "\"Your first lesson is to realize that facts alone cannot sway the soul.\" - Asako Hayate"
     },
     {
         "card_id": "night-raid",
         "quantity": 2,
         "position": 21,
-        "illustrator": "Niten"
+        "illustrator": "Niten",
+        "flavor": null
     },
     {
         "card_id": "niten-adept",
         "quantity": 1,
         "position": 58,
-        "illustrator": "Niten"
+        "illustrator": "Niten",
+        "flavor": null
     },
     {
         "card_id": "niten-master",
         "quantity": 1,
         "position": 64,
-        "illustrator": "Drew Baker"
+        "illustrator": "Drew Baker",
+        "flavor": null
     },
     {
         "card_id": "noble-sacrifice",
         "quantity": 1,
         "position": 148,
-        "illustrator": "Eli Ring"
+        "illustrator": "Eli Ring",
+        "flavor": "There was no greater honor."
     },
     {
         "card_id": "obstinate-recruit",
         "quantity": 1,
         "position": 67,
-        "illustrator": "Leonardo Borazio"
+        "illustrator": "Leonardo Borazio",
+        "flavor": "Others might question his pride, assuming it would be his downfall. For him, it was a source of strength."
     },
     {
         "card_id": "ornate-fan",
         "quantity": 2,
         "position": 201,
-        "illustrator": "Ancor Gil Hernandez"
+        "illustrator": "Ancor Gil Hernandez",
+        "flavor": "At times, the ornamentation is the point. At others, it is merely a distraction."
     },
     {
         "card_id": "otomo-courtier",
         "quantity": 3,
         "position": 122,
-        "illustrator": "Jake Murray"
+        "illustrator": "Jake Murray",
+        "flavor": "\"I speak with the voice of the Son of Heaven.\""
     },
     {
         "card_id": "outwit",
         "quantity": 2,
         "position": 212,
-        "illustrator": "Anna Christenson"
+        "illustrator": "Anna Christenson",
+        "flavor": null
     },
     {
         "card_id": "pacifism",
         "quantity": 1,
         "position": 174,
-        "illustrator": "Carlos Palma Cruchaga"
+        "illustrator": "Carlos Palma Cruchaga",
+        "flavor": "A peaceful environment leads to a peaceful mind."
     },
     {
         "card_id": "pilgrimage",
         "quantity": 2,
         "position": 22,
-        "illustrator": "Nele Diel"
+        "illustrator": "Nele Diel",
+        "flavor": null
     },
     {
         "card_id": "political-rival",
         "quantity": 1,
         "position": 140,
-        "illustrator": "Caravan Studio"
+        "illustrator": "Caravan Studio",
+        "flavor": null
     },
     {
         "card_id": "radiant-orator",
         "quantity": 1,
         "position": 87,
-        "illustrator": "Polar Engine"
+        "illustrator": "Polar Engine",
+        "flavor": null
     },
     {
         "card_id": "rally-to-the-cause",
         "quantity": 2,
         "position": 23,
-        "illustrator": "Carlos Palma Cruchaga"
+        "illustrator": "Carlos Palma Cruchaga",
+        "flavor": null
     },
     {
         "card_id": "ready-for-battle",
         "quantity": 1,
         "position": 165,
-        "illustrator": "Gemma Tegelaers"
+        "illustrator": "Gemma Tegelaers",
+        "flavor": "\"We are prepared to pay any price.\""
     },
     {
         "card_id": "rebuild",
         "quantity": 1,
         "position": 136,
-        "illustrator": "Filip Storch"
+        "illustrator": "Filip Storch",
+        "flavor": null
     },
     {
         "card_id": "reprieve",
         "quantity": 1,
         "position": 132,
-        "illustrator": "Steve Argyle"
+        "illustrator": "Steve Argyle",
+        "flavor": "There is one more thing that must be done."
     },
     {
         "card_id": "restoration-of-balance",
         "quantity": 1,
         "position": 10,
-        "illustrator": "Anna Christenson"
+        "illustrator": "Anna Christenson",
+        "flavor": null
     },
     {
         "card_id": "rout",
         "quantity": 2,
         "position": 213,
-        "illustrator": "Calvin Chua"
+        "illustrator": "Calvin Chua",
+        "flavor": null
     },
     {
         "card_id": "sashimono",
         "quantity": 1,
         "position": 164,
-        "illustrator": "Immar Palomera"
+        "illustrator": "Immar Palomera",
+        "flavor": null
     },
     {
         "card_id": "savvy-politician",
         "quantity": 1,
         "position": 45,
-        "illustrator": "Polar Engine"
+        "illustrator": "Polar Engine",
+        "flavor": "For each of her accomplishments, she deferred the praise to those around her, and in this manner their loyalty was secured."
     },
     {
         "card_id": "secluded-temple",
         "quantity": 1,
         "position": 66,
-        "illustrator": "Chris Ostrowski"
+        "illustrator": "Chris Ostrowski",
+        "flavor": null
     },
     {
         "card_id": "secret-cache",
         "quantity": 1,
         "position": 13,
-        "illustrator": "Carlos Palma Cruchaga"
+        "illustrator": "Carlos Palma Cruchaga",
+        "flavor": null
     },
     {
         "card_id": "seeker-initiate",
         "quantity": 2,
         "position": 126,
-        "illustrator": "Muyoung Kim"
+        "illustrator": "MuYoung Kim",
+        "flavor": null
     },
     {
         "card_id": "seeker-of-air",
         "quantity": 1,
-        "position": 219,
-        "illustrator": null
+        "position": 215,
+        "illustrator": "–",
+        "flavor": null
     },
     {
         "card_id": "seeker-of-earth",
         "quantity": 1,
-        "position": 220,
-        "illustrator": null
+        "position": 217,
+        "illustrator": "–",
+        "flavor": null
     },
     {
         "card_id": "seeker-of-enlightenment",
         "quantity": 1,
         "position": 59,
-        "illustrator": "Eli Ring"
+        "illustrator": "Eli Ring",
+        "flavor": "“What is not wisdom?”"
     },
     {
         "card_id": "seeker-of-fire",
         "quantity": 1,
-        "position": 221,
-        "illustrator": null
+        "position": 219,
+        "illustrator": "–",
+        "flavor": null
     },
     {
         "card_id": "seeker-of-knowledge",
         "quantity": 1,
         "position": 171,
-        "illustrator": "Jim Pavelec"
+        "illustrator": "Jim Pavelec",
+        "flavor": null
     },
     {
         "card_id": "seeker-of-void",
         "quantity": 1,
-        "position": 222,
-        "illustrator": null
+        "position": 223,
+        "illustrator": "–",
+        "flavor": null
     },
     {
         "card_id": "seeker-of-water",
         "quantity": 1,
-        "position": 223,
-        "illustrator": null
+        "position": 221,
+        "illustrator": "–",
+        "flavor": null
     },
     {
         "card_id": "seppun-guardsman",
         "quantity": 3,
         "position": 123,
-        "illustrator": "Shen Fei"
+        "illustrator": "Shen Fei",
+        "flavor": "\"Our cousins, the Otomo, secure the Empire. We secure the Emperor.\""
     },
     {
         "card_id": "serene-warrior",
         "quantity": 1,
         "position": 88,
-        "illustrator": "Shawn Ignatius Tan"
+        "illustrator": "Shawn Ignatius Tan",
+        "flavor": "The real battle is fought against one's self."
     },
     {
         "card_id": "shameful-display",
         "quantity": 2,
         "position": 24,
-        "illustrator": "Polar Engine"
+        "illustrator": "Polar Engine",
+        "flavor": null
     },
     {
         "card_id": "shiba-peacemaker",
         "quantity": 1,
         "position": 82,
-        "illustrator": "Eli Ring"
+        "illustrator": "Eli Ring",
+        "flavor": "A lifetime of peace is worth a moment of war."
     },
     {
         "card_id": "shiba-tsukune",
         "quantity": 1,
         "position": 93,
-        "illustrator": "Shawn Ignatius Tan"
+        "illustrator": "Shawn Ignatius Tan",
+        "flavor": "\"I will do my best.\""
     },
     {
         "card_id": "shiba-yojimbo",
         "quantity": 1,
         "position": 89,
-        "illustrator": "Mario Wibisono"
+        "illustrator": "Mario Wibisono",
+        "flavor": null
     },
     {
         "card_id": "shinjo-altansarnai",
         "quantity": 1,
         "position": 121,
-        "illustrator": "Shawn Ignatius Tan Le Vuong"
+        "illustrator": "Shawn Ignatius Tan and Le Vuong",
+        "flavor": "\"This steed will not be broken to rein and saddle, nor will I compromise my clan in the name of peace.\""
     },
     {
         "card_id": "shinjo-outrider",
         "quantity": 1,
         "position": 114,
-        "illustrator": "Kevin Zamir Goeke"
+        "illustrator": "Kevin Zamir Goeke",
+        "flavor": "\"I'm on my way.\""
     },
     {
         "card_id": "shinjo-tatsuo",
         "quantity": 1,
         "position": 120,
-        "illustrator": "Sergio Camarena"
+        "illustrator": "Sergio Camarena",
+        "flavor": null
     },
     {
         "card_id": "shiro-nishiyama",
         "quantity": 1,
         "position": 1,
-        "illustrator": "Alayna Lemmer"
+        "illustrator": "Alayna Lemmer",
+        "flavor": null
     },
     {
         "card_id": "shizuka-toshi",
         "quantity": 1,
         "position": 2,
-        "illustrator": "Alayna Lemmer"
+        "illustrator": "Alayna Lemmer",
+        "flavor": null
     },
     {
         "card_id": "shosuro-actress",
         "quantity": 1,
         "position": 103,
-        "illustrator": "Jake Murray"
+        "illustrator": "Jake Murray",
+        "flavor": null
     },
     {
         "card_id": "shosuro-miyako",
         "quantity": 1,
         "position": 104,
-        "illustrator": "Steve Argyle"
+        "illustrator": "Steve Argyle",
+        "flavor": null
     },
     {
         "card_id": "shrewd-yasuki",
         "quantity": 1,
         "position": 29,
-        "illustrator": "Carlos Palma Cruchaga"
+        "illustrator": "Carlos Palma Cruchaga",
+        "flavor": null
     },
     {
         "card_id": "sinister-soshi",
         "quantity": 1,
         "position": 97,
-        "illustrator": "Le Vuong"
+        "illustrator": "Le Vuong",
+        "flavor": null
     },
     {
         "card_id": "solemn-scholar",
         "quantity": 1,
         "position": 83,
-        "illustrator": "Aaron Miller"
+        "illustrator": "Aaron Miller",
+        "flavor": null
     },
     {
         "card_id": "soshi-illusionist",
         "quantity": 1,
         "position": 99,
-        "illustrator": "Antonio José Manzanedo"
+        "illustrator": "Antonio José Manzanedo",
+        "flavor": "\"People see only what they hope to see.\""
     },
     {
         "card_id": "spies-at-court",
         "quantity": 2,
         "position": 209,
-        "illustrator": "Mike Capprotti"
+        "illustrator": "Mike Capprotti",
+        "flavor": null
     },
     {
         "card_id": "spyglass",
         "quantity": 1,
         "position": 193,
-        "illustrator": "Aaron Miller"
+        "illustrator": "Aaron Miller",
+        "flavor": null
     },
     {
         "card_id": "staging-ground",
         "quantity": 1,
         "position": 80,
-        "illustrator": "Shen Fei"
+        "illustrator": "Shen Fei",
+        "flavor": null
     },
     {
         "card_id": "stand-your-ground",
         "quantity": 1,
         "position": 166,
-        "illustrator": "Jeff Hill"
+        "illustrator": "Jeff Hill",
+        "flavor": null
     },
     {
         "card_id": "steadfast-samurai",
         "quantity": 1,
         "position": 70,
-        "illustrator": "Bob Stevlic"
+        "illustrator": "Bob Stevlic",
+        "flavor": null
     },
     {
         "card_id": "steadfast-witch-hunter",
         "quantity": 1,
         "position": 35,
-        "illustrator": "Le Vuong"
+        "illustrator": "Le Vuong",
+        "flavor": "\"The Shadowlands Taint can poison any soul. It is my duty to cleanse it from our ranks.\""
     },
     {
         "card_id": "steward-of-law",
         "quantity": 1,
         "position": 139,
-        "illustrator": "Alayna Lemmer"
+        "illustrator": "Alayna Lemmer",
+        "flavor": "\"There is no better armor than the edicts of Hantei-no-Kami.\""
     },
     {
         "card_id": "stoic-gunso",
         "quantity": 1,
         "position": 131,
-        "illustrator": "Matt Zeilinger"
+        "illustrator": "Matt Zeilinger",
+        "flavor": "\"We are the Wall.\""
     },
     {
         "card_id": "strength-in-numbers",
         "quantity": 1,
         "position": 169,
-        "illustrator": "Kevin Zamir Goeke"
+        "illustrator": "Kevin Zamir Goeke",
+        "flavor": null
     },
     {
         "card_id": "supernatural-storm",
         "quantity": 1,
         "position": 175,
-        "illustrator": "Stephanie Law"
+        "illustrator": "Stephanie Law",
+        "flavor": null
     },
     {
         "card_id": "tattooed-wanderer",
         "quantity": 1,
         "position": 149,
-        "illustrator": "Kevin Zamir Goeke"
+        "illustrator": "Kevin Zamir Goeke",
+        "flavor": "It is said that Dragon shugenja and courtiers are warriors, their warriors are monks, and their monks are inexplicable."
     },
     {
         "card_id": "the-art-of-peace",
         "quantity": 1,
         "position": 9,
-        "illustrator": "Eli Ring"
+        "illustrator": "Eli Ring",
+        "flavor": "\"One does not always need to kill to be victorious.\" - Kakita's The Sword"
     },
     {
         "card_id": "the-art-of-war",
         "quantity": 1,
         "position": 11,
-        "illustrator": "Eli Ring"
+        "illustrator": "Eli Ring",
+        "flavor": "\"Let your enemy see what he wishes to see, so that he will underestimate you.\" - Akodo's Leadership"
     },
     {
         "card_id": "the-mountain-does-not-fall",
         "quantity": 1,
         "position": 138,
-        "illustrator": "Antonio José Manzanedo"
+        "illustrator": "Antonio José Manzanedo",
+        "flavor": null
     },
     {
         "card_id": "the-perfect-gift",
         "quantity": 1,
         "position": 144,
-        "illustrator": "Albert Tavira"
+        "illustrator": "Albert Tavira",
+        "flavor": "He had refused twice, but could not bring himself to refuse a third time."
     },
     {
         "card_id": "togashi-initiate",
         "quantity": 1,
         "position": 55,
-        "illustrator": "Darren Tan"
+        "illustrator": "Darren Tan",
+        "flavor": "\"What is wisdom?\""
     },
     {
         "card_id": "togashi-kazue",
         "quantity": 1,
         "position": 150,
-        "illustrator": "Le Vuong"
+        "illustrator": "Le Vuong",
+        "flavor": null
     },
     {
         "card_id": "togashi-yokuni",
         "quantity": 1,
         "position": 65,
-        "illustrator": "Shawn Ignatius Tan Le Vuong"
+        "illustrator": "Shawn Ignatius Tan and Le Vuong",
+        "flavor": "\"What transpires in our mountains is a mere pebble against the avalanche that is coming.\""
     },
     {
         "card_id": "tranquility",
         "quantity": 1,
         "position": 157,
-        "illustrator": "Conceptopolis"
+        "illustrator": "Conceptopolis",
+        "flavor": "You have entered a state in which nothing can harm you."
     },
     {
         "card_id": "unassuming-yojimbo",
         "quantity": 1,
         "position": 181,
-        "illustrator": "Shen Fei"
+        "illustrator": "Shen Fei",
+        "flavor": null
     },
     {
         "card_id": "utaku-infantry",
         "quantity": 1,
         "position": 110,
-        "illustrator": "Bob Stevlic"
+        "illustrator": "Bob Stevlic",
+        "flavor": null
     },
     {
         "card_id": "utaku-yumino",
         "quantity": 1,
         "position": 118,
-        "illustrator": "Jazz Siy"
+        "illustrator": "Jazz Siy",
+        "flavor": null
     },
     {
         "card_id": "vanguard-warrior",
         "quantity": 1,
         "position": 30,
-        "illustrator": "Erich Schreiner"
+        "illustrator": "Erich Schreiner",
+        "flavor": "\"You will have the time you need. Use it wisely.\""
     },
     {
         "card_id": "venerable-historian",
         "quantity": 1,
         "position": 73,
-        "illustrator": "Kathryn Steele"
+        "illustrator": "Kathryn Steele",
+        "flavor": "\"Only by looking to the past can we hope to conquer the future.\""
     },
     {
         "card_id": "vengeful-berserker",
         "quantity": 1,
         "position": 33,
-        "illustrator": "Edwin David"
+        "illustrator": "Edwin David",
+        "flavor": null
     },
     {
         "card_id": "vengeful-oathkeeper",
         "quantity": 1,
         "position": 160,
-        "illustrator": "Darren Tan"
+        "illustrator": "Darren Tan",
+        "flavor": "\"When a samurai has said he will perform an action, it is as good as done.\" - Akodo's Leadership"
     },
     {
         "card_id": "voice-of-honor",
         "quantity": 1,
         "position": 145,
-        "illustrator": "Polar Engine"
+        "illustrator": "Polar Engine",
+        "flavor": null
     },
     {
         "card_id": "wandering-ronin",
         "quantity": 3,
         "position": 127,
-        "illustrator": "Kim Sokol"
+        "illustrator": "Kim Sokol",
+        "flavor": null
     },
     {
         "card_id": "warrior-poet",
         "quantity": 1,
         "position": 117,
-        "illustrator": "Le Vuong"
+        "illustrator": "Le Vuong",
+        "flavor": null
     },
     {
         "card_id": "watch-commander",
         "quantity": 1,
         "position": 133,
-        "illustrator": "Niten"
+        "illustrator": "Niten",
+        "flavor": null
     },
     {
         "card_id": "way-of-the-crab",
         "quantity": 1,
         "position": 137,
-        "illustrator": "Scott Wade"
+        "illustrator": "Scott Wade",
+        "flavor": "Courage. Duty. Sacrifice."
     },
     {
         "card_id": "way-of-the-crane",
         "quantity": 1,
         "position": 146,
-        "illustrator": "Scott Wade"
+        "illustrator": "Scott Wade",
+        "flavor": "There is a proper technique for all things."
     },
     {
         "card_id": "way-of-the-dragon",
         "quantity": 1,
         "position": 154,
-        "illustrator": "Scott Wade"
+        "illustrator": "Scott Wade",
+        "flavor": "Find your own path."
     },
     {
         "card_id": "way-of-the-lion",
         "quantity": 1,
         "position": 167,
-        "illustrator": "Scott Wade"
+        "illustrator": "Scott Wade",
+        "flavor": "\"War is the most noble pursuit of a samurai. It gives him purpose and brings honor to his ancestors.\" - Akodo's Leadership"
     },
     {
         "card_id": "way-of-the-phoenix",
         "quantity": 1,
         "position": 176,
-        "illustrator": "Scott Wade"
+        "illustrator": "Scott Wade",
+        "flavor": "Master the elements and be reborn."
     },
     {
         "card_id": "way-of-the-scorpion",
         "quantity": 1,
         "position": 185,
-        "illustrator": "Scott Wade"
+        "illustrator": "Scott Wade",
+        "flavor": "To combat the liars, the thieves, and the traitors within the Great Clans, Bayushi's followers would have to lie, steal, and cheat in turn."
     },
     {
         "card_id": "way-of-the-unicorn",
         "quantity": 1,
         "position": 198,
-        "illustrator": "Scott Wade"
+        "illustrator": "Scott Wade",
+        "flavor": "One cannot capture the wind."
     },
     {
         "card_id": "yogo-hiroue",
         "quantity": 1,
         "position": 106,
-        "illustrator": "Magali Villeneuve"
+        "illustrator": "Magali Villeneuve",
+        "flavor": null
     },
     {
         "card_id": "yogo-outcast",
         "quantity": 1,
         "position": 100,
-        "illustrator": "Drew Baker"
+        "illustrator": "Drew Baker",
+        "flavor": "Long ago, the Dark Kami himself cursed those carrying the Yogo bloodline to inevitably betray the one they love most."
     },
     {
         "card_id": "yojin-no-shiro",
         "quantity": 1,
         "position": 4,
-        "illustrator": "Chris Ostrowski"
+        "illustrator": "Chris Ostrowski",
+        "flavor": null
     },
     {
         "card_id": "young-rumormonger",
         "quantity": 1,
         "position": 101,
-        "illustrator": "Leonardo Borazio"
+        "illustrator": "Leonardo Borazio",
+        "flavor": null
     }
 ]
