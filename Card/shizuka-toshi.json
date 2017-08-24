@@ -18,7 +18,7 @@
         "side": null,
         "strength": null,
         "strength_bonus": "+2",
-        "text": "<b>Action:<\/b> During a [conflict-political] conflict, bow this stronghold, choose a participating character with [conflict-political] skill 2 or lower – bow that character.",
+        "text": "<b>Action:<\/b> During a [conflict-political] conflict, bow this stronghold. Choose a participating character with [conflict-political] skill 2 or lower – bow that character.",
         "traits": [
             "city"
         ],
