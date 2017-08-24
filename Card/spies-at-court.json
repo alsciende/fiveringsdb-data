@@ -18,7 +18,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:<\/b> After you win a [conflict-political] conflict, dishonor a <i>(friendly)<\/i> participating character – discard 2 cards at random from your opponent's hand. (Max 1 per conflict.)",
+        "text": "<b>Reaction:</b> After you win a [conflict-political] conflict, dishonor a <i>(friendly)</i> participating character – discard 2 cards at random from your opponent's hand. (Max 1 per conflict.)",
         "traits": [],
         "type": "event",
         "unicity": false

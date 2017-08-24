@@ -18,7 +18,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:<\/b> After this character wins a conflict as a defender, sacrifice it. Choose a non-unique attacking character – return that character to the top of its owner's deck.",
+        "text": "<b>Reaction:</b> After this character wins a conflict as a defender, sacrifice it. Choose a non-unique attacking character – return that character to the top of its owner's deck.",
         "traits": [
             "bushi"
         ],

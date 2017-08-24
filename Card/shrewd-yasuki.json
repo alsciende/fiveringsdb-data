@@ -18,7 +18,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:<\/b> While this character is participating in a conflict, if there is a holding in play – look at the top 2 cards of your conflict deck. Add 1 of those cards to your hand and place the other on the bottom of your conflict deck.",
+        "text": "<b>Action:</b> While this character is participating in a conflict, if there is a holding in play – look at the top 2 cards of your conflict deck. Add 1 of those cards to your hand and place the other on the bottom of your conflict deck.",
         "traits": [
             "courtier"
         ],

@@ -18,7 +18,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:<\/b> After the resolution of your first conflict this phase as the attacking player, if that conflict broke a province – immediately declare your second conflict for this phase.",
+        "text": "<b>Reaction:</b> After the resolution of your first conflict this phase as the attacking player, if that conflict broke a province – immediately declare your second conflict for this phase.",
         "traits": [],
         "type": "event",
         "unicity": false

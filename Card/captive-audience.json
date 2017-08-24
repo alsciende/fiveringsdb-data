@@ -18,7 +18,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:<\/b> During a [conflict-political] conflict, lose 1 honor – change the conflict type to [conflict-military].",
+        "text": "<b>Action:</b> During a [conflict-political] conflict, lose 1 honor – change the conflict type to [conflict-military].",
         "traits": [],
         "type": "event",
         "unicity": false

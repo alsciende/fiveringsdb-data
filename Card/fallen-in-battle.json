@@ -18,7 +18,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:<\/b> After you win a [conflict-military] conflict by 5 or more skill, choose a participating character – discard that character. (Max 1 per conflict.)",
+        "text": "<b>Reaction:</b> After you win a [conflict-military] conflict by 5 or more skill, choose a participating character – discard that character. (Max 1 per conflict.)",
         "traits": [],
         "type": "event",
         "unicity": false

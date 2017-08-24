@@ -18,7 +18,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:<\/b> After this character is honored, choose a character – honor that character.",
+        "text": "<b>Reaction:</b> After this character is honored, choose a character – honor that character.",
         "traits": [
             "courtier"
         ],

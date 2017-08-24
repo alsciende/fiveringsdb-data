@@ -18,7 +18,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "Play only if you are less honorable than your opponent.\n<b>Action:<\/b> During a conflict, choose a character with printed cost 2 or lower – take control of that character until the end of the conflict.",
+        "text": "Play only if you are less honorable than your opponent.\n<b>Action:</b> During a conflict, choose a character with printed cost 2 or lower controlled by your opponent – take control of that character until the end of the conflict.",
         "traits": [],
         "type": "event",
         "unicity": false
