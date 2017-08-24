@@ -21,7 +21,7 @@
         "text": "<b>Action:<\/b> While this character is participating in a conflict, choose a character – switch that character's base [conflict-military] and [conflict-political] skill until the end of the conflict.",
         "traits": [
             "bushi",
-            "champion"
+            "commander"
         ],
         "type": "character",
         "unicity": true
