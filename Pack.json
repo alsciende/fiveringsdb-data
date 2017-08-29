@@ -16,5 +16,14 @@
         "released_at": "2017-08-17",
         "ffg_id": null,
         "cycle_id": "promos"
+    },
+    {
+        "id": "tears-of-amaterasu",
+        "name": "Tears of Amaterasu",
+        "position": 1,
+        "size": 20,
+        "released_at": null,
+        "ffg_id": "L5C02",
+        "cycle_id": "imperial"
     }
 ]

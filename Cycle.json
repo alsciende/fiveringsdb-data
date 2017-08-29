@@ -10,5 +10,11 @@
         "name": "Promos",
         "position": 2,
         "size": 1
+    },
+    {
+        "id": "imperial",
+        "name": "Imperial Cycle",
+        "position": 2,
+        "size": 6
     }
 ]
