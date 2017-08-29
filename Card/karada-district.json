@@ -20,7 +20,9 @@
         "strength": null,
         "strength_bonus": "+1",
         "text": "Limit 1 per deck.\n<b>Action:</b> Give an opponent 1 fate. Choose an attachment on a character that player controls – take control of that attachment and attach it to an eligible character you control, if able. Otherwise, discard it.",
-        "traits": [],
+        "traits": [
+            "imperial"
+        ],
         "type": "holding",
         "unicity": true
     }
