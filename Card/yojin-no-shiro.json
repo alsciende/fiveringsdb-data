@@ -16,7 +16,7 @@
         "political": null,
         "political_bonus": null,
         "role_restriction": null,
-        "side": null,
+        "side": "province",
         "strength": null,
         "strength_bonus": "+2",
         "text": "<b>Action:</b> During a conflict, bow this stronghold – each attacking character you control gets +1[conflict-military] until the end of the conflict.",

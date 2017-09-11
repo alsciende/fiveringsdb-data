@@ -16,7 +16,7 @@
         "political": null,
         "political_bonus": null,
         "role_restriction": null,
-        "side": null,
+        "side": "province",
         "strength": null,
         "strength_bonus": "+1",
         "text": "<b>Action:</b> If you are less honorable than an opponent, bow this stronghold – take 1 honor from that player.",

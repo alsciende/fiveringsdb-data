@@ -16,7 +16,7 @@
         "political": null,
         "political_bonus": null,
         "role_restriction": null,
-        "side": null,
+        "side": "province",
         "strength": 2,
         "strength_bonus": null,
         "text": "<b>Reaction:</b> After an attack is declared here, break this province.\nYour opponent chooses an attacking character – discard that character.",

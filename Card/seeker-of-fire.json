@@ -16,7 +16,7 @@
         "political": null,
         "political_bonus": null,
         "role_restriction": null,
-        "side": null,
+        "side": "role",
         "strength": null,
         "strength_bonus": null,
         "text": "You may replace 1 province of any element with an additional [element-fire] province while deckbuilding.\n<b>Reaction:</b> After a [element-fire] province you control is revealed – gain 1 fate.",

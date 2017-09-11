@@ -16,7 +16,7 @@
         "political": null,
         "political_bonus": null,
         "role_restriction": null,
-        "side": null,
+        "side": "role",
         "strength": null,
         "strength_bonus": null,
         "text": "Increase your deck building influence value by 3.\n<b>Reaction:</b> After you win an [element-earth] conflict as the defending player – gain 1 fate.",

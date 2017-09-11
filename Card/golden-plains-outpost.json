@@ -16,7 +16,7 @@
         "political": null,
         "political_bonus": null,
         "role_restriction": null,
-        "side": null,
+        "side": "province",
         "strength": null,
         "strength_bonus": "+0",
         "text": "<b>Action:</b> During a [conflict-military] conflict, bow this stronghold. Choose a <em>Cavalry</em> character you control – move it to that conflict.",

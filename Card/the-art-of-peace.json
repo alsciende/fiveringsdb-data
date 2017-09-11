@@ -16,7 +16,7 @@
         "political": null,
         "political_bonus": null,
         "role_restriction": null,
-        "side": null,
+        "side": "province",
         "strength": 4,
         "strength_bonus": null,
         "text": "<b>Interrupt:</b> When this province is broken – dishonor each attacking character and honor each defending character.",

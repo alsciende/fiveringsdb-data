@@ -16,7 +16,7 @@
         "political": null,
         "political_bonus": null,
         "role_restriction": null,
-        "side": null,
+        "side": "province",
         "strength": null,
         "strength_bonus": "+2",
         "text": "<b>Action:</b> Bow this stronghold, choose a character – that character gets +2 glory until the end of the phase.",
