@@ -459,7 +459,7 @@
         "quantity": 2,
         "position": "200",
         "illustrator": "Brent Chumley",
-        "flavor": "Immortal steel waitsVenerated divine bladeThe fires of the soul"
+        "flavor": "Immortal steel waits\nVenerated divine blade\nThe fires of the soul"
     },
     {
         "card_id": "for-greater-glory",
@@ -725,7 +725,7 @@
         "quantity": 1,
         "position": "49",
         "illustrator": "Diego Gisbert Llorens",
-        "flavor": "\"For the coward, there is no life. For the hero, there is no death.\""
+        "flavor": "\"For the coward, there is no life.\nFor the hero, there is no death.\""
     },
     {
         "card_id": "keeper-initiate",
