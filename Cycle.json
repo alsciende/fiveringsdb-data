@@ -8,8 +8,8 @@
     {
         "id": "promos",
         "name": "Promos",
-        "position": 2,
-        "size": 1
+        "position": 99,
+        "size": 99
     },
     {
         "id": "imperial",
