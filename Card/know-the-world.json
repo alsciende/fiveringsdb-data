@@ -1,28 +1,29 @@
 [
     {
         "clan": "phoenix",
-        "code": "know-the-world",
         "cost": 1,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
+        "id": "know-the-world",
         "influence_cost": 3,
         "influence_pool": null,
-        "keywords": [
-            "spell",
-            "void"
-        ],
         "military": null,
         "military_bonus": null,
         "name": "Know the World",
         "political": null,
         "political_bonus": null,
+        "role_restriction": null,
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:<\/b> Swap a ring in your claimed ring pool with an unclaimed ring and gain all fate on that ring. <i>(Retain the ring's conflict type.)<\/i>",
+        "text": "<b>Action:</b> Switch a ring in your claimed ring pool with an unclaimed ring and gain all fate on that ring. <i>(Retain the ring's conflict type.)</i>",
+        "traits": [
+            "spell",
+            "void"
+        ],
         "type": "event",
         "unicity": false
     }

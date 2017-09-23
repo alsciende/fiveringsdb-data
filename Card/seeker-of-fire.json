@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "neutral",
+        "cost": null,
+        "deck_limit": 1,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "seeker-of-fire",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Seeker of Fire",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "role",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "You may replace 1 province of any element with an additional [element-fire] province while deckbuilding.\n<b>Reaction:</b> After a [element-fire] province you control is revealed – gain 1 fate.",
+        "traits": [
+            "seeker",
+            "fire"
+        ],
+        "type": "role",
+        "unicity": false
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "id": "ide-messenger",
+        "influence_cost": 1,
+        "influence_pool": null,
+        "military": "1",
+        "military_bonus": null,
+        "name": "Ide Messenger",
+        "political": "2",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a conflict, spend 1 fate. Choose a character you control – move that character to the conflict.",
+        "traits": [
+            "courtier"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

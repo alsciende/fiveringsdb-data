@@ -1,0 +1,27 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": null,
+        "deck_limit": 1,
+        "element": "water",
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "endless-plains",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Endless Plains",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "province",
+        "strength": 2,
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After an attack is declared here, break this province.\nYour opponent chooses an attacking character – discard that character.",
+        "traits": [],
+        "type": "province",
+        "unicity": false
+    }
+]

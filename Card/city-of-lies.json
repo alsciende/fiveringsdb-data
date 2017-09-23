@@ -1,27 +1,28 @@
 [
     {
         "clan": "scorpion",
-        "code": "city-of-lies",
         "cost": null,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
+        "id": "city-of-lies",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [
-            "city"
-        ],
         "military": null,
         "military_bonus": null,
         "name": "City of Lies",
         "political": null,
         "political_bonus": null,
+        "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": "+1",
-        "text": "<b>Action:<\/b> Reduce the cost of the next event you play this phase by 1.",
+        "text": "<b>Action:</b> Reduce the cost of the next event you play this phase by 1.",
+        "traits": [
+            "city"
+        ],
         "type": "holding",
         "unicity": false
     }

@@ -1,11 +1,29 @@
 [
     {
-        "code": "core",
+        "id": "core",
         "name": "Core Set",
         "position": 1,
         "size": 350,
         "released_at": null,
+        "ffg_id": "L5C01",
+        "cycle_id": "core"
+    },
+    {
+        "id": "gen-con-2017",
+        "name": "Gen Con 2017",
+        "position": 1,
+        "size": 9,
+        "released_at": "2017-08-17",
         "ffg_id": null,
-        "cycle_code": "core"
+        "cycle_id": "promos"
+    },
+    {
+        "id": "tears-of-amaterasu",
+        "name": "Tears of Amaterasu",
+        "position": 1,
+        "size": 20,
+        "released_at": null,
+        "ffg_id": "L5C02",
+        "cycle_id": "imperial"
     }
 ]

@@ -1,29 +1,30 @@
 [
     {
         "clan": "crane",
-        "code": "kakita-kaezin",
         "cost": 3,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
+        "id": "kakita-kaezin",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [
-            "bushi",
-            "duelist",
-            "kenshinzen"
-        ],
         "military": "3",
         "military_bonus": null,
         "name": "Kakita Kaezin",
         "political": "2",
         "political_bonus": null,
+        "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:<\/b> While this character is participating in a conflict, your opponent must choose a participating character he or she controls – challenge that character to a [conflict-military] duel. If this character wins, move each character not involved in the duel home. If it loses, send it home.",
+        "text": "<b>Action:</b> While this character is participating in a conflict, your opponent must choose a participating character he or she controls – challenge that character to a [conflict-military] duel. If this character wins, move each character not involved in the duel home. If it loses, send it home.",
+        "traits": [
+            "bushi",
+            "duelist",
+            "kenshinzen"
+        ],
         "type": "character",
         "unicity": true
     }

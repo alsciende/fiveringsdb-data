@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "scorpion",
+        "cost": 4,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "yogo-hiroue",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "0",
+        "military_bonus": null,
+        "name": "Yogo Hiroue",
+        "political": "4",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> While this character is participating in a conflict, choose a non-participating character – move that character to this conflict. Then, if you win the conflict, you may dishonor that character.",
+        "traits": [
+            "courtier"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]

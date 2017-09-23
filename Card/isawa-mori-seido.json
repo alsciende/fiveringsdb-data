@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "phoenix",
+        "cost": null,
+        "deck_limit": 1,
+        "element": null,
+        "fate": 7,
+        "glory": null,
+        "honor": 11,
+        "id": "isawa-mori-seido",
+        "influence_cost": null,
+        "influence_pool": 10,
+        "military": null,
+        "military_bonus": null,
+        "name": "Isawa Mori Seidō",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "province",
+        "strength": null,
+        "strength_bonus": "+2",
+        "text": "<b>Action:</b> Bow this stronghold, choose a character – that character gets +2 glory until the end of the phase.",
+        "traits": [
+            "shrine"
+        ],
+        "type": "stronghold",
+        "unicity": true
+    }
+]

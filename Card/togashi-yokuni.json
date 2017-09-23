@@ -1,29 +1,30 @@
 [
     {
         "clan": "dragon",
-        "code": "togashi-yokuni",
         "cost": 5,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 3,
         "honor": null,
+        "id": "togashi-yokuni",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [
-            "bushi",
-            "shugenja",
-            "champion"
-        ],
         "military": "5",
         "military_bonus": null,
         "name": "Togashi Yokuni",
         "political": "5",
         "political_bonus": null,
+        "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:<\/b> Choose a triggered ability printed on another character – this character gains that ability until the end of the phase. (Max 1 per round.)",
+        "text": "<b>Action:</b> Choose a triggered ability printed on another character – this character gains that ability until the end of the phase. (Max 1 per round.)",
+        "traits": [
+            "bushi",
+            "shugenja",
+            "champion"
+        ],
         "type": "character",
         "unicity": true
     }

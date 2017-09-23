@@ -1,28 +1,29 @@
 [
     {
         "clan": "lion",
-        "code": "venerable-historian",
         "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 3,
         "honor": null,
+        "id": "venerable-historian",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [
-            "courtier",
-            "scholar"
-        ],
         "military": null,
         "military_bonus": null,
         "name": "Venerable Historian",
         "political": "1",
         "political_bonus": null,
+        "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:<\/b> While this character is participating in a conflict, if you are more honorable than your opponent – honor this character.",
+        "text": "<b>Action:</b> While this character is participating in a conflict, if you are more honorable than your opponent – honor this character.",
+        "traits": [
+            "courtier",
+            "scholar"
+        ],
         "type": "character",
         "unicity": false
     }

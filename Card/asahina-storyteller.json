@@ -1,29 +1,30 @@
 [
     {
         "clan": "crane",
-        "code": "asahina-storyteller",
         "cost": 4,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
+        "id": "asahina-storyteller",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [
-            "courtier",
-            "shugenja",
-            "air"
-        ],
         "military": "2",
         "military_bonus": null,
         "name": "Asahina Storyteller",
         "political": "4",
         "political_bonus": null,
+        "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "Sincerity. <i>(When this character leaves play, draw 1 card.)<\/i>\nEach honored [clan-crane] character you control gains sincerity.",
+        "text": "Sincerity. <i>(When this character leaves play, draw 1 card.)</i>\nEach honored [clan-crane] character you control gains sincerity.",
+        "traits": [
+            "courtier",
+            "shugenja",
+            "air"
+        ],
         "type": "character",
         "unicity": false
     }

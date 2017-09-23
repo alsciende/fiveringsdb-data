@@ -1,0 +1,51 @@
+[
+    {
+        "card_id": "disdainful-remark",
+        "quantity": 3,
+        "position": "13",
+        "illustrator": null,
+        "flavor": null
+    },
+    {
+        "card_id": "isawa-kaede",
+        "quantity": 3,
+        "position": "9",
+        "illustrator": null,
+        "flavor": null
+    },
+    {
+        "card_id": "karada-district",
+        "quantity": 3,
+        "position": "4",
+        "illustrator": null,
+        "flavor": null
+    },
+    {
+        "card_id": "kitsuki-yaruma",
+        "quantity": 3,
+        "position": "6",
+        "illustrator": null,
+        "flavor": null
+    },
+    {
+        "card_id": "smoke-and-mirrors",
+        "quantity": 3,
+        "position": "18",
+        "illustrator": null,
+        "flavor": null
+    },
+    {
+        "card_id": "swift-magistrate",
+        "quantity": 3,
+        "position": "10",
+        "illustrator": null,
+        "flavor": null
+    },
+    {
+        "card_id": "time-for-war",
+        "quantity": 3,
+        "position": "15",
+        "illustrator": null,
+        "flavor": null
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "phoenix",
+        "cost": 0,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "magnificent-kimono",
+        "influence_cost": 1,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": "+0",
+        "name": "Magnificent Kimono",
+        "political": null,
+        "political_bonus": "+1",
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Attached character gains pride. <i>(After this character wins a conflict, honor it. After this character loses a conflict, dishonor it.)</i>",
+        "traits": [
+            "item"
+        ],
+        "type": "attachment",
+        "unicity": false
+    }
+]

@@ -1,28 +1,29 @@
 [
     {
         "clan": "crane",
-        "code": "doji-hotaru",
         "cost": 5,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 3,
         "honor": null,
+        "id": "doji-hotaru",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [
-            "bushi",
-            "champion"
-        ],
         "military": "3",
         "military_bonus": null,
         "name": "Doji Hotaru",
         "political": "6",
         "political_bonus": null,
+        "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:<\/b> After you claim a ring during a [conflict-political] conflict in which this character is participating – resolve that ring's effect.",
+        "text": "<b>Reaction:</b> After you claim a ring during a [conflict-political] conflict in which this character is participating – resolve that ring's effect.",
+        "traits": [
+            "bushi",
+            "champion"
+        ],
         "type": "character",
         "unicity": true
     }

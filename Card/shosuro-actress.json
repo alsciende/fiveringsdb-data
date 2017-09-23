@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "scorpion",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "shosuro-actress",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "1",
+        "military_bonus": null,
+        "name": "Shosuro Actress",
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a conflict, sacrifice this character. Choose a non‑<em>Shinobi</em> character with printed cost 3 or lower in an opponent's discard pile – put that character into play in the conflict under your control.",
+        "traits": [
+            "courtier",
+            "shinobi"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "cavalry-reserves",
+        "influence_cost": 2,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Cavalry Reserves",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a [conflict-military] conflict, choose up to 6 printed cost worth of <em>Cavalry</em> characters in your dynasty discard pile – put those characters into play in the conflict.",
+        "traits": [],
+        "type": "event",
+        "unicity": false
+    }
+]

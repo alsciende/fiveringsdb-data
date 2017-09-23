@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "dragon",
+        "cost": 4,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "kitsuki-yaruma",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": 2,
+        "military_bonus": null,
+        "name": "Kitsuki Yaruma",
+        "political": 4,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Courtesy. No <em>Poison</em> attachments.\n<b>Reaction:</b> After this character enters play, choose an unbroken province – turn that province facedown.",
+        "traits": [
+            "courtier"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]

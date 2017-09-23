@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "dragon",
+        "cost": 0,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "daimyo-s-favor",
+        "influence_cost": 2,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": "+0",
+        "name": "Daimyō's Favor",
+        "political": null,
+        "political_bonus": "+0",
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Attach to a character you control.\n<b>Action:</b> Bow this attachment – reduce the cost of the next attachment you play on this character this phase by 1.",
+        "traits": [
+            "condition"
+        ],
+        "type": "attachment",
+        "unicity": false
+    }
+]

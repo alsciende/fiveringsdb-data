@@ -1,27 +1,28 @@
 [
     {
         "clan": "crab",
-        "code": "stoic-gunso",
         "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 1,
         "honor": null,
+        "id": "stoic-gunso",
         "influence_cost": 1,
         "influence_pool": null,
-        "keywords": [
-            "bushi"
-        ],
         "military": "2",
         "military_bonus": null,
         "name": "Stoic Gunsō",
         "political": "1",
         "political_bonus": null,
+        "role_restriction": null,
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:<\/b> During a conflict, sacrifice a <i>(friendly)<\/i> character – this character gets +3[conflict-military] until the end of the conflict.",
+        "text": "<b>Action:</b> During a conflict, sacrifice a <i>(friendly)</i> character – this character gets +3[conflict-military] until the end of the conflict.",
+        "traits": [
+            "bushi"
+        ],
         "type": "character",
         "unicity": false
     }

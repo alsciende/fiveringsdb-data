@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "dragon",
+        "cost": 1,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "id": "doomed-shugenja",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "3",
+        "military_bonus": null,
+        "name": "Doomed Shugenja",
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Limited. <i>(No more than one limited card can be played by each player each round.)</i>\nYou cannot place fate on this character when it is played from one of your provinces.",
+        "traits": [
+            "shugenja",
+            "fire"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

@@ -1,27 +1,28 @@
 [
     {
         "clan": "crane",
-        "code": "kakita-asami",
         "cost": 3,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
+        "id": "kakita-asami",
         "influence_cost": null,
         "influence_pool": null,
-        "keywords": [
-            "courtier"
-        ],
         "military": "1",
         "military_bonus": null,
         "name": "Kakita Asami",
         "political": "3",
         "political_bonus": null,
+        "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:<\/b> While this character is participating in a [conflict-political] conflict, if you count more current [conflict-political] skill in the conflict than your opponent – take 1 honor from that opponent.",
+        "text": "<b>Action:</b> While this character is participating in a [conflict-political] conflict, if you count more current [conflict-political] skill in the conflict than your opponent – take 1 honor from that opponent.",
+        "traits": [
+            "courtier"
+        ],
         "type": "character",
         "unicity": true
     }

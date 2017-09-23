@@ -1,27 +1,28 @@
 [
     {
         "clan": "crab",
-        "code": "watch-commander",
         "cost": 1,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
+        "id": "watch-commander",
         "influence_cost": 3,
         "influence_pool": null,
-        "keywords": [
-            "follower"
-        ],
         "military": null,
         "military_bonus": "+1",
         "name": "Watch Commander",
         "political": null,
         "political_bonus": "+1",
+        "role_restriction": null,
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "Attach to a character you control. Limit 1 per character.\n<b>Reaction:<\/b> After an opponent plays a card during a conflict in which attached character is participating – that player loses 1 honor. (Unlimited.)",
+        "text": "Attach to a character you control. Limit 1 per character.\n<b>Reaction:</b> After an opponent plays a card during a conflict in which attached character is participating – that player loses 1 honor. (Unlimited.)",
+        "traits": [
+            "follower"
+        ],
         "type": "attachment",
         "unicity": false
     }

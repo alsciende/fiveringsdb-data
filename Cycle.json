@@ -1,8 +1,20 @@
 [
     {
-        "code": "core",
+        "id": "core",
         "name": "Core Set",
         "position": 1,
         "size": 1
+    },
+    {
+        "id": "promos",
+        "name": "Promos",
+        "position": 99,
+        "size": 99
+    },
+    {
+        "id": "imperial",
+        "name": "Imperial Cycle",
+        "position": 2,
+        "size": 6
     }
 ]

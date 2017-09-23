@@ -1,27 +1,28 @@
 [
     {
         "clan": "lion",
-        "code": "vengeful-oathkeeper",
         "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 0,
         "honor": null,
+        "id": "vengeful-oathkeeper",
         "influence_cost": 2,
         "influence_pool": null,
-        "keywords": [
-            "bushi"
-        ],
         "military": "2",
         "military_bonus": null,
         "name": "Vengeful Oathkeeper",
         "political": "1",
         "political_bonus": null,
+        "role_restriction": null,
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:<\/b> After you lose a [conflict-military] conflict – put this character into play from your hand.",
+        "text": "<b>Reaction:</b> After you lose a [conflict-military] conflict – put this character into play from your hand.",
+        "traits": [
+            "bushi"
+        ],
         "type": "character",
         "unicity": false
     }

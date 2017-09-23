@@ -1,27 +1,28 @@
 [
     {
         "clan": "crab",
-        "code": "reprieve",
         "cost": 1,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
+        "id": "reprieve",
         "influence_cost": 1,
         "influence_pool": null,
-        "keywords": [
-            "condition"
-        ],
         "military": null,
         "military_bonus": "+0",
         "name": "Reprieve",
         "political": null,
         "political_bonus": "+0",
+        "role_restriction": null,
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Interrupt:<\/b> When attached character would leave play – discard this attachment instead.",
+        "text": "<b>Interrupt:</b> When attached character would leave play – discard this attachment instead.",
+        "traits": [
+            "condition"
+        ],
         "type": "attachment",
         "unicity": false
     }
