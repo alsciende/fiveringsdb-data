@@ -1,0 +1,30 @@
+[
+  {
+    "card_id": "keeper-of-air",
+    "clan": "crab"
+  },
+  {
+    "card_id": "keeper-of-water",
+    "clan": "crane"
+  },
+  {
+    "card_id": "keeper-of-void",
+    "clan": "dragon"
+  },
+  {
+    "card_id": "keeper-of-earth",
+    "clan": "lion"
+  },
+  {
+    "card_id": "seeker-of-void",
+    "clan": "phoenix"
+  },
+  {
+    "card_id": "seeker-of-air",
+    "clan": "scorpion"
+  },
+  {
+    "card_id": "keeper-of-fire",
+    "clan": "unicorn"
+  }
+]
