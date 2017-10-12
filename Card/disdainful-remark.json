@@ -15,7 +15,7 @@
         "name": "Disdainful Remark",
         "political": null,
         "political_bonus": null,
-        "role_restriction": null,
+        "role_restriction": "keeper",
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
