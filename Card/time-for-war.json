@@ -15,7 +15,7 @@
         "name": "Time for War",
         "political": null,
         "political_bonus": null,
-        "role_restriction": null,
+        "role_restriction": "seeker",
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
