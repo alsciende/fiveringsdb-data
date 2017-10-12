@@ -25,5 +25,50 @@
         "released_at": null,
         "ffg_id": "L5C02",
         "cycle_id": "imperial"
+    },
+    {
+        "id": "for-honor-and-glory",
+        "name": "For Honor and Glory",
+        "position": 2,
+        "size": 20,
+        "released_at": null,
+        "ffg_id": "L5C03",
+        "cycle_id": "imperial"
+    },
+    {
+        "id": "into-the-forbidden-city",
+        "name": "Into the Forbidden City",
+        "position": 3,
+        "size": 20,
+        "released_at": null,
+        "ffg_id": "L5C04",
+        "cycle_id": "imperial"
+    },
+    {
+        "id": "the-chrysanthemum-throne",
+        "name": "The Chrysanthemum Throne",
+        "position": 4,
+        "size": 20,
+        "released_at": null,
+        "ffg_id": "L5C05",
+        "cycle_id": "imperial"
+    },
+    {
+        "id": "fate-has-no-secrets",
+        "name": "Fate Has No Secrets",
+        "position": 5,
+        "size": 20,
+        "released_at": null,
+        "ffg_id": "L5C06",
+        "cycle_id": "imperial"
+    },
+    {
+        "id": "meditations-on-the-ephemeral",
+        "name": "Meditations on the Ephemeral",
+        "position": 6,
+        "size": 20,
+        "released_at": null,
+        "ffg_id": "L5C07",
+        "cycle_id": "imperial"
     }
 ]
