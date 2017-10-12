@@ -19,7 +19,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> During a [conflict-military] conflict, bow a <i>(friendly)</i> participating <em>Monk</em> character. Choose a participating <em>Monk</em> character controlled by your opponent – bow that character. It cannot trigger its abilities during this conflict.",
+        "text": "<b>Action:</b> During a [conflict-military] conflict, bow a <i>(friendly)</i> participating <em>Monk</em> character. Choose a participating character controlled by your opponent – bow that character. It cannot trigger its abilities during this conflict.",
         "traits": [
             "technique"
         ],
