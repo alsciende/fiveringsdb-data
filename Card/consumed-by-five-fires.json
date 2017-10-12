@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "phoenix",
+        "cost": 5,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "consumed-by-five-fires",
+        "influence_cost": 2,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Consumed by Five Fires",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": "seeker",
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<em>Seeker</em> role only.\n<b>Action:</b> If you control a <em>Shugenja</em> character – remove up to 5 fate from among characters an opponent controls.",
+        "traits": [
+            "spell",
+            "fire"
+        ],
+        "type": "event",
+        "unicity": false
+    }
+]
