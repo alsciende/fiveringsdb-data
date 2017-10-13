@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "neutral",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "seppun-ishikawa",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": 2,
+        "military_bonus": null,
+        "name": "Seppun Ishikawa",
+        "political": 2,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "destiny",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "This character gets +1[conflict-military] and +1[conflict-political] for each other <em>Imperial</em> card you control.",
+        "traits": [
+            "bushi",
+            "imperial"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]
