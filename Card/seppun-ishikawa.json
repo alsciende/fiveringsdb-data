@@ -16,7 +16,7 @@
         "political": 2,
         "political_bonus": null,
         "role_restriction": null,
-        "side": "destiny",
+        "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
         "text": "This character gets +1[conflict-military] and +1[conflict-political] for each other <em>Imperial</em> card you control.",
