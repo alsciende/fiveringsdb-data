@@ -22,7 +22,7 @@
         "text": "<b>Action:</b> While this character is participating in a conflict, discard the Imperial Favor – draw 3 cards. Reduce the cost of each event you play during this conflict by 2.",
         "traits": [
             "courtier",
-            "daimyō",
+            "daimyo",
             "imperial"
         ],
         "type": "character",
