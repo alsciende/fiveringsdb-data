@@ -24,6 +24,6 @@
             "castle"
         ],
         "type": "stronghold",
-        "unicity": true
+        "unicity": false
     }
 ]

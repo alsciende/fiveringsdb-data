@@ -19,7 +19,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> During a conflict, choose a participating non‑[clan-scorpion] character – dishonor that character.",
+        "text": "<b>Action:</b> During a conflict, choose a participating non-[clan-scorpion] character – dishonor that character.",
         "traits": [
             "philosophy"
         ],
