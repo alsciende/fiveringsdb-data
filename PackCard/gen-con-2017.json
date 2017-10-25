@@ -4,6 +4,7 @@
     "quantity": 1,
     "position": "1",
     "illustrator": "Scott Wade",
+    "image_url": null,
     "flavor": null
   },
   {
@@ -11,6 +12,7 @@
     "quantity": 1,
     "position": "2",
     "illustrator": "Scott Wade",
+    "image_url": null,
     "flavor": null
   },
   {
@@ -18,6 +20,7 @@
     "quantity": 1,
     "position": "3",
     "illustrator": "Scott Wade",
+    "image_url": null,
     "flavor": null
   },
   {
@@ -25,6 +28,7 @@
     "quantity": 1,
     "position": "4",
     "illustrator": "Scott Wade",
+    "image_url": null,
     "flavor": null
   },
   {
@@ -32,6 +36,7 @@
     "quantity": 1,
     "position": "5",
     "illustrator": "Scott Wade",
+    "image_url": null,
     "flavor": null
   },
   {
@@ -39,6 +44,7 @@
     "quantity": 1,
     "position": "6",
     "illustrator": "Scott Wade",
+    "image_url": null,
     "flavor": null
   },
   {
@@ -46,6 +52,7 @@
     "quantity": 1,
     "position": "7",
     "illustrator": "Scott Wade",
+    "image_url": null,
     "flavor": null
   },
   {
@@ -53,6 +60,7 @@
     "quantity": 1,
     "position": "8",
     "illustrator": "Alayna Lemmer",
+    "image_url": null,
     "flavor": null
   },
   {
@@ -60,6 +68,7 @@
     "quantity": 1,
     "position": "9",
     "illustrator": "Alayna Lemmer",
+    "image_url": null,
     "flavor": null
   },
   {
@@ -67,6 +76,7 @@
     "quantity": 1,
     "position": "10",
     "illustrator": "Alayna Lemmer",
+    "image_url": null,
     "flavor": null
   },
   {
@@ -74,6 +84,7 @@
     "quantity": 1,
     "position": "11",
     "illustrator": "Chris Ostrowski",
+    "image_url": null,
     "flavor": null
   },
   {
@@ -81,6 +92,7 @@
     "quantity": 1,
     "position": "12",
     "illustrator": "Alayna Lemmer",
+    "image_url": null,
     "flavor": null
   },
   {
@@ -88,6 +100,7 @@
     "quantity": 1,
     "position": "13",
     "illustrator": "Chris Ostrowski",
+    "image_url": null,
     "flavor": null
   },
   {
@@ -95,6 +108,7 @@
     "quantity": 1,
     "position": "14",
     "illustrator": "Alayna Lemmer",
+    "image_url": null,
     "flavor": null
   },
   {
@@ -102,6 +116,7 @@
     "quantity": 1,
     "position": "15",
     "illustrator": "Sergio Camarena",
+    "image_url": null,
     "flavor": null
   },
   {
@@ -109,6 +124,7 @@
     "quantity": 1,
     "position": "16",
     "illustrator": "Muyoung Kim",
+    "image_url": null,
     "flavor": null
   }
 ]
