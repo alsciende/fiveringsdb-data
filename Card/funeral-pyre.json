@@ -18,7 +18,7 @@
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
-        "strength_bonus": "+0",
+        "strength_bonus": "0",
         "text": "<b>Action:</b> Sacrifice a <i>(friendly)</i> character – draw 1 card.",
         "traits": [
             "ritual"

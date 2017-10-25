@@ -10,7 +10,7 @@
         "id": "moto-horde",
         "influence_cost": null,
         "influence_pool": null,
-        "military": "6",
+        "military": 6,
         "military_bonus": null,
         "name": "Moto Horde",
         "political": null,

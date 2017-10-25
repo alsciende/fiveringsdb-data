@@ -10,7 +10,7 @@
         "id": "vengeful-berserker",
         "influence_cost": null,
         "influence_pool": null,
-        "military": "3",
+        "military": 3,
         "military_bonus": null,
         "name": "Vengeful Berserker",
         "political": null,

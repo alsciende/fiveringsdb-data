@@ -13,7 +13,7 @@
         "military": null,
         "military_bonus": null,
         "name": "Otomo Courtier",
-        "political": "2",
+        "political": 2,
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
