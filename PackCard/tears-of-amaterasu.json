@@ -54,5 +54,13 @@
         "illustrator": null,
         "image_url": null,
         "flavor": null
+    },
+    {
+        "card_id": "embrace-the-void",
+        "quantity": 3,
+        "position": "16",
+        "illustrator": null,
+        "image_url": null,
+        "flavor": null
     }
 ]
