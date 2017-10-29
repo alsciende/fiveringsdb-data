@@ -21,7 +21,7 @@
         "strength_bonus": null,
         "text": "<b>Action:</b> During a conflict – move this character home.",
         "traits": [
-            "courtiet"
+            "courtier"
         ],
         "type": "character",
         "unicity": false
