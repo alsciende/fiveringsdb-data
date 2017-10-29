@@ -19,7 +19,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": "+1",
-        "text": "Limit 1 per deck.\n[poitical] conflicts cannot be declared against this holding's province.",
+        "text": "Limit 1 per deck.\n[conflict-political] conflicts cannot be declared against this holding's province.",
         "traits": [
             "imperial"
         ],
