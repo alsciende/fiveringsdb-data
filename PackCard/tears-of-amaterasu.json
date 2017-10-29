@@ -1,16 +1,24 @@
 [
     {
-        "card_id": "disdainful-remark",
+        "card_id": "blood-of-onnotangu",
         "quantity": 3,
-        "position": "13",
+        "position": "1",
         "illustrator": null,
         "image_url": null,
         "flavor": null
     },
     {
-        "card_id": "isawa-kaede",
+        "card_id": "tears-of-amaterasu",
         "quantity": 3,
-        "position": "9",
+        "position": "2",
+        "illustrator": null,
+        "image_url": null,
+        "flavor": null
+    },
+    {
+        "card_id": "staunch-hida",
+        "quantity": 3,
+        "position": "3",
         "illustrator": null,
         "image_url": null,
         "flavor": null
@@ -24,6 +32,14 @@
         "flavor": null
     },
     {
+        "card_id": "doji-representative",
+        "quantity": 3,
+        "position": "5",
+        "illustrator": null,
+        "image_url": null,
+        "flavor": null
+    },
+    {
         "card_id": "kitsuki-yaruma",
         "quantity": 3,
         "position": "6",
@@ -32,9 +48,25 @@
         "flavor": null
     },
     {
-        "card_id": "smoke-and-mirrors",
+        "card_id": "gifted-tactician",
         "quantity": 3,
-        "position": "18",
+        "position": "7",
+        "illustrator": null,
+        "image_url": null,
+        "flavor": null
+    },
+    {
+        "card_id": "hito-district",
+        "quantity": 3,
+        "position": "8",
+        "illustrator": null,
+        "image_url": null,
+        "flavor": null
+    },
+    {
+        "card_id": "isawa-kaede",
+        "quantity": 3,
+        "position": "9",
         "illustrator": null,
         "image_url": null,
         "flavor": null
@@ -43,6 +75,38 @@
         "card_id": "swift-magistrate",
         "quantity": 3,
         "position": "10",
+        "illustrator": null,
+        "image_url": null,
+        "flavor": null
+    },
+    {
+        "card_id": "windswept-yurt",
+        "quantity": 3,
+        "position": "11",
+        "illustrator": null,
+        "image_url": null,
+        "flavor": null
+    },
+    {
+        "card_id": "seal-of-the-crane",
+        "quantity": 3,
+        "position": "12",
+        "illustrator": null,
+        "image_url": null,
+        "flavor": null
+    },
+    {
+        "card_id": "disdainful-remark",
+        "quantity": 3,
+        "position": "13",
+        "illustrator": null,
+        "image_url": null,
+        "flavor": null
+    },
+    {
+        "card_id": "jade-masterpiece",
+        "quantity": 3,
+        "position": "14",
         "illustrator": null,
         "image_url": null,
         "flavor": null
@@ -62,5 +126,37 @@
         "illustrator": null,
         "image_url": null,
         "flavor": null
-    }
+    },
+    {
+        "card_id": "meek-informant",
+        "quantity": 3,
+        "position": "17",
+        "illustrator": null,
+        "image_url": null,
+        "flavor": null
+    },
+    {
+        "card_id": "smoke-and-mirrors",
+        "quantity": 3,
+        "position": "18",
+        "illustrator": null,
+        "image_url": null,
+        "flavor": null
+    },
+    {
+        "card_id": "goblin-sneak",
+        "quantity": 3,
+        "position": "19",
+        "illustrator": null,
+        "image_url": null,
+        "flavor": null
+    },
+    {
+        "card_id": "finger-of-jade",
+        "quantity": 3,
+        "position": "20",
+        "illustrator": null,
+        "image_url": null,
+        "flavor": null
+    },
 ]
