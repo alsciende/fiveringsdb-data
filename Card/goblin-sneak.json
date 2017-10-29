@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "neutral",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "id": "goblin-sneak",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": 1,
+        "military_bonus": null,
+        "name": "Goblin Sneak",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After this character enters play – place 1 fate from an opponent's fate pool on it.",
+        "traits": [
+            "goblin",
+            "shadowlands"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]
