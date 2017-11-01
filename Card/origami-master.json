@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "crane",
+        "cost": 4,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "origami-master",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": 1,
+        "military_bonus": null,
+        "name": "Origami Master",
+        "political": 4,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Pride.\n<b>Action:</b> Choose another character you control – move an honored status token from this character to the chosen character.",
+        "traits": [
+            "shugenja",
+            "air"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]
