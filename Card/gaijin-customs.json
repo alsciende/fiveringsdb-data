@@ -1,0 +1,27 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 1,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "gaijin-customs",
+        "influence_cost": 1,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Gaijin Customs",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> If you control a [clan-unicorn] card, choose a non-[clan-unicorn] character – ready the chosen character.",
+        "traits": [],
+        "type": "event",
+        "unicity": false
+    }
+]
