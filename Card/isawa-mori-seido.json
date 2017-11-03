@@ -24,6 +24,6 @@
             "shrine"
         ],
         "type": "stronghold",
-        "unicity": false
+        "unicity": true
     }
 ]
