@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "neutral",
+        "cost": null,
+        "deck_limit": 1,
+        "element": "air",
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "before-the-throne",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Before the Throne",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "province",
+        "strength": 5,
+        "strength_bonus": null,
+        "text": "Cannot be the stronghold province.\n<b>Interrupt:</b> When this province is broken – take 2 honor from your opponent.",
+        "traits": [
+            "imperial"
+        ],
+        "type": "province",
+        "unicity": false
+    }
+]

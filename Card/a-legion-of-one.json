@@ -1,0 +1,27 @@
+[
+    {
+        "clan": "lion",
+        "cost": 0,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "a-legion-of-one",
+        "influence_cost": 2,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "A Legion of One",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a [conflict-military] conflict, choose a character that is participating on your side alone – until the end of the conflict, that character gets +3[conflict-military]. You may remove 1 fate from that character to resolve this ability twice.",
+        "traits": [],
+        "type": "event",
+        "unicity": false
+    }
+]
