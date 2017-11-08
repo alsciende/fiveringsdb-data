@@ -8,7 +8,7 @@
         "glory": null,
         "honor": null,
         "id": "way-of-the-chrysanthemum",
-        "influence_cost": null,
+        "influence_cost": 0,
         "influence_pool": null,
         "military": null,
         "military_bonus": null,
