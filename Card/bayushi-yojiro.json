@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "scorpion",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "bayushi-yojiro",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": 3,
+        "military_bonus": null,
+        "name": "Bayushi Yojiro",
+        "political": 1,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "While this character is participating in a conflict, ignore the effects of each status token on each participating character.",
+        "traits": [
+            "bushi",
+            "imperial",
+            "magistrate"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]
