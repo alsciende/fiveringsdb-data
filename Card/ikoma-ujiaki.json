@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "lion",
+        "cost": 5,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "ikoma-ujiaki",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": 3,
+        "military_bonus": null,
+        "name": "Ikoma Ujiaki",
+        "political": 5,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> While this character is participating in a conflict, discard the Imperial Favor – turn each facedown card in each of your provinces faceup. Then, put up to 2 characters from your provinces into play participating in this conflict.",
+        "traits": [
+            "bushi",
+            "courtier"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]

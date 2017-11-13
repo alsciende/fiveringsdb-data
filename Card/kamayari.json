@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "lion",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "kamayari",
+        "influence_cost": 2,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": "+3",
+        "name": "Kamayari",
+        "political": null,
+        "political_bonus": "+0",
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<em>Bushi</em> character only. Restricted.\n<b>Reaction:</b> After a character triggers an ability during a conflict in which attached character is participating – bow that character.",
+        "traits": [
+            "weapon"
+        ],
+        "type": "attachment",
+        "unicity": false
+    }
+]
