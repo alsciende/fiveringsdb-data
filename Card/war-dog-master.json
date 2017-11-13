@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "war-dog-master",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": 2,
+        "military_bonus": null,
+        "name": "War Dog Master",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After this character is declared as an attacker, discard the top card of your dynasty deck – this character gets +X[conflict-military] until the end of the conflict. X is the printed cost of the discarded card.",
+        "traits": [
+            "bushi"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]
