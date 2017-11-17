@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "crane",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "kabuki-hero",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": 0,
+        "military_bonus": null,
+        "name": "Kabuki Hero",
+        "political": 2,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> Spend 1 fate – this character gets +X[conflict-military] until the end of the conflict. X is equal to its [conflict-political] skill.",
+        "traits": [
+            "courtier",
+            "actor"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]
