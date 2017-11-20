@@ -1,28 +1,28 @@
-    [
+[
     {
-        "clan": "crane",
-        "cost": 3,
+        "clan": "phoenix",
+        "cost": 4,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
-        "id": "doji-challenger",
+        "id": "prodigy-of-the-waves",
         "influence_cost": null,
         "influence_pool": null,
         "military": 3,
         "military_bonus": null,
-        "name": "Doji Challenger",
+        "name": "Prodigy of the Waves",
         "political": 3,
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> While this character is attacking, choose a character controlled by your opponent – move that character to this conflict.",
+        "text": "<b>Action:</b> While the [element-water] ring is claimed – ready this character.",
         "traits": [
-            "bushi",
-            "duelist"
+            "shugenja",
+            "water"
         ],
         "type": "character",
         "unicity": false

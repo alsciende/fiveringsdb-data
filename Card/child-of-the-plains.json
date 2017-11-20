@@ -1,28 +1,28 @@
-    [
+[
     {
-        "clan": "crane",
-        "cost": 3,
+        "clan": "unicorn",
+        "cost": 1,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 2,
+        "glory": 0,
         "honor": null,
-        "id": "doji-challenger",
+        "id": "child-of-the-plains",
         "influence_cost": null,
         "influence_pool": null,
-        "military": 3,
+        "military": 1,
         "military_bonus": null,
-        "name": "Doji Challenger",
-        "political": 3,
+        "name": "Child of the Plains",
+        "political": 0,
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> While this character is attacking, choose a character controlled by your opponent – move that character to this conflict.",
+        "text": "<b>Reaction:</b> After a province this character is attacking is revealed – the attacker has the first action opportunity this conflict.",
         "traits": [
-            "bushi",
-            "duelist"
+            "cavalry",
+            "scout"
         ],
         "type": "character",
         "unicity": false

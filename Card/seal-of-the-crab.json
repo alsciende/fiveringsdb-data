@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "crab",
+        "cost": 0,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "seal-of-the-crab",
+        "influence_cost": 1,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": "+1",
+        "name": "Seal of the Crab",
+        "political": null,
+        "political_bonus": "+0",
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Attached character gains the [clan-crab] clan symbol and the <em>Berserker</em> trait.",
+        "traits": [
+            "item",
+            "seal"
+        ],
+        "type": "attachment",
+        "unicity": false
+    }
+]
