@@ -1,0 +1,358 @@
+[
+  {
+    "id": "side.conflict",
+    "value": "Conflict"
+  },
+  {
+    "id": "side.dynasty",
+    "value": "Dynasty"
+  },
+  {
+    "id": "side.province",
+    "value": "Province"
+  },
+  {
+    "id": "side.role",
+    "value": "Role"
+  },
+  {
+    "id": "type.attachment",
+    "value": "Attachment"
+  },
+  {
+    "id": "type.character",
+    "value": "Character"
+  },
+  {
+    "id": "type.event",
+    "value": "Event"
+  },
+  {
+    "id": "type.holding",
+    "value": "Holding"
+  },
+  {
+    "id": "type.province",
+    "value": "Province"
+  },
+  {
+    "id": "type.role",
+    "value": "Role"
+  },
+  {
+    "id": "type.stronghold",
+    "value": "Stronghold"
+  },
+  {
+    "id": "element.air",
+    "value": "Air"
+  },
+  {
+    "id": "element.earth",
+    "value": "Earth"
+  },
+  {
+    "id": "element.fire",
+    "value": "Fire"
+  },
+  {
+    "id": "element.void",
+    "value": "Void"
+  },
+  {
+    "id": "element.water",
+    "value": "Water"
+  },
+  {
+    "id": "clan.crab",
+    "value": "Crab"
+  },
+  {
+    "id": "clan.crane",
+    "value": "Crane"
+  },
+  {
+    "id": "clan.dragon",
+    "value": "Dragon"
+  },
+  {
+    "id": "clan.lion",
+    "value": "Lion"
+  },
+  {
+    "id": "clan.phoenix",
+    "value": "Phoenix"
+  },
+  {
+    "id": "clan.scorpion",
+    "value": "Scorpion"
+  },
+  {
+    "id": "clan.unicorn",
+    "value": "Unicorn"
+  },
+  {
+    "id": "clan.neutral",
+    "value": "Neutral"
+  },
+  {
+    "id": "conflict.military",
+    "value": "Military"
+  },
+  {
+    "id": "conflict.political",
+    "value": "Political"
+  },
+  {
+    "id":  "trait.academy",
+    "value":"Academy"
+  },
+  {
+    "id":  "trait.actor",
+    "value":"Actor"
+  },
+  {
+    "id":  "trait.air",
+    "value":"Air"
+  },
+  {
+    "id":  "trait.army",
+    "value":"Army"
+  },
+  {
+    "id":  "trait.banner",
+    "value":"Banner"
+  },
+  {
+    "id":  "trait.battle-maiden",
+    "value":"Battle Maiden"
+  },
+  {
+    "id":  "trait.battlefield",
+    "value":"Battlefield"
+  },
+  {
+    "id":  "trait.berserker",
+    "value":"Berserker"
+  },
+  {
+    "id":  "trait.bushi",
+    "value":"Bushi"
+  },
+  {
+    "id":  "trait.castle",
+    "value":"Castle"
+  },
+  {
+    "id":  "trait.cavalry",
+    "value":"Cavalry"
+  },
+  {
+    "id":  "trait.champion",
+    "value":"Champion"
+  },
+  {
+    "id":  "trait.city",
+    "value":"City"
+  },
+  {
+    "id":  "trait.commander",
+    "value":"Commander"
+  },
+  {
+    "id":  "trait.condition",
+    "value":"Condition"
+  },
+  {
+    "id":  "trait.courtier",
+    "value":"Courtier"
+  },
+  {
+    "id":  "trait.creature",
+    "value":"Creature"
+  },
+  {
+    "id":  "trait.daimyo",
+    "value":"Daimyō"
+  },
+  {
+    "id":  "trait.duelist",
+    "value":"Duelist"
+  },
+  {
+    "id":  "trait.earth",
+    "value":"Earth"
+  },
+  {
+    "id":  "trait.engineer",
+    "value":"Engineer"
+  },
+  {
+    "id":  "trait.fire",
+    "value":"Fire"
+  },
+  {
+    "id":  "trait.follower",
+    "value":"Follower"
+  },
+  {
+    "id":  "trait.gaijin",
+    "value":"Gaijin"
+  },
+  {
+    "id":  "trait.imperial",
+    "value":"Imperial"
+  },
+  {
+    "id":  "trait.item",
+    "value":"Item"
+  },
+  {
+    "id":  "trait.jade",
+    "value":"Jade"
+  },
+  {
+    "id":  "trait.keeper",
+    "value":"Keeper"
+  },
+  {
+    "id":  "trait.kenshinzen",
+    "value":"Kenshinzen"
+  },
+  {
+    "id":  "trait.kiho",
+    "value":"Kihō"
+  },
+  {
+    "id":  "trait.goblin",
+    "value":"Goblin"
+  },
+  {
+    "id":  "trait.landmark",
+    "value":"Landmark"
+  },
+  {
+    "id":  "trait.library",
+    "value":"Library"
+  },
+  {
+    "id":  "trait.magistrate",
+    "value":"Magistrate"
+  },
+  {
+    "id":  "trait.mask",
+    "value":"Mask"
+  },
+  {
+    "id":  "trait.meishodo",
+    "value":"Meishōdō"
+  },
+  {
+    "id":  "trait.monk",
+    "value":"Monk"
+  },
+  {
+    "id":  "trait.omen",
+    "value":"Omen"
+  },
+  {
+    "id":  "trait.outpost",
+    "value":"Outpost"
+  },
+  {
+    "id":  "trait.peasant",
+    "value":"Peasant"
+  },
+  {
+    "id":  "trait.philosophy",
+    "value":"Philosophy"
+  },
+  {
+    "id":  "trait.poison",
+    "value":"Poison"
+  },
+  {
+    "id":  "trait.quest",
+    "value":"Quest"
+  },
+  {
+    "id":  "trait.ritual",
+    "value":"Ritual"
+  },
+  {
+    "id":  "trait.ronin",
+    "value":"Ronin"
+  },
+  {
+    "id":  "trait.scholar",
+    "value":"Scholar"
+  },
+  {
+    "id":  "trait.scout",
+    "value":"Scout"
+  },
+  {
+    "id":  "trait.seal",
+    "value":"Seal"
+  },
+  {
+    "id":  "trait.seeker",
+    "value":"Seeker"
+  },
+  {
+    "id":  "trait.shadowlands",
+    "value":"Shadowlands"
+  },
+  {
+    "id":  "trait.shinobi",
+    "value":"Shinobi"
+  },
+  {
+    "id":  "trait.shrine",
+    "value":"Shrine"
+  },
+  {
+    "id":  "trait.shugenja",
+    "value":"Shugenja"
+  },
+  {
+    "id":  "trait.spell",
+    "value":"Spell"
+  },
+  {
+    "id":  "trait.storyteller",
+    "value":"Storyteller"
+  },
+  {
+    "id":  "trait.tattooed",
+    "value":"Tattooed"
+  },
+  {
+    "id":  "trait.technique",
+    "value":"Technique"
+  },
+  {
+    "id":  "trait.trap",
+    "value":"Trap"
+  },
+  {
+    "id":  "trait.void",
+    "value":"Void"
+  },
+  {
+    "id":  "trait.water",
+    "value":"Water"
+  },
+  {
+    "id":  "trait.weapon",
+    "value":"Weapon"
+  },
+  {
+    "id":  "trait.wily-trader",
+    "value":"Wily Trader"
+  },
+  {
+    "id":  "trait.yojimbo",
+    "value":"Yōjimbō"
+  }
+]
