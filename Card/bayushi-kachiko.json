@@ -16,7 +16,7 @@
         "political": 6,
         "political_bonus": null,
         "role_restriction": null,
-        "side": "dynasty",
+        "side": "conflict",
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Action:</b> While this character is participating in a [conflict-political] conflict, choose a participating character with lower [conflict-political] than this character – move the chosen character home. Then, you may bow it.",
