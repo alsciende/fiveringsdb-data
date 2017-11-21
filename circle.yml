@@ -16,16 +16,7 @@ dependencies:
 database:
   override:
     - cd /home/ubuntu/fiveringsdb && bin/console doctrine:schema:update --no-interaction  --force
-    - cd /home/ubuntu/fiveringsdb && bin/console doctrine:fixtures:load --no-interaction
-    - cd /home/ubuntu/fiveringsdb && bin/console app:data:import --no-interaction
 
 test:
   override:
-    - cd /home/ubuntu/fiveringsdb && bin/console server:start localhost:8080
-    - cd /home/ubuntu/fiveringsdb && phpunit -d memory_limit=128M --verbose --debug
-
-deployment:
-  production:
-    branch: master
-    commands:
-      - ./deploy.sh
+    - cd /home/ubuntu/fiveringsdb && bin/console app:data:import --no-interaction
