@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "crab",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "id": "kaiu-inventor",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": 2,
+        "military_bonus": null,
+        "name": "Kaiu Inventor",
+        "political": 1,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> Choose a holding you control — you may trigger each of that holding's triggered abilities an additional time each round (or specified period).",
+        "traits": [
+            "bushi",
+            "engineer"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]
