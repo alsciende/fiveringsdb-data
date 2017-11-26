@@ -1,28 +1,29 @@
-    [
+[
     {
-        "clan": "crane",
+        "clan": "dragon",
         "cost": 3,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 2,
+        "glory": 1,
         "honor": null,
-        "id": "doji-challenger",
+        "id": "enigmatic-magistrate",
         "influence_cost": null,
         "influence_pool": null,
-        "military": 3,
+        "military": 2,
         "military_bonus": null,
-        "name": "Doji Challenger",
-        "political": 3,
+        "name": "Enigmatic Magistrate",
+        "political": 2,
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> While this character is attacking, choose a character controlled by your opponent – move that character to this conflict.",
+        "text": "While this character is attacking, only characters that have an odd printed cost count their skill toward the resolution of this conflict.",
         "traits": [
             "bushi",
-            "duelist"
+            "imperial",
+            "magistrate"
         ],
         "type": "character",
         "unicity": false

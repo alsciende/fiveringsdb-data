@@ -1,28 +1,26 @@
 [
     {
-        "clan": "dragon",
+        "clan": "lion",
         "cost": 1,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
-        "id": "high-kick",
-        "influence_cost": 2,
+        "id": "test-of-courage",
+        "influence_cost": 1,
         "influence_pool": null,
         "military": null,
         "military_bonus": null,
-        "name": "High Kick",
+        "name": "Test of Courage",
         "political": null,
         "political_bonus": null,
         "role_restriction": null,
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> During a [conflict-military] conflict, bow a <i>(friendly)</i> participating <em>Monk</em> character. Choose a participating character controlled by your opponent – bow that character. It cannot trigger abilities during this conflict.",
-        "traits": [
-            "technique"
-        ],
+        "text": "<b>Action:</b> During a conflict, if your honor bid is lower than your opponent's, choose a [clan-lion] character you control – move that character to the conflict. Then, honor it.",
+        "traits": [],
         "type": "event",
         "unicity": false
     }

@@ -1,28 +1,26 @@
 [
     {
-        "clan": "dragon",
+        "clan": "scorpion",
         "cost": 1,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
-        "id": "high-kick",
+        "id": "misinformation",
         "influence_cost": 2,
         "influence_pool": null,
         "military": null,
         "military_bonus": null,
-        "name": "High Kick",
+        "name": "Misinformation",
         "political": null,
         "political_bonus": null,
         "role_restriction": null,
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> During a [conflict-military] conflict, bow a <i>(friendly)</i> participating <em>Monk</em> character. Choose a participating character controlled by your opponent – bow that character. It cannot trigger abilities during this conflict.",
-        "traits": [
-            "technique"
-        ],
+        "text": "<b>Action:</b> During a conflict, if your honor bid is at least 2 higher than your opponent's – each participating character your opponent controls gets -1[conflict-military] and -1[conflict-political] until the end of the conflict.",
+        "traits": [],
         "type": "event",
         "unicity": false
     }

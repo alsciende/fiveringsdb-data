@@ -1,0 +1,27 @@
+[
+    {
+        "clan": "neutral",
+        "cost": null,
+        "deck_limit": 1,
+        "element": "earth",
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "public-forum",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Public Forum",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "province",
+        "strength": 3,
+        "strength_bonus": null,
+        "text": "Cannot be a stronghold province.\n<b>Interrupt:</b> When this province would be broken, if there are no honor tokens on it – place 1 honor token on it instead.",
+        "traits": [],
+        "type": "province",
+        "unicity": false
+    }
+]
