@@ -19,7 +19,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<em>Monk</em> character only. Attached character gains the <em>Tattooed</em> trait.\\nAttached character does not bow as a result of conflict resolution in conflicts in which it lost.",
+        "text": "<em>Monk</em> character only. Attached character gains the <em>Tattooed</em> trait.\nAttached character does not bow as a result of conflict resolution in conflicts in which it lost.",
         "traits": [
             "tattoo"
         ],
