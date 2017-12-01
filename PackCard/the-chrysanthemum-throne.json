@@ -1,0 +1,162 @@
+[
+    {
+        "card_id": "agasha-sumiko",
+        "flavor": null,
+        "illustrator": "Lin Hsiang",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_65.jpg",
+        "position": "65",
+        "quantity": 3
+    },
+    {
+        "card_id": "akodo-toshiro",
+        "flavor": null,
+        "illustrator": "Stanislav Dikolenko",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_67.jpg",
+        "position": "67",
+        "quantity": 3
+    },
+    {
+        "card_id": "backhanded-compliment",
+        "flavor": null,
+        "illustrator": "Tropa Entertainment",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_78.jpg",
+        "position": "78",
+        "quantity": 3
+    },
+    {
+        "card_id": "before-the-throne",
+        "flavor": null,
+        "illustrator": "Nele Diel",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_61.jpg",
+        "position": "61",
+        "quantity": 3
+    },
+    {
+        "card_id": "centipede-tattoo",
+        "flavor": null,
+        "illustrator": "Jorge Matar",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_75.jpg",
+        "position": "75",
+        "quantity": 3
+    },
+    {
+        "card_id": "curry-favor",
+        "flavor": null,
+        "illustrator": "Hai Hoang",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_74.jpg",
+        "position": "74",
+        "quantity": 3
+    },
+    {
+        "card_id": "doji-shizue",
+        "flavor": null,
+        "illustrator": "Borja Pindado",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_64.jpg",
+        "position": "64",
+        "quantity": 3
+    },
+    {
+        "card_id": "fawning-diplomat",
+        "flavor": null,
+        "illustrator": "Giby Joseph",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_70.jpg",
+        "position": "70",
+        "quantity": 3
+    },
+    {
+        "card_id": "gaijin-customs",
+        "flavor": null,
+        "illustrator": "Tropa Entertainment",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_79.jpg",
+        "position": "79",
+        "quantity": 3
+    },
+    {
+        "card_id": "guard-duty",
+        "flavor": null,
+        "illustrator": "Piotr Arendzikowski",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_76.jpg",
+        "position": "76",
+        "quantity": 3
+    },
+    {
+        "card_id": "guardians-of-the-seikitsu",
+        "flavor": null,
+        "illustrator": "Carlos Palma Cruchaga",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_62.jpg",
+        "position": "62",
+        "quantity": 3
+    },
+    {
+        "card_id": "haughty-magistrate",
+        "flavor": null,
+        "illustrator": "Hai Hoang",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_69.jpg",
+        "position": "69",
+        "quantity": 3
+    },
+    {
+        "card_id": "implacable-magistrate",
+        "flavor": null,
+        "illustrator": "Tropa Entertainment",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_68.jpg",
+        "position": "68",
+        "quantity": 3
+    },
+    {
+        "card_id": "kaiu-inventor",
+        "flavor": null,
+        "illustrator": "Stanislav Dikolenko",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_63.jpg",
+        "position": "63",
+        "quantity": 3
+    },
+    {
+        "card_id": "mountaintop-statuary",
+        "flavor": null,
+        "illustrator": "Noah Bradley",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_66.jpg",
+        "position": "66",
+        "quantity": 3
+    },
+    {
+        "card_id": "pit-trap",
+        "flavor": null,
+        "illustrator": "Stanislav Dikolenko",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_73.jpg",
+        "position": "73",
+        "quantity": 3
+    },
+    {
+        "card_id": "seal-of-the-phoenix",
+        "flavor": null,
+        "illustrator": "Mauro Dal Bo",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_77.jpg",
+        "position": "77",
+        "quantity": 3
+    },
+    {
+        "card_id": "the-imperial-palace",
+        "flavor": null,
+        "illustrator": "Chris Ostrowski",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_72.jpg",
+        "position": "72",
+        "quantity": 3
+    },
+    {
+        "card_id": "utaku-mediator",
+        "flavor": null,
+        "illustrator": "Giby Joseph",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_71.jpg",
+        "position": "71",
+        "quantity": 3
+    },
+    {
+        "card_id": "way-of-the-chrysanthemum",
+        "flavor": null,
+        "illustrator": "Francesca Baerald",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_80.jpg",
+        "position": "80",
+        "quantity": 3
+    }
+]
