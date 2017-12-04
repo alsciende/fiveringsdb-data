@@ -1,7 +1,7 @@
 [
     {
         "clan": "phoenix",
-        "cost": 2,
+        "cost": 3,
         "deck_limit": 3,
         "element": null,
         "fate": null,
