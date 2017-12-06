@@ -1,0 +1,27 @@
+[
+    {
+        "clan": "crab",
+        "cost": 0,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "fair-accord",
+        "influence_cost": 2,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Fair Accord",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During the dynasty phase, discard the Imperial Favor – gain 2 fate.",
+        "traits": [],
+        "type": "event",
+        "unicity": false
+    }
+]
