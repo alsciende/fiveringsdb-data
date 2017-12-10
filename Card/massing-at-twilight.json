@@ -2,7 +2,7 @@
     {
         "clan": "neutral",
         "cost": null,
-        "deck_limit": 3,
+        "deck_limit": 1,
         "element": "void",
         "fate": null,
         "glory": null,
