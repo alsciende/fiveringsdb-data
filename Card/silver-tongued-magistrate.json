@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "crane",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "silver-tongued-magistrate",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": 2,
+        "military_bonus": null,
+        "name": "Silver-Tongued Magistrate",
+        "political": 2,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "While this character is attacking, each other character that has no fate on it does not count its skill toward the resolution of this conflict.",
+        "traits": [
+            "bushi",
+            "imperial",
+            "magistrate"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

@@ -284,6 +284,10 @@
     "value":"Ritual"
   },
   {
+    "id":  "trait.river",
+    "value":"River"
+  },
+  {
     "id":  "trait.ronin",
     "value":"Ronin"
   },
