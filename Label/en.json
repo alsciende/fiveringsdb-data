@@ -248,6 +248,10 @@
     "value":"Meishōdō"
   },
   {
+    "id":  "trait.mine",
+    "value":"Mine"
+  },
+  {
     "id":  "trait.monk",
     "value":"Monk"
   },
