@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "phoenix",
+        "cost": 1,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "katana-of-fire",
+        "influence_cost": 2,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": "+0",
+        "name": "Katana of Fire",
+        "political": null,
+        "political_bonus": "+0",
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Play only if you control a <em>Shugenja</em> character. Restricted.\nAttached character gets +1[conflict-military] for each <em>Fire</em> card you control.\nAttached character gets +2[conflict-military] while the [element-fire] ring is in your claimed ring pool.",
+        "traits": [
+            "spell",
+            "fire",
+            "weapon"
+        ],
+        "type": "attachment",
+        "unicity": false
+    }
+]

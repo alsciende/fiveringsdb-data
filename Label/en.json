@@ -256,12 +256,20 @@
     "value":"Monk"
   },
   {
+    "id":  "trait.mythic",
+    "value":"Mythic"
+  },
+  {
     "id":  "trait.omen",
     "value":"Omen"
   },
   {
     "id":  "trait.outpost",
     "value":"Outpost"
+  },
+  {
+    "id":  "trait.palace",
+    "value":"Palace"
   },
   {
     "id":  "trait.peasant",
@@ -328,8 +336,16 @@
     "value":"Spell"
   },
   {
+    "id":  "trait.spirit",
+    "value":"Spirit"
+  },
+  {
     "id":  "trait.storyteller",
     "value":"Storyteller"
+  },
+  {
+    "id":  "trait.tattoo",
+    "value":"Tattoo"
   },
   {
     "id":  "trait.tattooed",
@@ -338,6 +354,10 @@
   {
     "id":  "trait.technique",
     "value":"Technique"
+  },
+  {
+    "id":  "trait.temple",
+    "value":"Temple"
   },
   {
     "id":  "trait.trap",
