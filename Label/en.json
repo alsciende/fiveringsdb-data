@@ -248,8 +248,16 @@
     "value":"Meishōdō"
   },
   {
+    "id":  "trait.mine",
+    "value":"Mine"
+  },
+  {
     "id":  "trait.monk",
     "value":"Monk"
+  },
+  {
+    "id":  "trait.mythic",
+    "value":"Mythic"
   },
   {
     "id":  "trait.omen",
@@ -258,6 +266,10 @@
   {
     "id":  "trait.outpost",
     "value":"Outpost"
+  },
+  {
+    "id":  "trait.palace",
+    "value":"Palace"
   },
   {
     "id":  "trait.peasant",
@@ -278,6 +290,10 @@
   {
     "id":  "trait.ritual",
     "value":"Ritual"
+  },
+  {
+    "id":  "trait.river",
+    "value":"River"
   },
   {
     "id":  "trait.ronin",
@@ -320,8 +336,16 @@
     "value":"Spell"
   },
   {
+    "id":  "trait.spirit",
+    "value":"Spirit"
+  },
+  {
     "id":  "trait.storyteller",
     "value":"Storyteller"
+  },
+  {
+    "id":  "trait.tattoo",
+    "value":"Tattoo"
   },
   {
     "id":  "trait.tattooed",
@@ -330,6 +354,10 @@
   {
     "id":  "trait.technique",
     "value":"Technique"
+  },
+  {
+    "id":  "trait.temple",
+    "value":"Temple"
   },
   {
     "id":  "trait.trap",
