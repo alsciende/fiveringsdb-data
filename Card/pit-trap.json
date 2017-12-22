@@ -19,7 +19,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a character.\nPlay only on a character that is attacking.\nAttached character does not ready during the regroup phase.",
+    "text": "Attach to a character.\nPlay only on a character that is attacking.\nAttached character does not ready during the regroup phase.\n<i>Errata from RRG v1.1</i>",
     "traits": [
       "item",
       "trap"
