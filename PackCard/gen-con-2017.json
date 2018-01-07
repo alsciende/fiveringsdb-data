@@ -2,6 +2,7 @@
   {
     "card_id": "way-of-the-crab",
     "quantity": 1,
+    "octgn_id": "78be5f2c-fe3e-4086-9fcf-13a989ea84cc",
     "position": "1",
     "illustrator": "Scott Wade",
     "image_url": null,
@@ -10,6 +11,7 @@
   {
     "card_id": "way-of-the-crane",
     "quantity": 1,
+    "octgn_id": "11d933b4-1e4b-49da-9fc7-6d1e6230a70f",
     "position": "2",
     "illustrator": "Scott Wade",
     "image_url": null,
@@ -18,6 +20,7 @@
   {
     "card_id": "way-of-the-dragon",
     "quantity": 1,
+    "octgn_id": "cc968b0b-e3cd-4119-b9e3-d76cbc6455fc",
     "position": "3",
     "illustrator": "Scott Wade",
     "image_url": null,
@@ -26,6 +29,7 @@
   {
     "card_id": "way-of-the-lion",
     "quantity": 1,
+    "octgn_id": "aef43254-a2f4-4c18-b392-b27492ce296e",
     "position": "4",
     "illustrator": "Scott Wade",
     "image_url": null,
@@ -34,6 +38,7 @@
   {
     "card_id": "way-of-the-phoenix",
     "quantity": 1,
+    "octgn_id": "ae567952-5952-420d-b410-db9ea90e53ad",
     "position": "5",
     "illustrator": "Scott Wade",
     "image_url": null,
@@ -42,6 +47,7 @@
   {
     "card_id": "way-of-the-scorpion",
     "quantity": 1,
+    "octgn_id": "45021dd0-74a6-4dff-9ba1-2b1b307855de",
     "position": "6",
     "illustrator": "Scott Wade",
     "image_url": null,
@@ -50,6 +56,7 @@
   {
     "card_id": "way-of-the-unicorn",
     "quantity": 1,
+    "octgn_id": "ab61e111-fc5b-430b-8bcd-e24644913b0a",
     "position": "7",
     "illustrator": "Scott Wade",
     "image_url": null,
@@ -58,6 +65,7 @@
   {
     "card_id": "shiro-nishiyama",
     "quantity": 1,
+    "octgn_id": "5810dc72-ce7c-428d-85e1-0d0e6a48780c",
     "position": "8",
     "illustrator": "Alayna Lemmer",
     "image_url": null,
@@ -66,6 +74,7 @@
   {
     "card_id": "shizuka-toshi",
     "quantity": 1,
+    "octgn_id": "d936f575-fd36-4c4e-92d7-c6d5097c83e4",
     "position": "9",
     "illustrator": "Alayna Lemmer",
     "image_url": null,
@@ -74,6 +83,7 @@
   {
     "card_id": "mountain-s-anvil-castle",
     "quantity": 1,
+    "octgn_id": "48c48474-d1da-412c-8a91-739886ee7ff9",
     "position": "10",
     "illustrator": "Alayna Lemmer",
     "image_url": null,
@@ -82,6 +92,7 @@
   {
     "card_id": "yojin-no-shiro",
     "quantity": 1,
+    "octgn_id": "49eaabd8-bdc7-49ce-ab3a-e35964a6bc00",
     "position": "11",
     "illustrator": "Chris Ostrowski",
     "image_url": null,
@@ -90,6 +101,7 @@
   {
     "card_id": "isawa-mori-seido",
     "quantity": 1,
+    "octgn_id": "07322541-cb8e-4bd6-89e7-adbb37ffa25f",
     "position": "12",
     "illustrator": "Alayna Lemmer",
     "image_url": null,
@@ -98,6 +110,7 @@
   {
     "card_id": "city-of-the-open-hand",
     "quantity": 1,
+    "octgn_id": "603439d1-17d7-40d4-bd30-135246de22fc",
     "position": "13",
     "illustrator": "Chris Ostrowski",
     "image_url": null,
@@ -106,6 +119,7 @@
   {
     "card_id": "golden-plains-outpost",
     "quantity": 1,
+    "octgn_id": "5b9aa74c-0ba5-4790-9696-78287dfa785e",
     "position": "14",
     "illustrator": "Alayna Lemmer",
     "image_url": null,
@@ -114,6 +128,7 @@
   {
     "card_id": "keeper-initiate",
     "quantity": 1,
+    "octgn_id": "38ef993f-0c93-4a26-a4ff-ef4909bbcf67",
     "position": "15",
     "illustrator": "Sergio Camarena",
     "image_url": null,
@@ -122,6 +137,7 @@
   {
     "card_id": "seeker-initiate",
     "quantity": 1,
+    "octgn_id": "b80af7fc-03fb-44bb-bb8a-4de1a5e22a7c",
     "position": "16",
     "illustrator": "Muyoung Kim",
     "image_url": null,
