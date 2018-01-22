@@ -6,6 +6,7 @@
     "ext-iconv": "*",
     "alsciende/serializer-bundle": "dev-master",
     "cocur/slugify": "^3.1",
+    "jms/serializer-bundle": "^2.3",
     "symfony/console": "^4.0",
     "symfony/expression-language": "^4.0",
     "symfony/flex": "^1.0",

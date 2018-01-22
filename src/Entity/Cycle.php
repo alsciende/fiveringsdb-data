@@ -86,4 +86,52 @@ class Cycle
     {
         return $this->size;
     }
+
+    /**
+     * @param string $id
+     *
+     * @return self
+     */
+    public function setId (string $id): self
+    {
+        $this->id = $id;
+
+        return $this;
+    }
+
+    /**
+     * @param string $name
+     *
+     * @return self
+     */
+    public function setName (string $name): self
+    {
+        $this->name = $name;
+
+        return $this;
+    }
+
+    /**
+     * @param int $position
+     *
+     * @return self
+     */
+    public function setPosition (int $position): self
+    {
+        $this->position = $position;
+
+        return $this;
+    }
+
+    /**
+     * @param int $size
+     *
+     * @return self
+     */
+    public function setSize (int $size): self
+    {
+        $this->size = $size;
+
+        return $this;
+    }
 }

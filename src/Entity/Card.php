@@ -444,4 +444,280 @@ class Card
     {
         return $this->roleRestriction;
     }
+
+    /**
+     * @param string $id
+     *
+     * @return self
+     */
+    public function setId (string $id): self
+    {
+        $this->id = $id;
+
+        return $this;
+    }
+
+    /**
+     * @param string $name
+     *
+     * @return self
+     */
+    public function setName (string $name): self
+    {
+        $this->name = $name;
+
+        return $this;
+    }
+
+    /**
+     * @param int $cost
+     *
+     * @return self
+     */
+    public function setCost (int $cost): self
+    {
+        $this->cost = $cost;
+
+        return $this;
+    }
+
+    /**
+     * @param string $text
+     *
+     * @return self
+     */
+    public function setText (string $text): self
+    {
+        $this->text = $text;
+
+        return $this;
+    }
+
+    /**
+     * @param string $type
+     *
+     * @return self
+     */
+    public function setType (string $type): self
+    {
+        $this->type = $type;
+
+        return $this;
+    }
+
+    /**
+     * @param string $clan
+     *
+     * @return self
+     */
+    public function setClan (string $clan): self
+    {
+        $this->clan = $clan;
+
+        return $this;
+    }
+
+    /**
+     * @param null|string $element
+     *
+     * @return self
+     */
+    public function setElement (?string $element): self
+    {
+        $this->element = $element;
+
+        return $this;
+    }
+
+    /**
+     * @param bool $unicity
+     *
+     * @return self
+     */
+    public function setUnicity (bool $unicity): self
+    {
+        $this->unicity = $unicity;
+
+        return $this;
+    }
+
+    /**
+     * @param string $side
+     *
+     * @return self
+     */
+    public function setSide (string $side): self
+    {
+        $this->side = $side;
+
+        return $this;
+    }
+
+    /**
+     * @param array $traits
+     *
+     * @return self
+     */
+    public function setTraits (array $traits): self
+    {
+        $this->traits = $traits;
+
+        return $this;
+    }
+
+    /**
+     * @param int|null $military
+     *
+     * @return self
+     */
+    public function setMilitary (?int $military): self
+    {
+        $this->military = $military;
+
+        return $this;
+    }
+
+    /**
+     * @param int|null $political
+     *
+     * @return self
+     */
+    public function setPolitical (?int $political): self
+    {
+        $this->political = $political;
+
+        return $this;
+    }
+
+    /**
+     * @param int|null $strength
+     *
+     * @return self
+     */
+    public function setStrength (?int $strength): self
+    {
+        $this->strength = $strength;
+
+        return $this;
+    }
+
+    /**
+     * @param null|string $militaryBonus
+     *
+     * @return self
+     */
+    public function setMilitaryBonus (?string $militaryBonus): self
+    {
+        $this->militaryBonus = $militaryBonus;
+
+        return $this;
+    }
+
+    /**
+     * @param null|string $politicalBonus
+     *
+     * @return self
+     */
+    public function setPoliticalBonus (?string $politicalBonus): self
+    {
+        $this->politicalBonus = $politicalBonus;
+
+        return $this;
+    }
+
+    /**
+     * @param null|string $strengthBonus
+     *
+     * @return self
+     */
+    public function setStrengthBonus (?string $strengthBonus): self
+    {
+        $this->strengthBonus = $strengthBonus;
+
+        return $this;
+    }
+
+    /**
+     * @param int|null $glory
+     *
+     * @return self
+     */
+    public function setGlory (?int $glory): self
+    {
+        $this->glory = $glory;
+
+        return $this;
+    }
+
+    /**
+     * @param int|null $honor
+     *
+     * @return self
+     */
+    public function setHonor (?int $honor): self
+    {
+        $this->honor = $honor;
+
+        return $this;
+    }
+
+    /**
+     * @param int|null $fate
+     *
+     * @return self
+     */
+    public function setFate (?int $fate): self
+    {
+        $this->fate = $fate;
+
+        return $this;
+    }
+
+    /**
+     * @param int|null $influencePool
+     *
+     * @return self
+     */
+    public function setInfluencePool (?int $influencePool): self
+    {
+        $this->influencePool = $influencePool;
+
+        return $this;
+    }
+
+    /**
+     * @param int|null $influenceCost
+     *
+     * @return self
+     */
+    public function setInfluenceCost (?int $influenceCost): self
+    {
+        $this->influenceCost = $influenceCost;
+
+        return $this;
+    }
+
+    /**
+     * @param int $deckLimit
+     *
+     * @return self
+     */
+    public function setDeckLimit (int $deckLimit): self
+    {
+        $this->deckLimit = $deckLimit;
+
+        return $this;
+    }
+
+    /**
+     * @param null|string $roleRestriction
+     *
+     * @return self
+     */
+    public function setRoleRestriction (?string $roleRestriction): self
+    {
+        $this->roleRestriction = $roleRestriction;
+
+        return $this;
+    }
 }

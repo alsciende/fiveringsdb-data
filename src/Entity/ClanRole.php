@@ -53,4 +53,28 @@ class ClanRole
     {
         return $this->clan;
     }
+
+    /**
+     * @param Card $card
+     *
+     * @return self
+     */
+    public function setCard (Card $card): self
+    {
+        $this->card = $card;
+
+        return $this;
+    }
+
+    /**
+     * @param string $clan
+     *
+     * @return self
+     */
+    public function setClan (string $clan): self
+    {
+        $this->clan = $clan;
+
+        return $this;
+    }
 }

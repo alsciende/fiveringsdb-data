@@ -139,4 +139,88 @@ class PackCard
     {
         return $this->pack;
     }
+
+    /**
+     * @param int $quantity
+     *
+     * @return self
+     */
+    public function setQuantity (int $quantity): self
+    {
+        $this->quantity = $quantity;
+
+        return $this;
+    }
+
+    /**
+     * @param string $position
+     *
+     * @return self
+     */
+    public function setPosition (string $position): self
+    {
+        $this->position = $position;
+
+        return $this;
+    }
+
+    /**
+     * @param string $illustrator
+     *
+     * @return self
+     */
+    public function setIllustrator (string $illustrator): self
+    {
+        $this->illustrator = $illustrator;
+
+        return $this;
+    }
+
+    /**
+     * @param null|string $flavor
+     *
+     * @return self
+     */
+    public function setFlavor (?string $flavor): self
+    {
+        $this->flavor = $flavor;
+
+        return $this;
+    }
+
+    /**
+     * @param null|string $imageUrl
+     *
+     * @return self
+     */
+    public function setImageUrl (?string $imageUrl): self
+    {
+        $this->imageUrl = $imageUrl;
+
+        return $this;
+    }
+
+    /**
+     * @param Card $card
+     *
+     * @return self
+     */
+    public function setCard (Card $card): self
+    {
+        $this->card = $card;
+
+        return $this;
+    }
+
+    /**
+     * @param Pack $pack
+     *
+     * @return self
+     */
+    public function setPack (Pack $pack): self
+    {
+        $this->pack = $pack;
+
+        return $this;
+    }
 }

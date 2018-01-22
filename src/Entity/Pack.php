@@ -138,4 +138,88 @@ class Pack
     {
         return $this->cycle;
     }
+
+    /**
+     * @param string $id
+     *
+     * @return self
+     */
+    public function setId (string $id): self
+    {
+        $this->id = $id;
+
+        return $this;
+    }
+
+    /**
+     * @param string $name
+     *
+     * @return self
+     */
+    public function setName (string $name): self
+    {
+        $this->name = $name;
+
+        return $this;
+    }
+
+    /**
+     * @param int $position
+     *
+     * @return self
+     */
+    public function setPosition (int $position): self
+    {
+        $this->position = $position;
+
+        return $this;
+    }
+
+    /**
+     * @param int $size
+     *
+     * @return self
+     */
+    public function setSize (int $size): self
+    {
+        $this->size = $size;
+
+        return $this;
+    }
+
+    /**
+     * @param \DateTime $releasedAt
+     *
+     * @return self
+     */
+    public function setReleasedAt (\DateTime $releasedAt): self
+    {
+        $this->releasedAt = $releasedAt;
+
+        return $this;
+    }
+
+    /**
+     * @param string $ffgId
+     *
+     * @return self
+     */
+    public function setFfgId (string $ffgId): self
+    {
+        $this->ffgId = $ffgId;
+
+        return $this;
+    }
+
+    /**
+     * @param Cycle $cycle
+     *
+     * @return self
+     */
+    public function setCycle (Cycle $cycle): self
+    {
+        $this->cycle = $cycle;
+
+        return $this;
+    }
 }

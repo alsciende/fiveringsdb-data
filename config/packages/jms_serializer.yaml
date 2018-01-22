@@ -1,0 +1,10 @@
+jms_serializer:
+    visitors:
+        xml:
+            format_output: '%kernel.debug%'
+    metadata:
+        auto_detection: false
+        directories:
+            app:
+                namespace_prefix: "App"
+                path: "src/Resources/config/serializer"

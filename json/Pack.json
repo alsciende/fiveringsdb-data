@@ -18,6 +18,24 @@
         "cycle_id": "promos"
     },
     {
+        "id": "battle-for-the-stronghold-kit",
+        "name": "Battle for the Stronghold Kit",
+        "position": 2,
+        "size": 7,
+        "released_at": null,
+        "ffg_id": null,
+        "cycle_id": "promos"
+    },
+    {
+        "id": "2018-season-one-stronghold-kit",
+        "name": "2018 Season One Stronghold Kit",
+        "position": 3,
+        "size": 13,
+        "released_at": null,
+        "ffg_id": null,
+        "cycle_id": "promos"
+    },
+    {
         "id": "tears-of-amaterasu",
         "name": "Tears of Amaterasu",
         "position": 1,

@@ -69,4 +69,40 @@ class Label
     {
         return $this->lang;
     }
+
+    /**
+     * @param string $id
+     *
+     * @return self
+     */
+    public function setId (string $id): self
+    {
+        $this->id = $id;
+
+        return $this;
+    }
+
+    /**
+     * @param string $value
+     *
+     * @return self
+     */
+    public function setValue (string $value): self
+    {
+        $this->value = $value;
+
+        return $this;
+    }
+
+    /**
+     * @param string $lang
+     *
+     * @return self
+     */
+    public function setLang (string $lang): self
+    {
+        $this->lang = $lang;
+
+        return $this;
+    }
 }
