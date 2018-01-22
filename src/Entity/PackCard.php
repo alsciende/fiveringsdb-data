@@ -24,7 +24,7 @@ class PackCard
      *
      * @Skizzle\Field(type="integer")
      */
-    public $quantity;
+    private $quantity;
 
     /**
      * @var string
@@ -33,7 +33,7 @@ class PackCard
      *
      * @Skizzle\Field(type="string")
      */
-    public $position;
+    private $position;
 
     /**
      * @var string
@@ -42,7 +42,7 @@ class PackCard
      *
      * @Skizzle\Field(type="string")
      */
-    public $illustrator;
+    private $illustrator;
 
     /**
      * @var string|null
@@ -51,7 +51,7 @@ class PackCard
      *
      * @Skizzle\Field(type="string")
      */
-    public $flavor;
+    private $flavor;
 
     /**
      * @var string|null
@@ -60,7 +60,7 @@ class PackCard
      *
      * @Skizzle\Field(type="string")
      */
-    public $imageUrl;
+    private $imageUrl;
 
     /**
      * @var \App\Entity\Card
@@ -71,7 +71,7 @@ class PackCard
      *
      * @Skizzle\Field(type="association")
      */
-    public $card;
+    private $card;
 
     /**
      * @var \App\Entity\Pack
@@ -82,5 +82,61 @@ class PackCard
      *
      * @Skizzle\Field(type="association")
      */
-    public $pack;
+    private $pack;
+
+    /**
+     * @return int
+     */
+    public function getQuantity (): int
+    {
+        return $this->quantity;
+    }
+
+    /**
+     * @return string
+     */
+    public function getPosition (): string
+    {
+        return $this->position;
+    }
+
+    /**
+     * @return string
+     */
+    public function getIllustrator (): string
+    {
+        return $this->illustrator;
+    }
+
+    /**
+     * @return null|string
+     */
+    public function getFlavor (): ?string
+    {
+        return $this->flavor;
+    }
+
+    /**
+     * @return null|string
+     */
+    public function getImageUrl (): ?string
+    {
+        return $this->imageUrl;
+    }
+
+    /**
+     * @return Card
+     */
+    public function getCard (): Card
+    {
+        return $this->card;
+    }
+
+    /**
+     * @return Pack
+     */
+    public function getPack (): Pack
+    {
+        return $this->pack;
+    }
 }

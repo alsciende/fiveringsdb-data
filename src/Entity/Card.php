@@ -54,7 +54,7 @@ class Card
      *
      * @Skizzle\Field(type="string")
      */
-    public $id;
+    private $id;
 
     /**
      * @var string
@@ -63,14 +63,7 @@ class Card
      *
      * @Skizzle\Field(type="string")
      */
-    public $name;
-
-    /**
-     * @var string
-     *
-     * @ORM\Column(name="name_canonical", type="string", length=255)
-     */
-    public $nameCanonical;
+    private $name;
 
     /**
      * @var int
@@ -79,7 +72,7 @@ class Card
      *
      * @Skizzle\Field(type="integer")
      */
-    public $cost;
+    private $cost;
 
     /**
      * @var string
@@ -88,14 +81,7 @@ class Card
      *
      * @Skizzle\Field(type="string")
      */
-    public $text;
-
-    /**
-     * @var string
-     *
-     * @ORM\Column(name="text_canonical", type="text", nullable=true)
-     */
-    public $textCanonical;
+    private $text;
 
     /**
      * @var string
@@ -104,7 +90,7 @@ class Card
      *
      * @Skizzle\Field(type="string")
      */
-    public $type;
+    private $type;
 
     /**
      * @var string
@@ -113,7 +99,7 @@ class Card
      *
      * @Skizzle\Field(type="string")
      */
-    public $clan;
+    private $clan;
 
     /**
      * @var string|null
@@ -122,7 +108,7 @@ class Card
      *
      * @Skizzle\Field(type="string")
      */
-    public $element;
+    private $element;
 
     /**
      * @var boolean
@@ -131,7 +117,7 @@ class Card
      *
      * @Skizzle\Field(type="boolean")
      */
-    public $unicity;
+    private $unicity;
 
     /**
      * @var string
@@ -140,7 +126,7 @@ class Card
      *
      * @Skizzle\Field(type="string")
      */
-    public $side;
+    private $side;
 
     /**
      * @var array
@@ -149,7 +135,7 @@ class Card
      *
      * @Skizzle\Field(type="array")
      */
-    public $traits;
+    private $traits;
 
     /**
      * @var integer|null
@@ -158,7 +144,7 @@ class Card
      *
      * @Skizzle\Field(type="integer")
      */
-    public $military;
+    private $military;
 
     /**
      * @var integer|null
@@ -167,7 +153,7 @@ class Card
      *
      * @Skizzle\Field(type="integer")
      */
-    public $political;
+    private $political;
 
     /**
      * @var integer|null
@@ -176,7 +162,7 @@ class Card
      *
      * @Skizzle\Field(type="integer")
      */
-    public $strength;
+    private $strength;
 
     /**
      * @var string|null
@@ -185,7 +171,7 @@ class Card
      *
      * @Skizzle\Field(type="string")
      */
-    public $militaryBonus;
+    private $militaryBonus;
 
     /**
      * @var string|null
@@ -194,7 +180,7 @@ class Card
      *
      * @Skizzle\Field(type="string")
      */
-    public $politicalBonus;
+    private $politicalBonus;
 
     /**
      * @var string|null
@@ -203,7 +189,7 @@ class Card
      *
      * @Skizzle\Field(type="string")
      */
-    public $strengthBonus;
+    private $strengthBonus;
 
     /**
      * @var integer|null
@@ -212,7 +198,7 @@ class Card
      *
      * @Skizzle\Field(type="integer")
      */
-    public $glory;
+    private $glory;
 
     /**
      * @var integer|null
@@ -221,7 +207,7 @@ class Card
      *
      * @Skizzle\Field(type="integer")
      */
-    public $honor;
+    private $honor;
 
     /**
      * @var integer|null
@@ -230,7 +216,7 @@ class Card
      *
      * @Skizzle\Field(type="integer")
      */
-    public $fate;
+    private $fate;
 
     /**
      * @var integer|null
@@ -239,7 +225,7 @@ class Card
      *
      * @Skizzle\Field(type="integer")
      */
-    public $influencePool;
+    private $influencePool;
 
     /**
      * @var integer|null
@@ -248,7 +234,7 @@ class Card
      *
      * @Skizzle\Field(type="integer")
      */
-    public $influenceCost;
+    private $influenceCost;
 
     /**
      * @var integer
@@ -257,7 +243,7 @@ class Card
      *
      * @Skizzle\Field(type="integer")
      */
-    public $deckLimit;
+    private $deckLimit;
 
     /**
      * @var string|null
@@ -266,12 +252,196 @@ class Card
      *
      * @Skizzle\Field(type="string")
      */
-    public $roleRestriction;
+    private $roleRestriction;
 
-    function __construct ()
+    public function __construct ()
     {
         $this->deckLimit = 3;
         $this->traits = [];
         $this->unicity = false;
+    }
+
+    /**
+     * @return string
+     */
+    public function getId (): string
+    {
+        return $this->id;
+    }
+
+    /**
+     * @return string
+     */
+    public function getName (): string
+    {
+        return $this->name;
+    }
+
+    /**
+     * @return int
+     */
+    public function getCost (): int
+    {
+        return $this->cost;
+    }
+
+    /**
+     * @return string
+     */
+    public function getText (): string
+    {
+        return $this->text;
+    }
+
+    /**
+     * @return string
+     */
+    public function getType (): string
+    {
+        return $this->type;
+    }
+
+    /**
+     * @return string
+     */
+    public function getClan (): string
+    {
+        return $this->clan;
+    }
+
+    /**
+     * @return null|string
+     */
+    public function getElement (): ?string
+    {
+        return $this->element;
+    }
+
+    /**
+     * @return bool
+     */
+    public function isUnicity (): bool
+    {
+        return $this->unicity;
+    }
+
+    /**
+     * @return string
+     */
+    public function getSide (): string
+    {
+        return $this->side;
+    }
+
+    /**
+     * @return array
+     */
+    public function getTraits (): array
+    {
+        return $this->traits;
+    }
+
+    /**
+     * @return int|null
+     */
+    public function getMilitary (): ?int
+    {
+        return $this->military;
+    }
+
+    /**
+     * @return int|null
+     */
+    public function getPolitical (): ?int
+    {
+        return $this->political;
+    }
+
+    /**
+     * @return int|null
+     */
+    public function getStrength (): ?int
+    {
+        return $this->strength;
+    }
+
+    /**
+     * @return null|string
+     */
+    public function getMilitaryBonus (): ?string
+    {
+        return $this->militaryBonus;
+    }
+
+    /**
+     * @return null|string
+     */
+    public function getPoliticalBonus (): ?string
+    {
+        return $this->politicalBonus;
+    }
+
+    /**
+     * @return null|string
+     */
+    public function getStrengthBonus (): ?string
+    {
+        return $this->strengthBonus;
+    }
+
+    /**
+     * @return int|null
+     */
+    public function getGlory (): ?int
+    {
+        return $this->glory;
+    }
+
+    /**
+     * @return int|null
+     */
+    public function getHonor (): ?int
+    {
+        return $this->honor;
+    }
+
+    /**
+     * @return int|null
+     */
+    public function getFate (): ?int
+    {
+        return $this->fate;
+    }
+
+    /**
+     * @return int|null
+     */
+    public function getInfluencePool (): ?int
+    {
+        return $this->influencePool;
+    }
+
+    /**
+     * @return int|null
+     */
+    public function getInfluenceCost (): ?int
+    {
+        return $this->influenceCost;
+    }
+
+    /**
+     * @return int
+     */
+    public function getDeckLimit (): int
+    {
+        return $this->deckLimit;
+    }
+
+    /**
+     * @return null|string
+     */
+    public function getRoleRestriction (): ?string
+    {
+        return $this->roleRestriction;
     }
 }

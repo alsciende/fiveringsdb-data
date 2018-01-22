@@ -26,7 +26,7 @@ class Label
      *
      * @Skizzle\Field(type="string")
      */
-    public $id;
+    private $id;
 
     /**
      * @var string
@@ -35,7 +35,7 @@ class Label
      *
      * @Skizzle\Field(type="string")
      */
-    public $value;
+    private $value;
 
     /**
      * @var string
@@ -44,5 +44,29 @@ class Label
      *
      * @Skizzle\Field(type="string")
      */
-    public $lang;
+    private $lang;
+
+    /**
+     * @return string
+     */
+    public function getId (): string
+    {
+        return $this->id;
+    }
+
+    /**
+     * @return string
+     */
+    public function getValue (): string
+    {
+        return $this->value;
+    }
+
+    /**
+     * @return string
+     */
+    public function getLang (): string
+    {
+        return $this->lang;
+    }
 }

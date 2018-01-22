@@ -2,6 +2,9 @@
     "alsciende/serializer-bundle": {
         "version": "dev-master"
     },
+    "cocur/slugify": {
+        "version": "v3.1"
+    },
     "doctrine/annotations": {
         "version": "1.0",
         "recipe": {
@@ -111,6 +114,9 @@
         "version": "v4.0.3"
     },
     "symfony/event-dispatcher": {
+        "version": "v4.0.3"
+    },
+    "symfony/expression-language": {
         "version": "v4.0.3"
     },
     "symfony/filesystem": {

@@ -1,0 +1,26 @@
+App\Entity\Deck:
+    properties:
+        name:
+            - Type: string
+            - NotBlank:
+                groups: [private,public]
+                message: 'The name cannot be empty.'
+            - Length:
+                groups: [private,public]
+                max: 255
+                maxMessage: 'The name cannot be longer than {{ limit }} characters.'
+        format:
+            - Type: string
+            - NotBlank:
+                groups: [private,public]
+        description:
+            - Type: string
+            - Length:
+                groups: [public]
+                min: 10
+                max: 32768
+                minMessage: 'The description must be at least {{ limit }} characters long.'
+                maxMessage: 'The description cannot be longer than {{ limit }} characters.'
+            - NotBlank:
+                groups: [public]
+                message: 'The description cannot be empty.'

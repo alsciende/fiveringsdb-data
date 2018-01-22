@@ -26,7 +26,7 @@ class Pack
      *
      * @Skizzle\Field(type="string")
      */
-    public $id;
+    private $id;
 
     /**
      * @var string
@@ -35,7 +35,7 @@ class Pack
      *
      * @Skizzle\Field(type="string")
      */
-    public $name;
+    private $name;
 
     /**
      * @var int
@@ -44,7 +44,7 @@ class Pack
      *
      * @Skizzle\Field(type="integer")
      */
-    public $position;
+    private $position;
 
     /**
      * @var int
@@ -53,7 +53,7 @@ class Pack
      *
      * @Skizzle\Field(type="integer")
      */
-    public $size;
+    private $size;
 
     /**
      * @var \DateTime
@@ -62,7 +62,7 @@ class Pack
      *
      * @Skizzle\Field(type="date")
      */
-    public $releasedAt;
+    private $releasedAt;
 
     /**
      * @var string
@@ -71,7 +71,7 @@ class Pack
      *
      * @Skizzle\Field(type="string")
      */
-    public $ffgId;
+    private $ffgId;
 
     /**
      * @var Cycle
@@ -81,5 +81,61 @@ class Pack
      *
      * @Skizzle\Field(type="association")
      */
-    public $cycle;
+    private $cycle;
+
+    /**
+     * @return string
+     */
+    public function getId (): string
+    {
+        return $this->id;
+    }
+
+    /**
+     * @return string
+     */
+    public function getName (): string
+    {
+        return $this->name;
+    }
+
+    /**
+     * @return int
+     */
+    public function getPosition (): int
+    {
+        return $this->position;
+    }
+
+    /**
+     * @return int
+     */
+    public function getSize (): int
+    {
+        return $this->size;
+    }
+
+    /**
+     * @return \DateTime
+     */
+    public function getReleasedAt (): \DateTime
+    {
+        return $this->releasedAt;
+    }
+
+    /**
+     * @return string
+     */
+    public function getFfgId (): string
+    {
+        return $this->ffgId;
+    }
+
+    /**
+     * @return Cycle
+     */
+    public function getCycle (): Cycle
+    {
+        return $this->cycle;
+    }
 }

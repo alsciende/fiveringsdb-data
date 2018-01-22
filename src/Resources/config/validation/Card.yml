@@ -1,0 +1,144 @@
+App\Entity\Card:
+    constraints:
+        - App\Validator\Constraints\HasCorrectSlug: ~
+    properties:
+        id:
+            - Type: string
+            - NotBlank: ~
+        name:
+            - Type: string
+            - NotBlank: ~
+            - Length:
+                min: 2
+                max: 255
+        clan:
+            - Type: string
+            - Choice:
+                choices: [crab, crane, dragon, lion, neutral, phoenix, scorpion, unicorn]
+                strict: true
+                message: Not a valid clan.
+        type:
+            - Type: string
+            - Choice:
+                choices: [attachment, character, event, holding, province, role, stronghold]
+                strict: true
+                message: Not a valid type.
+        element:
+            - Type: string
+            - Choice:
+                choices: [air, earth, fire, void, water]
+                strict: true
+                message: Not a valid element.
+            - Expression:
+                expression: "this.getType() in ['province'] or value === null"
+                message: Cannot have an element.
+        side:
+            - Type: string
+            - Choice:
+                choices: [conflict, dynasty, province, role]
+                strict: true
+                message: Not a valid side.
+        roleRestriction:
+            - Type: string
+            - Choice:
+                choices: [keeper, seeker, air, earth, fire, void, water]
+                strict: true
+                message: Not a valid role restriction.
+        cost:
+            - Type: integer
+            - GreaterThanOrEqual: 0
+            - Expression:
+                expression: "this.getType() in ['holding','province','role','stronghold'] or value !== null"
+                message: Must have a cost.
+        text:
+            - Type: string
+            - Expression:
+                expression: "this.getType() in ['character','attachment'] or value !== null"
+                message: Must have a text.
+        unicity:
+            - Type: boolean
+            - Expression:
+                expression: "this.getType() in ['attachment','character','stronghold','holding'] or value === false"
+                message: Cannot be unique.
+        traits:
+            - Type: array
+            - All:
+                - Type: string
+                - NotBlank: ~
+        military:
+            - Type: integer
+            - GreaterThanOrEqual: 0
+            - Expression:
+                expression: "this.getType() in ['character'] or value === null"
+                message: Cannot have a military skill.
+        political:
+            - Type: integer
+            - GreaterThanOrEqual: 0
+            - Expression:
+                expression: "this.getType() in ['character'] or value === null"
+                message: Cannot have a political skill.
+        strength:
+            - Type: integer
+            - GreaterThanOrEqual: 0
+            - Expression:
+                expression: "this.getType() in ['province'] or value === null"
+                message: Cannot have a strength.
+        militaryBonus:
+            - Type: string
+            - Expression:
+                expression: "this.getType() in ['attachment'] or value === null"
+                message: Cannot have a military skill bonus.
+        politicalBonus:
+            - Type: string
+            - Expression:
+                expression: "this.getType() in ['attachment'] or value === null"
+                message: Cannot have a political skill bonus.
+        strengthBonus:
+            - Type: string
+            - Expression:
+                expression: "this.getType() in ['holding','stronghold'] or value === null"
+                message: Cannot have a strength bonus.
+        glory:
+            - Type: integer
+            - GreaterThanOrEqual: 0
+            - Expression:
+                expression: "this.getType() in ['character'] or value === null"
+                message: Cannot have a glory value.
+        honor:
+            - Type: integer
+            - GreaterThanOrEqual: 0
+            - Expression:
+                expression: "this.getType() in ['stronghold'] or value === null"
+                message: Cannot have a honor value.
+        fate:
+            - Type: integer
+            - GreaterThanOrEqual: 0
+            - Expression:
+                expression: "this.getType() in ['stronghold'] or value === null"
+                message: Cannot have a fate value.
+        influencePool:
+            - Type: integer
+            - GreaterThanOrEqual: 0
+            - Expression:
+                expression: "this.getType() in ['stronghold'] or value === null"
+                message: Cannot have an influence pool value.
+        influenceCost:
+            - Type: integer
+            - GreaterThanOrEqual: 0
+            - Expression:
+                expression: "this.getSide() === 'conflict' or value === null"
+                message: Cannot have an influence cost.
+            - Expression:
+                expression: "this.getSide() !== 'conflict' or this.getClan() !== 'neutral' or value === 0"
+                message: Must have a influence cost equal to 0.
+            - Expression:
+                expression: "this.getSide() !== 'conflict' or this.getClan() === 'neutral' or value === null or value > 0"
+                message: Must have a influence cost greater than 0.
+        deckLimit:
+            - Type: integer
+            - Range:
+                min: 1
+                max: 3
+            - Expression:
+                expression: "this.getSide() !== 'province' or value === 1"
+                message: Must have a deck limit equal to 1.

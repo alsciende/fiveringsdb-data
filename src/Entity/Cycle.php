@@ -26,7 +26,7 @@ class Cycle
      *
      * @Skizzle\Field(type="string")
      */
-    public $id;
+    private $id;
 
     /**
      * @var string
@@ -35,7 +35,7 @@ class Cycle
      *
      * @Skizzle\Field(type="string")
      */
-    public $name;
+    private $name;
 
     /**
      * @var int
@@ -44,7 +44,7 @@ class Cycle
      *
      * @Skizzle\Field(type="integer")
      */
-    public $position;
+    private $position;
 
     /**
      * @var int
@@ -53,5 +53,37 @@ class Cycle
      *
      * @Skizzle\Field(type="integer")
      */
-    public $size;
+    private $size;
+
+    /**
+     * @return string
+     */
+    public function getId (): string
+    {
+        return $this->id;
+    }
+
+    /**
+     * @return string
+     */
+    public function getName (): string
+    {
+        return $this->name;
+    }
+
+    /**
+     * @return int
+     */
+    public function getPosition (): int
+    {
+        return $this->position;
+    }
+
+    /**
+     * @return int
+     */
+    public function getSize (): int
+    {
+        return $this->size;
+    }
 }

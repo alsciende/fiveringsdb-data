@@ -1,0 +1,10 @@
+App\Entity\Pack:
+    properties:
+        id:
+            - Type: string
+            - NotBlank:
+                message: 'The id cannot be empty.'
+        name:
+            - Type: string
+            - NotBlank:
+                message: 'The name cannot be empty.'

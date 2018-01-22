@@ -6,7 +6,6 @@ use Alsciende\SerializerBundle\Model\Source;
 use Alsciende\SerializerBundle\Service\ImportingService;
 use Alsciende\SerializerBundle\Service\MergingService;
 use Alsciende\SerializerBundle\Service\ScanningService;
-use Doctrine\ORM\EntityManagerInterface;
 use Psr\Log\LoggerInterface;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
@@ -30,9 +29,6 @@ class DataImportCommand extends Command
     /** @var MergingService $merging */
     private $merging;
 
-    /** @var EntityManagerInterface $entityManager */
-    private $entityManager;
-
     /** @var ValidatorInterface $validator */
     private $validator;
 
@@ -47,15 +43,14 @@ class DataImportCommand extends Command
         ScanningService $scanningService,
         ImportingService $importer,
         MergingService $merging,
-        EntityManagerInterface $entityManager,
         ValidatorInterface $validator,
         LoggerInterface $logger
-    ) {
+    )
+    {
         parent::__construct($name);
         $this->scanningService = $scanningService;
         $this->importer = $importer;
         $this->merging = $merging;
-        $this->entityManager = $entityManager;
         $this->validator = $validator;
         $this->logger = $logger;
         $this->jsonDataPath = __DIR__ . '/../../json';
@@ -68,22 +63,20 @@ class DataImportCommand extends Command
     {
         $this
             ->setName('app:data:import')
-            ->setDescription("Import data from JSON files to the database");
+            ->setDescription("Import data from JSON files into entities and validates them");
     }
 
     protected function execute (InputInterface $input, OutputInterface $output)
     {
         $sources = $this->scanningService->findSources();
 
-        foreach($sources as $source) {
+        foreach ($sources as $source) {
             $this->import($source);
         }
     }
 
-    private function import(Source $source)
+    private function import (Source $source)
     {
-        $this->entityManager->getRepository($source->getClassName())->findAll();
-
         $fragments = $this->importer->importSource($source, $this->jsonDataPath);
 
         foreach ($fragments as $fragment) {
@@ -92,18 +85,13 @@ class DataImportCommand extends Command
                 /** @var ConstraintViolationInterface $error */
                 foreach ($errors as $error) {
                     $this->logger->error('Validation error', [
-                        "path" => $fragment->getBlock()->getPath(),
-                        "data" => $fragment->getData(),
                         "error" => $error->getMessage(),
+                        "path"  => $fragment->getBlock()->getPath(),
+                        "data"  => $fragment->getData(),
                     ]);
                 }
                 throw new \Exception((string) $errors);
             }
-
-            dump($fragment->getEntity());
-            $this->merging->merge($fragment);
         }
-
-        $this->entityManager->flush();
     }
 }

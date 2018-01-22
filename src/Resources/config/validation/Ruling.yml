@@ -1,0 +1,14 @@
+App\Entity\Ruling:
+    properties:
+        text:
+            - Type: string
+            - NotBlank:
+                message: 'The text of the ruling cannot be empty.'
+        source:
+            - Type: string
+            - NotBlank:
+                message: 'The source of the ruling cannot be empty.'
+        link:
+            - Type: string
+            - Url:
+                message: 'The link of the ruling must be an URL.'

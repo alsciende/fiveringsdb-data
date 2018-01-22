@@ -1,0 +1,5 @@
+App\Entity\Token:
+    properties:
+        id:
+            - Type: string
+            - NotBlank: ~

@@ -25,7 +25,7 @@ class ClanRole
      *
      * @Skizzle\Field(type="association")
      */
-    public $card;
+    private $card;
 
     /**
      * @var string
@@ -36,5 +36,21 @@ class ClanRole
      *
      * @Skizzle\Field(type="string")
      */
-    public $clan;
+    private $clan;
+
+    /**
+     * @return Card
+     */
+    public function getCard (): Card
+    {
+        return $this->card;
+    }
+
+    /**
+     * @return string
+     */
+    public function getClan (): string
+    {
+        return $this->clan;
+    }
 }
