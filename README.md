@@ -14,6 +14,7 @@ To validate the data, execute:
  ```
  bin/console app:data:import
  ```
+ No output means that all checks have passed successfully.
  
 ## Data Generation
 

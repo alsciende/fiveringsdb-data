@@ -4,16 +4,21 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "66c4372e40b74b989cd4600d7c74dcc3",
+    "content-hash": "fd93978c6b5898eca51a826b663b5651",
     "packages": [
         {
             "name": "alsciende/serializer-bundle",
             "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:Alsciende/serializer-bundle.git",
+                "reference": "3e5e25e82cb43bc7fc00088ff7a98c3b1e02235e"
+            },
             "dist": {
-                "type": "path",
-                "url": "../serializer-bundle",
-                "reference": "b7dc60ad9ab99da2c24269e686264bd6f184674e",
-                "shasum": null
+                "type": "zip",
+                "url": "https://api.github.com/repos/Alsciende/serializer-bundle/zipball/3e5e25e82cb43bc7fc00088ff7a98c3b1e02235e",
+                "reference": "3e5e25e82cb43bc7fc00088ff7a98c3b1e02235e",
+                "shasum": ""
             },
             "require": {
                 "doctrine/orm": "^2.6",
@@ -45,7 +50,12 @@
                     "email": "bertolini.cedric@me.com"
                 }
             ],
-            "description": "Alsciende SerializerBundle"
+            "description": "Alsciende SerializerBundle",
+            "support": {
+                "source": "https://github.com/Alsciende/serializer-bundle/tree/master",
+                "issues": "https://github.com/Alsciende/serializer-bundle/issues"
+            },
+            "time": "2018-01-22T16:26:50+00:00"
         },
         {
             "name": "cocur/slugify",
