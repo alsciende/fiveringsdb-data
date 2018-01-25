@@ -6,9 +6,8 @@ cache:
     - $HOME/.composer/cache/files
 env:
   - SYMFONY_VERSION="4.0.*" DB=sqlite
-before-install:
-  - cp .env.dist .env
 install:
+  - cp .env.dist .env
   - composer install
 script:
   - bin/console app:data:import
