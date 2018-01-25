@@ -1,3 +1,6 @@
+FiveRingsDB cards JSON data [![Build status](https://travis-ci.org/Alsciende/fiveringsdb-data.svg?branch=master)](https://travis-ci.org/Alsciende/fiveringsdb-data)
+=========
+
 This repository contains the game data used by [FiveRingsDB](https://fiveringsdb.com). The data is stored in JSON files under the directory `json/`.
 
 The project also contains a Symfony project you can use to validate or generate the data.
