@@ -1,7 +1,7 @@
 [
     {
         "card_id": "bayushi-yojiro",
-        "flavor": null,
+        "flavor": "\"If you will not believe a word I say, I may as well tell the truth.\"",
         "illustrator": "Carlos Palma Cruchaga",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C03_28.jpg",
         "position": "28",
@@ -33,7 +33,7 @@
     },
     {
         "card_id": "ide-tadaji",
-        "flavor": null,
+        "flavor": "\"Without a worthy opponent, victory is meaningless.\"",
         "illustrator": "Polar Engine",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C03_29.jpg",
         "position": "29",
@@ -41,7 +41,7 @@
     },
     {
         "card_id": "ikoma-ujiaki",
-        "flavor": null,
+        "flavor": "\"I remember.\"",
         "illustrator": "Diego Gisbert Llorens",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C03_26.jpg",
         "position": "26",
@@ -49,7 +49,7 @@
     },
     {
         "card_id": "kabuki-hero",
-        "flavor": null,
+        "flavor": "\"As a tear of dew on a fallen leaf –\nas the glimmer of moonlight on a still lake –\nsuch is the impermanence of this life.\"\n – Asahina Ichikawa",
         "illustrator": "Jason Juta",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C03_24.jpg",
         "position": "24",
@@ -129,7 +129,7 @@
     },
     {
         "card_id": "seal-of-the-scorpion",
-        "flavor": null,
+        "flavor": "In the name of Lord Bayushi Shoju,\nthe Most Dutiful,\nMaster of Secrets,\namong other titles known and unknown,\nDaimyō of the Bayushi, and\nChampion of the Scorpion Clan",
         "illustrator": "Mauro Dal Bo",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C03_38.jpg",
         "position": "38",
@@ -137,7 +137,7 @@
     },
     {
         "card_id": "shinjo-saddle",
-        "flavor": null,
+        "flavor": "Among the Unicorn, one inherits more than just a daishō.",
         "illustrator": "Jason Juta",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C03_39.jpg",
         "position": "39",
@@ -145,7 +145,7 @@
     },
     {
         "card_id": "shrine-maiden",
-        "flavor": null,
+        "flavor": "\"My family has protected this shrine for generations, and we shall protect it for generations more.\"",
         "illustrator": "Shen Fei",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C03_36.jpg",
         "position": "36",
@@ -153,7 +153,7 @@
     },
     {
         "card_id": "stoic-magistrate",
-        "flavor": null,
+        "flavor": "\"There is no justice. There is just us.\"",
         "illustrator": "Stanislav Dikolenko",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C03_23.jpg",
         "position": "23",
