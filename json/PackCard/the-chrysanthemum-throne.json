@@ -1,7 +1,7 @@
 [
     {
         "card_id": "agasha-sumiko",
-        "flavor": null,
+        "flavor": "\"I will not merely record history. I will forge it myself.\"",
         "illustrator": "Lin Hsiang",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_65.jpg",
         "position": "65",
@@ -9,7 +9,7 @@
     },
     {
         "card_id": "akodo-toshiro",
-        "flavor": null,
+        "flavor": "\"You are the most gifted swordsman of your generation. Why must you waste your time on this cowardly art?\" Akodo Gendo",
         "illustrator": "Stanislav Dikolenko",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_67.jpg",
         "position": "67",
@@ -17,7 +17,7 @@
     },
     {
         "card_id": "backhanded-compliment",
-        "flavor": null,
+        "flavor": "\"No one could accuse you of vanity with such a style.\"",
         "illustrator": "Tropa Entertainment",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_78.jpg",
         "position": "78",
@@ -25,7 +25,7 @@
     },
     {
         "card_id": "before-the-throne",
-        "flavor": null,
+        "flavor": "\"Your August Imperial Majesty, your humble servant comes before you...\"",
         "illustrator": "Nele Diel",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_61.jpg",
         "position": "61",
@@ -41,7 +41,7 @@
     },
     {
         "card_id": "curry-favor",
-        "flavor": null,
+        "flavor": "\"How could the Crane do any less for our honored allies?\"",
         "illustrator": "Hai Hoang",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_74.jpg",
         "position": "74",
@@ -49,7 +49,7 @@
     },
     {
         "card_id": "doji-shizue",
-        "flavor": null,
+        "flavor": "\"Mukashi mukashi...\"",
         "illustrator": "Borja Pindado",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_64.jpg",
         "position": "64",
@@ -57,7 +57,7 @@
     },
     {
         "card_id": "fawning-diplomat",
-        "flavor": null,
+        "flavor": "Flattery is the currency of the court.",
         "illustrator": "Giby Joseph",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_70.jpg",
         "position": "70",
@@ -65,7 +65,7 @@
     },
     {
         "card_id": "gaijin-customs",
-        "flavor": null,
+        "flavor": "They stood, unmoving, each unsure how to proceed.",
         "illustrator": "Tropa Entertainment",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_79.jpg",
         "position": "79",
@@ -73,7 +73,7 @@
     },
     {
         "card_id": "guard-duty",
-        "flavor": null,
+        "flavor": "\"But mother,\" said the young Lion, \"how am I to find glory if I remain behind?\"\n\"You will find honor,\" said his mother. \"And a Lion requires nothing more.\" – Ikoma's Chronicles",
         "illustrator": "Piotr Arendzikowski",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_76.jpg",
         "position": "76",
@@ -89,7 +89,7 @@
     },
     {
         "card_id": "haughty-magistrate",
-        "flavor": null,
+        "flavor": "\"There is the Tao and there is the Law. Both are the same under Heaven.\"",
         "illustrator": "Hai Hoang",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_69.jpg",
         "position": "69",
@@ -97,7 +97,7 @@
     },
     {
         "card_id": "implacable-magistrate",
-        "flavor": null,
+        "flavor": "\"A failure before the law is a failure of honor.\"",
         "illustrator": "Tropa Entertainment",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_68.jpg",
         "position": "68",
@@ -105,7 +105,7 @@
     },
     {
         "card_id": "kaiu-inventor",
-        "flavor": null,
+        "flavor": "\"It will work...eventually.\"",
         "illustrator": "Stanislav Dikolenko",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_63.jpg",
         "position": "63",
@@ -121,7 +121,7 @@
     },
     {
         "card_id": "pit-trap",
-        "flavor": null,
+        "flavor": "\"My apologies, samurai-san. That pit was intended for goblins.\" – Kaiu Shuichi",
         "illustrator": "Stanislav Dikolenko",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_73.jpg",
         "position": "73",
@@ -129,7 +129,7 @@
     },
     {
         "card_id": "seal-of-the-phoenix",
-        "flavor": null,
+        "flavor": "In the name of Lady Shiba Tsukune,\nthe Soul of Shiba,\nProtector of the Council,\nKeeper of the Tao,\nDaimyō of the Shiba, and\nChampion of the Phoenix Clan",
         "illustrator": "Mauro Dal Bo",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_77.jpg",
         "position": "77",
@@ -145,7 +145,7 @@
     },
     {
         "card_id": "utaku-mediator",
-        "flavor": null,
+        "flavor": "\"It is difficult to speak clearly to those who have seen so little of the world.\"",
         "illustrator": "Giby Joseph",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_71.jpg",
         "position": "71",
@@ -153,7 +153,7 @@
     },
     {
         "card_id": "way-of-the-chrysanthemum",
-        "flavor": null,
+        "flavor": "As Lady Sun's brilliance illuminates the land, so too does her chosen son radiate peace and prosperity to all Rokugan.",
         "illustrator": "Francesca Baerald",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C05_80.jpg",
         "position": "80",
