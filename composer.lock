@@ -4,31 +4,32 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "e6c47250dee54c14ba9fa08213e4be71",
+    "content-hash": "64c82329d0c78e86197971265ccf25e2",
     "packages": [
         {
             "name": "alsciende/serializer-bundle",
-            "version": "v1.0.0",
+            "version": "V1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Alsciende/serializer-bundle.git",
-                "reference": "4e83dcd1234a36bdd3d4d396143f3b0c435973d3"
+                "reference": "19cf979d5535dbce360088a3534eeecf35446d55"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Alsciende/serializer-bundle/zipball/4e83dcd1234a36bdd3d4d396143f3b0c435973d3",
-                "reference": "4e83dcd1234a36bdd3d4d396143f3b0c435973d3",
+                "url": "https://api.github.com/repos/Alsciende/serializer-bundle/zipball/19cf979d5535dbce360088a3534eeecf35446d55",
+                "reference": "19cf979d5535dbce360088a3534eeecf35446d55",
                 "shasum": ""
             },
             "require": {
-                "doctrine/orm": "^2.6",
-                "php": ">=5.6.0",
-                "symfony/framework-bundle": "~3.0|~4.0"
+                "doctrine/orm": "^2.5",
+                "php": ">=7.0.0",
+                "symfony/framework-bundle": "~3.0|~4.0",
+                "symfony/validator": "~3.0|~4.0"
             },
             "require-dev": {
-                "phpstan/phpstan": "^0.9.1",
-                "phpunit/phpunit": "^6.5",
-                "symfony/var-dumper": "^4.0"
+                "phpstan/phpstan": "*",
+                "phpunit/phpunit": "*",
+                "symfony/var-dumper": "*"
             },
             "type": "symfony/bundle",
             "autoload": {
@@ -52,10 +53,10 @@
             ],
             "description": "Alsciende SerializerBundle",
             "support": {
-                "source": "https://github.com/Alsciende/serializer-bundle/tree/master",
+                "source": "https://github.com/Alsciende/serializer-bundle/tree/V1.1.1",
                 "issues": "https://github.com/Alsciende/serializer-bundle/issues"
             },
-            "time": "2018-01-22T20:15:13+00:00"
+            "time": "2018-01-27T22:52:30+00:00"
         },
         {
             "name": "cocur/slugify",
