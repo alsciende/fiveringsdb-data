@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "phoenix",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "ofushikai",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": "+2",
+        "name": "Ofushikai",
+        "political": null,
+        "political_bonus": "+3",
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Ancestral. Restriced. Attach to a unique [clan-phoenix] character you control.\nIf attached character has the <em>Champion</em> trait, it gains \"<b>Action:</b> During a conflict in which this character is participating, choose a participating character – move that character home. It cannot participate as an attacker this phase.\"",
+        "traits": [
+            "weapon"
+        ],
+        "type": "attachment",
+        "unicity": true
+    }
+]
