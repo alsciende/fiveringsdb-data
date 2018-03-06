@@ -16,5 +16,11 @@
         "name": "Imperial Cycle",
         "position": 2,
         "size": 6
+    },
+    {
+        "id": "disciples-of-the-void",
+        "name": "Disciples of the Void",
+        "position": 3,
+        "size": 1
     }
 ]

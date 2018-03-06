@@ -1,0 +1,90 @@
+[
+    {
+        "card_id": "kyuden-isawa",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "1",
+        "quantity": 3
+    },
+    {
+        "card_id": "support-of-the-phoenix",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "3",
+        "quantity": 3
+    },
+    {
+        "card_id": "fire-elemental-guard",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "8",
+        "quantity": 3
+    },
+    {
+        "card_id": "fushicho",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "11",
+        "quantity": 3
+    },
+    {
+        "card_id": "secluded-shrine",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "12",
+        "quantity": 3
+    },
+    {
+        "card_id": "togashi-tadakatsu",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "15",
+        "quantity": 3
+    },
+    {
+        "card_id": "kaito-kosori",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "18",
+        "quantity": 3
+    },
+    {
+        "card_id": "favor-of-the-kami",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "19",
+        "quantity": 3
+    },
+    {
+        "card_id": "katana-of-fire",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "20",
+        "quantity": 3
+    },
+    {
+        "card_id": "clarity-of-purpose",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "23",
+        "quantity": 3
+    },
+    {
+        "card_id": "yogo-kikuyo",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "25",
+        "quantity": 3
+    }
+]

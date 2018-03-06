@@ -88,5 +88,14 @@
         "released_at": "2017-12-14",
         "ffg_id": "L5C07",
         "cycle_id": "imperial"
+    },
+    {
+        "id": "disciples-of-the-void",
+        "name": "Disciples of the Void",
+        "position": 1,
+        "size": 28,
+        "released_at": null,
+        "ffg_id": "L5C08",
+        "cycle_id": "disciples-of-the-void"
     }
 ]
