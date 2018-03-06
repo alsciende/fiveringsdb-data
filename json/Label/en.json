@@ -228,6 +228,10 @@
     "value":"Goblin"
   },
   {
+    "id":  "trait.heretic",
+    "value":"Heretic"
+  },
+  {
     "id":  "trait.landmark",
     "value":"Landmark"
   },
@@ -274,6 +278,10 @@
   {
     "id":  "trait.peasant",
     "value":"Peasant"
+  },
+  {
+    "id":  "trait.phoenix",
+    "value":"Phoenix"
   },
   {
     "id":  "trait.philosophy",
