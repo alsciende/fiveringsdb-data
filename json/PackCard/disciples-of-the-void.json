@@ -16,6 +16,14 @@
         "quantity": 3
     },
     {
+        "card_id": "inquisitive-ishika",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "7",
+        "quantity": 3
+    },
+    {
         "card_id": "fire-elemental-guard",
         "flavor": "",
         "illustrator": "",
@@ -40,11 +48,35 @@
         "quantity": 3
     },
     {
+        "card_id": "hida-amoro",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "13",
+        "quantity": 3
+    },
+    {
+        "card_id": "doji-shigeru",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "13",
+        "quantity": 3
+    },
+    {
         "card_id": "togashi-tadakatsu",
         "flavor": "",
         "illustrator": "",
         "image_url": null,
         "position": "15",
+        "quantity": 3
+    },
+    {
+        "card_id": "moto-nergui",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "17",
         "quantity": 3
     },
     {
@@ -72,6 +104,22 @@
         "quantity": 3
     },
     {
+        "card_id": "the-path-of-man",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "20",
+        "quantity": 3
+    },
+    {
+        "card_id": "wholeness-of-the-world",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "22",
+        "quantity": 3
+    },
+    {
         "card_id": "clarity-of-purpose",
         "flavor": "",
         "illustrator": "",
@@ -80,11 +128,35 @@
         "quantity": 3
     },
     {
+        "card_id": "karmic-twist",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "24",
+        "quantity": 3
+    },
+    {
         "card_id": "yogo-kikuyo",
         "flavor": "",
         "illustrator": "",
         "image_url": null,
         "position": "25",
+        "quantity": 3
+    },
+    {
+        "card_id": "guardian-kami",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "26",
+        "quantity": 3
+    },
+    {
+        "card_id": "kami-unleashed",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "27",
         "quantity": 3
     }
 ]
