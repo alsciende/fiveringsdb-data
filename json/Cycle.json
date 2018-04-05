@@ -6,21 +6,27 @@
         "size": 1
     },
     {
-        "id": "promos",
-        "name": "Promos",
-        "position": 99,
-        "size": 99
+        "id": "clan-packs",
+        "name": "Clan Packs",
+        "position": 2,
+        "size": 7
     },
     {
         "id": "imperial",
         "name": "Imperial Cycle",
-        "position": 2,
+        "position": 3,
         "size": 6
     },
     {
-        "id": "disciples-of-the-void",
-        "name": "Disciples of the Void",
-        "position": 3,
-        "size": 1
+        "id": "elemental",
+        "name": "Elemental Cycle",
+        "position": 4,
+        "size": 6
+    },
+    {
+        "id": "promos",
+        "name": "Promos",
+        "position": 99,
+        "size": 99
     }
 ]

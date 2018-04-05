@@ -96,6 +96,60 @@
         "size": 28,
         "released_at": null,
         "ffg_id": "L5C08",
-        "cycle_id": "disciples-of-the-void"
+        "cycle_id": "clan-packs"
+    },
+    {
+        "id": "breath-of-the-kami",
+        "name": "Breath of the Kami",
+        "position": 1,
+        "size": 20,
+        "released_at": null,
+        "ffg_id": "L5C09",
+        "cycle_id": "elemental"
+    },
+    {
+        "id": "tainted-lands",
+        "name": "Tainted Lands",
+        "position": 2,
+        "size": 20,
+        "released_at": null,
+        "ffg_id": "L5C10",
+        "cycle_id": "elemental"
+    },
+    {
+        "id": "the-fires-within",
+        "name": "The Fires Within",
+        "position": 3,
+        "size": 20,
+        "released_at": null,
+        "ffg_id": "L5C11",
+        "cycle_id": "elemental"
+    },
+    {
+        "id": "the-ebb-and-flow",
+        "name": "The Ebb and Flow",
+        "position": 4,
+        "size": 20,
+        "released_at": null,
+        "ffg_id": "L5C12",
+        "cycle_id": "elemental"
+    },
+    {
+        "id": "all-and-nothing",
+        "name": "All and Nothing",
+        "position": 5,
+        "size": 20,
+        "released_at": null,
+        "ffg_id": "L5C13",
+        "cycle_id": "elemental"
+    },
+    {
+        "id": "elements-unbound",
+        "name": "Elements Unbound",
+        "position": 6,
+        "size": 20,
+        "released_at": null,
+        "ffg_id": "L5C14",
+        "cycle_id": "elemental"
     }
 ]
