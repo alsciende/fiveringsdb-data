@@ -23,7 +23,7 @@
         "traits": [
             "shugenja",
             "earth",
-            "elemental master"
+            "elemental-master"
         ],
         "type": "character",
         "unicity": true

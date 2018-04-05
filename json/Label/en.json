@@ -184,6 +184,10 @@
     "value":"Earth"
   },
   {
+    "id": "trait.elemental-master",
+    "value": "Elemental Master"
+  },
+  {
     "id":  "trait.engineer",
     "value":"Engineer"
   },
@@ -242,6 +246,10 @@
   {
     "id":  "trait.magistrate",
     "value":"Magistrate"
+  },
+  {
+    "id":  "trait.mantis-clan",
+    "value":"Mantis Clan"
   },
   {
     "id":  "trait.mask",
@@ -322,6 +330,10 @@
   {
     "id":  "trait.seeker",
     "value":"Seeker"
+  },
+  {
+    "id":  "trait.shadow",
+    "value":"Shadow"
   },
   {
     "id":  "trait.shadowlands",
