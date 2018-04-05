@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "phoenix",
+        "cost": null,
+        "deck_limit": 1,
+        "element": "fire",
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "sanpuku-seido",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Sanpuku Seidō",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "province",
+        "strength": 1,
+        "strength_bonus": null,
+        "text": "Cannot be a stronghold province.\nWhile resolving a conflict at this province, characters count their glory instead of their [conflict-military] skill and [conflict-political] skill.",
+        "traits": [
+            "shrine"
+        ],
+        "type": "province",
+        "unicity": true
+    }
+]

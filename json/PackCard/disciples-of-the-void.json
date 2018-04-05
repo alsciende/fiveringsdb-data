@@ -2,161 +2,226 @@
     {
         "card_id": "kyuden-isawa",
         "flavor": "",
-        "illustrator": "",
-        "image_url": null,
+        "illustrator": "Nele Diel",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_1.jpg",
         "position": "1",
-        "quantity": 3
+        "quantity": 1
+    },
+    {
+        "card_id": "sanpuku-seido",
+        "flavor": "",
+        "illustrator": "Nele Diel",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_2.jpg",
+        "position": "2",
+        "quantity": 1
     },
     {
         "card_id": "support-of-the-phoenix",
         "flavor": "",
         "illustrator": "",
-        "image_url": null,
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_3.jpg",
         "position": "3",
+        "quantity": 1
+    },
+    {
+        "card_id": "fire-tensai-initiate",
+        "flavor": "\"Can you coax your mind from wandering and keep to the original oneness?\" - Tao of Shinsei",
+        "illustrator": "Anna Christenson",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_4.jpg",
+        "position": "4",
         "quantity": 3
     },
     {
+        "card_id": "pacifist-philosopher",
+        "flavor": "Use your sword. You will only prove me correct.",
+        "illustrator": "Kevin Zamie Goeke",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_5.jpg",
+        "position": "5",
+        "quantity": 3
+    },
+    {
+        "card_id": "shiba-tetsu",
+        "flavor": "All that matters is that I server my clan as best I am able.",
+        "illustrator": "Ignatius Budi",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_6.jpg",
+        "position": "3",
+        "quantity": 3
+    },
+
+    {
         "card_id": "inquisitive-ishika",
-        "flavor": "",
-        "illustrator": "",
-        "image_url": null,
+        "flavor": "\"There was something formless before the universe was born. Serene. Empty. Infinite.\" - from the scrolls of the Starry Heaven Sanctuary",
+        "illustrator": "Conceptopolis",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_7.jpg",
         "position": "7",
         "quantity": 3
     },
     {
         "card_id": "fire-elemental-guard",
         "flavor": "",
-        "illustrator": "",
-        "image_url": null,
+        "illustrator": "Eli Ring",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_8.jpg",
         "position": "8",
+        "quantity": 3
+    },
+    {
+        "card_id": "kaito-temple-protector",
+        "flavor": "",
+        "illustrator": "Francisco Martin",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_9.jpg",
+        "position": "9",
+        "quantity": 3
+    },
+    {
+        "card_id": "isawa-tadaka",
+        "flavor": "As a mountain's roots run deep, I shall not be moved.",
+        "illustrator": "Amelie Hutt",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_10.jpg",
+        "position": "10",
         "quantity": 3
     },
     {
         "card_id": "fushicho",
         "flavor": "",
-        "illustrator": "",
-        "image_url": null,
+        "illustrator": "IFS",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_11.jpg",
         "position": "11",
         "quantity": 3
     },
     {
         "card_id": "secluded-shrine",
         "flavor": "",
-        "illustrator": "",
-        "image_url": null,
+        "illustrator": "Kevin Zamie Goeke",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_12.jpg",
         "position": "12",
         "quantity": 3
     },
     {
         "card_id": "hida-amoro",
         "flavor": "",
-        "illustrator": "",
-        "image_url": null,
+        "illustrator": "Arif Wijaya",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_13.jpg",
         "position": "13",
         "quantity": 3
     },
     {
         "card_id": "doji-shigeru",
-        "flavor": "",
-        "illustrator": "",
-        "image_url": null,
-        "position": "13",
+        "flavor": "It is humbling to be mistaken for the beautiful Lady Shike.",
+        "illustrator": "Asep Ariyanto",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_14.jpg",
+        "position": "14",
         "quantity": 3
     },
     {
         "card_id": "togashi-tadakatsu",
-        "flavor": "",
-        "illustrator": "",
-        "image_url": null,
+        "flavor": "The ant and the beetle are equal beneath the sun. The beetle and the ant are equal beneath the moon.",
+        "illustrator": "Borja Pindado",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_15.jpg",
         "position": "15",
+        "quantity": 3
+    },
+   {
+        "card_id": "ikoma-tsanuri",
+        "flavor": "",
+        "illustrator": "Malhel Ribadita",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_16.jpg",
+        "position": "16",
         "quantity": 3
     },
     {
         "card_id": "moto-nergui",
-        "flavor": "",
-        "illustrator": "",
-        "image_url": null,
+        "flavor": "Honor is for those with no deeds to their name.",
+        "illustrator": "Isduardi Therianto",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_17.jpg",
         "position": "17",
         "quantity": 3
     },
     {
         "card_id": "kaito-kosori",
-        "flavor": "",
-        "illustrator": "",
-        "image_url": null,
+        "flavor": "An arrow, once loosed, cannot be recalled.",
+        "illustrator": "Le Vuong",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_18.jpg",
         "position": "18",
         "quantity": 3
     },
     {
         "card_id": "favor-of-the-kami",
-        "flavor": "",
-        "illustrator": "",
-        "image_url": null,
+        "flavor": "\"Like air, invisible.\nLike water, formless.\nLike earth, unchanging.\nLike fire, powerful.\"\n- Isawa's Elements",
+        "illustrator": "David Horned",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_19.jpg",
         "position": "19",
         "quantity": 3
     },
     {
         "card_id": "katana-of-fire",
         "flavor": "",
-        "illustrator": "",
-        "image_url": null,
+        "illustrator": "Eli Ring",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_20.jpg",
         "position": "20",
         "quantity": 3
     },
     {
         "card_id": "the-path-of-man",
-        "flavor": "",
-        "illustrator": "",
-        "image_url": null,
-        "position": "20",
+        "flavor": "\"It is the nature of man to walk the path. It is the nature of man to turn from the path. This is the nature of man.\"\n- Shinsei's Gift, apocryphal",
+        "illustrator": "Scott Wade",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_21.jpg",
+        "position": "21",
         "quantity": 3
     },
     {
         "card_id": "wholeness-of-the-world",
-        "flavor": "",
-        "illustrator": "",
-        "image_url": null,
+        "flavor": "\"The Master understands that the universe is out of his control. Because he accepts himself, the whole word accepts him.\" - Tao of Shinsei",
+        "illustrator": "Muyoung Kim",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_22.jpg",
         "position": "22",
         "quantity": 3
     },
     {
         "card_id": "clarity-of-purpose",
         "flavor": "",
-        "illustrator": "",
-        "image_url": null,
+        "illustrator": "Kevin Zamie Goeke",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_23.jpg",
         "position": "23",
         "quantity": 3
     },
     {
         "card_id": "karmic-twist",
-        "flavor": "",
-        "illustrator": "",
-        "image_url": null,
+        "flavor": "\"This is not my fate; it is ours.\"",
+        "illustrator": "Le Vuong",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_24.jpg",
         "position": "24",
         "quantity": 3
     },
     {
         "card_id": "yogo-kikuyo",
-        "flavor": "",
-        "illustrator": "",
-        "image_url": null,
+        "flavor": "\"Not on my watch.\"",
+        "illustrator": "Isduardi Therianto",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_25.jpg",
         "position": "25",
         "quantity": 3
     },
     {
         "card_id": "guardian-kami",
         "flavor": "",
-        "illustrator": "",
-        "image_url": null,
+        "illustrator": "Francisco Martin",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_26.jpg",
         "position": "26",
         "quantity": 3
     },
     {
         "card_id": "kami-unleashed",
         "flavor": "",
-        "illustrator": "",
-        "image_url": null,
+        "illustrator": "Le Vuong",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_27.jpg",
         "position": "27",
+        "quantity": 3
+    },
+    {
+        "card_id": "walking-the-way",
+        "flavor": "",
+        "illustrator": "Oscar Romer",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C08_28.jpg",
+        "position": "28",
         "quantity": 3
     }
 ]
