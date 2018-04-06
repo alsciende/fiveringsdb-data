@@ -19,7 +19,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "During each [element-air] conflict, if you control at least 1 participating character and if this character is in your home area, it contributes its skill to your side.",
+        "text": "During each [element-air] conflict, if you control at least 1 participating character and if this character is in your home area and ready, it contributes its skill to your side.",
         "traits": [
             "monk",
             "shugenja",
