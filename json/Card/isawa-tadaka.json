@@ -19,7 +19,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "Each opponent cannot play copies of event cards that are in his or her conflict discard pile unless the [ring-earth] ring is in that player's claimed ring pool.",
+        "text": "Each opponent cannot play copies of event cards that are in his or her conflict discard pile unless the [element-earth] ring is in that player's claimed ring pool.",
         "traits": [
             "shugenja",
             "earth",
