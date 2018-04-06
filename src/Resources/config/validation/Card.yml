@@ -65,6 +65,7 @@ App\Entity\Card:
             - All:
                 - Type: string
                 - NotBlank: ~
+            - App\Validator\Constraints\KnownTraits: ~
         military:
             - Type: integer
             - GreaterThanOrEqual: 0
