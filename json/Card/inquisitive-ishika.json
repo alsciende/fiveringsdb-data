@@ -5,27 +5,26 @@
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 1,
+        "glory": 2,
         "honor": null,
-        "id": "kaito-kosori",
-        "influence_cost": 2,
+        "id": "inquisitive-ishika",
+        "influence_cost": null,
         "influence_pool": null,
         "military": 2,
         "military_bonus": null,
-        "name": "Kaito Kosori",
+        "name": "Inquisitive Ishika",
         "political": 2,
         "political_bonus": null,
         "role_restriction": null,
-        "side": "conflict",
+        "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "During each [element-air] conflict, if you control at least 1 participating character and if this character is in your home area and ready, it contributes its skill to your side.",
+        "text": "During a conflict, each card that has a <em>Trait</em> that matches an element of the contested ring has its cost to play reduced by 1.",
         "traits": [
-            "monk",
             "shugenja",
-            "air"
+            "void"
         ],
         "type": "character",
-        "unicity": true
+        "unicity": false
     }
 ]

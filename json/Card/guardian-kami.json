@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "neutral",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "id": "guardian-kami",
+        "influence_cost": 0,
+        "influence_pool": null,
+        "military": 1,
+        "military_bonus": null,
+        "name": "Guardian Kami",
+        "political": 1,
+        "political_bonus": null,
+        "role_restriction": "keeper",
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Keeper</b> role only.\n<b>Action:</b> While this character is defending, sacrifice it – resolve the ring effect of the contested ring as if you won the conflict as the attacking player. (Max 1 per conflict.)",
+        "traits": [
+            "spirit"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

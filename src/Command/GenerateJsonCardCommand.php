@@ -3,7 +3,7 @@
 namespace App\Command;
 
 use App\Entity\Card;
-use Cocur\Slugify\Slugify;
+use Cocur\Slugify\SlugifyInterface;
 use Doctrine\ORM\EntityManagerInterface;
 use JMS\Serializer\ArrayTransformerInterface;
 use JMS\Serializer\SerializationContext;
@@ -32,17 +32,22 @@ class GenerateJsonCardCommand extends Command
     /** @var ValidatorInterface $validator */
     private $validator;
 
+    /** @var SlugifyInterface $slugify */
+    private $slugify;
+
     public function __construct (
         $name = null,
         EntityManagerInterface $entityManager,
         ArrayTransformerInterface $arrayTransformer,
-        ValidatorInterface $validator
+        ValidatorInterface $validator,
+        SlugifyInterface $slugify
     )
     {
         parent::__construct($name);
         $this->entityManager = $entityManager;
         $this->arrayTransformer = $arrayTransformer;
         $this->validator = $validator;
+        $this->slugify = $slugify;
     }
 
     protected function configure ()
@@ -55,7 +60,6 @@ class GenerateJsonCardCommand extends Command
     protected function execute (InputInterface $input, OutputInterface $output)
     {
         $helper = $this->getHelper('question');
-        $slugify = new Slugify();
 
         $card = new Card();
         $card->setClan($helper->ask($input, $output, new ChoiceQuestion('Clan: ', [
@@ -78,7 +82,7 @@ class GenerateJsonCardCommand extends Command
             Card::TYPE_STRONGHOLD,
         ])));
         $card->setName($helper->ask($input, $output, new Question('Name: ')));
-        $card->setId($slugify->slugify($card->getName()));
+        $card->setId($this->slugify->slugify($card->getName()));
         $card->setTraits($this->askArray($input, $output, $helper, new Question('Traits: ')));
         $card->setText($helper->ask($input, $output, new Question('Text: ')));
 
@@ -86,7 +90,7 @@ class GenerateJsonCardCommand extends Command
             case 'attachment':
                 $card->setSide('conflict');
                 $card->setRoleRestriction($helper->ask($input, $output, new Question('Role Restriction: ')));
-                $card->setUnicity($this->askBoolean($input, $output, $helper, new Question('Unique: (y/N)', 'n')));
+                $card->setUnicity($this->askBoolean($input, $output, $helper, new Question('Unique: (y/N) ', 'n')));
                 $card->setCost($helper->ask($input, $output, new Question('Cost: ')));
                 $card->setMilitaryBonus($helper->ask($input, $output, new Question('Military Bonus: ')));
                 $card->setPoliticalBonus($helper->ask($input, $output, new Question('Political Bonus: ')));
@@ -98,7 +102,7 @@ class GenerateJsonCardCommand extends Command
                     Card::SIDE_DYNASTY,
                 ])));
                 $card->setRoleRestriction($helper->ask($input, $output, new Question('Role Restriction: ')));
-                $card->setUnicity($this->askBoolean($input, $output, $helper, new Question('Unique: (y/N)', 'n')));
+                $card->setUnicity($this->askBoolean($input, $output, $helper, new Question('Unique: (y/N) ', 'n')));
                 $card->setCost($helper->ask($input, $output, new Question('Cost: ')));
                 $card->setMilitary($helper->ask($input, $output, new Question('Military Skill: ')));
                 $card->setPolitical($helper->ask($input, $output, new Question('Political Skill: ')));
@@ -114,7 +118,7 @@ class GenerateJsonCardCommand extends Command
             case 'holding':
                 $card->setSide('dynasty');
                 $card->setRoleRestriction($helper->ask($input, $output, new Question('Role Restriction: ')));
-                $card->setUnicity($this->askBoolean($input, $output, $helper, new Question('Unique: (y/N)', 'n')));
+                $card->setUnicity($this->askBoolean($input, $output, $helper, new Question('Unique: (y/N) ', 'n')));
                 $card->setStrengthBonus($helper->ask($input, $output, new Question('Strength Bonus: ')));
                 $card->setDeckLimit($helper->ask($input, $output, new Question('Deck Limit (3): ', 3)));
                 break;

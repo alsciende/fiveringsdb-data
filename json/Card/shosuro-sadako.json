@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "scorpion",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 3,
+        "honor": null,
+        "id": "shosuro-sadako",
+        "influence_cost": 3,
+        "influence_pool": null,
+        "military": 1,
+        "military_bonus": null,
+        "name": "Shosuro Sadako",
+        "political": 1,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "While this character is dishonored, add its glory to its [conflict-military] and [conflict-political] instead of substracting it.",
+        "traits": [
+            "bushi",
+            "shadow",
+            "shinobi"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]

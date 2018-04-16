@@ -58,13 +58,14 @@ App\Entity\Card:
         unicity:
             - Type: boolean
             - Expression:
-                expression: "this.getType() in ['attachment','character','stronghold','holding'] or value === false"
+                expression: "this.getType() in ['attachment','character','stronghold','holding','province'] or value === false"
                 message: Cannot be unique.
         traits:
             - Type: array
             - All:
                 - Type: string
                 - NotBlank: ~
+            - App\Validator\Constraints\KnownTraits: ~
         military:
             - Type: integer
             - GreaterThanOrEqual: 0

@@ -3,6 +3,11 @@
 parameters:
     locale: 'en'
 
+cocur_slugify:
+    rulesets:
+        - default
+        - lithuanian
+
 services:
     # default configuration for services in *this* file
     _defaults:
