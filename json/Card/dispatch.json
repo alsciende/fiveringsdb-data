@@ -1,0 +1,27 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 1,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "dispatch",
+        "influence_cost": 1,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Dispatch",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Limited. <i>(No more than one limited card can be played by each player each round.)</i>\n<b>Action:</b> Move a [clan-unicorn] character you control into a conflict or home from a conflict.",
+        "traits": [],
+        "type": "event",
+        "unicity": false
+    }
+]
