@@ -151,5 +151,14 @@
         "released_at": "2018-08-02",
         "ffg_id": "L5C14",
         "cycle_id": "elemental"
+    },
+    {
+        "id": "underhand-of-the-emperor",
+        "name": "Underhand of the Emperor",
+        "position": 2,
+        "size": 28,
+        "released_at": null,
+        "ffg_id": "L5C15",
+        "cycle_id": "clan-packs"
     }
 ]

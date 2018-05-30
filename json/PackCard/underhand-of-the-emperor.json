@@ -1,0 +1,34 @@
+[
+    {
+        "card_id": "kyuden-bayushi",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "1",
+        "quantity": 3
+    },
+    {
+        "card_id": "bayushi-aramoro",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "8",
+        "quantity": 3
+    },
+    {
+        "card_id": "akodo-kage",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "14",
+        "quantity": 3
+    },
+    {
+        "card_id": "stolen-breath",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "21",
+        "quantity": 3
+    }
+]
