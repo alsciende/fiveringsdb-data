@@ -103,7 +103,7 @@
         "name": "Breath of the Kami",
         "position": 1,
         "size": 20,
-        "released_at": null,
+        "released_at": "2018-06-28",
         "ffg_id": "L5C09",
         "cycle_id": "elemental"
     },
@@ -112,7 +112,7 @@
         "name": "Tainted Lands",
         "position": 2,
         "size": 20,
-        "released_at": null,
+        "released_at": "2018-07-05",
         "ffg_id": "L5C10",
         "cycle_id": "elemental"
     },
@@ -121,7 +121,7 @@
         "name": "The Fires Within",
         "position": 3,
         "size": 20,
-        "released_at": null,
+        "released_at": "2018-07-12",
         "ffg_id": "L5C11",
         "cycle_id": "elemental"
     },
@@ -130,7 +130,7 @@
         "name": "The Ebb and Flow",
         "position": 4,
         "size": 20,
-        "released_at": null,
+        "released_at": "2018-07-19",
         "ffg_id": "L5C12",
         "cycle_id": "elemental"
     },
@@ -139,7 +139,7 @@
         "name": "All and Nothing",
         "position": 5,
         "size": 20,
-        "released_at": null,
+        "released_at": "2018-07-26",
         "ffg_id": "L5C13",
         "cycle_id": "elemental"
     },
@@ -148,8 +148,17 @@
         "name": "Elements Unbound",
         "position": 6,
         "size": 20,
-        "released_at": null,
+        "released_at": "2018-08-02",
         "ffg_id": "L5C14",
         "cycle_id": "elemental"
+    },
+    {
+        "id": "underhand-of-the-emperor",
+        "name": "Underhand of the Emperor",
+        "position": 2,
+        "size": 28,
+        "released_at": null,
+        "ffg_id": "L5C15",
+        "cycle_id": "clan-packs"
     }
 ]
