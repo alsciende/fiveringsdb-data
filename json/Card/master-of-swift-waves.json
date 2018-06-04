@@ -20,8 +20,8 @@
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Action:</b> During a conflict, choose a participating character you control and a character in your home – switch the chosen characters' location.",
-        "traits": [,
-            "shugenja"
+        "traits": [
+            "shugenja",
             "water",
             "cavalry"
         ],
