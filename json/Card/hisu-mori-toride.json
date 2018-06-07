@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "lion",
+        "cost": null,
+        "deck_limit": 1,
+        "element": null,
+        "fate": 7,
+        "glory": null,
+        "honor": 11,
+        "id": "hisu-mori-toride",
+        "influence_cost": null,
+        "influence_pool": 9,
+        "military": null,
+        "military_bonus": null,
+        "name": "Hisu Mori Toride",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "province",
+        "strength": null,
+        "strength_bonus": "+2",
+        "text": "<b>Reaction:</b> After you win a [conflict-military] conflict by 5 or more skill, bow this stronghold and sacrifice a <i>(friendly)</i> <em>Bushi</em> character – you may declare an additional [conflict-military] conflict this phase.",
+        "traits": [
+            "fort"
+        ],
+        "type": "stronghold",
+        "unicity": false
+    }
+]

@@ -200,6 +200,10 @@
     "value":"Follower"
   },
   {
+    "id":  "trait.fort",
+    "value":"Fort"
+  },
+  {
     "id":  "trait.gaijin",
     "value":"Gaijin"
   },
