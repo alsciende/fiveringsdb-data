@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "dragon",
+        "cost": 4,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "master-alchemist",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": 3,
+        "military_bonus": null,
+        "name": "Master Alchemist",
+        "political": 1,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a conflict, spend 1 fate to the [element-fire] ring. Choose a character – honor or dishonor that character.",
+        "traits": [
+            "shugenja",
+            "fire"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

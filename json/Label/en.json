@@ -252,6 +252,10 @@
     "value":"Magistrate"
   },
   {
+    "id": "trait.maho",
+    "value": "Mahō"
+  },
+  {
     "id":  "trait.mantis-clan",
     "value":"Mantis Clan"
   },
@@ -278,6 +282,10 @@
   {
     "id":  "trait.omen",
     "value":"Omen"
+  },
+  {
+    "id":  "trait.oni",
+    "value":"Oni"
   },
   {
     "id":  "trait.outpost",
