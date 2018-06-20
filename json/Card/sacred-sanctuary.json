@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "dragon",
+        "cost": null,
+        "deck_limit": 1,
+        "element": "air",
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "sacred-sanctuary",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Sacred Sanctuary",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "province",
+        "strength": 2,
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After an attack is declared at this province, choose a <em>Monk</em> character you control – ready that character. Until the end of the conflict, that character cannot be bowed by opponents' card effects or as a result of conflict resolution.",
+        "traits": [
+            "temple"
+        ],
+        "type": "province",
+        "unicity": false
+    }
+]
