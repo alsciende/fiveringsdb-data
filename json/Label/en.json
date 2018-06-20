@@ -376,6 +376,10 @@
     "value":"Storyteller"
   },
   {
+    "id":  "trait.tactic",
+    "value":"Tactic"
+  },
+  {
     "id":  "trait.tattoo",
     "value":"Tattoo"
   },
