@@ -1,0 +1,27 @@
+[
+    {
+        "clan": "neutral",
+        "cost": null,
+        "deck_limit": 1,
+        "element": "fire",
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "abandoning-honor",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Abandoning Honor",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "province",
+        "strength": 3,
+        "strength_bonus": null,
+        "text": "This province gets +2 strength while you have a <em>Fire</em> role.\n<b>Interrupt:</b> When this province is broken, choose a dishonored character – discard that character.",
+        "traits": [],
+        "type": "province",
+        "unicity": false
+    }
+]
