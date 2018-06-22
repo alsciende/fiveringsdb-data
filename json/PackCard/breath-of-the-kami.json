@@ -25,7 +25,7 @@
     },
     {
         "card_id": "third-tower-guard",
-        "flavor": "",
+        "flavor": "\"Swords will break and spears will shatter, but our courage shall never falter.\"",
         "illustrator": "Le Vuong",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_4.jpg",
         "position": "4",
@@ -41,7 +41,7 @@
     },
     {
         "card_id": "fu-sui-disciple",
-        "flavor": "",
+        "flavor": "\"The energies of Sun and Moon, of the Five Elements — all must be balanced.\"",
         "illustrator": "Felipe Gaona",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_6.jpg",
         "position": "6",
@@ -57,7 +57,7 @@
     },
     {
         "card_id": "isawa-uona",
-        "flavor": "",
+        "flavor": "\"We cannot always see that which guides our way.\"",
         "illustrator": "Le Vuong",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_8.jpg",
         "position": "8",
@@ -73,7 +73,7 @@
     },
     {
         "card_id": "heartless-intimidator",
-        "flavor": "",
+        "flavor": "\"A beautiful knife, isn't it?\"",
         "illustrator": "Maerel Hibadita",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_10.jpg",
         "position": "10",
@@ -89,7 +89,7 @@
     },
     {
         "card_id": "shiotome-encampment",
-        "flavor": "",
+        "flavor": "\"We need not mar the purity of our intentions with mere words.\"",
         "illustrator": "Cassandre Bolan",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_12.jpg",
         "position": "12",
@@ -97,7 +97,7 @@
     },
     {
         "card_id": "kudaka",
-        "flavor": "",
+        "flavor": "\"It's tradition, this, just askin' the kami for their aid.\"",
         "illustrator": "Le Vuong",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_13.jpg",
         "position": "13",
@@ -105,7 +105,7 @@
     },
     {
         "card_id": "formal-invitation",
-        "flavor": "",
+        "flavor": "\"It would be an honor if you would join us.\"",
         "illustrator": "Joyce Maureira",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_14.jpg",
         "position": "14",
@@ -129,7 +129,7 @@
     },
     {
         "card_id": "hurricane-punch",
-        "flavor": "",
+        "flavor": "\"Strike with one thousand fists and you need deliver only a single blow.\"",
         "illustrator": "Pavel Kolomeyets",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_17.jpg",
         "position": "17",
@@ -145,7 +145,7 @@
     },
     {
         "card_id": "winds-of-change",
-        "flavor": "",
+        "flavor": "\"You cannot take back your words any more than you can bottle the evening breeze.\"",
         "illustrator": "Diana Martinez",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_19.jpg",
         "position": "19",
