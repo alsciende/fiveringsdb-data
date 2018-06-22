@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "crab",
+        "cost": null,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "hiruma-outpost",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Hiruma Outpost",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": "+2",
+        "text": "While this card is in an unbroken province, it gains: \"<b>Reaction:</b> After an opponent declares a conflict against a province that does not have a holding in it – that opponent loses 1 honor.\"",
+        "traits": [
+            "outpost"
+        ],
+        "type": "holding",
+        "unicity": false
+    }
+]

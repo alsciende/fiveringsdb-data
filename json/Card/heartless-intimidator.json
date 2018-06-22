@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "scorpion",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "heartless-intimidator",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": 1,
+        "military_bonus": null,
+        "name": "Heartless Intimidator",
+        "political": 3,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After an opponent loses 1 or more honor – discard the top card of that player’s conflict deck. (Unlimited.)",
+        "traits": [
+            "courtier"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

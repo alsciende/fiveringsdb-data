@@ -1,0 +1,162 @@
+[
+    {
+        "card_id": "hisu-mori-toride",
+        "flavor": "",
+        "illustrator": "Nele Diel",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_1.jpg",
+        "position": "1",
+        "quantity": 3
+    },
+    {
+        "card_id": "sacred-sanctuary",
+        "flavor": "",
+        "illustrator": "Logan Feliciano",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_2.jpg",
+        "position": "2",
+        "quantity": 3
+    },
+    {
+        "card_id": "demonstrating-excellence",
+        "flavor": "",
+        "illustrator": "Felipe Gaona",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_3.jpg",
+        "position": "3",
+        "quantity": 3
+    },
+    {
+        "card_id": "third-tower-guard",
+        "flavor": "",
+        "illustrator": "Le Vuong",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_4.jpg",
+        "position": "4",
+        "quantity": 3
+    },
+    {
+        "card_id": "hiruma-outpost",
+        "flavor": "",
+        "illustrator": "Leanna Crossan",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_5.jpg",
+        "position": "5",
+        "quantity": 3
+    },
+    {
+        "card_id": "fu-sui-disciple",
+        "flavor": "",
+        "illustrator": "Felipe Gaona",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_6.jpg",
+        "position": "6",
+        "quantity": 3
+    },
+    {
+        "card_id": "matsu-seventh-legion",
+        "flavor": "",
+        "illustrator": "Calvin Chua",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_7.jpg",
+        "position": "7",
+        "quantity": 3
+    },
+    {
+        "card_id": "isawa-uona",
+        "flavor": "",
+        "illustrator": "Le Vuong",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_8.jpg",
+        "position": "8",
+        "quantity": 3
+    },
+    {
+        "card_id": "soshi-shadowshaper",
+        "flavor": "",
+        "illustrator": "Hai Hoang",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_9.jpg",
+        "position": "9",
+        "quantity": 3
+    },
+    {
+        "card_id": "heartless-intimidator",
+        "flavor": "",
+        "illustrator": "Maerel Hibadita",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_10.jpg",
+        "position": "10",
+        "quantity": 3
+    },
+    {
+        "card_id": "shinjo-shono",
+        "flavor": "",
+        "illustrator": "Maerel Hibadita",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_11.jpg",
+        "position": "11",
+        "quantity": 3
+    },
+    {
+        "card_id": "shiotome-encampment",
+        "flavor": "",
+        "illustrator": "Cassandre Bolan",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_12.jpg",
+        "position": "12",
+        "quantity": 3
+    },
+    {
+        "card_id": "kudaka",
+        "flavor": "",
+        "illustrator": "Le Vuong",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_13.jpg",
+        "position": "13",
+        "quantity": 3
+    },
+    {
+        "card_id": "formal-invitation",
+        "flavor": "",
+        "illustrator": "Joyce Maureira",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_14.jpg",
+        "position": "14",
+        "quantity": 3
+    },
+    {
+        "card_id": "the-mirror-s-gaze",
+        "flavor": "",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_15.jpg",
+        "position": "15",
+        "quantity": 3
+    },
+    {
+        "card_id": "ancient-master",
+        "flavor": "",
+        "illustrator": "Kevin Goeke",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_16.jpg",
+        "position": "16",
+        "quantity": 3
+    },
+    {
+        "card_id": "hurricane-punch",
+        "flavor": "",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_17.jpg",
+        "position": "17",
+        "quantity": 3
+    },
+    {
+        "card_id": "even-the-odds",
+        "flavor": "",
+        "illustrator": "Lukas Banas",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_18.jpg",
+        "position": "18",
+        "quantity": 3
+    },
+    {
+        "card_id": "winds-of-change",
+        "flavor": "",
+        "illustrator": "Diana Martinez",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_19.jpg",
+        "position": "19",
+        "quantity": 3
+    },
+    {
+        "card_id": "maze-of-illusion",
+        "flavor": "",
+        "illustrator": "Reiko Murakami",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C09_20.jpg",
+        "position": "20",
+        "quantity": 3
+    }
+]
