@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "phoenix",
+        "cost": 1,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "my-ancestors-strength",
+        "influence_cost": 2,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "My Ancestor's Strength",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a conflict, choose a participating <em>Shugenja</em> character you control and a character in your dynasty discard pile - until the end of the conflict, set the participating character's base [conflict-military] and [conflict-political] skill equal to the printed [conflict-military] and [conflict-political] skill of the other character.",
+        "traits": [
+            "spell",
+            "water"
+        ],
+        "type": "event",
+        "unicity": false
+    }
+]
