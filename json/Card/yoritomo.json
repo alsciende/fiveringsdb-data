@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "neutral",
+        "cost": 5,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "yoritomo",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": 3,
+        "military_bonus": null,
+        "name": "Yoritomo",
+        "political": 3,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "This character gets +X[conflict-military] and +X[conflict-political]. X is equal to the number of fate in your fate pool.",
+        "traits": [
+            "bushi",
+            "champion",
+            "mantis-clan"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]
