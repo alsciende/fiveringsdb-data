@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "lion",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "id": "tireless-sodan-senzo",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": 1,
+        "military_bonus": null,
+        "name": "Tireless Sodan Senzo",
+        "political": 2,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "This character does not bow as a result of conflict resolution in conflicts in which it lost.",
+        "traits": [
+            "shugenja",
+            "water"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]
