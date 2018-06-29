@@ -1,0 +1,27 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 0,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "press-of-battle",
+        "influence_cost": 2,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Press of Battle",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": "water",
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<em>Water</em> role only.\n<b>Action:</b> During a [conflict-military] conflict, if you control more participating characters than your opponent, choose a non-unique participating character – bow that character.",
+        "traits": [],
+        "type": "event",
+        "unicity": false
+    }
+]
