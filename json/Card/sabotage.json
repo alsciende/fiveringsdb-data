@@ -19,7 +19,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<em>Earth</em> role only.\n<b>Action:</b> During a [conflict-military] conflict, choose a card in an opponent’s province – discard that card.",
+        "text": "<em>Earth</em> role only.\n<b>Action:</b> During a [conflict-military] conflict, choose a card in an opponent's province – discard that card.",
         "traits": [],
         "type": "event",
         "unicity": false
