@@ -1,0 +1,27 @@
+[
+    {
+        "clan": "crane",
+        "cost": 1,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "game-of-sadane",
+        "influence_cost": 2,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Game of Sadane",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a conflict, choose a participating character you control and a participating character your opponent controls – your character challenges the opponent's character to a [conflict-political] duel. Honor the duel's winner and dishonor the duel's loser.",
+        "traits": [],
+        "type": "event",
+        "unicity": false
+    }
+]
