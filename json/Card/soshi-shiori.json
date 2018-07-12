@@ -23,7 +23,7 @@
         "traits": [
             "shugenja",
             "air",
-            "daimyo",
+            "daimyo"
         ],
         "type": "character",
         "unicity": true
