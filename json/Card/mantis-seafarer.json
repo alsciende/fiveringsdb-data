@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "neutral",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": 2,
+        "glory": 0,
+        "honor": null,
+        "id": "mantis-seafarer",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": 2,
+        "military_bonus": null,
+        "name": "Mantis Seafarer",
+        "political": 1,
+        "political_bonus": null,
+        "role_restriction": "air",
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction</b>: After this character wins a conflict, lose 1 honor – gain 1 fate. (Unlimited.)",
+        "traits": [
+            "bushi"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]
