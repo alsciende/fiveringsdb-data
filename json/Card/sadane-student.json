@@ -21,7 +21,7 @@
         "strength_bonus": null,
         "text": "This character gets +2[conflict-political] while you have claimed the [element-air] or [element-fire] ring.",
         "traits": [
-            "courtier",
+            "courtier"
         ],
         "type": "character",
         "unicity": false
