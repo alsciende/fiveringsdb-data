@@ -8,7 +8,7 @@
         "glory": 0,
         "honor": null,
         "id": "mantis-seafarer",
-        "influence_cost": null,
+        "influence_cost": 0,
         "influence_pool": null,
         "military": 2,
         "military_bonus": null,
