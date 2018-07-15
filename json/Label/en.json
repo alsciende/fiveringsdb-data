@@ -156,6 +156,10 @@
         "value": "Duelist"
     },
     {
+        "id": "trait.dojo",
+        "value": "Dojo"
+    },
+    {
         "id": "trait.earth",
         "value": "Earth"
     },
