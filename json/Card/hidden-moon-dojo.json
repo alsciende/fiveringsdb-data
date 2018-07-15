@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "scorpion",
+        "cost": null,
+        "deck_limit": 1,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "hidden-moon-dojo",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Hidden Moon Dojo",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": "+0",
+        "text": "Limit 1 per deck.\nYou may play cards in adjacent provinces as if they were in your hand.\n<b>Action:</b> During a conflict – turn a card in an adjacent province faceup.",
+        "traits": [
+            "dojo"
+        ],
+        "type": "holding",
+        "unicity": true
+    }
+]
