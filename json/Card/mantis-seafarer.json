@@ -21,7 +21,8 @@
         "strength_bonus": null,
         "text": "<b>Reaction</b>: After this character wins a conflict, lose 1 honor – gain 1 fate. (Unlimited.)",
         "traits": [
-            "bushi"
+            "bushi",
+            "mantis-clan"
         ],
         "type": "character",
         "unicity": false
