@@ -152,12 +152,12 @@
         "value": "Daimyō"
     },
     {
-        "id": "trait.duelist",
-        "value": "Duelist"
-    },
-    {
         "id": "trait.dojo",
         "value": "Dojo"
+    },
+    {
+        "id": "trait.duelist",
+        "value": "Duelist"
     },
     {
         "id": "trait.earth",
@@ -222,6 +222,10 @@
     {
         "id": "trait.kiho",
         "value": "Kihō"
+    },
+    {
+        "id": "trait.laboratory",
+        "value": "Laboratory"
     },
     {
         "id": "trait.landmark",

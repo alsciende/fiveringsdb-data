@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 4,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "iuchi-shahai",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": 2,
+        "military_bonus": null,
+        "name": "Iuchi Shahai",
+        "political": 4,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Covert.\nReduce the cost by 1 to play each <em>Meishōdō</em> attachment on this character or a neutral character.",
+        "traits": [
+            "shugenja",
+            "water"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]
