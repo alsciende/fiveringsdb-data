@@ -144,17 +144,17 @@
         "quantity": 3
     },
     {
-        "card_id": "mantis-seafarer",
-        "flavor": "\"Nothing compares with a fresh sea breeze.\"",
-        "illustrator": "Kevin Zamir Goeke",
+        "card_id": "breach-of-etiquette",
+        "flavor": "",
+        "illustrator": "Derek D Edgell",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C11_59.jpg",
         "position": "59",
         "quantity": 3
     },
     {
-        "card_id": "breach-of-etiquette",
-        "flavor": "",
-        "illustrator": "Derek D Edgell",
+        "card_id": "mantis-seafarer",
+        "flavor": "\"Nothing compares with a fresh sea breeze.\"",
+        "illustrator": "Kevin Zamir Goeke",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C11_60.jpg",
         "position": "60",
         "quantity": 3
