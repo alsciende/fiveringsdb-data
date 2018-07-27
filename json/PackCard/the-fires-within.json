@@ -1,0 +1,162 @@
+[
+    {
+        "card_id": "abandoning-honor",
+        "flavor": "",
+        "illustrator": "Lin Hsiang",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C11_41.jpg",
+        "position": "41",
+        "quantity": 3
+    },
+    {
+        "card_id": "hiruma-kogoe",
+        "flavor": "\"Assume anything we see is probably dangerous.\"",
+        "illustrator": "Derek D Edgell",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C11_42.jpg",
+        "position": "42",
+        "quantity": 3
+    },
+    {
+        "card_id": "sadane-student",
+        "flavor": "\"How adorable that you would wear something your little brother made for you.\"",
+        "illustrator": "Borja Pindado",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C11_43.jpg",
+        "position": "43",
+        "quantity": 3
+    },
+    {
+        "card_id": "master-alchemist",
+        "flavor": "\"The secrets of the elements are not kept by the kami alone.\"",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C11_44.jpg",
+        "position": "44",
+        "quantity": 3
+    },
+    {
+        "card_id": "the-wrath-of-the-kami",
+        "flavor": "",
+        "illustrator": "Eli Ring",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C11_45.jpg",
+        "position": "45",
+        "quantity": 3
+    },
+    {
+        "card_id": "ikoma-ikehata",
+        "flavor": "\"I like to think of myself as the 'mane' event.\"",
+        "illustrator": "Borja Pinado",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C11_46.jpg",
+        "position": "46",
+        "quantity": 3
+    },
+    {
+        "card_id": "ancestral-armory",
+        "flavor": "\"This is the spear of Matsu Okimoto. Do not dishonor his memory.\"",
+        "illustrator": "Lukas Banas",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C11_47.jpg",
+        "position": "47",
+        "quantity": 3
+    },
+    {
+        "card_id": "chikai-order-protector",
+        "flavor": "\"I need not understand the Elemental Masters' wisdom, so long as it remains safe with them.\"",
+        "illustrator": "Tony Foti",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C11_48.jpg",
+        "position": "48",
+        "quantity": 3
+    },
+    {
+        "card_id": "soshi-shiori",
+        "flavor": "\"The clans cannot strike at what they cannot perceive.\"",
+        "illustrator": "Diana Martinez",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C11_49.jpg",
+        "position": "49",
+        "quantity": 3
+    },
+    {
+        "card_id": "battle-maiden-recruit",
+        "flavor": "",
+        "illustrator": "Kathryn Steele",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C11_50.jpg",
+        "position": "50",
+        "quantity": 3
+    },
+    {
+        "card_id": "wicked-tetsubo",
+        "flavor": "",
+        "illustrator": "Calvin Chua",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C11_51.jpg",
+        "position": "51",
+        "quantity": 3
+    },
+    {
+        "card_id": "icon-of-favor",
+        "flavor": "",
+        "illustrator": "Mauro Dal Bo",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C11_52.jpg",
+        "position": "52",
+        "quantity": 3
+    },
+    {
+        "card_id": "insult-to-injury",
+        "flavor": "\"Surely, your blade must have been caught in its sheath for your draw to have been so slow.\"",
+        "illustrator": "Le Vuong",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C11_53.jpg",
+        "position": "53",
+        "quantity": 3
+    },
+    {
+        "card_id": "smoke",
+        "flavor": "",
+        "illustrator": "Stanislav Dikolenko",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C11_54.jpg",
+        "position": "54",
+        "quantity": 3
+    },
+    {
+        "card_id": "jurojin-s-curse",
+        "flavor": "",
+        "illustrator": "Stanislav Dikolenko",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C11_55.jpg",
+        "position": "55",
+        "quantity": 3
+    },
+    {
+        "card_id": "infiltrator",
+        "flavor": "",
+        "illustrator": "Andreia Ugrai",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C11_56.jpg",
+        "position": "56",
+        "quantity": 3
+    },
+    {
+        "card_id": "shiksha-scout",
+        "flavor": "\"We have seen much that is strange from the world. That our allies might be called strange is merely a compliment.\" - Shinjo Altansarnai",
+        "illustrator": "Isuardi Therianto",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C11_57.jpg",
+        "position": "57",
+        "quantity": 3
+    },
+    {
+        "card_id": "invocation-of-ash",
+        "flavor": "",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C11_58.jpg",
+        "position": "58",
+        "quantity": 3
+    },
+    {
+        "card_id": "breach-of-etiquette",
+        "flavor": "",
+        "illustrator": "Derek D Edgell",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C11_59.jpg",
+        "position": "59",
+        "quantity": 3
+    },
+    {
+        "card_id": "mantis-seafarer",
+        "flavor": "\"Nothing compares with a fresh sea breeze.\"",
+        "illustrator": "Kevin Zamir Goeke",
+        "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C11_60.jpg",
+        "position": "60",
+        "quantity": 3
+    }
+]

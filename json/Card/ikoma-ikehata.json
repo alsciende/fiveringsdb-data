@@ -1,29 +1,29 @@
 [
     {
-        "clan": "scorpion",
-        "cost": 1,
+        "clan": "lion",
+        "cost": 3,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 0,
+        "glory": 2,
         "honor": null,
-        "id": "court-novice",
+        "id": "ikoma-ikehata",
         "influence_cost": null,
         "influence_pool": null,
         "military": 1,
         "military_bonus": null,
-        "name": "Court Novice",
-        "political": 1,
+        "name": "Ikoma Ikehata",
+        "political": 2,
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "This character gets +2[conflict-political] while you have claimed the [element-air] or [element-water] ring.",
+        "text": "Covert.\n<b>Reaction</b>: After this character wins a [conflict-political] conflict, choose a character you control – honor that character. Draw 1 card.",
         "traits": [
             "courtier"
         ],
         "type": "character",
-        "unicity": false
+        "unicity": true
     }
 ]

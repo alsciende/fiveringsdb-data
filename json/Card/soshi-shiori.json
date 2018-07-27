@@ -1,29 +1,31 @@
 [
     {
         "clan": "scorpion",
-        "cost": 1,
+        "cost": 5,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 0,
+        "glory": 2,
         "honor": null,
-        "id": "court-novice",
+        "id": "soshi-shiori",
         "influence_cost": null,
         "influence_pool": null,
-        "military": 1,
+        "military": 2,
         "military_bonus": null,
-        "name": "Court Novice",
-        "political": 1,
+        "name": "Soshi Shiori",
+        "political": 5,
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "This character gets +2[conflict-political] while you have claimed the [element-air] or [element-water] ring.",
+        "text": "<b>Reaction:</b> After you win a conflict, choose a player – that player loses 1 honor. (Unlimited.)",
         "traits": [
-            "courtier"
+            "shugenja",
+            "air",
+            "daimyo"
         ],
         "type": "character",
-        "unicity": false
+        "unicity": true
     }
 ]

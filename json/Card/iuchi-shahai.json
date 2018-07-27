@@ -1,31 +1,30 @@
 [
     {
         "clan": "unicorn",
-        "cost": 3,
+        "cost": 4,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 1,
         "honor": null,
-        "id": "master-of-swift-waves",
+        "id": "iuchi-shahai",
         "influence_cost": null,
         "influence_pool": null,
-        "military": 3,
+        "military": 2,
         "military_bonus": null,
-        "name": "Master of Swift Waves",
-        "political": 2,
+        "name": "Iuchi Shahai",
+        "political": 4,
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> During a conflict, choose a participating character you control and a character in your home – switch the chosen characters' location.",
+        "text": "Covert.\nReduce the cost by 1 to play each <em>Meishōdō</em> attachment on this character or a neutral character.",
         "traits": [
             "shugenja",
-            "water",
-            "cavalry"
+            "water"
         ],
         "type": "character",
-        "unicity": false
+        "unicity": true
     }
 ]

@@ -144,8 +144,16 @@
         "value": "Creature"
     },
     {
+        "id": "trait.curse",
+        "value": "Curse"
+    },
+    {
         "id": "trait.daimyo",
         "value": "Daimyō"
+    },
+    {
+        "id": "trait.dojo",
+        "value": "Dojo"
     },
     {
         "id": "trait.duelist",
@@ -214,6 +222,10 @@
     {
         "id": "trait.kiho",
         "value": "Kihō"
+    },
+    {
+        "id": "trait.laboratory",
+        "value": "Laboratory"
     },
     {
         "id": "trait.landmark",
