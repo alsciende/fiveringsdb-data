@@ -62,6 +62,14 @@ class GenerateJsonCardCommand extends Command
         $helper = $this->getHelper('question');
 
         $card = new Card();
+        $card->setName($helper->ask($input, $output, new Question('Name: ')));
+        $card->setId($this->slugify->slugify($card->getName()));
+        $filepath = './json/Card/' . $card->getId() . '.json';
+        if (file_exists($filepath)) {
+            $output->writeln(sprintf('<info>Card already exists at %s -- aborting.</info>', $filepath));
+            die();
+        }
+
         $card->setClan($helper->ask($input, $output, new ChoiceQuestion('Clan: ', [
             Card::CLAN_CRAB,
             Card::CLAN_CRANE,
@@ -81,8 +89,6 @@ class GenerateJsonCardCommand extends Command
             Card::TYPE_ROLE,
             Card::TYPE_STRONGHOLD,
         ])));
-        $card->setName($helper->ask($input, $output, new Question('Name: ')));
-        $card->setId($this->slugify->slugify($card->getName()));
         $card->setTraits($this->askArray($input, $output, $helper, new Question('Traits: ')));
         $card->setText($helper->ask($input, $output, new Question('Text: ')));
 
@@ -170,7 +176,7 @@ class GenerateJsonCardCommand extends Command
         $context->setSerializeNull(true);
         $data = $this->arrayTransformer->toArray($card, $context);
 
-        file_put_contents('./json/Card/' . $card->getId() . '.json', $this->encode($data));
+        file_put_contents($filepath, $this->encode($data));
     }
 
     private function encode (array $data): string

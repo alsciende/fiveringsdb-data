@@ -1,31 +1,30 @@
 [
     {
-        "clan": "phoenix",
-        "cost": 3,
+        "clan": "unicorn",
+        "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 1,
         "honor": null,
-        "id": "kaito-kosori",
+        "id": "shiksha-scout",
         "influence_cost": 2,
         "influence_pool": null,
         "military": 2,
         "military_bonus": null,
-        "name": "Kaito Kosori",
+        "name": "Shiksha Scout",
         "political": 2,
         "political_bonus": null,
         "role_restriction": null,
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "During each [element-air] conflict, if you control at least 1 participating character and if this character is in your home area and ready, it contributes its skill to your side.\n<i>Errata from RRG v1.3</i>",
+        "text": "While this character is participating in a conflict, you are considered to control an additional character in this conflict.",
         "traits": [
-            "monk",
-            "shugenja",
-            "air"
+            "creature",
+            "scout"
         ],
         "type": "character",
-        "unicity": true
+        "unicity": false
     }
 ]

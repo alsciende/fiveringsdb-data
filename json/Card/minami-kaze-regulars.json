@@ -1,31 +1,31 @@
 [
     {
-        "clan": "phoenix",
+        "clan": "unicorn",
         "cost": 5,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
-        "id": "isawa-tadaka",
+        "id": "minami-kaze-regulars",
         "influence_cost": null,
         "influence_pool": null,
-        "military": 5,
+        "military": 6,
         "military_bonus": null,
-        "name": "Isawa Tadaka",
+        "name": "Minami Kaze Regulars",
         "political": 3,
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "Each opponent cannot play copies of event cards that are in his or her conflict discard pile unless the [element-earth] ring is in that player's claimed ring pool.",
+        "text": "No attachments except <em>Weapon</em>.\n<b>Reaction:</b> After this character wins a conflict in which you have more participating characters than your opponent – gain 1 fate and draw 1 card.",
         "traits": [
-            "shugenja",
-            "earth",
-            "elemental-master"
+            "bushi",
+            "army",
+            "cavalry"
         ],
         "type": "character",
-        "unicity": true
+        "unicity": false
     }
 ]

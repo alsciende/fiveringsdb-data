@@ -1,28 +1,29 @@
 [
     {
         "clan": "scorpion",
-        "cost": 3,
+        "cost": 5,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 1,
+        "glory": 2,
         "honor": null,
-        "id": "yogo-kikuyo",
-        "influence_cost": 2,
+        "id": "soshi-shiori",
+        "influence_cost": null,
         "influence_pool": null,
         "military": 2,
         "military_bonus": null,
-        "name": "Yogo Kikuyo",
-        "political": 2,
+        "name": "Soshi Shiori",
+        "political": 5,
         "political_bonus": null,
         "role_restriction": null,
-        "side": "conflict",
+        "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Interrupt:</b> When the effects of a <em>Spell</em> event your opponent plays during a conflict would initiate, put this character into play from your hand – cancel those effects.\n<i>Errata from RRG v1.3</i>",
+        "text": "<b>Reaction:</b> After you win a conflict, choose a player – that player loses 1 honor. (Unlimited.)",
         "traits": [
             "shugenja",
-            "earth"
+            "air",
+            "daimyo"
         ],
         "type": "character",
         "unicity": true

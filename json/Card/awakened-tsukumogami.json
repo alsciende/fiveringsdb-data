@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "neutral",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "id": "awakened-tsukumogami",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": 1,
+        "military_bonus": null,
+        "name": "Awakened Tsukumogami",
+        "political": 1,
+        "political_bonus": null,
+        "role_restriction": "void",
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<em>Void</em> role only.\nYou may use the fate on a ring to pay the cost of a conflict card that has a <em>Trait</em> that matches an element of that ring.",
+        "traits": [
+            "spirit",
+            "void"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "card_id": "kyuden-bayushi",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "1",
+        "quantity": 3
+    },
+    {
+        "card_id": "bayushi-aramoro",
+        "flavor": "\"This is for you, Kachiko\"",
+        "illustrator": "",
+        "image_url": null,
+        "position": "8",
+        "quantity": 3
+    },
+    {
+        "card_id": "court-of-deception",
+        "flavor": "Where the truth lies.",
+        "illustrator": "",
+        "image_url": null,
+        "position": "11",
+        "quantity": 3
+    },
+    {
+        "card_id": "akodo-kage",
+        "flavor": "\"Thank you, sensei. Your wisdom has again guided me to the right path.\" - Akodo Toturi",
+        "illustrator": "",
+        "image_url": null,
+        "position": "14",
+        "quantity": 3
+    },
+    {
+        "card_id": "stolen-breath",
+        "flavor": "",
+        "illustrator": "\"You truly have nothing to say on the matter?\"",
+        "image_url": null,
+        "position": "21",
+        "quantity": 3
+    },
+    {
+        "card_id": "duty",
+        "flavor": "\"I will be your villain, Hantei.\" - Bayushi",
+        "illustrator": "",
+        "image_url": null,
+        "position": "22",
+        "quantity": 3
+    }
+]

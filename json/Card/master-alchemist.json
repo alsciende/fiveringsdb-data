@@ -1,31 +1,30 @@
 [
     {
-        "clan": "phoenix",
-        "cost": 5,
+        "clan": "dragon",
+        "cost": 4,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
-        "id": "isawa-tadaka",
+        "id": "master-alchemist",
         "influence_cost": null,
         "influence_pool": null,
-        "military": 5,
+        "military": 3,
         "military_bonus": null,
-        "name": "Isawa Tadaka",
-        "political": 3,
+        "name": "Master Alchemist",
+        "political": 1,
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "Each opponent cannot play copies of event cards that are in his or her conflict discard pile unless the [element-earth] ring is in that player's claimed ring pool.",
+        "text": "<b>Action:</b> During a conflict, spend 1 fate to the [element-fire] ring. Choose a character – honor or dishonor that character.",
         "traits": [
             "shugenja",
-            "earth",
-            "elemental-master"
+            "fire"
         ],
         "type": "character",
-        "unicity": true
+        "unicity": false
     }
 ]

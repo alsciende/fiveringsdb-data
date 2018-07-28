@@ -1,0 +1,27 @@
+[
+    {
+        "clan": "neutral",
+        "cost": null,
+        "deck_limit": 1,
+        "element": "water",
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "seeking-the-truth",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Seeking the Truth",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "province",
+        "strength": 3,
+        "strength_bonus": null,
+        "text": "This province gets +2 strength while you have a <em>Water</em> role.\n<b>Interrupt:</b> When this province is broken, choose a defending character – move that character home.",
+        "traits": [],
+        "type": "province",
+        "unicity": false
+    }
+]

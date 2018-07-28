@@ -1,0 +1,29 @@
+[
+    {
+        "clan": "scorpion",
+        "cost": null,
+        "deck_limit": 1,
+        "element": null,
+        "fate": 7,
+        "glory": null,
+        "honor": 9,
+        "id": "kyuden-bayushi",
+        "influence_cost": null,
+        "influence_pool": 9,
+        "military": null,
+        "military_bonus": null,
+        "name": "Kyūden Bayushi",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "province",
+        "strength": null,
+        "strength_bonus": "+2",
+        "text": "<b>Action:</b> Bow this stronghold and choose a dishonored character you control – ready that character. If you have 6 or fewer honor, that character gets +1[conflict-military] and +1[conflict-political] until the end of the phase.",
+        "traits": [
+            "palace"
+        ],
+        "type": "stronghold",
+        "unicity": false
+    }
+]

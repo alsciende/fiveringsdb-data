@@ -1,29 +1,27 @@
 [
     {
-        "clan": "phoenix",
-        "cost": 5,
+        "clan": "lion",
+        "cost": 3,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
-        "id": "isawa-tadaka",
+        "id": "ikoma-ikehata",
         "influence_cost": null,
         "influence_pool": null,
-        "military": 5,
+        "military": 1,
         "military_bonus": null,
-        "name": "Isawa Tadaka",
-        "political": 3,
+        "name": "Ikoma Ikehata",
+        "political": 2,
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "Each opponent cannot play copies of event cards that are in his or her conflict discard pile unless the [element-earth] ring is in that player's claimed ring pool.",
+        "text": "Covert.\n<b>Reaction</b>: After this character wins a [conflict-political] conflict, choose a character you control – honor that character. Draw 1 card.",
         "traits": [
-            "shugenja",
-            "earth",
-            "elemental-master"
+            "courtier"
         ],
         "type": "character",
         "unicity": true

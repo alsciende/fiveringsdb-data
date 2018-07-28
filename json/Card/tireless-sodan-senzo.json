@@ -1,31 +1,30 @@
 [
     {
-        "clan": "phoenix",
-        "cost": 5,
+        "clan": "lion",
+        "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 2,
+        "glory": 0,
         "honor": null,
-        "id": "isawa-tadaka",
+        "id": "tireless-sodan-senzo",
         "influence_cost": null,
         "influence_pool": null,
-        "military": 5,
+        "military": 1,
         "military_bonus": null,
-        "name": "Isawa Tadaka",
-        "political": 3,
+        "name": "Tireless Sōdan Senzo",
+        "political": 2,
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "Each opponent cannot play copies of event cards that are in his or her conflict discard pile unless the [element-earth] ring is in that player's claimed ring pool.",
+        "text": "This character does not bow as a result of conflict resolution in conflicts in which it lost.",
         "traits": [
             "shugenja",
-            "earth",
-            "elemental-master"
+            "water"
         ],
         "type": "character",
-        "unicity": true
+        "unicity": false
     }
 ]

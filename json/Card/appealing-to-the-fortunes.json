@@ -1,0 +1,27 @@
+[
+    {
+        "clan": "neutral",
+        "cost": null,
+        "deck_limit": 1,
+        "element": "void",
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "appealing-to-the-fortunes",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Appealing to the Fortunes",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "province",
+        "strength": 3,
+        "strength_bonus": null,
+        "text": "This province gets +2 strength while you have a <em>Void</em> role.\n<b>Interrupt:</b> When this province is broken – put a character into play from one of your provinces or from your hand.",
+        "traits": [],
+        "type": "province",
+        "unicity": false
+    }
+]

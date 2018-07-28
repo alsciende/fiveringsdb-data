@@ -1,29 +1,28 @@
 [
     {
-        "clan": "phoenix",
-        "cost": 5,
+        "clan": "crane",
+        "cost": 4,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
-        "id": "isawa-tadaka",
+        "id": "asahina-takako",
         "influence_cost": null,
         "influence_pool": null,
-        "military": 5,
+        "military": null,
         "military_bonus": null,
-        "name": "Isawa Tadaka",
-        "political": 3,
+        "name": "Asahina Takako",
+        "political": 5,
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "Each opponent cannot play copies of event cards that are in his or her conflict discard pile unless the [element-earth] ring is in that player's claimed ring pool.",
+        "text": "You may look at facedown cards in each province you control.\n<b>Action:</b> Choose a card in one of your provinces – switch that card with a card in another of your provinces or discard it.",
         "traits": [
             "shugenja",
-            "earth",
-            "elemental-master"
+            "air"
         ],
         "type": "character",
         "unicity": true

@@ -1,0 +1,27 @@
+[
+    {
+        "clan": "neutral",
+        "cost": 0,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "sabotage",
+        "influence_cost": 0,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Sabotage",
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": "earth",
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<em>Earth</em> role only.\n<b>Action:</b> During a [conflict-military] conflict, choose a card in an opponent's province – discard that card.",
+        "traits": [],
+        "type": "event",
+        "unicity": false
+    }
+]

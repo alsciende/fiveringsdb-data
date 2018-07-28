@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "neutral",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "imperial-librarian",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": 2,
+        "military_bonus": null,
+        "name": "Imperial Librarian",
+        "political": 2,
+        "political_bonus": null,
+        "role_restriction": "fire",
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<em>Fire</em> role only.\nEach other character gets +1 glory.",
+        "traits": [
+            "courtier",
+            "imperial",
+            "scholar"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]
