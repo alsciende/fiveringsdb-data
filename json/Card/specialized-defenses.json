@@ -1,0 +1,27 @@
+[
+	{
+		"clan": "crab",
+		"cost": 0,
+		"deck_limit": 3,
+		"element": null,
+		"fate": null,
+		"glory": null,
+		"honor": null,
+		"id": "specialized-defenses",
+		"influence_cost": 1,
+		"influence_pool": null,
+		"military": null,
+		"military_bonus": null,
+		"name": "Specialized Defenses",
+		"political": null,
+		"political_bonus": null,
+		"role_restriction": null,
+		"side": "conflict",
+		"strength": null,
+		"strength_bonus": null,
+		"text": "<em>Earth</em><b> </b>role only.\n<b>Action:</b> During a conflict, if the attacked province has an element that matches the contested ring or a ring in your claimed ring pool – double that province&rsquo;s strength until the end of the conflict.",
+		"traits": [],
+		"type": "event",
+		"unicity": false
+	}
+]

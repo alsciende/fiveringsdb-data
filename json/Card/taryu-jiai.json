@@ -1,0 +1,27 @@
+[
+	{
+		"clan": "phoenix",
+		"cost": 0,
+		"deck_limit": 3,
+		"element": null,
+		"fate": null,
+		"glory": null,
+		"honor": null,
+		"id": "taryu-jiai",
+		"influence_cost": 1,
+		"influence_pool": null,
+		"military": null,
+		"military_bonus": null,
+		"name": "Taryu-Jiai",
+		"political": null,
+		"political_bonus": null,
+		"role_restriction": null,
+		"side": "conflict",
+		"strength": null,
+		"strength_bonus": null,
+		"text": "<b>Action:</b> During a conflict, choose a <em>Shugenja</em> character you control and a <em>Shugenja</em> character controlled by an opponent – your character challenges your opponent&rsquo;s character to a glory duel. The  winner of the duel&lsquo;s controller resolves a ring effect of his or her choice as if he or she was the attacking player.",
+		"traits": [],
+		"type": "event",
+		"unicity": false
+	}
+]
