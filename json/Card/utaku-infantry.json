@@ -13,6 +13,7 @@
         "military": "0",
         "military_bonus": null,
         "name": "Utaku Infantry",
+        "name_extra": null,
         "political": "0",
         "political_bonus": null,
         "role_restriction": null,

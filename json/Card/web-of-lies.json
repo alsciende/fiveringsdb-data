@@ -13,7 +13,7 @@
         "military": null,
         "military_bonus": null,
         "name": "Web of Lies",
-        "name_canonical": null,
+        "name_extra": null,
         "political": null,
         "political_bonus": null,
         "role_restriction": null,
@@ -21,7 +21,6 @@
         "strength": "X",
         "strength_bonus": null,
         "text": "X is equal to twice the bid on your honor dial.",
-        "text_canonical": null,
         "traits": [],
         "type": "province",
         "unicity": false

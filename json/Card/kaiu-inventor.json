@@ -13,6 +13,7 @@
         "military": "2",
         "military_bonus": null,
         "name": "Kaiu Inventor",
+        "name_extra": null,
         "political": "1",
         "political_bonus": null,
         "role_restriction": null,

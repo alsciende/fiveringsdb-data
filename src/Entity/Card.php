@@ -70,13 +70,6 @@ class Card
     private $name;
 
     /**
-     * @var string
-     *
-     * @ORM\Column(name="name_canonical", type="string", length=255)
-     */
-    private $nameCanonical;
-
-    /**
      * @var int
      *
      * @ORM\Column(name="cost", type="integer", nullable=true)
@@ -93,13 +86,6 @@ class Card
      * @Skizzle\Field(type="string")
      */
     private $text;
-
-    /**
-     * @var string
-     *
-     * @ORM\Column(name="text_canonical", type="text", nullable=true)
-     */
-    private $textCanonical;
 
     /**
      * @var string
@@ -272,6 +258,15 @@ class Card
      */
     private $roleRestriction;
 
+    /**
+     * @var string|null
+     *
+     * @ORM\Column(name="name_extra", type="string", nullable=true)
+     *
+     * @Skizzle\Field(type="string")
+     */
+    private $nameExtra;
+
     function __construct ()
     {
         $this->deckLimit = 3;
@@ -293,13 +288,6 @@ class Card
         return $this;
     }
 
-    public function setNameCanonical (string $nameCanonical): self
-    {
-        $this->nameCanonical = $nameCanonical;
-
-        return $this;
-    }
-
     public function setCost (int $cost): self
     {
         $this->cost = $cost;
@@ -310,13 +298,6 @@ class Card
     public function setText (string $text): self
     {
         $this->text = $text;
-
-        return $this;
-    }
-
-    public function setTextCanonical (string $textCanonical): self
-    {
-        $this->textCanonical = $textCanonical;
 
         return $this;
     }
@@ -450,11 +431,6 @@ class Card
         return $this->name;
     }
 
-    public function getNameCanonical (): ?string
-    {
-        return $this->nameCanonical;
-    }
-
     public function getCost (): ?int
     {
         return $this->cost;
@@ -463,11 +439,6 @@ class Card
     public function getText (): ?string
     {
         return $this->text;
-    }
-
-    public function getTextCanonical (): ?string
-    {
-        return $this->textCanonical;
     }
 
     public function getType (): string
@@ -582,5 +553,22 @@ class Card
         $this->roleRestriction = $roleRestriction;
 
         return $this;
+    }
+
+    public function getNameExtra(): ?string
+    {
+        return $this->nameExtra;
+    }
+
+    public function setNameExtra(?string $nameExtra): self
+    {
+        $this->nameExtra = $nameExtra;
+
+        return $this;
+    }
+
+    public function getFullName(): string
+    {
+        return $this->name . ($this->nameExtra ? ' ' . $this->nameExtra : '');
     }
 }

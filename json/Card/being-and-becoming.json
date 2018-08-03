@@ -13,6 +13,7 @@
         "military": null,
         "military_bonus": "+1",
         "name": "Being and Becoming",
+        "name_extra": null,
         "political": null,
         "political_bonus": "+1",
         "role_restriction": "void",

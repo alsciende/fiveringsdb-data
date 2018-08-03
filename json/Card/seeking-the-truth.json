@@ -13,6 +13,7 @@
         "military": null,
         "military_bonus": null,
         "name": "Seeking the Truth",
+        "name_extra": null,
         "political": null,
         "political_bonus": null,
         "role_restriction": null,

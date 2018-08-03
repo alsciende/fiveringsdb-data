@@ -13,6 +13,7 @@
         "military": "1",
         "military_bonus": null,
         "name": "Miwaku Kabe Guard",
+        "name_extra": null,
         "political": "0",
         "political_bonus": null,
         "role_restriction": null,

@@ -13,6 +13,7 @@
         "military": "5",
         "military_bonus": null,
         "name": "Moto Juro",
+        "name_extra": null,
         "political": "2",
         "political_bonus": null,
         "role_restriction": null,

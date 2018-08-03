@@ -13,6 +13,7 @@
         "military": "2",
         "military_bonus": null,
         "name": "Adept of Shadows",
+        "name_extra": null,
         "political": "2",
         "political_bonus": null,
         "role_restriction": null,

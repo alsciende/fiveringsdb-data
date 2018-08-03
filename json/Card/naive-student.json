@@ -13,6 +13,7 @@
         "military": null,
         "military_bonus": null,
         "name": "Naive Student",
+        "name_extra": null,
         "political": "2",
         "political_bonus": null,
         "role_restriction": null,

@@ -13,6 +13,7 @@
         "military": "1",
         "military_bonus": null,
         "name": "Seeker Initiate",
+        "name_extra": null,
         "political": "1",
         "political_bonus": null,
         "role_restriction": "seeker",

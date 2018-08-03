@@ -11,6 +11,11 @@ App\Entity\Card:
             - Length:
                 min: 2
                 max: 255
+        nameExtra:
+            - Type: string
+            - Length:
+                min: 2
+                max: 255
         clan:
             - Type: string
             - Choice:

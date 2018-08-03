@@ -13,6 +13,7 @@
         "military": null,
         "military_bonus": null,
         "name": "Political Rival",
+        "name_extra": null,
         "political": "3",
         "political_bonus": null,
         "role_restriction": null,

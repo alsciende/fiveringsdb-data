@@ -13,6 +13,7 @@
         "military": "1",
         "military_bonus": null,
         "name": "Sake House Confidant",
+        "name_extra": null,
         "political": "1",
         "political_bonus": null,
         "role_restriction": null,

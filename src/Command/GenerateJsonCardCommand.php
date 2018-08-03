@@ -13,6 +13,7 @@ use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Console\Question\ChoiceQuestion;
 use Symfony\Component\Console\Question\Question;
+use Symfony\Component\Finder\Finder;
 use Symfony\Component\Validator\ConstraintViolationInterface;
 use Symfony\Component\Validator\Validator\ValidatorInterface;
 
@@ -57,13 +58,32 @@ class GenerateJsonCardCommand extends Command
             ->setDescription("Generate json file for a card");
     }
 
+    private function alreadyExists(string $name): bool
+    {
+        $finder = new Finder();
+        $finder->files()->in('./json/Card/')->name('*.json');
+        foreach ($finder as $file) {
+            $content = json_decode(file_get_contents($file), true);
+            if ($content[0]['name'] === $name) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
     protected function execute (InputInterface $input, OutputInterface $output)
     {
         $helper = $this->getHelper('question');
 
         $card = new Card();
         $card->setName($helper->ask($input, $output, new Question('Name: ')));
-        $card->setId($this->slugify->slugify($card->getName()));
+        if ($this->alreadyExists($card->getName())) {
+            $output->writeln('<info>A card with that name already exists, you must provide an extra.</info>');
+            $card->setNameExtra($helper->ask($input, $output, new Question('Extra: ')) ?: null);
+        }
+
+        $card->setId($this->slugify->slugify($card->getFullName()));
         $filepath = './json/Card/' . $card->getId() . '.json';
         if (file_exists($filepath)) {
             $output->writeln(sprintf('<info>Card already exists at %s -- aborting.</info>', $filepath));
