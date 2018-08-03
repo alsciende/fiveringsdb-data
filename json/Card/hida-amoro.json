@@ -10,7 +10,7 @@
         "id": "hida-amoro",
         "influence_cost": null,
         "influence_pool": null,
-        "military": 4,
+        "military": "4",
         "military_bonus": null,
         "name": "Hida Amoro",
         "political": null,

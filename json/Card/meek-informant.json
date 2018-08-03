@@ -13,7 +13,7 @@
         "military": null,
         "military_bonus": null,
         "name": "Meek Informant",
-        "political": 1,
+        "political": "1",
         "political_bonus": null,
         "role_restriction": null,
         "side": "conflict",

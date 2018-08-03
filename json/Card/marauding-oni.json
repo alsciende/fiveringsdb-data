@@ -10,7 +10,7 @@
         "id": "marauding-oni",
         "influence_cost": null,
         "influence_pool": null,
-        "military": 4,
+        "military": "4",
         "military_bonus": null,
         "name": "Marauding Oni",
         "political": null,

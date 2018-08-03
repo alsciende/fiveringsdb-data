@@ -17,7 +17,7 @@
         "political_bonus": null,
         "role_restriction": null,
         "side": "province",
-        "strength": 2,
+        "strength": "2",
         "strength_bonus": null,
         "text": "<b>Reaction:</b> After this province is revealed – bow each attacking character.",
         "traits": [],

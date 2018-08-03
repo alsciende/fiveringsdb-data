@@ -13,7 +13,7 @@
         "military": null,
         "military_bonus": null,
         "name": "Asahina Takako",
-        "political": 5,
+        "political": "5",
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",

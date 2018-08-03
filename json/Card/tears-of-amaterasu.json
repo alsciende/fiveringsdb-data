@@ -17,7 +17,7 @@
         "political_bonus": null,
         "role_restriction": "keeper",
         "side": "province",
-        "strength": 4,
+        "strength": "4",
         "strength_bonus": null,
         "text": "<em>Keeper</em> role only.\n<b>Reaction:</b> After this province is revealed – gain 1 fate for each attacking character.",
         "traits": [

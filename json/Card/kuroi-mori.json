@@ -17,7 +17,7 @@
         "political_bonus": null,
         "role_restriction": null,
         "side": "province",
-        "strength": 4,
+        "strength": "4",
         "strength_bonus": null,
         "text": "<b>Action:</b> During a conflict at this province, select one – switch the contested ring with an unclaimed ring <i>(the conflict retains its type)</i>, or switch the conflict type <i>(the conflict retains its element)</i>.",
         "traits": [],

@@ -10,7 +10,7 @@
         "id": "matsu-seventh-legion",
         "influence_cost": null,
         "influence_pool": null,
-        "military": 7,
+        "military": "7",
         "military_bonus": null,
         "name": "Matsu Seventh Legion",
         "political": null,

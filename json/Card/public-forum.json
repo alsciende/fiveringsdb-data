@@ -17,7 +17,7 @@
         "political_bonus": null,
         "role_restriction": null,
         "side": "province",
-        "strength": 3,
+        "strength": "3",
         "strength_bonus": null,
         "text": "Cannot be a stronghold province.\n<b>Interrupt:</b> When this province would be broken, if there are no honor tokens on it – place 1 honor token on it instead.",
         "traits": [],

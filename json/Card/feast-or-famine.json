@@ -17,7 +17,7 @@
         "political_bonus": null,
         "role_restriction": "fire",
         "side": "province",
-        "strength": 3,
+        "strength": "3",
         "strength_bonus": null,
         "text": "<em>Fire</em> role only.\n<b>Interrupt:</b> When this province is broken, choose an opponent's character – move each fate from that character to a character you control with no fate.",
         "traits": [],

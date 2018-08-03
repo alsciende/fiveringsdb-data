@@ -10,7 +10,7 @@
         "id": "hiruma-skirmisher",
         "influence_cost": 2,
         "influence_pool": null,
-        "military": 1,
+        "military": "1",
         "military_bonus": null,
         "name": "Hiruma Skirmisher",
         "political": null,

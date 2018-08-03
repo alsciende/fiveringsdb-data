@@ -17,6 +17,7 @@ use Doctrine\ORM\Mapping as ORM;
  */
 class Card
 {
+    const TYPES = ['attachment', 'character', 'event', 'holding', 'province', 'role', 'stronghold'];
     const TYPE_ATTACHMENT = 'attachment';
     const TYPE_CHARACTER = 'character';
     const TYPE_EVENT = 'event';
@@ -25,17 +26,20 @@ class Card
     const TYPE_ROLE = 'role';
     const TYPE_STRONGHOLD = 'stronghold';
 
+    const ELEMENTS = ['air', 'earth', 'fire', 'void', 'water'];
     const ELEMENT_AIR = 'air';
     const ELEMENT_EARTH = 'earth';
     const ELEMENT_FIRE = 'fire';
     const ELEMENT_VOID = 'void';
     const ELEMENT_WATER = 'water';
 
+    const SIDES = ['conflict', 'dynasty', 'province', 'role'];
     const SIDE_CONFLICT = 'conflict';
     const SIDE_DYNASTY = 'dynasty';
     const SIDE_PROVINCE = 'province';
     const SIDE_ROLE = 'role';
 
+    const CLANS = ['crab', 'crane', 'dragon', 'lion', 'phoenix', 'scorpion', 'unicorn'];
     const CLAN_CRAB = 'crab';
     const CLAN_CRANE = 'crane';
     const CLAN_DRAGON = 'dragon';
@@ -66,6 +70,13 @@ class Card
     private $name;
 
     /**
+     * @var string
+     *
+     * @ORM\Column(name="name_canonical", type="string", length=255)
+     */
+    private $nameCanonical;
+
+    /**
      * @var int
      *
      * @ORM\Column(name="cost", type="integer", nullable=true)
@@ -82,6 +93,13 @@ class Card
      * @Skizzle\Field(type="string")
      */
     private $text;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="text_canonical", type="text", nullable=true)
+     */
+    private $textCanonical;
 
     /**
      * @var string
@@ -138,29 +156,29 @@ class Card
     private $traits;
 
     /**
-     * @var integer|null
+     * @var string|null
      *
-     * @ORM\Column(name="military", type="smallint", nullable=true)
+     * @ORM\Column(name="military", type="string", nullable=true)
      *
-     * @Skizzle\Field(type="integer")
+     * @Skizzle\Field(type="string")
      */
     private $military;
 
     /**
-     * @var integer|null
+     * @var string|null
      *
-     * @ORM\Column(name="political", type="smallint", nullable=true)
+     * @ORM\Column(name="political", type="string", nullable=true)
      *
-     * @Skizzle\Field(type="integer")
+     * @Skizzle\Field(type="string")
      */
     private $political;
 
     /**
-     * @var integer|null
+     * @var string|null
      *
-     * @ORM\Column(name="strength", type="smallint", nullable=true)
+     * @ORM\Column(name="strength", type="string", nullable=true)
      *
-     * @Skizzle\Field(type="integer")
+     * @Skizzle\Field(type="string")
      */
     private $strength;
 
@@ -254,202 +272,13 @@ class Card
      */
     private $roleRestriction;
 
-    public function __construct ()
+    function __construct ()
     {
         $this->deckLimit = 3;
         $this->traits = [];
         $this->unicity = false;
     }
 
-    /**
-     * @return string
-     */
-    public function getId (): string
-    {
-        return $this->id;
-    }
-
-    /**
-     * @return string
-     */
-    public function getName (): string
-    {
-        return $this->name;
-    }
-
-    /**
-     * @return int
-     */
-    public function getCost (): int
-    {
-        return $this->cost;
-    }
-
-    /**
-     * @return string
-     */
-    public function getText (): string
-    {
-        return $this->text;
-    }
-
-    /**
-     * @return string
-     */
-    public function getType (): string
-    {
-        return $this->type;
-    }
-
-    /**
-     * @return string
-     */
-    public function getClan (): string
-    {
-        return $this->clan;
-    }
-
-    /**
-     * @return null|string
-     */
-    public function getElement (): ?string
-    {
-        return $this->element;
-    }
-
-    /**
-     * @return bool
-     */
-    public function isUnicity (): bool
-    {
-        return $this->unicity;
-    }
-
-    /**
-     * @return string
-     */
-    public function getSide (): string
-    {
-        return $this->side;
-    }
-
-    /**
-     * @return array
-     */
-    public function getTraits (): array
-    {
-        return $this->traits;
-    }
-
-    /**
-     * @return int|null
-     */
-    public function getMilitary (): ?int
-    {
-        return $this->military;
-    }
-
-    /**
-     * @return int|null
-     */
-    public function getPolitical (): ?int
-    {
-        return $this->political;
-    }
-
-    /**
-     * @return int|null
-     */
-    public function getStrength (): ?int
-    {
-        return $this->strength;
-    }
-
-    /**
-     * @return null|string
-     */
-    public function getMilitaryBonus (): ?string
-    {
-        return $this->militaryBonus;
-    }
-
-    /**
-     * @return null|string
-     */
-    public function getPoliticalBonus (): ?string
-    {
-        return $this->politicalBonus;
-    }
-
-    /**
-     * @return null|string
-     */
-    public function getStrengthBonus (): ?string
-    {
-        return $this->strengthBonus;
-    }
-
-    /**
-     * @return int|null
-     */
-    public function getGlory (): ?int
-    {
-        return $this->glory;
-    }
-
-    /**
-     * @return int|null
-     */
-    public function getHonor (): ?int
-    {
-        return $this->honor;
-    }
-
-    /**
-     * @return int|null
-     */
-    public function getFate (): ?int
-    {
-        return $this->fate;
-    }
-
-    /**
-     * @return int|null
-     */
-    public function getInfluencePool (): ?int
-    {
-        return $this->influencePool;
-    }
-
-    /**
-     * @return int|null
-     */
-    public function getInfluenceCost (): ?int
-    {
-        return $this->influenceCost;
-    }
-
-    /**
-     * @return int
-     */
-    public function getDeckLimit (): int
-    {
-        return $this->deckLimit;
-    }
-
-    /**
-     * @return null|string
-     */
-    public function getRoleRestriction (): ?string
-    {
-        return $this->roleRestriction;
-    }
-
-    /**
-     * @param string $id
-     *
-     * @return self
-     */
     public function setId (string $id): self
     {
         $this->id = $id;
@@ -457,11 +286,6 @@ class Card
         return $this;
     }
 
-    /**
-     * @param string $name
-     *
-     * @return self
-     */
     public function setName (string $name): self
     {
         $this->name = $name;
@@ -469,11 +293,13 @@ class Card
         return $this;
     }
 
-    /**
-     * @param int $cost
-     *
-     * @return self
-     */
+    public function setNameCanonical (string $nameCanonical): self
+    {
+        $this->nameCanonical = $nameCanonical;
+
+        return $this;
+    }
+
     public function setCost (int $cost): self
     {
         $this->cost = $cost;
@@ -481,11 +307,6 @@ class Card
         return $this;
     }
 
-    /**
-     * @param string $text
-     *
-     * @return self
-     */
     public function setText (string $text): self
     {
         $this->text = $text;
@@ -493,11 +314,13 @@ class Card
         return $this;
     }
 
-    /**
-     * @param string $type
-     *
-     * @return self
-     */
+    public function setTextCanonical (string $textCanonical): self
+    {
+        $this->textCanonical = $textCanonical;
+
+        return $this;
+    }
+
     public function setType (string $type): self
     {
         $this->type = $type;
@@ -505,11 +328,6 @@ class Card
         return $this;
     }
 
-    /**
-     * @param string $clan
-     *
-     * @return self
-     */
     public function setClan (string $clan): self
     {
         $this->clan = $clan;
@@ -517,23 +335,13 @@ class Card
         return $this;
     }
 
-    /**
-     * @param null|string $element
-     *
-     * @return self
-     */
-    public function setElement (?string $element): self
+    public function setElement (string $element = null): self
     {
         $this->element = $element;
 
         return $this;
     }
 
-    /**
-     * @param bool $unicity
-     *
-     * @return self
-     */
     public function setUnicity (bool $unicity): self
     {
         $this->unicity = $unicity;
@@ -541,11 +349,6 @@ class Card
         return $this;
     }
 
-    /**
-     * @param string $side
-     *
-     * @return self
-     */
     public function setSide (string $side): self
     {
         $this->side = $side;
@@ -553,11 +356,6 @@ class Card
         return $this;
     }
 
-    /**
-     * @param array $traits
-     *
-     * @return self
-     */
     public function setTraits (array $traits): self
     {
         $this->traits = $traits;
@@ -565,143 +363,203 @@ class Card
         return $this;
     }
 
-    /**
-     * @param int|null $military
-     *
-     * @return self
-     */
-    public function setMilitary (?int $military): self
+    public function setMilitary (string $military): self
     {
         $this->military = $military;
 
         return $this;
     }
 
-    /**
-     * @param int|null $political
-     *
-     * @return self
-     */
-    public function setPolitical (?int $political): self
+    public function setPolitical (string $political): self
     {
         $this->political = $political;
 
         return $this;
     }
 
-    /**
-     * @param int|null $strength
-     *
-     * @return self
-     */
-    public function setStrength (?int $strength): self
+    public function setStrength (string $strength): self
     {
         $this->strength = $strength;
 
         return $this;
     }
 
-    /**
-     * @param null|string $militaryBonus
-     *
-     * @return self
-     */
-    public function setMilitaryBonus (?string $militaryBonus): self
+    public function setMilitaryBonus (string $militaryBonus): self
     {
         $this->militaryBonus = $militaryBonus;
 
         return $this;
     }
 
-    /**
-     * @param null|string $politicalBonus
-     *
-     * @return self
-     */
-    public function setPoliticalBonus (?string $politicalBonus): self
+    public function setPoliticalBonus (string $politicalBonus): self
     {
         $this->politicalBonus = $politicalBonus;
 
         return $this;
     }
 
-    /**
-     * @param null|string $strengthBonus
-     *
-     * @return self
-     */
-    public function setStrengthBonus (?string $strengthBonus): self
+    public function setStrengthBonus (string $strengthBonus): self
     {
         $this->strengthBonus = $strengthBonus;
 
         return $this;
     }
 
-    /**
-     * @param int|null $glory
-     *
-     * @return self
-     */
-    public function setGlory (?int $glory): self
+    public function setGlory (int $glory): self
     {
         $this->glory = $glory;
 
         return $this;
     }
 
-    /**
-     * @param int|null $honor
-     *
-     * @return self
-     */
-    public function setHonor (?int $honor): self
+    public function setHonor (int $honor): self
     {
         $this->honor = $honor;
 
         return $this;
     }
 
-    /**
-     * @param int|null $fate
-     *
-     * @return self
-     */
-    public function setFate (?int $fate): self
+    public function setFate (int $fate): self
     {
         $this->fate = $fate;
 
         return $this;
     }
 
-    /**
-     * @param int|null $influencePool
-     *
-     * @return self
-     */
-    public function setInfluencePool (?int $influencePool): self
+    public function setInfluencePool (int $influencePool): self
     {
         $this->influencePool = $influencePool;
 
         return $this;
     }
 
-    /**
-     * @param int|null $influenceCost
-     *
-     * @return self
-     */
-    public function setInfluenceCost (?int $influenceCost): self
+    public function setInfluenceCost (int $influenceCost = null): self
     {
         $this->influenceCost = $influenceCost;
 
         return $this;
     }
 
-    /**
-     * @param int $deckLimit
-     *
-     * @return self
-     */
+    public function getId (): string
+    {
+        return $this->id;
+    }
+
+    public function getName (): string
+    {
+        return $this->name;
+    }
+
+    public function getNameCanonical (): ?string
+    {
+        return $this->nameCanonical;
+    }
+
+    public function getCost (): ?int
+    {
+        return $this->cost;
+    }
+
+    public function getText (): ?string
+    {
+        return $this->text;
+    }
+
+    public function getTextCanonical (): ?string
+    {
+        return $this->textCanonical;
+    }
+
+    public function getType (): string
+    {
+        return $this->type;
+    }
+
+    public function getClan (): string
+    {
+        return $this->clan;
+    }
+
+    public function getElement (): ?string
+    {
+        return $this->element;
+    }
+
+    public function isUnicity (): bool
+    {
+        return $this->unicity;
+    }
+
+    public function getSide (): string
+    {
+        return $this->side;
+    }
+
+    public function getTraits (): array
+    {
+        return $this->traits;
+    }
+
+    public function hasTrait ($trait): bool
+    {
+        return in_array($trait, $this->traits);
+    }
+
+    public function getMilitary (): ?string
+    {
+        return $this->military;
+    }
+
+    public function getPolitical (): ?string
+    {
+        return $this->political;
+    }
+
+    public function getStrength (): ?string
+    {
+        return $this->strength;
+    }
+
+    public function getMilitaryBonus (): ?string
+    {
+        return $this->militaryBonus;
+    }
+
+    public function getPoliticalBonus (): ?string
+    {
+        return $this->politicalBonus;
+    }
+
+    public function getStrengthBonus (): ?string
+    {
+        return $this->strengthBonus;
+    }
+
+    public function getGlory (): ?int
+    {
+        return $this->glory;
+    }
+
+    public function getHonor (): ?int
+    {
+        return $this->honor;
+    }
+
+    public function getFate (): ?int
+    {
+        return $this->fate;
+    }
+
+    public function getInfluencePool (): ?int
+    {
+        return $this->influencePool;
+    }
+
+    public function getInfluenceCost (): ?int
+    {
+        return $this->influenceCost;
+    }
+
     public function setDeckLimit (int $deckLimit): self
     {
         $this->deckLimit = $deckLimit;
@@ -709,12 +567,17 @@ class Card
         return $this;
     }
 
-    /**
-     * @param null|string $roleRestriction
-     *
-     * @return self
-     */
-    public function setRoleRestriction (?string $roleRestriction): self
+    public function getDeckLimit (): ?int
+    {
+        return $this->deckLimit;
+    }
+
+    public function getRoleRestriction (): ?string
+    {
+        return $this->roleRestriction;
+    }
+
+    public function setRoleRestriction (string $roleRestriction = null): self
     {
         $this->roleRestriction = $roleRestriction;
 

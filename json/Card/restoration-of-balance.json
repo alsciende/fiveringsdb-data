@@ -17,7 +17,7 @@
         "political_bonus": null,
         "role_restriction": null,
         "side": "province",
-        "strength": 3,
+        "strength": "3",
         "strength_bonus": null,
         "text": "<b>Reaction:</b> After this province is revealed – your opponent chooses and discards cards from his or her hand until that player has 4 or fewer cards in hand.",
         "traits": [],

@@ -17,7 +17,7 @@
         "political_bonus": null,
         "role_restriction": null,
         "side": "province",
-        "strength": 3,
+        "strength": "3",
         "strength_bonus": null,
         "text": "This province gets +2 strength while you have an <em>Earth</em> role.\n<b>Interrupt:</b> When this province is broken – the attacking player reveals his or her hand. Choose a card in their hand and discard any number of copies of that card from their hand.",
         "traits": [],

@@ -67,20 +67,20 @@ App\Entity\Card:
                 - NotBlank: ~
             - App\Validator\Constraints\KnownTraits: ~
         military:
-            - Type: integer
-            - GreaterThanOrEqual: 0
+            - Type: string
+            - Regex: "/^[0-9]+|X$/"
             - Expression:
                 expression: "this.getType() in ['character'] or value === null"
                 message: Cannot have a military skill.
         political:
-            - Type: integer
-            - GreaterThanOrEqual: 0
+            - Type: string
+            - Regex: "/^[0-9]+|X$/"
             - Expression:
                 expression: "this.getType() in ['character'] or value === null"
                 message: Cannot have a political skill.
         strength:
-            - Type: integer
-            - GreaterThanOrEqual: 0
+            - Type: string
+            - Regex: "/^[0-9]+|X$/"
             - Expression:
                 expression: "this.getType() in ['province'] or value === null"
                 message: Cannot have a strength.

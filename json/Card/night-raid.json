@@ -17,7 +17,7 @@
         "political_bonus": null,
         "role_restriction": null,
         "side": "province",
-        "strength": 4,
+        "strength": "4",
         "strength_bonus": null,
         "text": "<b>Reaction:</b> After this province is revealed – your opponent chooses and discards X cards from his or her hand. X is equal to the number of attacking characters.",
         "traits": [],

@@ -17,7 +17,7 @@
         "political_bonus": null,
         "role_restriction": null,
         "side": "province",
-        "strength": 3,
+        "strength": "3",
         "strength_bonus": null,
         "text": "This province gets +2 strength while you have an <em>Air</em> role.\n<b>Interrupt:</b> When this province is broken – gain 1 fate and draw 1 card.",
         "traits": [],

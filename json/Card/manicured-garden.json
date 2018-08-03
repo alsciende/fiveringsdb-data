@@ -17,7 +17,7 @@
         "political_bonus": null,
         "role_restriction": null,
         "side": "province",
-        "strength": 4,
+        "strength": "4",
         "strength_bonus": null,
         "text": "<b>Action:</b> During a conflict at this province – gain 1 fate.",
         "traits": [],

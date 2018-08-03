@@ -10,7 +10,7 @@
         "id": "war-dog-master",
         "influence_cost": null,
         "influence_pool": null,
-        "military": 2,
+        "military": "2",
         "military_bonus": null,
         "name": "War Dog Master",
         "political": null,

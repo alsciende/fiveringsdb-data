@@ -10,7 +10,7 @@
         "id": "staunch-hida",
         "influence_cost": null,
         "influence_pool": null,
-        "military": 2,
+        "military": "2",
         "military_bonus": null,
         "name": "Staunch Hida",
         "political": null,
