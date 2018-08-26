@@ -130,8 +130,8 @@ class GenerateJsonCardCommand extends Command
                 $card->setRoleRestriction($helper->ask($input, $output, new Question('Role Restriction: ')));
                 $card->setUnicity($this->askBoolean($input, $output, $helper, new Question('Unique: (y/N) ', 'n')));
                 $card->setCost($helper->ask($input, $output, new Question('Cost: ')));
-                $card->setMilitary($helper->ask($input, $output, new Question('Military Skill: ')));
-                $card->setPolitical($helper->ask($input, $output, new Question('Political Skill: ')));
+                $card->setMilitary($helper->ask($input, $output, new Question('Military Skill (can be empty): ')));
+                $card->setPolitical($helper->ask($input, $output, new Question('Political Skill (can be empty): ')));
                 $card->setGlory($helper->ask($input, $output, new Question('Glory: ')));
                 $card->setDeckLimit($helper->ask($input, $output, new Question('Deck Limit (3): ', 3)));
                 break;

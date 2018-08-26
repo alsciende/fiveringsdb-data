@@ -274,281 +274,286 @@ class Card
         $this->unicity = false;
     }
 
-    public function setId (string $id): self
+    public function hasTrait ($trait): bool
+    {
+        return in_array($trait, $this->traits);
+    }
+
+    public function getFullName(): string
+    {
+        return $this->name . ($this->nameExtra ? ' ' . $this->nameExtra : '');
+    }
+
+    public function getId(): string
+    {
+        return $this->id;
+    }
+
+    public function setId(string $id): self
     {
         $this->id = $id;
 
         return $this;
     }
 
-    public function setName (string $name): self
+    public function getName(): string
+    {
+        return $this->name;
+    }
+
+    public function setName(string $name): self
     {
         $this->name = $name;
 
         return $this;
     }
 
-    public function setCost (int $cost): self
+    public function getCost(): int
+    {
+        return $this->cost;
+    }
+
+    public function setCost(int $cost): self
     {
         $this->cost = $cost;
 
         return $this;
     }
 
-    public function setText (string $text): self
+    public function getText(): string
+    {
+        return $this->text;
+    }
+
+    public function setText(string $text): self
     {
         $this->text = $text;
 
         return $this;
     }
 
-    public function setType (string $type): self
+    public function getType(): string
+    {
+        return $this->type;
+    }
+
+    public function setType(string $type): self
     {
         $this->type = $type;
 
         return $this;
     }
 
-    public function setClan (string $clan): self
+    public function getClan(): string
+    {
+        return $this->clan;
+    }
+
+    public function setClan(string $clan): self
     {
         $this->clan = $clan;
 
         return $this;
     }
 
-    public function setElement (string $element = null): self
+    public function getElement(): ?string
+    {
+        return $this->element;
+    }
+
+    public function setElement(?string $element): self
     {
         $this->element = $element;
 
         return $this;
     }
 
-    public function setUnicity (bool $unicity): self
+    public function isUnicity(): bool
+    {
+        return $this->unicity;
+    }
+
+    public function setUnicity(bool $unicity): self
     {
         $this->unicity = $unicity;
 
         return $this;
     }
 
-    public function setSide (string $side): self
+    public function getSide(): string
+    {
+        return $this->side;
+    }
+
+    public function setSide(string $side): self
     {
         $this->side = $side;
 
         return $this;
     }
 
-    public function setTraits (array $traits): self
+    public function getTraits(): array
+    {
+        return $this->traits;
+    }
+
+    public function setTraits(array $traits): self
     {
         $this->traits = $traits;
 
         return $this;
     }
 
-    public function setMilitary (string $military): self
+    public function getMilitary(): ?string
+    {
+        return $this->military;
+    }
+
+    public function setMilitary(?string $military): self
     {
         $this->military = $military;
 
         return $this;
     }
 
-    public function setPolitical (string $political): self
+    public function getPolitical(): ?string
+    {
+        return $this->political;
+    }
+
+    public function setPolitical(?string $political): self
     {
         $this->political = $political;
 
         return $this;
     }
 
-    public function setStrength (string $strength): self
+    public function getStrength(): ?string
+    {
+        return $this->strength;
+    }
+
+    public function setStrength(?string $strength): self
     {
         $this->strength = $strength;
 
         return $this;
     }
 
-    public function setMilitaryBonus (string $militaryBonus): self
+    public function getMilitaryBonus(): ?string
+    {
+        return $this->militaryBonus;
+    }
+
+    public function setMilitaryBonus(?string $militaryBonus): self
     {
         $this->militaryBonus = $militaryBonus;
 
         return $this;
     }
 
-    public function setPoliticalBonus (string $politicalBonus): self
+    public function getPoliticalBonus(): ?string
+    {
+        return $this->politicalBonus;
+    }
+
+    public function setPoliticalBonus(?string $politicalBonus): self
     {
         $this->politicalBonus = $politicalBonus;
 
         return $this;
     }
 
-    public function setStrengthBonus (string $strengthBonus): self
+    public function getStrengthBonus(): ?string
+    {
+        return $this->strengthBonus;
+    }
+
+    public function setStrengthBonus(?string $strengthBonus): self
     {
         $this->strengthBonus = $strengthBonus;
 
         return $this;
     }
 
-    public function setGlory (int $glory): self
+    public function getGlory(): ?int
+    {
+        return $this->glory;
+    }
+
+    public function setGlory(?int $glory): self
     {
         $this->glory = $glory;
 
         return $this;
     }
 
-    public function setHonor (int $honor): self
+    public function getHonor(): ?int
+    {
+        return $this->honor;
+    }
+
+    public function setHonor(?int $honor): self
     {
         $this->honor = $honor;
 
         return $this;
     }
 
-    public function setFate (int $fate): self
+    public function getFate(): ?int
+    {
+        return $this->fate;
+    }
+
+    public function setFate(?int $fate): self
     {
         $this->fate = $fate;
 
         return $this;
     }
 
-    public function setInfluencePool (int $influencePool): self
+    public function getInfluencePool(): ?int
+    {
+        return $this->influencePool;
+    }
+
+    public function setInfluencePool(?int $influencePool): self
     {
         $this->influencePool = $influencePool;
 
         return $this;
     }
 
-    public function setInfluenceCost (int $influenceCost = null): self
+    public function getInfluenceCost(): ?int
+    {
+        return $this->influenceCost;
+    }
+
+    public function setInfluenceCost(?int $influenceCost): self
     {
         $this->influenceCost = $influenceCost;
 
         return $this;
     }
 
-    public function getId (): string
+    public function getDeckLimit(): int
     {
-        return $this->id;
+        return $this->deckLimit;
     }
 
-    public function getName (): string
-    {
-        return $this->name;
-    }
-
-    public function getCost (): ?int
-    {
-        return $this->cost;
-    }
-
-    public function getText (): ?string
-    {
-        return $this->text;
-    }
-
-    public function getType (): string
-    {
-        return $this->type;
-    }
-
-    public function getClan (): string
-    {
-        return $this->clan;
-    }
-
-    public function getElement (): ?string
-    {
-        return $this->element;
-    }
-
-    public function isUnicity (): bool
-    {
-        return $this->unicity;
-    }
-
-    public function getSide (): string
-    {
-        return $this->side;
-    }
-
-    public function getTraits (): array
-    {
-        return $this->traits;
-    }
-
-    public function hasTrait ($trait): bool
-    {
-        return in_array($trait, $this->traits);
-    }
-
-    public function getMilitary (): ?string
-    {
-        return $this->military;
-    }
-
-    public function getPolitical (): ?string
-    {
-        return $this->political;
-    }
-
-    public function getStrength (): ?string
-    {
-        return $this->strength;
-    }
-
-    public function getMilitaryBonus (): ?string
-    {
-        return $this->militaryBonus;
-    }
-
-    public function getPoliticalBonus (): ?string
-    {
-        return $this->politicalBonus;
-    }
-
-    public function getStrengthBonus (): ?string
-    {
-        return $this->strengthBonus;
-    }
-
-    public function getGlory (): ?int
-    {
-        return $this->glory;
-    }
-
-    public function getHonor (): ?int
-    {
-        return $this->honor;
-    }
-
-    public function getFate (): ?int
-    {
-        return $this->fate;
-    }
-
-    public function getInfluencePool (): ?int
-    {
-        return $this->influencePool;
-    }
-
-    public function getInfluenceCost (): ?int
-    {
-        return $this->influenceCost;
-    }
-
-    public function setDeckLimit (int $deckLimit): self
+    public function setDeckLimit(int $deckLimit): self
     {
         $this->deckLimit = $deckLimit;
 
         return $this;
     }
 
-    public function getDeckLimit (): ?int
-    {
-        return $this->deckLimit;
-    }
-
-    public function getRoleRestriction (): ?string
+    public function getRoleRestriction(): ?string
     {
         return $this->roleRestriction;
     }
 
-    public function setRoleRestriction (string $roleRestriction = null): self
+    public function setRoleRestriction(?string $roleRestriction): self
     {
         $this->roleRestriction = $roleRestriction;
 
@@ -565,10 +570,5 @@ class Card
         $this->nameExtra = $nameExtra;
 
         return $this;
-    }
-
-    public function getFullName(): string
-    {
-        return $this->name . ($this->nameExtra ? ' ' . $this->nameExtra : '');
     }
 }
