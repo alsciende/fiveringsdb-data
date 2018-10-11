@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "lion",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "restored-heirloom",
+        "influence_cost": 1,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": "+3",
+        "name": "Restored Heirloom",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": "+0",
+        "role_restriction": "water",
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<em>Water</em> role only. Restricted.\n<b>Interrupt:</b> When you would resolve the [element-water] ring effect, choose a character you control – instead of resolving normal ring effects, put this attachment into play from your hand or conflict discard pile, attached to that character.",
+        "traits": [
+            "weapon"
+        ],
+        "type": "attachment",
+        "unicity": false
+    }
+]

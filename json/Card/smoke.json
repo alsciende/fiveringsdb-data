@@ -13,6 +13,7 @@
         "military": null,
         "military_bonus": "+1",
         "name": "Smoke",
+        "name_extra": null,
         "political": null,
         "political_bonus": "+0",
         "role_restriction": null,

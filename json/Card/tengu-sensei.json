@@ -1,0 +1,32 @@
+[
+    {
+        "clan": "crane",
+        "cost": 5,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "tengu-sensei",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "4",
+        "military_bonus": null,
+        "name": "Tengu Sensei",
+        "name_extra": null,
+        "political": "2",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Covert.\n<b>Reaction:</b> After this character chooses a character using covert – that character cannot be declared as an attacker this phase.",
+        "traits": [
+            "bushi",
+            "creature",
+            "duelist"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

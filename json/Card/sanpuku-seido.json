@@ -13,11 +13,12 @@
         "military": null,
         "military_bonus": null,
         "name": "Sanpuku Seidō",
+        "name_extra": null,
         "political": null,
         "political_bonus": null,
         "role_restriction": null,
         "side": "province",
-        "strength": 1,
+        "strength": "1",
         "strength_bonus": null,
         "text": "Cannot be a stronghold province.\nWhile resolving a conflict at this province, characters count their glory instead of their [conflict-military] skill and [conflict-political] skill.",
         "traits": [

@@ -1,0 +1,28 @@
+[
+    {
+        "clan": "crane",
+        "cost": null,
+        "deck_limit": 1,
+        "element": "fire",
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "magistrate-station",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Magistrate Station",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "province",
+        "strength": "3",
+        "strength_bonus": null,
+        "text": "<b>Action:</b> Choose an honored character – ready that character.",
+        "traits": [],
+        "type": "province",
+        "unicity": false
+    }
+]

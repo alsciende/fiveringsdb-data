@@ -1,6 +1,6 @@
 [
     {
-        "card_id": "hisu-mori-toride",
+        "card_id": "hisu-mori-toride-unicorn",
         "flavor": "",
         "illustrator": "Nele Diel",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C14_101.jpg",
@@ -9,7 +9,7 @@
     },
     {
         "card_id": "magistrate-station",
-        "flavor": "\"We cannot be cruel, but taxes must be paid. The poor harvest has put everyone on edge.\"",
+        "flavor": "",
         "illustrator": "Caravan Studio",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C14_102.jpg",
         "position": "102",
@@ -17,7 +17,7 @@
     },
     {
         "card_id": "web-of-lies",
-        "flavor": "\"You're sure this is no the home of Bayushi Shuzo?\"",
+        "flavor": "",
         "illustrator": "Hai Hoang",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C14_103.jpg",
         "position": "103",
@@ -25,7 +25,7 @@
     },
     {
         "card_id": "yasuki-broker",
-        "flavor": "\"We must make do with what little the Empire can spare.\"",
+        "flavor": "",
         "illustrator": "Derek D Edgell",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C14_104.jpg",
         "position": "104",
@@ -57,7 +57,7 @@
     },
     {
         "card_id": "reader-of-omens",
-        "flavor": "\"I have never seen birds this agressive before...\"",
+        "flavor": "",
         "illustrator": "Lin Hsiang",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C14_108.jpg",
         "position": "108",
@@ -65,7 +65,7 @@
     },
     {
         "card_id": "reclusive-zokujin",
-        "flavor": "To see a Zokujin is a sign of great significance-the excitement of a myth sighed, and the dread of what drove it to the surface.",
+        "flavor": "",
         "illustrator": "Diana Martinez",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C14_109.jpg",
         "position": "109",
@@ -81,7 +81,7 @@
     },
     {
         "card_id": "mantis-tenkinja",
-        "flavor": "\"None exist in the whole of the Emerald Empire who are as talented as they.\" - Yoritomo",
+        "flavor": "",
         "illustrator": "Eli Ring",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C14_111.jpg",
         "position": "111",
@@ -137,7 +137,7 @@
     },
     {
         "card_id": "roving-michibiku",
-        "flavor": "\"The truth of the world can be found sitting at the riverside. The river never begins, the river never ends. All of life is like the river, lesson never begin and lessons never end.\" - Tao of Shinsei",
+        "flavor": "",
         "illustrator": "Nele Diel",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C14_118.jpg",
         "position": "118",
@@ -152,7 +152,7 @@
         "quantity": 3
     },
     {
-        "card_id": "unleaseh-the-djinn",
+        "card_id": "unleash-the-djinn",
         "flavor": "",
         "illustrator": "Calvin Chua",
         "image_url": "http:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C14_120.jpg",

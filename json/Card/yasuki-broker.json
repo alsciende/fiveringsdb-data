@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "crab",
+        "cost": 4,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "yasuki-broker",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Yasuki Broker",
+        "name_extra": null,
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "While this character is participating in a conflict, each character you control gains courtesy and sincerity.",
+        "traits": [
+            "courtier"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

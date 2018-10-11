@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "scorpion",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "reclusive-zokujin",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "3",
+        "military_bonus": null,
+        "name": "Reclusive Zokujin",
+        "name_extra": null,
+        "political": "1",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "During [element-earth] conflicts, this character gains covert and is immune to enemy card effects.",
+        "traits": [
+            "creature"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

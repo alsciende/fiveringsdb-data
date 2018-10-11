@@ -13,11 +13,12 @@
         "military": null,
         "military_bonus": null,
         "name": "Before the Throne",
+        "name_extra": null,
         "political": null,
         "political_bonus": null,
         "role_restriction": null,
         "side": "province",
-        "strength": 5,
+        "strength": "5",
         "strength_bonus": null,
         "text": "Cannot be the stronghold province.\n<b>Interrupt:</b> When this province is broken – take 2 honor from your opponent.",
         "traits": [

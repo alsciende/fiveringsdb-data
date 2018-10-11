@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "dragon",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "agasha-shunsen",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "1",
+        "military_bonus": null,
+        "name": "Agasha Shunsen",
+        "name_extra": null,
+        "political": "2",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a conflict, return 1 or more rings you have claimed to the unclaimed ring pool. Choose a character you control – search your conflict deck for an attachment with printed cost equal to or lower than the number of rings returned and attach it to that character. Shuffle.",
+        "traits": [
+            "shugenja",
+            "fire"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]

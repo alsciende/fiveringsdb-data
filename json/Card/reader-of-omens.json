@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "phoenix",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "reader-of-omens",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Reader of Omens",
+        "name_extra": null,
+        "political": "0",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "This character gets +3[conflict-political] while you have claimed the [element-air] or [element-void] ring.",
+        "traits": [
+            "shugenja",
+            "void"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

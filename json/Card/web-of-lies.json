@@ -1,0 +1,28 @@
+[
+    {
+        "clan": "scorpion",
+        "cost": null,
+        "deck_limit": 1,
+        "element": "water",
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "web-of-lies",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Web of Lies",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "province",
+        "strength": "X",
+        "strength_bonus": null,
+        "text": "X is equal to twice the bid on your honor dial.",
+        "traits": [],
+        "type": "province",
+        "unicity": false
+    }
+]

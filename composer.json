@@ -9,6 +9,7 @@
     "jms/serializer-bundle": "^2.3",
     "symfony/console": "^4.0",
     "symfony/expression-language": "^4.0",
+    "symfony/finder": "^4.0",
     "symfony/flex": "^1.0",
     "symfony/framework-bundle": "^4.0",
     "symfony/lts": "^4@dev",

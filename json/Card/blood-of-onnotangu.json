@@ -13,11 +13,12 @@
         "military": null,
         "military_bonus": null,
         "name": "Blood of Onnotangu",
+        "name_extra": null,
         "political": null,
         "political_bonus": null,
         "role_restriction": "seeker",
         "side": "province",
-        "strength": 3,
+        "strength": "3",
         "strength_bonus": null,
         "text": "<em>Seeker</em> role only.\nDuring conflicts at this province, each player cannot spend fate from his or her fate pool.",
         "traits": [

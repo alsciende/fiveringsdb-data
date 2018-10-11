@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "lion",
+        "cost": 4,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "id": "kitsu-warrior",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Kitsu Warrior",
+        "name_extra": null,
+        "political": "2",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "For each [conflict-military] ring that is claimed, this character gets +2[conflict-military].\nFor each [conflict-political] ring that is claimed, this character gets +2[conflict-political].",
+        "traits": [
+            "bushi",
+            "creature"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]
