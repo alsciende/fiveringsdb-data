@@ -1,11 +1,11 @@
 [
     {
         "clan": "neutral",
-        "cost": "2",
+        "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": "1",
+        "glory": 1,
         "honor": null,
         "id": "seppun-truthseeker",
         "influence_cost": null,
