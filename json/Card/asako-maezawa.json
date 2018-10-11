@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "phoenix",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "asako-maezawa",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Asako Maezawa",
+        "name_extra": null,
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> While this character is participating in a conflict, if you count more current glory than your opponent among ready participating characters, choose a participating character – double that character’s base [conflict-political] until the end of the conflict.",
+        "traits": [
+            "courtier"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "scorpion",
+        "cost": "3",
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": "1",
+        "honor": null,
+        "id": "soshi-aoi",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Soshi Aoi",
+        "name_extra": null,
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> Lose 1 honor and choose a character you control. Select one – until the end of the phase that character gets +1[conflict-military] and gains the <em>Bushi</em> trait, or until the end of the phase that character gets +1[conflict-politics] and gains the <em>Courtier</em> trait.",
+        "traits": [
+            "shugenja",
+            "air"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]
