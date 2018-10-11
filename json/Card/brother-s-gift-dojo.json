@@ -22,7 +22,7 @@
         "strength_bonus": null,
         "text": "<b>Action:</b> During a conflict, lose 1 honor and choose a participating character you control – move that character home. (Limit twice per round.)",
         "traits": [
-            "dōjō"
+            "dojo"
         ],
         "type": "province",
         "unicity": true
