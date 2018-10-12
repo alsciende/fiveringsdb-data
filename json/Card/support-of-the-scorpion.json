@@ -22,7 +22,7 @@
         "strength_bonus": null,
         "text": "Increase your deckbuilding influence value by 8. You may only spend influence on [clan-scorpion] clan cards.",
         "traits": [
-            "phoenix"
+            "scorpion"
         ],
         "type": "role",
         "unicity": false
