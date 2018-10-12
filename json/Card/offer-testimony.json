@@ -8,7 +8,7 @@
         "glory": null,
         "honor": null,
         "id": "offer-testimony",
-        "influence_cost": null,
+        "influence_cost": 0,
         "influence_pool": null,
         "military": null,
         "military_bonus": null,
