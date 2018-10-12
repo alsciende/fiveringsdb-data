@@ -8,7 +8,7 @@
         "glory": null,
         "honor": null,
         "id": "make-an-opening",
-        "influence_cost": "2",
+        "influence_cost": 2,
         "influence_pool": null,
         "military": null,
         "military_bonus": null,

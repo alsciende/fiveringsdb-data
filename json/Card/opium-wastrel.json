@@ -8,7 +8,7 @@
         "glory": 0,
         "honor": null,
         "id": "opium-wastrel",
-        "influence_cost": "2",
+        "influence_cost": 2,
         "influence_pool": null,
         "military": "1",
         "military_bonus": null,
