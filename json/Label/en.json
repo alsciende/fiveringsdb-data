@@ -204,6 +204,10 @@
         "value": "Imperial"
     },
     {
+        "id": "trait.informant",
+        "value": "Informant"
+    },
+    {
         "id": "trait.item",
         "value": "Item"
     },
