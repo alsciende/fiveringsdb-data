@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "scorpion",
+        "cost": null,
+        "deck_limit": 1,
+        "element": "void",
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "brother-s-gift-dojo",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Brother’s Gift Dōjō",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "province",
+        "strength": "4",
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a conflict, lose 1 honor and choose a participating character you control – move that character home. (Limit twice per round.)",
+        "traits": [
+            "dojo"
+        ],
+        "type": "province",
+        "unicity": true
+    }
+]

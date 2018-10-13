@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "neutral",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "seppun-truthseeker",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Seppun Truthseeker",
+        "name_extra": null,
+        "political": "2",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Forced Interrupt:</b> When this character leaves play – each player draws 2 cards.",
+        "traits": [
+            "courtier",
+            "imperial"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

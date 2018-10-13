@@ -204,6 +204,10 @@
         "value": "Imperial"
     },
     {
+        "id": "trait.informant",
+        "value": "Informant"
+    },
+    {
         "id": "trait.item",
         "value": "Item"
     },
@@ -318,6 +322,10 @@
     {
         "id": "trait.scholar",
         "value": "Scholar"
+    },
+    {
+        "id": "trait.scorpion",
+        "value": "Scorpion"
     },
     {
         "id": "trait.scout",
