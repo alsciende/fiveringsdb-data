@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "crane",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "doji-fumiki",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "0",
+        "military_bonus": null,
+        "name": "Doji Fumiki",
+        "name_extra": null,
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a conflict in which this character is participating, choose a dishonored participating character – bow that character.",
+        "traits": [
+            "courtier"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]
