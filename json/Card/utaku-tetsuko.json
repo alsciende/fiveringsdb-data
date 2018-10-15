@@ -28,6 +28,6 @@
             "magistrate"
         ],
         "type": "character",
-        "unicity": false
+        "unicity": true
     }
 ]

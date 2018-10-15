@@ -25,6 +25,6 @@
             "informant"
         ],
         "type": "character",
-        "unicity": false
+        "unicity": true
     }
 ]
