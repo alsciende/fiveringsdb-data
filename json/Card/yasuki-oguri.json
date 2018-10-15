@@ -25,6 +25,6 @@
             "courtier"
         ],
         "type": "character",
-        "unicity": false
+        "unicity": true
     }
 ]
