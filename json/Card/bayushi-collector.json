@@ -8,7 +8,7 @@
         "glory": 1,
         "honor": null,
         "id": "bayushi-collector",
-        "influence_cost": null,
+        "influence_cost": 1,
         "influence_pool": null,
         "military": "1",
         "military_bonus": null,
