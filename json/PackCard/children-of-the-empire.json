@@ -1,0 +1,82 @@
+[
+    {
+        "card_id": "courtly-challenger",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "12",
+        "quantity": 3
+    },
+    {
+        "card_id": "student-of-war",
+        "flavor": "Each scar teaches her more than would a library.",
+        "illustrator": "",
+        "image_url": null,
+        "position": "23",
+        "quantity": 3
+    },
+    {
+        "card_id": "social-puppeteer",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "34",
+        "quantity": 3
+    },
+    {
+        "card_id": "honest-challenger",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "37",
+        "quantity": 3
+    },
+    {
+        "card_id": "akodo-toturi-cote",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "45",
+        "quantity": 3
+    },
+    {
+        "card_id": "mirumoto-daisho",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "58",
+        "quantity": 3
+    },
+    {
+        "card_id": "in-defense-of-rokugan",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "52",
+        "quantity": 3
+    },
+    {
+        "card_id": "hand-to-hand",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "62",
+        "quantity": 3
+    },
+    {
+        "card_id": "subdue-the-spirits",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "68",
+        "quantity": 3
+    },
+    {
+        "card_id": "jewel-pf-the-khaimasin",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": null,
+        "position": "74",
+        "quantity": 3
+    },
+]
