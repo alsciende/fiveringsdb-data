@@ -160,5 +160,14 @@
         "released_at": "2018-10-11",
         "ffg_id": "L5C15",
         "cycle_id": "clan-packs"
+    },
+    {
+        "id": "children-of-the-empire",
+        "name": "Children of the Empire",
+        "position": 1,
+        "size": 82,
+        "released_at": "2019-04-01",
+        "ffg_id": "L5C16",
+        "cycle_id": "premium-expansions"
     }
 ]
