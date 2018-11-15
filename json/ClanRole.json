@@ -2,36 +2,36 @@
   {
     "clan": "crab",
     "current_role": "seeker-of-earth",
-    "secondary_role": "keeper-of-water",
+    "secondary_role": "keeper-of-water"
   },
   {
     "clan": "crane",
     "current_role": "keeper-of-air",
-    "secondary_role": "seeker-of-fire",
+    "secondary_role": "seeker-of-fire"
   },
   {
     "clan": "dragon",
     "current_role": "keeper-of-void",
-    "secondary_role": "seeker-of-void",
+    "secondary_role": "seeker-of-void"
   },
   {
     "clan": "lion",
     "current_role": "seeker-of-void",
-    "secondary_role": "keeper-of-earth",
+    "secondary_role": "keeper-of-earth"
   },
   {
     "clan": "phoenix",
     "current_role": "seeker-of-air",
-    "secondary_role": "keeper-of-air",
+    "secondary_role": "keeper-of-air"
   },
   {
     "clan": "scorpion",
     "current_role": "keeper-of-earth",
-    "secondary_role": "seeker-of-air",
+    "secondary_role": "seeker-of-air"
   },
   {
     "clan": "unicorn",
     "current_role": "keeper-of-fire",
-    "secondary_role": "seeker-of-water",
+    "secondary_role": "seeker-of-water"
   }
 ]
