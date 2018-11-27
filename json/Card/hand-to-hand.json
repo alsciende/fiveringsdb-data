@@ -20,7 +20,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action</b>: During a [conflict-military] conflict, choose an attachment on a participating character - discard that attachment. Then your opponent may resolve this ability.",
+        "text": "<b>Action: </b>During a [conflict-military] conflict, choose an attachment on a participating character - discard that attachment.  Then, your opponent may resolve this ability.",
         "traits": [],
         "type": "event",
         "unicity": false

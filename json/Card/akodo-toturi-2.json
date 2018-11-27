@@ -1,0 +1,32 @@
+[
+    {
+        "clan": "neutral",
+        "cost": 5,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 3,
+        "honor": null,
+        "id": "akodo-toturi-2",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "6",
+        "military_bonus": null,
+        "name": "Akodo Toturi",
+        "name_extra": "(2)",
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action: </b>During a conflict in which this character is participating, if you have the Imperial Favor - each player cannot play cards from his or her hand until the end of the conflict.",
+        "traits": [
+            "bushi",
+            "champion",
+            "imperial"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]

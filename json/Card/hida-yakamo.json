@@ -1,18 +1,18 @@
 [
     {
-        "clan": "unicorn",
-        "cost": 2,
+        "clan": "crab",
+        "cost": 4,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 1,
         "honor": null,
-        "id": "honest-challenger",
+        "id": "hida-yakamo",
         "influence_cost": null,
         "influence_pool": null,
-        "military": "2",
+        "military": "4",
         "military_bonus": null,
-        "name": "Honest Challenger",
+        "name": "Hida Yakamo",
         "name_extra": null,
         "political": "2",
         "political_bonus": null,
@@ -20,13 +20,13 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "Composure - This character gets +2[conflict-military]. <i>(You have composure if your honor bid is lower than an opponent's.)</i>\n<b>Action: </b>During a conflict, initiate a [conflict-military] duel - resolve the duel.  The controller of the duel's winner moves a character from his or her home area to the conflict.",
+        "text": "If you are less honorable than an opponent, this character does not bow as a result of [conflict-military] conflict resolution and cannot lose duels.  <i>(This character is not the loser of the duel, but the character of its opponent remains the winner of the duel)</i>",
         "traits": [
             "bushi",
-            "cavalry",
+            "berserker",
             "duelist"
         ],
         "type": "character",
-        "unicity": false
+        "unicity": true
     }
 ]

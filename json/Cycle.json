@@ -24,15 +24,15 @@
         "size": 6
     },
     {
-        "id": "children-of-the-empire",
-        "name": "Children of the Empire",
-        "position": 5,
+        "id": "premium-expansions",
+        "name": "Premium Expansions",
+        "position": 3,
         "size": 1
     },
     {
-        "id": "promos",
-        "name": "Promos",
-        "position": 99,
-        "size": 99
+      "id": "promos",
+      "name": "Promos",
+      "position": 99,
+      "size": 99
     }
 ]

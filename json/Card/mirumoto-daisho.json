@@ -20,7 +20,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "Restricted. Attached character may not have other restricted attachments.\nWhile attached character is dueling, your opponent cannot bid 1 or 5.",
+        "text": "Restricted.  Attached character may not have other restricted attachments.\nWhile attached character is dueling, your opponent cannot bid 1 or 5.",
         "traits": [
             "weapon"
         ],
