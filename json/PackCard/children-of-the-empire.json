@@ -1,58 +1,58 @@
 [
     {
         "card_id": "akodo-toturi-2",
-        "flavor": "",
-        "illustrator": "",
+        "flavor": "\"I fear you are searching for the perfect answer. Sometimes there is none, and you must still make a decision.\" – Agasha Sumiko",
+        "illustrator": "Maerel Hibadita",
         "image_url": "",
-        "position": "1",
+        "position": "45",
         "quantity": 3
     },
     {
         "card_id": "courtly-challenger",
         "flavor": "",
-        "illustrator": "",
+        "illustrator": "Joyce Maureira",
         "image_url": "",
-        "position": "2",
+        "position": "12",
         "quantity": 3
     },
     {
         "card_id": "hand-to-hand",
-        "flavor": "",
-        "illustrator": "",
+        "flavor": "\"On the battlefield, all actions are honorable.\" – Akodo's Leadership",
+        "illustrator": "Lukas Banas",
         "image_url": "",
-        "position": "3",
+        "position": "62",
         "quantity": 3
     },
     {
         "card_id": "heavy-ballista",
         "flavor": "",
-        "illustrator": "",
+        "illustrator": "Lukas Banas",
         "image_url": "",
-        "position": "4",
+        "position": "10",
         "quantity": 3
     },
     {
         "card_id": "honest-challenger",
         "flavor": "",
-        "illustrator": "",
+        "illustrator": "Felipe Gaona",
         "image_url": "",
-        "position": "5",
+        "position": "37",
         "quantity": 3
     },
     {
         "card_id": "in-defense-of-rokugan",
-        "flavor": "",
-        "illustrator": "",
+        "flavor": "\"Give her a proper funeral, with all honors. She honored her family, and served her daimyō well.\" – Hida Kisada",
+        "illustrator": "Calvin Chua",
         "image_url": "",
-        "position": "6",
+        "position": "52",
         "quantity": 3
     },
     {
-        "card_id": "jewel-of-the-khamsin",
+        "card_id": "jewel-of-the-khamasin",
         "flavor": "",
         "illustrator": "",
         "image_url": "",
-        "position": "7",
+        "position": "74",
         "quantity": 3
     },
     {
@@ -60,7 +60,7 @@
         "flavor": "",
         "illustrator": "",
         "image_url": "",
-        "position": "8",
+        "position": "60",
         "quantity": 3
     },
     {
@@ -68,7 +68,7 @@
         "flavor": "",
         "illustrator": "",
         "image_url": "",
-        "position": "9",
+        "position": "58",
         "quantity": 3
     },
     {
@@ -76,7 +76,7 @@
         "flavor": "",
         "illustrator": "",
         "image_url": "",
-        "position": "10",
+        "position": "72",
         "quantity": 3
     },
     {
@@ -84,7 +84,7 @@
         "flavor": "",
         "illustrator": "",
         "image_url": "",
-        "position": "11",
+        "position": "28",
         "quantity": 3
     },
     {
@@ -92,7 +92,7 @@
         "flavor": "",
         "illustrator": "",
         "image_url": "",
-        "position": "12",
+        "position": "34",
         "quantity": 3
     },
     {
@@ -100,7 +100,7 @@
         "flavor": "",
         "illustrator": "",
         "image_url": "",
-        "position": "13",
+        "position": "23",
         "quantity": 3
     },
     {
@@ -108,7 +108,7 @@
         "flavor": "",
         "illustrator": "",
         "image_url": "",
-        "position": "14",
+        "position": "68",
         "quantity": 3
     },
     {
@@ -116,7 +116,7 @@
         "flavor": "",
         "illustrator": "",
         "image_url": "",
-        "position": "15",
+        "position": "55",
         "quantity": 3
     },
     {
@@ -124,7 +124,7 @@
         "flavor": "",
         "illustrator": "",
         "image_url": "",
-        "position": "16",
+        "position": "1",
         "quantity": 3
     },
     {
@@ -132,7 +132,7 @@
         "flavor": "",
         "illustrator": "",
         "image_url": "",
-        "position": "17",
+        "position": "2",
         "quantity": 3
     },
     {
@@ -140,7 +140,7 @@
         "flavor": "",
         "illustrator": "",
         "image_url": "",
-        "position": "18",
+        "position": "3",
         "quantity": 3
     },
     {
@@ -148,7 +148,7 @@
         "flavor": "",
         "illustrator": "",
         "image_url": "",
-        "position": "19",
+        "position": "4",
         "quantity": 3
     }
 ]
