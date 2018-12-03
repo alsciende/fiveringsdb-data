@@ -24,9 +24,15 @@
         "size": 6
     },
     {
-        "id": "promos",
-        "name": "Promos",
-        "position": 99,
-        "size": 99
+        "id": "premium-expansions",
+        "name": "Premium Expansions",
+        "position": 3,
+        "size": 1
+    },
+    {
+      "id": "promos",
+      "name": "Promos",
+      "position": 99,
+      "size": 99
     }
 ]

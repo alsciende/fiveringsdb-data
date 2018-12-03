@@ -1,0 +1,154 @@
+[
+    {
+        "card_id": "akodo-toturi-2",
+        "flavor": "\"I fear you are searching for the perfect answer. Sometimes there is none, and you must still make a decision.\" – Agasha Sumiko",
+        "illustrator": "Maerel Hibadita",
+        "image_url": "",
+        "position": "45",
+        "quantity": 3
+    },
+    {
+        "card_id": "courtly-challenger",
+        "flavor": "",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "12",
+        "quantity": 3
+    },
+    {
+        "card_id": "hand-to-hand",
+        "flavor": "\"On the battlefield, all actions are honorable.\" – Akodo's Leadership",
+        "illustrator": "Lukas Banas",
+        "image_url": "",
+        "position": "62",
+        "quantity": 3
+    },
+    {
+        "card_id": "heavy-ballista",
+        "flavor": "",
+        "illustrator": "Lukas Banas",
+        "image_url": "",
+        "position": "10",
+        "quantity": 3
+    },
+    {
+        "card_id": "honest-challenger",
+        "flavor": "",
+        "illustrator": "Felipe Gaona",
+        "image_url": "",
+        "position": "37",
+        "quantity": 3
+    },
+    {
+        "card_id": "in-defense-of-rokugan",
+        "flavor": "\"Give her a proper funeral, with all honors. She honored her family, and served her daimyō well.\" – Hida Kisada",
+        "illustrator": "Calvin Chua",
+        "image_url": "",
+        "position": "52",
+        "quantity": 3
+    },
+    {
+        "card_id": "jewel-of-the-khamasin",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "74",
+        "quantity": 3
+    },
+    {
+        "card_id": "karmic-balance",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "60",
+        "quantity": 3
+    },
+    {
+        "card_id": "mirumoto-daisho",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "58",
+        "quantity": 3
+    },
+    {
+        "card_id": "miyako-s-undertaking",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "72",
+        "quantity": 3
+    },
+    {
+        "card_id": "sage-of-gisei-toshi",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "28",
+        "quantity": 3
+    },
+    {
+        "card_id": "social-puppeteer",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "34",
+        "quantity": 3
+    },
+    {
+        "card_id": "student-of-war",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "23",
+        "quantity": 3
+    },
+    {
+        "card_id": "subdue-the-spirits",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "68",
+        "quantity": 3
+    },
+    {
+        "card_id": "try-again-tomorrow",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "55",
+        "quantity": 3
+    },
+    {
+        "card_id": "aspirant-challenger",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "1",
+        "quantity": 3
+    },
+    {
+        "card_id": "hida-yakamo",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "2",
+        "quantity": 3
+    },
+    {
+        "card_id": "mirumoto-hitomi",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "3",
+        "quantity": 3
+    },
+    {
+        "card_id": "the-fires-of-justice",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "4",
+        "quantity": 3
+    }
+]
