@@ -150,5 +150,13 @@
         "image_url": "",
         "position": "4",
         "quantity": 3
+    },
+    {
+        "card_id": "magnificent-triumph",
+        "flavor": "",
+        "illustrator": "Le Vuong",
+        "image_url": "",
+        "position": "59",
+        "quantity": 3
     }
 ]
