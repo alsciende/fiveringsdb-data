@@ -1,0 +1,28 @@
+[
+    {
+        "clan": "crab",
+        "cost": null,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "heavy-ballista",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Heavy Ballista",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": "0",
+        "text": "<b>Action: </b>During a [conflict-military] conflict in which you are defending, discard a card from your hand and choose a ready attacking character.  That character's controller selects one - bow that character, or remove 1 fate from it.",
+        "traits": [],
+        "type": "holding",
+        "unicity": false
+    }
+]

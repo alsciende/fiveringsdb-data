@@ -1,0 +1,32 @@
+[
+    {
+        "clan": "crab",
+        "cost": 4,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "hida-yakamo",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "4",
+        "military_bonus": null,
+        "name": "Hida Yakamo",
+        "name_extra": null,
+        "political": "2",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "If you are less honorable than an opponent, this character does not bow as a result of [conflict-military] conflict resolution and cannot lose duels.  <i>(This character is not the loser of the duel, but the character of its opponent remains the winner of the duel)</i>",
+        "traits": [
+            "bushi",
+            "berserker",
+            "duelist"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]

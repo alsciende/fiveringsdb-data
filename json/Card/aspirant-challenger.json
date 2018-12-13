@@ -1,0 +1,32 @@
+[
+    {
+        "clan": "neutral",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "id": "aspirant-challenger",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Aspirant Challenger",
+        "name_extra": null,
+        "political": "2",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Composure - This character gains +2[unknown]\n<b>Action: </b>During a conflict, initiate a duel - resolve the duel.  Honor the winner.",
+        "traits": [
+            "bushi",
+            "duelist",
+            "mantis-clan"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]
