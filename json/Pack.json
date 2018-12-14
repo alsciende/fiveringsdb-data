@@ -169,5 +169,14 @@
         "released_at": "2019-04-01",
         "ffg_id": "L5C16",
         "cycle_id": "premium-expansions"
+    },
+    {
+        "id": "warriors-of-the-wind",
+        "name": "Warriors of the Wind",
+        "position": 3,
+        "size": 28,
+        "released_at": "2018-04-01",
+        "ffg_id": "L5C17",
+        "cycle_id": "clan-packs"
     }
 ]
