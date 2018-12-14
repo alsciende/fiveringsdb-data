@@ -1,0 +1,28 @@
+[
+    {
+        "clan": "crane",
+        "cost": 0,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "try-again-tomorrow",
+        "influence_cost": 2,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Try Again Tomorrow",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action: </b>During a conflict in which you control a participating honored <b>Courtier</b> character, choose an attacking character - move that character home.",
+        "traits": [],
+        "type": "event",
+        "unicity": false
+    }
+]

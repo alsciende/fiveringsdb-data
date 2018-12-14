@@ -1,0 +1,28 @@
+[
+    {
+        "clan": "dragon",
+        "cost": 0,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "magnificent-triumph",
+        "influence_cost": 2,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Magnificent Triumph",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a conflict, choose a character that has won a duel during this conflict - until the end of the conflict, that character gets +2[conflict-military], +2[conflict-political], and cannot be chosen as the target of opponent's events.",
+        "traits": [],
+        "type": "event",
+        "unicity": false
+    }
+]

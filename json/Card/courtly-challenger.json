@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "crane",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "courtly-challenger",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Courtly Challenger",
+        "name_extra": null,
+        "political": "2",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "After this character wins a duel, honor it.  After this character loses a duel, dishonor it.\n<b>Action: </b>During a conflict, initiate a [conflict-political] duel - resolve the duel.  The controller of the duel's winner draws 2 cards.",
+        "traits": [
+            "courtier",
+            "duelist"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

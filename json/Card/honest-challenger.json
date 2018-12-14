@@ -1,0 +1,32 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "honest-challenger",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Honest Challenger",
+        "name_extra": null,
+        "political": "2",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Composure - This character gets +2[conflict-military]. <i>(You have composure if your honor bid is lower than an opponent's.)</i>\n<b>Action: </b>During a conflict, initiate a [conflict-military] duel - resolve the duel.  The controller of the duel's winner moves a character from his or her home area to the conflict.",
+        "traits": [
+            "bushi",
+            "cavalry",
+            "duelist"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]
