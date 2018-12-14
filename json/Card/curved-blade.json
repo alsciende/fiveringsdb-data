@@ -20,7 +20,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "Attach to a [clan-unicorn] character.  Restricted.\nWhile attached character is attacking, it gets an additional +2[conflict-military].",
+        "text": "Attach to a [clan-unicorn] character. Restricted.\nWhile attached character is attacking, it gets an additional +2[conflict-military].",
         "traits": [
             "weapon",
             "gaijin"
