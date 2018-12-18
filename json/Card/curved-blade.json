@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 0,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "curved-blade",
+        "influence_cost": 1,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": "+1",
+        "name": "Curved Blade",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": "+0",
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Attach to a [clan-unicorn] character. Restricted.\nWhile attached character is attacking, it gets an additional +2[conflict-military].",
+        "traits": [
+            "weapon",
+            "gaijin"
+        ],
+        "type": "attachment",
+        "unicity": false
+    }
+]

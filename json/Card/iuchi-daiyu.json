@@ -1,0 +1,33 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 4,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "iuchi-daiyu",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "3",
+        "military_bonus": null,
+        "name": "Iuchi Daiyu",
+        "name_extra": null,
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a conflict, choose a character - that character gets +1[conflict-military] until the end of the conflict for each faceup non-stronghold province your opponent controls.",
+        "traits": [
+            "shugenja",
+            "water",
+            "cavalry",
+            "daimyo"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]
