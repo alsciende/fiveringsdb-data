@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "dragon",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "tranquil-philosopher",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Tranquil Philosopher",
+        "name_extra": null,
+        "political": "2",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> Choose an unclaimed ring - move 1 fate from that ring to another unclaimed ring. Then, gain 1 honor.",
+        "traits": [
+            "monk"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

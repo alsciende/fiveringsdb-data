@@ -158,5 +158,45 @@
         "image_url": "",
         "position": "59",
         "quantity": 3
+    },
+    {
+        "card_id": "honorable-challenger",
+        "flavor": "",
+        "illustrator": "Felipe Gaona",
+        "image_url": "",
+        "position": "21",
+        "quantity": 3
+    },
+    {
+        "card_id": "tranquil-philosopher",
+        "flavor": "\"Enlightenment is the unbent blade of grass amidst a raging storm.\"",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "18",
+        "quantity": 3
+    },
+    {
+        "card_id": "infiltrator-s-tools",
+        "flavor": "",
+        "illustrator": "Mauro Dal Bo",
+        "image_url": "",
+        "position": "69",
+        "quantity": 3
+    },
+    {
+        "card_id": "shiotome-heroine",
+        "flavor": "",
+        "illustrator": "Conceptopolis",
+        "image_url": "",
+        "position": "39",
+        "quantity": 3
+    },
+    {
+        "card_id": "sincere-challenger",
+        "flavor": "",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "27",
+        "quantity": 3
     }
 ]
