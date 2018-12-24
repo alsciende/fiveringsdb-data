@@ -1,0 +1,32 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "shiotome-heroine",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "3",
+        "military_bonus": null,
+        "name": "Shiotome Heroine",
+        "name_extra": null,
+        "political": "1",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After an opponent gains 1 or more honor through a card effect - ready this character.",
+        "traits": [
+            "bushi",
+            "cavalry",
+            "battle-maiden"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]
