@@ -48,9 +48,9 @@
         "quantity": 3
     },
     {
-        "card_id": "jewel-of-the-khamasin",
-        "flavor": "",
-        "illustrator": "",
+        "card_id": "jewel-of-the-khaimasin",
+        "flavor": "A tempest of sand and hate striving for liberation.",
+        "illustrator": "Carlos Palma Cruchaga",
         "image_url": "",
         "position": "74",
         "quantity": 3
@@ -90,7 +90,7 @@
     {
         "card_id": "social-puppeteer",
         "flavor": "",
-        "illustrator": "",
+        "illustrator": "Wenjuinn",
         "image_url": "",
         "position": "34",
         "quantity": 3
