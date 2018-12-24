@@ -1,0 +1,82 @@
+[
+    {
+        "card_id": "compass",
+        "flavor": "",
+        "illustrator": "Derek D. Edgell",
+        "image_url": "",
+        "position": "27",
+        "quantity": 3
+    },
+    {
+        "card_id": "curved-blade",
+        "flavor": "",
+        "illustrator": "Carlos Palma Cruchaga",
+        "image_url": "",
+        "position": "20",
+        "quantity": 3
+    },
+    {
+        "card_id": "hida-tsuru",
+        "flavor": "\"We cannot simply hide on our wall and wait.\"",
+        "illustrator": "Lukas Banas",
+        "image_url": "",
+        "position": "12",
+        "quantity": 3
+    },
+    {
+        "card_id": "iuchi-daiyu",
+        "flavor": "Even the greatest amount of love for his firstborn daughter could not hinder his duty to the Emperor.",
+        "illustrator": "Le Vuong",
+        "image_url": "",
+        "position": "9",
+        "quantity": 3
+    },
+    {
+        "card_id": "iuchi-farseer",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "7",
+        "quantity": 3
+    },
+    {
+        "card_id": "shinjo-trailblazer",
+        "flavor": "\"Do you fear what lies beyond your sight?\"",
+        "illustrator": "Edwin David",
+        "image_url": "",
+        "position": "6",
+        "quantity": 3
+    },
+    {
+        "card_id": "shiro-shinjo",
+        "flavor": "",
+        "illustrator": "Chris Ostrowski",
+        "image_url": "",
+        "position": "1",
+        "quantity": 3
+    },
+    {
+        "card_id": "speak-to-the-heart",
+        "flavor": "\"Let this be a token of good will, that a prosperous future awaits us both.\"",
+        "illustrator": "Joshua Cairós",
+        "image_url": "",
+        "position": "23",
+        "quantity": 3
+    },
+    {
+        "card_id": "trading-on-the-sand-road",
+        "flavor": "",
+        "illustrator": "Derek D. Edgell",
+        "image_url": "",
+        "position": "28",
+        "quantity": 3
+    },
+    {
+        "card_id": "utaku-battle-steed",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "2",
+        "quantity": 3
+    }
+]

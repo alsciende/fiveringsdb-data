@@ -1,6 +1,6 @@
 [
     {
-        "card_id": "akodo-toturi-2",
+        "card_id": "akodo-toturi-neutral",
         "flavor": "\"I fear you are searching for the perfect answer. Sometimes there is none, and you must still make a decision.\" – Agasha Sumiko",
         "illustrator": "Maerel Hibadita",
         "image_url": "",
@@ -48,9 +48,9 @@
         "quantity": 3
     },
     {
-        "card_id": "jewel-of-the-khamasin",
-        "flavor": "",
-        "illustrator": "",
+        "card_id": "jewel-of-the-khaimasin",
+        "flavor": "A tempest of sand and hate striving for liberation.",
+        "illustrator": "Carlos Palma Cruchaga",
         "image_url": "",
         "position": "74",
         "quantity": 3
@@ -90,7 +90,7 @@
     {
         "card_id": "social-puppeteer",
         "flavor": "",
-        "illustrator": "",
+        "illustrator": "Wenjuinn",
         "image_url": "",
         "position": "34",
         "quantity": 3
@@ -149,6 +149,54 @@
         "illustrator": "",
         "image_url": "",
         "position": "4",
+        "quantity": 3
+    },
+    {
+        "card_id": "magnificent-triumph",
+        "flavor": "",
+        "illustrator": "Le Vuong",
+        "image_url": "",
+        "position": "59",
+        "quantity": 3
+    },
+    {
+        "card_id": "honorable-challenger",
+        "flavor": "",
+        "illustrator": "Felipe Gaona",
+        "image_url": "",
+        "position": "21",
+        "quantity": 3
+    },
+    {
+        "card_id": "tranquil-philosopher",
+        "flavor": "\"Enlightenment is the unbent blade of grass amidst a raging storm.\"",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "18",
+        "quantity": 3
+    },
+    {
+        "card_id": "infiltrator-s-tools",
+        "flavor": "",
+        "illustrator": "Mauro Dal Bo",
+        "image_url": "",
+        "position": "69",
+        "quantity": 3
+    },
+    {
+        "card_id": "shiotome-heroine",
+        "flavor": "",
+        "illustrator": "Conceptopolis",
+        "image_url": "",
+        "position": "39",
+        "quantity": 3
+    },
+    {
+        "card_id": "sincere-challenger",
+        "flavor": "",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "27",
         "quantity": 3
     }
 ]
