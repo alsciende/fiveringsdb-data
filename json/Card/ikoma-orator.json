@@ -1,18 +1,18 @@
 [
     {
         "clan": "lion",
-        "cost": 1,
+        "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 1,
         "honor": null,
-        "id": "ikoma-prodigy",
+        "id": "ikoma-orator",
         "influence_cost": null,
         "influence_pool": null,
-        "military": "0",
+        "military": "1",
         "military_bonus": null,
-        "name": "Ikoma Prodigy",
+        "name": "Ikoma Orator",
         "name_extra": null,
         "political": "2",
         "political_bonus": null,
@@ -20,7 +20,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After 1 or more fate is placed on this character – gain 1 honor.",
+        "text": "While you are more honorable than your opponent, this character gets +2[conflict-political].",
         "traits": [
             "courtier"
         ],

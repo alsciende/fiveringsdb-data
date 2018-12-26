@@ -1,30 +1,30 @@
 [
     {
         "clan": "unicorn",
-        "cost": 3,
+        "cost": 4,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 3,
         "honor": null,
-        "id": "utaku-yumino",
+        "id": "utaku-kamoko",
         "influence_cost": null,
         "influence_pool": null,
-        "military": "2",
+        "military": "3",
         "military_bonus": null,
-        "name": "Utaku Yumino",
+        "name": "Utaku Kamoko",
         "name_extra": null,
-        "political": "2",
+        "political": "3",
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> During a conflict, discard a card from your hand – this character gets +2[conflict-military] and +2[conflict-political] until the end of the conflict. (Limit once per conflict.)",
+        "text": "While this character is dishonored, do not subtract its glory from its skills.\n<b>Reaction:</b> After an opponent breaks one of your provinces, choose and discard a card from your hand - ready and honor this character.",
         "traits": [
             "bushi",
-            "battle-maiden",
-            "cavalry"
+            "cavalry",
+            "battle-maiden"
         ],
         "type": "character",
         "unicity": true
