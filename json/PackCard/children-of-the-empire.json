@@ -252,7 +252,7 @@
         "flavor": "",
         "illustrator": "",
         "image_url": "",
-        "position": "101",
+        "position": "2",
         "quantity": 3
     },
     {
@@ -260,7 +260,7 @@
         "flavor": "",
         "illustrator": "",
         "image_url": "",
-        "position": "102",
+        "position": "3",
         "quantity": 3
     },
     {
@@ -268,7 +268,7 @@
         "flavor": "",
         "illustrator": "",
         "image_url": "",
-        "position": "103",
+        "position": "4",
         "quantity": 3
     },
     {
@@ -276,7 +276,7 @@
         "flavor": "",
         "illustrator": "",
         "image_url": "",
-        "position": "104",
+        "position": "5",
         "quantity": 3
     }
 ]
