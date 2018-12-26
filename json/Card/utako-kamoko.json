@@ -1,0 +1,32 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 3,
+        "honor": null,
+        "id": "utaku-yumino",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Utaku Yumino",
+        "name_extra": null,
+        "political": "2",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a conflict, discard a card from your hand – this character gets +2[conflict-military] and +2[conflict-political] until the end of the conflict. (Limit once per conflict.)",
+        "traits": [
+            "bushi",
+            "battle-maiden",
+            "cavalry"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]
