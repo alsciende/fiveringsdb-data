@@ -7,7 +7,7 @@
         "fate": null,
         "glory": null,
         "honor": null,
-        "id": "gist-of-amaterasu",
+        "id": "gift-of-amaterasu",
         "influence_cost": 3,
         "influence_pool": null,
         "military": null,
@@ -20,7 +20,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<em>Reaction:</em> After you win a conflict by 5 or more skill, choose a character you control – honor that character.",
+        "text": "<b>Reaction:</b> After you win a conflict by 5 or more skill, choose a character you control – honor that character.",
         "traits": [
             "spell",
             "fire"
