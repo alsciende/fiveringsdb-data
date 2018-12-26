@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "iuchi-farseer",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Iuchi Farseer",
+        "name_extra": null,
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After this character enters play, choose an opponent's facedown province - reveal that province.",
+        "traits": [
+            "shugenja",
+            "water"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

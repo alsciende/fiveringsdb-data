@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "shinjo-trailblazer",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Shinjo Trailblazer",
+        "name_extra": null,
+        "political": "1",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After an opponent's province is revealed during a conflict - this character gets +2[conflict-military] and +2[conflict-political] until the end of the conflict.",
+        "traits": [
+            "bushi",
+            "cavalry"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

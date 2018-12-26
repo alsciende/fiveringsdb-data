@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "neutral",
+        "cost": 0,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "trading-on-the-sand-road",
+        "influence_cost": 0,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Trading on the Sand Road",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Interrupt:</b> When the draw phase would begin - skip the draw phase. Each player removes the top 4 cards of his or her conflict deck from the game. Until the end of the round, either player may play the removed cards as if they were in his or her hand.",
+        "traits": [
+            "gaijin"
+        ],
+        "type": "event",
+        "unicity": false
+    }
+]

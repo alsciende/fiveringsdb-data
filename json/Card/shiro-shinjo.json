@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": null,
+        "deck_limit": 1,
+        "element": null,
+        "fate": 6,
+        "glory": null,
+        "honor": 10,
+        "id": "shiro-shinjo",
+        "influence_cost": null,
+        "influence_pool": 10,
+        "military": null,
+        "military_bonus": null,
+        "name": "Shiro Shinjo",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "province",
+        "strength": null,
+        "strength_bonus": "+1",
+        "text": "<b>Reaction:</b> After you collect fate during the dynasty phase, choose an opponent and bow this stronghold - gain 1 fate for each faceup non-stronghold province controlled by that player.",
+        "traits": [
+            "castle"
+        ],
+        "type": "stronghold",
+        "unicity": false
+    }
+]
