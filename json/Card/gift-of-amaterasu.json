@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "phoenix",
+        "cost": 1,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "gift-of-amaterasu",
+        "influence_cost": 3,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Gift of Amaterasu",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After you win a conflict by 5 or more skill, choose a character you control – honor that character.",
+        "traits": [
+            "spell",
+            "fire"
+        ],
+        "type": "event",
+        "unicity": false
+    }
+]

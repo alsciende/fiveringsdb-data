@@ -176,6 +176,10 @@
         "value": "Fire"
     },
     {
+        "id": "trait.festival",
+        "value": "Festival"
+    },
+    {
         "id": "trait.follower",
         "value": "Follower"
     },
