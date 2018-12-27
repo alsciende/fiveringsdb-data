@@ -1,0 +1,28 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 0,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "challenge-on-the-fields",
+        "influence_cost": 2,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Challenge on the Fields",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a conflict, initiate a [conflict-military] duel - resolve the duel, giving each dueling character +1[conflict-military] for each other participating character controlled by the same player until the end of the duel. Move the duel's loser home.",
+        "traits": [],
+        "type": "event",
+        "unicity": false
+    }
+]

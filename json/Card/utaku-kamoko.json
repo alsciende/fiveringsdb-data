@@ -1,0 +1,32 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 4,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 3,
+        "honor": null,
+        "id": "utaku-kamoko",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "3",
+        "military_bonus": null,
+        "name": "Utaku Kamoko",
+        "name_extra": null,
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "While this character is dishonored, do not subtract its glory from its skills.\n<b>Reaction:</b> After an opponent breaks one of your provinces, choose and discard a card from your hand - ready and honor this character.",
+        "traits": [
+            "bushi",
+            "cavalry",
+            "battle-maiden"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]
