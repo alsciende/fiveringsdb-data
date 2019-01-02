@@ -20,7 +20,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "Composure - This character gains +2[unknown]\n<b>Action: </b>During a conflict, initiate a duel - resolve the duel.  Honor the winner.",
+        "text": "Composure - This character gains +2[conflict-military]. <i>(You have composure if your honor bid is lower than an opponent's.)</i>\n<b>Action: </b>During a conflict, initiate a [conflict-military] duel - resolve the duel.  Honor the winner.",
         "traits": [
             "bushi",
             "duelist",
