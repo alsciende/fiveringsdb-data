@@ -1,0 +1,28 @@
+[
+    {
+        "clan": "neutral",
+        "cost": null,
+        "deck_limit": 1,
+        "element": "water",
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "midnight-revels",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Midnight Revels",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "province",
+        "strength": "4",
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After a conflict is declared against this province, choose a character with the highest printed cost among characters in play - bow that character.</i>",
+        "traits": [],
+        "type": "province",
+        "unicity": false
+    }
+]

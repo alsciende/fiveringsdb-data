@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "scorpion",
+        "cost": 4,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "shosuro-hametsu",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Shosuro Hametsu",
+        "name_extra": null,
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> Lose 1 honor – search your conflict deck for a <em>Poison</em> card, reveal it, and add it to your hand. Shuffle.",
+        "traits": [
+            "daimyo",
+            "shinobi"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]

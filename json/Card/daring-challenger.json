@@ -1,30 +1,29 @@
 [
     {
-        "clan": "neutral",
+        "clan": "crab",
         "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 0,
+        "glory": 1,
         "honor": null,
-        "id": "aspirant-challenger",
+        "id": "daring-challenger",
         "influence_cost": null,
         "influence_pool": null,
         "military": "2",
         "military_bonus": null,
-        "name": "Aspirant Challenger",
+        "name": "Daring Challenger",
         "name_extra": null,
-        "political": "2",
+        "political": null,
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "Composure - This character gains +2[conflict-military]. <i>(You have composure if your honor bid is lower than an opponent's.)</i>\n<b>Action: </b>During a conflict, initiate a [conflict-military] duel - resolve the duel.  Honor the winner.",
+        "text": "While you are less honorable than an opponent, this character gets +1[conflict-military].\n<b>Action: </b>During a conflict, initiate a [conflict-military] duel - resolve the duel. Put 1 gate on the duel's winner.",
         "traits": [
             "bushi",
-            "duelist",
-            "mantis-clan"
+            "duelist"
         ],
         "type": "character",
         "unicity": false

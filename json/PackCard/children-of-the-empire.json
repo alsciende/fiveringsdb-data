@@ -2,10 +2,42 @@
     {
         "card_id": "kiku-matsuri",
         "flavor": "",
-        "illustrator": "Mai Hoang",
+        "illustrator": "Hai Hoang",
         "image_url": "",
         "position": "1",
         "quantity": 1  
+    },
+    {
+        "card_id": "midnight-revels",
+        "flavor": "",
+        "illustrator": "Hai Hoang",
+        "image_url": "",
+        "position": "3",
+        "quantity": 1  
+    },
+    {
+        "card_id": "daring-challenger",
+        "flavor": "",
+        "illustrator": "Filipe Gaona",
+        "image_url": "",
+        "position": "6",
+        "quantity": 3
+    },
+    {
+        "card_id": "yasuki-procurer",
+        "flavor": "\"Have you considered a blade forged by Kakita Ashidaka to add to your family's heritage?\"",
+        "illustrator": "Hai Hoang",
+        "image_url": "",
+        "position": "7",
+        "quantity": 3
+    },
+    {
+        "card_id": "hida-yakamo",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "9",
+        "quantity": 3
     },
     {
         "card_id": "heavy-ballista",
@@ -88,11 +120,27 @@
         "quantity": 3  
     },
     {
+        "card_id": "loyal-challenger",
+        "flavor": "",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "31",
+        "quantity": 3
+    },
+    {
         "card_id": "social-puppeteer",
         "flavor": "",
         "illustrator": "Wenjuinn",
         "image_url": "",
         "position": "34",
+        "quantity": 3
+    },
+    {
+        "card_id": "shosuro-hametsu",
+        "flavor": "\"Through blackmail, lies and poison, he schemes to see his sister fall.\"",
+        "illustrator": "Maerel Hibadita",
+        "image_url": "",
+        "position": "35",
         "quantity": 3
     },
     {
@@ -133,6 +181,14 @@
         "illustrator": "Maerel Hibadita",
         "image_url": "",
         "position": "45",
+        "quantity": 3
+    },
+    {
+        "card_id": "honed-nodachi",
+        "flavor": "",
+        "illustrator": "Chris Pritchard",
+        "image_url": "",
+        "position": "50",
         "quantity": 3
     },
     {
@@ -224,6 +280,14 @@
         "quantity": 3
     },
     {
+        "card_id": "kikei-ko",
+        "flavor": "\"The deadliest poison produces the most beautiful shade.\"",
+        "illustrator": "Tawny Fritz",
+        "image_url": "",
+        "position": "70",
+        "quantity": 3
+    },
+    {
         "card_id": "miyako-s-undertaking",
         "flavor": "",
         "illustrator": "",
@@ -253,14 +317,6 @@
         "illustrator": "",
         "image_url": "",
         "position": "2",
-        "quantity": 3
-    },
-    {
-        "card_id": "hida-yakamo",
-        "flavor": "",
-        "illustrator": "",
-        "image_url": "",
-        "position": "3",
         "quantity": 3
     },
     {
