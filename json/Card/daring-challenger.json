@@ -20,7 +20,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "While you are less honorable than an opponent, this character gets +1[conflict-military].\n<b>Action: </b>During a conflict, initiate a [conflict-military] duel - resolve the duel. Put 1 gate on the duel's winner.",
+        "text": "While you are less honorable than an opponent, this character gets +1[conflict-military].\n<b>Action: </b>During a conflict, initiate a [conflict-military] duel - resolve the duel. Put 1 fate on the duel's winner.",
         "traits": [
             "bushi",
             "duelist"
