@@ -20,7 +20,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After you reveal your honor dial - change the bid on your dial to a value 1 higher or lower than its current value <i>(to a minimum of 0 and a maximum to 5)</i>.",
+        "text": "<b>Reaction:</b> After you reveal your honor dial - change the bid on your dial to a value 1 higher or lower than its current value <i>(to a minimum of 1 and a maximum to 5)</i>.",
         "traits": [
             "courtier",
             "cavalry"
