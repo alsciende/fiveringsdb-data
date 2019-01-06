@@ -1,18 +1,18 @@
 [
     {
-        "clan": "dragon",
-        "cost": 4,
+        "clan": "phoenix",
+        "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 0,
+        "glory": 1,
         "honor": null,
-        "id": "mirumoto-hitomi",
+        "id": "fire-tensai-acolyte",
         "influence_cost": null,
         "influence_pool": null,
-        "military": "4",
+        "military": "3",
         "military_bonus": null,
-        "name": "Mirumoto Hitomi",
+        "name": "Fire Tensai Acolyte",
         "name_extra": null,
         "political": "2",
         "political_bonus": null,
@@ -20,12 +20,12 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "...",
+        "text": "This character cannot be declared as an attacker except during [element-fire] conflicts.",
         "traits": [
-            "bushi",
-            "duelist"
+            "shugenja",
+            "fire"
         ],
         "type": "character",
-        "unicity": true
+        "unicity": false
     }
 ]

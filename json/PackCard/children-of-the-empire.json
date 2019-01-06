@@ -81,8 +81,8 @@
     },
     {
         "card_id": "student-of-war",
-        "flavor": "",
-        "illustrator": "",
+        "flavor": "\"Each scar teaches her more than would a library.\"",
+        "illustrator": "Andreia Ugrai",
         "image_url": "",
         "position": "23",
         "quantity": 3
@@ -96,6 +96,14 @@
         "quantity": 3  
     },
     {
+        "card_id": "fire-tensai-acolyte",
+        "flavor": "\"I had barely bowed my head before the trees began to burn. What has drawn so many fire kami to this place?\"",
+        "illustrator": "Le Vuong",
+        "image_url": "",
+        "position": "26",
+        "quantity": 3
+    },
+    {
         "card_id": "sincere-challenger",
         "flavor": "",
         "illustrator": "Joyce Maureira",
@@ -106,7 +114,7 @@
     {
         "card_id": "sage-of-gisei-toshi",
         "flavor": "",
-        "illustrator": "",
+        "illustrator": "Felipe Gaona",
         "image_url": "",
         "position": "28",
         "quantity": 3
@@ -192,6 +200,14 @@
         "quantity": 3
     },
     {
+        "card_id": "smuggling-deal",
+        "flavor": "\"I never thought I would be outmaneuvered in a deal twice in one day... or that I would find myself grateful on both occasions.\" – Yasuki Taka",
+        "illustrator": "Borja Pindado",
+        "image_url": "",
+        "position": "51",
+        "quantity": 3
+    },
+    {
         "card_id": "in-defense-of-rokugan",
         "flavor": "\"Give her a proper funeral, with all honors. She honored her family, and served her daimyō well.\" – Hida Kisada",
         "illustrator": "Calvin Chua",
@@ -202,15 +218,15 @@
     {
         "card_id": "try-again-tomorrow",
         "flavor": "",
-        "illustrator": "",
+        "illustrator": "Joyce Maureira",
         "image_url": "",
         "position": "55",
         "quantity": 3
     },
     {
         "card_id": "mirumoto-daisho",
-        "flavor": "",
-        "illustrator": "",
+        "flavor": "\"When your opponent sees but a single blade, you have achieved victory.\" - Mirumoto's Niten",
+        "illustrator": "Carlos Palma Cruchaga",
         "image_url": "",
         "position": "58",
         "quantity": 3
@@ -226,9 +242,17 @@
     {
         "card_id": "karmic-balance",
         "flavor": "",
-        "illustrator": "",
+        "illustrator": "B. D. Judkins",
         "image_url": "",
         "position": "60",
+        "quantity": 3
+    },
+    {
+        "card_id": "true-strike-kenjutsu",
+        "flavor": "",
+        "illustrator": "Britt Martin",
+        "image_url": "",
+        "position": "61",
         "quantity": 3
     },
     {
@@ -266,7 +290,7 @@
     {
         "card_id": "subdue-the-spirits",
         "flavor": "",
-        "illustrator": "",
+        "illustrator": "Asep Ariyanto",
         "image_url": "",
         "position": "68",
         "quantity": 3
@@ -290,7 +314,7 @@
     {
         "card_id": "miyako-s-undertaking",
         "flavor": "",
-        "illustrator": "",
+        "illustrator": "Derek D. Edgell",
         "image_url": "",
         "position": "72",
         "quantity": 3
@@ -309,6 +333,14 @@
         "illustrator": "Tomas Muir",
         "image_url": "",
         "position": "75",
+        "quantity": 3
+    },
+    {
+        "card_id": "stay-your-hand",
+        "flavor": "Another time, perhaps.",
+        "illustrator": "Jake Murray",
+        "image_url": "",
+        "position": "80",
         "quantity": 3
     },
     {
