@@ -15,3 +15,11 @@ script:
 notifications:
   slack:
     secure: cEob5Alcl5d9jCDYnNVeZZhFjh+pp1wXAKd43u+Ca/sTtMJA6aMpZrzUjm/NpMT1p+bc4wE0gQoMMVcNy3+nixiu0AY+wVYZ0iDX+Rfv+yHNtFQ1g0S3c3q5Kxn/jzAwgjaVuwXnikPtR6IUAOWpEZzB/SLRYCH8+CDWyuZpUboT5eHb/FP0RU78iweuEY/0oYL4FQJIza1RekvFjvN55nn0rPA2ILCXgMh7D4GdSXzMIXUc6fQWmY6dw0wV2cvN98lL/KtlW33GRzLSX8dfv1cOsc5FkqjK/1PZoZaeRqCkB2h9CU9iV0KEe1CGvwC3Z2oCdShRzRWa0TRNciz7EgOHbti10GUh9HBk9+OsIYnFyRVd+vgo0+Uj8Ie5xtg356kgjUrHKrjAp2Ncnty8iL53ZLBX/uLlC7prlmrI4Mac8NFdVOXScB44fBprg1hP6f+YPhf/pIwkvnzyaa0Ce6jWYpTUGzyFitztxWtc5/RGcpnhf13iBE8vAGLSmlV9paPPcIUbVo92JUwx+Ffpjlr324Q2qG9MFQAA4LaM1lERQJ6lXrnICiXm+FhSRClB5ubqG6NEBfi0Rb4/+2ehgewoHLxETfaOTYnu4mfMvTkAmcQDsbpoQpalCiK2T3oH9RqHD5r2Gm7ImuR6HBRAmb9dEeP3g8jzfNLU0rGstMY=
+after_success:
+  - wget https://raw.githubusercontent.com/DiscordHooks/travis-ci-discord-webhook/master/send.sh
+  - chmod +x send.sh
+  - ./send.sh success $WEBHOOK_URL
+after_failure:
+  - wget https://raw.githubusercontent.com/DiscordHooks/travis-ci-discord-webhook/master/send.sh
+  - chmod +x send.sh
+  - ./send.sh failure $WEBHOOK_URL
