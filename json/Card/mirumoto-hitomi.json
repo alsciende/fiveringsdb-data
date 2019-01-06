@@ -22,7 +22,8 @@
         "strength_bonus": null,
         "text": "...",
         "traits": [
-            "bushi"
+            "bushi",
+            "duelist"
         ],
         "type": "character",
         "unicity": true

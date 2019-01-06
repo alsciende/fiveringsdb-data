@@ -81,8 +81,8 @@
     },
     {
         "card_id": "student-of-war",
-        "flavor": "",
-        "illustrator": "",
+        "flavor": "\"Each scar teaches her more than would a library.\"",
+        "illustrator": "Andreia Ugrai",
         "image_url": "",
         "position": "23",
         "quantity": 3
@@ -114,7 +114,7 @@
     {
         "card_id": "sage-of-gisei-toshi",
         "flavor": "",
-        "illustrator": "",
+        "illustrator": "Felipe Gaona",
         "image_url": "",
         "position": "28",
         "quantity": 3
@@ -218,15 +218,15 @@
     {
         "card_id": "try-again-tomorrow",
         "flavor": "",
-        "illustrator": "",
+        "illustrator": "Joyce Maureira",
         "image_url": "",
         "position": "55",
         "quantity": 3
     },
     {
         "card_id": "mirumoto-daisho",
-        "flavor": "",
-        "illustrator": "",
+        "flavor": "\"When your opponent sees but a single blade, you have achieved victory.\" - Mirumoto's Niten",
+        "illustrator": "Carlos Palma Cruchaga",
         "image_url": "",
         "position": "58",
         "quantity": 3
@@ -242,7 +242,7 @@
     {
         "card_id": "karmic-balance",
         "flavor": "",
-        "illustrator": "",
+        "illustrator": "B. D. Judkins",
         "image_url": "",
         "position": "60",
         "quantity": 3
@@ -290,7 +290,7 @@
     {
         "card_id": "subdue-the-spirits",
         "flavor": "",
-        "illustrator": "",
+        "illustrator": "Asep Ariyanto",
         "image_url": "",
         "position": "68",
         "quantity": 3
@@ -314,7 +314,7 @@
     {
         "card_id": "miyako-s-undertaking",
         "flavor": "",
-        "illustrator": "",
+        "illustrator": "Derek D. Edgell",
         "image_url": "",
         "position": "72",
         "quantity": 3
@@ -333,6 +333,14 @@
         "illustrator": "Tomas Muir",
         "image_url": "",
         "position": "75",
+        "quantity": 3
+    },
+    {
+        "card_id": "stay-your-hand",
+        "flavor": "Another time, perhaps.",
+        "illustrator": "Jake Murray",
+        "image_url": "",
+        "position": "80",
         "quantity": 3
     },
     {
