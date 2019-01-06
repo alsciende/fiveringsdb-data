@@ -96,6 +96,14 @@
         "quantity": 3  
     },
     {
+        "card_id": "fire-tensai-acolyte",
+        "flavor": "\"I had barely bowed my head before the trees began to burn. What has drawn so many fire kami to this place?\"",
+        "illustrator": "Le Vuong",
+        "image_url": "",
+        "position": "26",
+        "quantity": 3
+    },
+    {
         "card_id": "sincere-challenger",
         "flavor": "",
         "illustrator": "Joyce Maureira",
@@ -192,6 +200,14 @@
         "quantity": 3
     },
     {
+        "card_id": "smuggling-deal",
+        "flavor": "\"I never thought I would be outmaneuvered in a deal twice in one day... or that I would find myself grateful on both occasions.\" – Yasuki Taka",
+        "illustrator": "Borja Pindado",
+        "image_url": "",
+        "position": "51",
+        "quantity": 3
+    },
+    {
         "card_id": "in-defense-of-rokugan",
         "flavor": "\"Give her a proper funeral, with all honors. She honored her family, and served her daimyō well.\" – Hida Kisada",
         "illustrator": "Calvin Chua",
@@ -229,6 +245,14 @@
         "illustrator": "",
         "image_url": "",
         "position": "60",
+        "quantity": 3
+    },
+    {
+        "card_id": "true-strike-kenjutsu",
+        "flavor": "",
+        "illustrator": "Britt Martin",
+        "image_url": "",
+        "position": "61",
         "quantity": 3
     },
     {
