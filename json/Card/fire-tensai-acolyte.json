@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "phoenix",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "fire-tensai-acolyte",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "3",
+        "military_bonus": null,
+        "name": "Fire Tensai Acolyte",
+        "name_extra": null,
+        "political": "2",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "This character cannot be declared as an attacker except during [element-fire] conflicts.",
+        "traits": [
+            "shugenja",
+            "fire"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]
