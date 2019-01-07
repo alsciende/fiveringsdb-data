@@ -344,6 +344,14 @@
         "quantity": 3
     },
     {
+        "card_id": "warm-welcome",
+        "flavor": "",
+        "illustrator": "Mauro Dal Bo",
+        "image_url": "",
+        "position": "81",
+        "quantity": 3
+    },
+    {
         "card_id": "aspirant-challenger",
         "flavor": "",
         "illustrator": "",
