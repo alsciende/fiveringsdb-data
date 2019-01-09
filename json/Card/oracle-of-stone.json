@@ -20,7 +20,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> Each player draws 2 cards. Then, each player discards 2 cards.",
+        "text": "<b>Action:</b> Each player draws 2 cards. Then, each player discards 2 cards from his or her hand.",
         "traits": [
             "spell",
             "earth"
