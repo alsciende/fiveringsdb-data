@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "crane",
+        "cost": null,
+        "deck_limit": 1,
+        "element": null,
+        "fate": 7,
+        "glory": null,
+        "honor": 11,
+        "id": "kyuden-kakita",
+        "influence_cost": null,
+        "influence_pool": 9,
+        "military": null,
+        "military_bonus": null,
+        "name": "Kyūden Kakita",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "province",
+        "strength": null,
+        "strength_bonus": "+1",
+        "text": "<b>Reaction:</b> After a duel resolves, bow this stronghold and choose a character you control that was involved in the duel - honor that character.",
+        "traits": [
+            "palace"
+        ],
+        "type": "stronghold",
+        "unicity": true
+    }
+]

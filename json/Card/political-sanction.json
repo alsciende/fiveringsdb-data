@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "crane",
+        "cost": 0,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "political-sanction",
+        "influence_cost": 1,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": "+0",
+        "name": "Political Sanction",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": "+0",
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Play only during a [conflict-political] conflict, in which you count more current [conflict-political] than your opponent, and only on a participating character.\nAttached character cannot trigger its abilities.",
+        "traits": [
+            "condition"
+        ],
+        "type": "attachment",
+        "unicity": false
+    }
+]
