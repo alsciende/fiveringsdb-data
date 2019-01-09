@@ -1,0 +1,66 @@
+[
+    {
+        "card_id": "kyuden-kakita",
+        "flavor": "",
+        "illustrator": "Nele Diel",
+        "image_url": "",
+        "position": "1",
+        "quantity": 1
+    },
+    {
+        "card_id": "support-of-the-crane",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "3",
+        "quantity": 1
+    },
+    {
+        "card_id": "kakita-yuri",
+        "flavor": "",
+        "illustrator": "Filipe Gaona",
+        "image_url": "",
+        "position": "8",
+        "quantity": 3
+    },
+    {
+        "card_id": "asahina-takamori",
+        "flavor": "\"A red sun in the hour of the Hare. Not a bird in the sky. Do you not see that the battle is already won?\"",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "9",
+        "quantity": 3
+    },
+    {
+        "card_id": "distinguished-dojo",
+        "flavor": "",
+        "illustrator": "Matt Bulahao",
+        "image_url": "",
+        "position": "13",
+        "quantity": 3
+    },
+    {
+        "card_id": "akodo-makoto",
+        "flavor": "\"I am sworn to the Lion. My former husband's acts with the Crane army are non of your concern.\"",
+        "illustrator": "Borja-Pindado",
+        "image_url": "",
+        "position": "16",
+        "quantity": 3
+    },
+    {
+        "card_id": "political-sanction",
+        "flavor": "",
+        "illustrator": "Lukas Banas",
+        "image_url": "",
+        "position": "20",
+        "quantity": 3
+    },
+    {
+        "card_id": "gossip",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "21",
+        "quantity": 3
+    }
+]
