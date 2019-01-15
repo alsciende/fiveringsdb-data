@@ -20,7 +20,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction: After you play a [clan-crane] character, choose an opponent's character with equal or lower printed cost - that character cannot be declared as an attacker or defender this round.</b> ",
+        "text": "<b>Reaction:</b> After you play a [clan-crane] character, choose an opponent's character with equal or lower printed cost - that character cannot be declared as an attacker or defender this round.",
         "traits": [
             "courtier",
             "shugenja",
