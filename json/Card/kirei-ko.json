@@ -20,7 +20,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After a a character your opponent controls triggers an ability - bow that character.",
+        "text": "<b>Reaction:</b> After a character your opponent controls triggers an ability - bow that character.",
         "traits": [
             "poison"
         ],
