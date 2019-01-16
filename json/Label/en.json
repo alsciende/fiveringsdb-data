@@ -372,6 +372,10 @@
         "value": "Shugenja"
     },
     {
+        "id": "trait.skill",
+        "value": "Skill"
+    },
+    {
         "id": "trait.spell",
         "value": "Spell"
     },
