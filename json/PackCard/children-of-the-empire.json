@@ -8,6 +8,14 @@
         "quantity": 1  
     },
     {
+        "card_id": "illustrious-forge",
+        "flavor": "",
+        "illustrator": "Matt Zeilinger",
+        "image_url": "",
+        "position": "2",
+        "quantity": 1  
+    },
+    {
         "card_id": "midnight-revels",
         "flavor": "",
         "illustrator": "Hai Hoang",
@@ -56,11 +64,51 @@
         "quantity": 3
     },
     {
+        "card_id": "kakita-toshimoko",
+        "flavor": "",
+        "illustrator": "Agri Karuniawan",
+        "image_url": "",
+        "position": "14",
+        "quantity": 3
+    },
+    {
+        "card_id": "kakita-dojo",
+        "flavor": "",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "15",
+        "quantity": 3
+    },
+    {
+        "card_id": "prudent-challenger",
+        "flavor": "",
+        "illustrator": "Felipe Gaona",
+        "image_url": "",
+        "position": "17",
+        "quantity": 3
+    },
+    {
         "card_id": "tranquil-philosopher",
         "flavor": "\"Enlightenment is the unbent blade of grass amidst a raging storm.\"",
         "illustrator": "Lin Hsiang",
         "image_url": "",
         "position": "18",
+        "quantity": 3
+    },
+    {
+        "card_id": "mirumoto-hitomi",
+        "flavor": "Had there been a time when Hitomi smiled? Perhaps before her brother had died, but rarely since then...",
+        "illustrator": "Maerel Hibadita",
+        "image_url": "",
+        "position": "19",
+        "quantity": 3
+    },
+    {
+        "card_id": "mirumoto-dojo",
+        "flavor": "",
+        "illustrator": "Sergio Camarena",
+        "image_url": "",
+        "position": "20",
         "quantity": 3
     },
     {
@@ -216,6 +264,14 @@
         "quantity": 3
     },
     {
+        "card_id": "iaijutsu-master",
+        "flavor": "",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "53",
+        "quantity": 3
+    },
+    {
         "card_id": "try-again-tomorrow",
         "flavor": "",
         "illustrator": "Joyce Maureira",
@@ -357,14 +413,6 @@
         "illustrator": "",
         "image_url": "",
         "position": "2",
-        "quantity": 3
-    },
-    {
-        "card_id": "mirumoto-hitomi",
-        "flavor": "",
-        "illustrator": "",
-        "image_url": "",
-        "position": "4",
         "quantity": 3
     },
     {
