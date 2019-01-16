@@ -20,6 +20,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
+        "text": "<b>Interrupt:</b> When this character would lose a conflict, initiate a [conflict-military] duel against a character your opponent controls of his or her choice - resolve the duel. If this character wins, instead of resolving the conflict as normal, both players count 0 total skill in the conflict. <i>(Return the contested ring to the unclaimed ring pool. The conflict has no winner.)</i>",
         "traits": [
             "bushi",
             "duelist"
