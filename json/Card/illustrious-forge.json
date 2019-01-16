@@ -1,0 +1,28 @@
+[
+    {
+        "clan": "neutral",
+        "cost": null,
+        "deck_limit": 1,
+        "element": "fire",
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "illustrious-forge",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Illustrious Forge",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "province",
+        "strength": "4",
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After this province is revealed - search the top 5 cards of your conflict deck for an attachment and put it into play attached to a character you control. Shuffle.",
+        "traits": [],
+        "type": "province",
+        "unicity": false
+    }
+]
