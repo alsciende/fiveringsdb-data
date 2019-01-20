@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "neutral",
+        "cost": null,
+        "deck_limit": 1,
+        "element": "void",
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "temple-of-the-dragons",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Temple of the Dragons",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "province",
+        "strength": "4",
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After this province is revealed - resolve the contested ring as if you were the attacking player.",
+        "traits": [
+            "temple"
+        ],
+        "type": "province",
+        "unicity": false
+    }
+]

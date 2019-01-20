@@ -1,0 +1,32 @@
+[
+    {
+        "clan": "neutral",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "seppun-hidden-guard",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Seppun Hidden Guard",
+        "name_extra": null,
+        "political": "0",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Interrupt:</b> When the effects of a character ability that targets a unique character you control would initiate, sacrifice this character - cancel those effects. The player who initiated that ability discards 1 random card from his or her hand.",
+        "traits": [
+            "bushi",
+            "imperial",
+            "yojimbo"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

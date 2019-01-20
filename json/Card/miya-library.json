@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "neutral",
+        "cost": null,
+        "deck_limit": 1,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "miya-library",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Miya Library",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": "+1",
+        "text": "Limit 1 per deck.\n<b>Action:</b> Look at the top 4 cards of your dynasty deck. You may choose an <em>Imperial</em> character from among them and switch it with this card <i>(faceup)</i>. Put the cards back on top in any order.",
+        "traits": [
+            "imperial",
+            "library"
+        ],
+        "type": "holding",
+        "unicity": true
+    }
+]
