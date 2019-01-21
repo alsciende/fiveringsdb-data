@@ -24,6 +24,14 @@
         "quantity": 1  
     },
     {
+        "card_id": "temple-of-the-dragons",
+        "flavor": "",
+        "illustrator": "Leanna Crossan",
+        "image_url": "",
+        "position": "4",
+        "quantity": 1  
+    },
+    {
         "card_id": "daring-challenger",
         "flavor": "",
         "illustrator": "Filipe Gaona",
@@ -232,12 +240,28 @@
         "quantity": 3
     },
     {
+        "card_id": "seppun-hidden-guard",
+        "flavor": "",
+        "illustrator": "Romana Kendelic",
+        "image_url": "",
+        "position": "42",
+        "quantity": 3
+    },
+    {
         "card_id": "akodo-toturi-2",
         "flavor": "\"I fear you are searching for the perfect answer. Sometimes there is none, and you must still make a decision.\" – Agasha Sumiko",
         "illustrator": "Maerel Hibadita",
         "image_url": "",
         "position": "45",
         "quantity": 3
+    },
+    {
+        "card_id": "miya-library",
+        "flavor": "",
+        "illustrator": "Gong Studios",
+        "image_url": "",
+        "position": "47",
+        "quantity": 1
     },
     {
         "card_id": "honed-nodachi",
@@ -269,6 +293,14 @@
         "illustrator": "Lin Hsiang",
         "image_url": "",
         "position": "53",
+        "quantity": 3
+    },
+    {
+        "card_id": "storied-defeat",
+        "flavor": "",
+        "illustrator": "Le Vuong",
+        "image_url": "",
+        "position": "54",
         "quantity": 3
     },
     {
