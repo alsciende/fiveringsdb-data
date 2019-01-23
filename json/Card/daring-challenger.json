@@ -1,31 +1,31 @@
 [
     {
-        "clan": "dragon",
-        "cost": 4,
+        "clan": "crab",
+        "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 1,
         "honor": null,
-        "id": "mirumoto-hitomi",
+        "id": "daring-challenger",
         "influence_cost": null,
         "influence_pool": null,
-        "military": "4",
+        "military": "2",
         "military_bonus": null,
-        "name": "Mirumoto Hitomi",
+        "name": "Daring Challenger",
         "name_extra": null,
-        "political": "2",
+        "political": null,
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> During a conflict, initiate a [conflict-military] duel against up to two characters your opponent controls - resolve the duel. For each character that loses the duel, its controller must either dishonor or bow it.",
+        "text": "While you are less honorable than an opponent, this character gets +1[conflict-military].\n<b>Action: </b>During a conflict, initiate a [conflict-military] duel - resolve the duel. Put 1 fate on the duel's winner.",
         "traits": [
             "bushi",
             "duelist"
         ],
         "type": "character",
-        "unicity": true
+        "unicity": false
     }
 ]

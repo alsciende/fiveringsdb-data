@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "scorpion",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "id": "loyal-challenger",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "1",
+        "military_bonus": null,
+        "name": "Loyal Challenger",
+        "name_extra": null,
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "After this character wins a conflict, gain 1 honor. After this character loses a conflict, lose 1 honor.\n<b>Action:</b> During a conflict, initiate a [conflict-political] duel - resolve the duel. Treat the printed text box of the duel's loser as if it were blank (except for <em>Traits</em>) until the end of the conflict.",
+        "traits": [
+            "courtier",
+            "duelist"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

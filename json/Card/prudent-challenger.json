@@ -1,18 +1,18 @@
 [
     {
         "clan": "dragon",
-        "cost": 4,
+        "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 1,
+        "glory": 0,
         "honor": null,
-        "id": "mirumoto-hitomi",
+        "id": "prudent-challenger",
         "influence_cost": null,
         "influence_pool": null,
-        "military": "4",
+        "military": "2",
         "military_bonus": null,
-        "name": "Mirumoto Hitomi",
+        "name": "Prudent Challenger",
         "name_extra": null,
         "political": "2",
         "political_bonus": null,
@@ -20,12 +20,12 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> During a conflict, initiate a [conflict-military] duel against up to two characters your opponent controls - resolve the duel. For each character that loses the duel, its controller must either dishonor or bow it.",
+        "text": "Coutesy. <i>(When this character leaves play, gain 1 fate)</i>\n<b>Action:</b> During a conflict, initiate a [conflict-military] duel - resolve the duel. Choose an attachment attached to the duel's loser and discard it.",
         "traits": [
             "bushi",
             "duelist"
         ],
         "type": "character",
-        "unicity": true
+        "unicity": false
     }
 ]

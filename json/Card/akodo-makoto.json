@@ -1,29 +1,28 @@
 [
     {
-        "clan": "dragon",
-        "cost": 4,
+        "clan": "lion",
+        "cost": 3,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 1,
         "honor": null,
-        "id": "mirumoto-hitomi",
+        "id": "akodo-makoto",
         "influence_cost": null,
         "influence_pool": null,
         "military": "4",
         "military_bonus": null,
-        "name": "Mirumoto Hitomi",
+        "name": "Akodo Makoto",
         "name_extra": null,
-        "political": "2",
+        "political": "1",
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> During a conflict, initiate a [conflict-military] duel against up to two characters your opponent controls - resolve the duel. For each character that loses the duel, its controller must either dishonor or bow it.",
+        "text": "<b>Reaction:</b> After this character wins a conflict, choose a participating <em>Courtier</em> character - if that character has no fate on it, discard it. Otherwise, remove 1 fate from it.",
         "traits": [
-            "bushi",
-            "duelist"
+            "bushi"
         ],
         "type": "character",
         "unicity": true

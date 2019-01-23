@@ -1,29 +1,30 @@
 [
     {
-        "clan": "unicorn",
-        "cost": 3,
+        "clan": "neutral",
+        "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 1,
         "honor": null,
-        "id": "ide-negotiator",
+        "id": "seppun-hidden-guard",
         "influence_cost": null,
         "influence_pool": null,
         "military": "2",
         "military_bonus": null,
-        "name": "Ide Negotiator",
+        "name": "Seppun Hidden Guard",
         "name_extra": null,
-        "political": "3",
+        "political": "0",
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After you reveal your honor dial - change the bid on your dial to a value 1 higher or lower than its current value <i>(to a minimum of 1 and a maximum to 5)</i>.",
+        "text": "<b>Interrupt:</b> When the effects of a character ability that targets a unique character you control would initiate, sacrifice this character - cancel those effects. The player who initiated that ability discards 1 random card from his or her hand.",
         "traits": [
-            "courtier",
-            "cavalry"
+            "bushi",
+            "imperial",
+            "yojimbo"
         ],
         "type": "character",
         "unicity": false

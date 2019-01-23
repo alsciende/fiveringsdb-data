@@ -1,30 +1,30 @@
 [
     {
-        "clan": "scorpion",
+        "clan": "crane",
         "cost": null,
-        "deck_limit": 1,
+        "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
-        "id": "hidden-moon-dojo",
+        "id": "kakita-dojo",
         "influence_cost": null,
         "influence_pool": null,
         "military": null,
         "military_bonus": null,
-        "name": "Hidden Moon Dōjō",
+        "name": "Kakita Dōjō",
         "name_extra": null,
         "political": null,
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
-        "strength_bonus": "+0",
-        "text": "Limit 1 per deck.\nYou may play cards in adjacent provinces as if they were in your hand.\n<b>Action:</b> During a conflict – turn a card in an adjacent province faceup.",
+        "strength_bonus": "+1",
+        "text": "<b>Action:</b> During a conflict, initiate a [conflict-militay] duel – resolve the duel. Until the end of the conflict, the duel's loser cannot trigger its abilities. If the duel's winner is a <em>Duelist</em>, bow the duel's loser as well.",
         "traits": [
             "dojo"
         ],
         "type": "holding",
-        "unicity": true
+        "unicity": false
     }
 ]

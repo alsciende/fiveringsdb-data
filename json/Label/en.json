@@ -140,6 +140,10 @@
         "value": "Courtier"
     },
     {
+        "id": "trait.crane",
+        "value": "Crane"
+    },
+    {
         "id": "trait.creature",
         "value": "Creature"
     },
@@ -153,7 +157,7 @@
     },
     {
         "id": "trait.dojo",
-        "value": "Dojo"
+        "value": "Dōjō"
     },
     {
         "id": "trait.duelist",
@@ -172,12 +176,12 @@
         "value": "Engineer"
     },
     {
-        "id": "trait.fire",
-        "value": "Fire"
-    },
-    {
         "id": "trait.festival",
         "value": "Festival"
+    },
+    {
+        "id": "trait.fire",
+        "value": "Fire"
     },
     {
         "id": "trait.follower",
@@ -366,6 +370,10 @@
     {
         "id": "trait.shugenja",
         "value": "Shugenja"
+    },
+    {
+        "id": "trait.skill",
+        "value": "Skill"
     },
     {
         "id": "trait.spell",

@@ -178,5 +178,14 @@
         "released_at": "2018-04-01",
         "ffg_id": "L5C17",
         "cycle_id": "clan-packs"
+    },
+    {
+        "id": "masters-of-the-court",
+        "name": "Masters of the Court",
+        "position": 4,
+        "size": 28,
+        "released_at": "2018-04-01",
+        "ffg_id": "L5C18",
+        "cycle_id": "clan-packs"
     }
 ]
