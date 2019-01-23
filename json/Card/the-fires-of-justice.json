@@ -20,7 +20,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "Void Role only.\n<b>Reaction: </b>After you win a [unknown] conflict, your opponent chooses a participating character he or she controls.  Select one - remove all fate from that character, or move any amount of fate from your opponent's fate pool to that character.",
+        "text": "<b>Void</b> Role only.\n<b>Reaction: </b>After you win a [unknown] conflict, your opponent chooses a participating character he or she controls.  Select one - remove all fate from that character, or move any amount of fate from your opponent's fate pool to that character.",
         "traits": [],
         "type": "event",
         "unicity": false

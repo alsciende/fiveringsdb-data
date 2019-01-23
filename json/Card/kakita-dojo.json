@@ -20,7 +20,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": "+1",
-        "text": "<b>Action:</b> During a conflict, initiate a [conflict-militay] duel – resolve the duel. Until the end of the conflict, the duel's loser cannot trigger its abilities. If the duel's winner is a <em>Duelist</em>, bow the duel's loser as well.",
+        "text": "<b>Action:</b> During a conflict, initiate a [conflict-military] duel – resolve the duel. Until the end of the conflict, the duel's loser cannot trigger its abilities. If the duel's winner is a <em>Duelist</em>, bow the duel's loser as well.",
         "traits": [
             "dojo"
         ],
