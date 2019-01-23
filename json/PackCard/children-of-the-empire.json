@@ -384,6 +384,14 @@
         "quantity": 3
     },
     {
+        "card_id": "the-fires-of-justice",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "63",
+        "quantity": 3
+    },
+    {
         "card_id": "glorious-victory",
         "flavor": "\"If we should be victorious, it is because the heavens will it.\"",
         "illustrator": "Sergio Camarena",
@@ -485,14 +493,6 @@
         "illustrator": "Mauro Dal Bo",
         "image_url": "",
         "position": "81",
-        "quantity": 3
-    },
-    {
-        "card_id": "the-fires-of-justice",
-        "flavor": "",
-        "illustrator": "",
-        "image_url": "",
-        "position": "5",
         "quantity": 3
     }
 ]
