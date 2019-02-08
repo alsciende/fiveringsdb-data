@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "scorpion",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "id": "midnight-prowler",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Midnight Prowler",
+        "name_extra": null,
+        "political": "1",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After this character wins a [conflict-military] conflict - look at the top 2 cards of your opponent's conflict deck. You may discard 1 of those cards",
+        "traits": [
+            "bushi",
+			"shinobi"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

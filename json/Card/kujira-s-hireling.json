@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "neutral",
+        "cost": 1,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "id": "kujira-s-hireling",
+        "influence_cost": 0,
+        "influence_pool": null,
+        "military": "1",
+        "military_bonus": null,
+        "name": "Kujira's Hireling",
+        "name_extra": null,
+        "political": "1",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> Spend 1 fate and select one - this character gets +1[conflict-military] and +1[conflict-political] until the end of the phase, or this character gets -1[conflict-military] and -1[conflict-political] until the end of the phase. Any player may trigger this ability. (Unlimited.)\n<b>Card design by 2017 World Champion Samuel Benies.</b>",
+        "traits": [
+            "bushi",
+			"ronin"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

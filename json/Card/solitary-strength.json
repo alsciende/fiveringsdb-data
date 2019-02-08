@@ -1,0 +1,28 @@
+[
+    {
+        "clan": "dragon",
+        "cost": 1,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "solitary-strength",
+        "influence_cost": 1,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": "+1",
+        "name": "Solitary Strength",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": "+2",
+        "role_restriction": "air",
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<em>Air</em> role only.\nIf attached character is participating in a conflict with 1 or more other characters you control, discard this attachment.\n<b>Reaction:</b> After attached character wins a conflict – gain 1 honor.",
+        "traits": [],
+        "type": "attachment",
+        "unicity": false
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "crab",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "guardian-of-virtue",
+        "influence_cost": 1,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Guardian of Virtue",
+        "name_extra": null,
+        "political": "2",
+        "political_bonus": null,
+        "role_restriction": "air",
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<em>Air</em> role only.\nComposure - This character does not bow as a result of conflict resolution in conflicts in which it is defending. <i>(You have composure if your honor bid is lower than an opponent's.)</i>",
+        "traits": [
+            "bushi",
+            "scout"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]
