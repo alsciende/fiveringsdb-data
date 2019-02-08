@@ -32,6 +32,14 @@
         "quantity": 1  
     },
     {
+        "card_id": "vassal-fields",
+        "flavor": "\"New daimyō, same tax.\"",
+        "illustrator": "",
+        "image_url": "",
+        "position": "5",
+        "quantity": 1  
+    },
+    {
         "card_id": "daring-challenger",
         "flavor": "",
         "illustrator": "Filipe Gaona",
@@ -45,6 +53,14 @@
         "illustrator": "Hai Hoang",
         "image_url": "",
         "position": "7",
+        "quantity": 3
+    },
+    {
+        "card_id": "siege-captain",
+        "flavor": "He names each weapon he constructs after a Crab warrior who died bravely in battle, that their spirit might know revenge. And yet as fast as his hands work, the list of names grows faster still.",
+        "illustrator": "Alexander Forssberg",
+        "image_url": "",
+        "position": "8",
         "quantity": 3
     },
     {
@@ -64,11 +80,27 @@
         "quantity": 3
     },
     {
+        "card_id": "ichigenkin-soloist",
+        "flavor": "",
+        "illustrator": "Kevin Zamir Goeke",
+        "image_url": "",
+        "position": "11",
+        "quantity": 3
+    },
+    {
         "card_id": "courtly-challenger",
         "flavor": "",
         "illustrator": "Joyce Maureira",
         "image_url": "",
         "position": "12",
+        "quantity": 3
+    },
+    {
+        "card_id": "paragon-of-virtue",
+        "flavor": "",
+        "illustrator": "April Lee",
+        "image_url": "",
+        "position": "13",
         "quantity": 3
     },
     {
@@ -85,6 +117,14 @@
         "illustrator": "Lin Hsiang",
         "image_url": "",
         "position": "15",
+        "quantity": 3
+    },
+    {
+        "card_id": "kitsuki-counselor",
+        "flavor": "\"What is there to learn from a book that cannot be taught by a flower?\"",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "16",
         "quantity": 3
     },
     {
@@ -152,6 +192,14 @@
         "quantity": 3  
     },
     {
+        "card_id": "tactician-s-camp",
+        "flavor": "\"Lion generals sure do love a surprise... as long as it's planned.\" - Ikoma Ikehata",
+        "illustrator": "Lukas Banas",
+        "image_url": "",
+        "position": "25",
+        "quantity": 3  
+    },
+    {
         "card_id": "fire-tensai-acolyte",
         "flavor": "\"I had barely bowed my head before the trees began to burn. What has drawn so many fire kami to this place?\"",
         "illustrator": "Le Vuong",
@@ -184,12 +232,36 @@
         "quantity": 3  
     },
     {
+        "card_id": "ancestral-shrine",
+        "flavor": "The lights shine through the Yomi in the hopes of finding those they once knew.",
+        "illustrator": "John Donahue",
+        "image_url": "",
+        "position": "30",
+        "quantity": 3  
+    },
+    {
         "card_id": "loyal-challenger",
         "flavor": "",
         "illustrator": "Joyce Maureira",
         "image_url": "",
         "position": "31",
         "quantity": 3
+    },
+    {
+        "card_id": "midnight-prowler",
+        "flavor": "Those who know Ryokō Owari Toshi know not to stay out after nightfall.",
+        "illustrator": "Conceptopolis",
+        "image_url": "",
+        "position": "32",
+        "quantity": 3  
+    },
+	{
+        "card_id": "attendant-to-the-emperor",
+        "flavor": "\"Will that be all?\"",
+        "illustrator": "Andreia Ugrai",
+        "image_url": "",
+        "position": "33",
+        "quantity": 3  
     },
     {
         "card_id": "social-puppeteer",
@@ -205,6 +277,14 @@
         "illustrator": "Maerel Hibadita",
         "image_url": "",
         "position": "35",
+        "quantity": 3
+    },
+    {
+        "card_id": "outskirts-sentry",
+        "flavor": "",
+        "illustrator": "Kevin Zamir Goeke",
+        "image_url": "",
+        "position": "36",
         "quantity": 3
     },
     {
@@ -296,6 +376,22 @@
         "quantity": 1
     },
     {
+        "card_id": "proving-ground",
+        "flavor": "",
+        "illustrator": "Lukas Banas",
+        "image_url": "",
+        "position": "48",
+        "quantity": 3
+    },
+    {
+        "card_id": "guardian-of-virtue",
+        "flavor": "",
+        "illustrator": "Calvin Chua",
+        "image_url": "",
+        "position": "49",
+        "quantity": 3
+    },
+    {
         "card_id": "honed-nodachi",
         "flavor": "",
         "illustrator": "Chris Pritchard",
@@ -341,6 +437,22 @@
         "illustrator": "Joyce Maureira",
         "image_url": "",
         "position": "55",
+        "quantity": 3
+    },
+    {
+        "card_id": "civil-discourse",
+        "flavor": "",
+        "illustrator": "Guillaume Ducos",
+        "image_url": "",
+        "position": "56",
+        "quantity": 3
+    },
+    {
+        "card_id": "solitary-strength",
+        "flavor": "",
+        "illustrator": "Amélie Hutt",
+        "image_url": "",
+        "position": "57",
         "quantity": 3
     },
     {
@@ -416,6 +528,14 @@
         "quantity": 3  
     },
     {
+        "card_id": "severed-from-the-stream",
+        "flavor": "\"There is no place for you, not even the Void.\"",
+        "illustrator": "",
+        "image_url": "",
+        "position": "67",
+        "quantity": 3  
+    },
+    {
         "card_id": "subdue-the-spirits",
         "flavor": "",
         "illustrator": "Asep Ariyanto",
@@ -440,11 +560,27 @@
         "quantity": 3
     },
     {
+        "card_id": "unmask",
+        "flavor": "",
+        "illustrator": "Conceptopolis",
+        "image_url": "",
+        "position": "71",
+        "quantity": 3
+    },
+    {
         "card_id": "miyako-s-undertaking",
         "flavor": "",
         "illustrator": "Derek D. Edgell",
         "image_url": "",
         "position": "72",
+        "quantity": 3
+    },
+    {
+        "card_id": "shinjo-ambusher",
+        "flavor": "\"Entering an unfamiliar forest was your first mistake.\"",
+        "illustrator": "Sergio Camarena",
+        "image_url": "",
+        "position": "73",
         "quantity": 3
     },
     {
@@ -461,6 +597,22 @@
         "illustrator": "Tomas Muir",
         "image_url": "",
         "position": "75",
+        "quantity": 3
+    },
+    {
+        "card_id": "leniency",
+        "flavor": "",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "76",
+        "quantity": 3
+    },
+    {
+        "card_id": "kujira-s-hireling",
+        "flavor": "",
+        "illustrator": "Isuardi Therianto",
+        "image_url": "",
+        "position": "77",
         "quantity": 3
     },
     {
@@ -493,6 +645,14 @@
         "illustrator": "Mauro Dal Bo",
         "image_url": "",
         "position": "81",
+        "quantity": 3
+    },
+    {
+        "card_id": "prayers-to-ebisu",
+        "flavor": "While some wish for glory, most simply desire comfort.",
+        "illustrator": "Stanislav Dikolenko",
+        "image_url": "",
+        "position": "82",
         "quantity": 3
     }
 ]
