@@ -1,18 +1,18 @@
 [
     {
-        "clan": "crane",
+        "clan": "lion",
         "cost": null,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
-        "id": "kakita-dojo",
+        "id": "tactician-s-camp",
         "influence_cost": null,
         "influence_pool": null,
         "military": null,
         "military_bonus": null,
-        "name": "Kakita Dōjō",
+        "name": "Tactician's Camp",
         "name_extra": null,
         "political": null,
         "political_bonus": null,
@@ -20,9 +20,9 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": "+1",
-        "text": "<b>Action:</b> During a conflict, initiate a [conflict-military] duel – resolve the duel. Until the end of the conflict, the duel's loser cannot trigger its abilities. If the duel's winner is a <em>Duelist</em>, bow the duel's loser as well.",
+        "text": "Each honored character you control gets +1[conflict-military].",
         "traits": [
-            "dojo"
+            "battlefield"
         ],
         "type": "holding",
         "unicity": false

@@ -1,0 +1,32 @@
+[
+    {
+        "clan": "neutral",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "righteous-magistrate",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "3",
+        "military_bonus": null,
+        "name": "Righteous Magistrate",
+        "name_extra": null,
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": "keeper",
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<em>Keeper</em> role only.\nWhile this character is defending, players cannot gain or lose honor.",
+        "traits": [
+            "courtier",
+            "imperial",
+            "magistrate"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

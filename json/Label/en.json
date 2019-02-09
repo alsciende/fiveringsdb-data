@@ -172,6 +172,10 @@
         "value": "Elemental Master"
     },
     {
+        "id": "trait.emperor",
+        "value": "Emperor"
+    },
+    {
         "id": "trait.engineer",
         "value": "Engineer"
     },

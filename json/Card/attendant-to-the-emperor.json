@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "scorpion",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "attendant-to-the-emperor",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "1",
+        "military_bonus": null,
+        "name": "Attendant to the Emperor",
+        "name_extra": null,
+        "political": "5",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "",
+        "traits": [
+            "courtier",
+			"imperial"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

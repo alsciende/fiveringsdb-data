@@ -1,0 +1,28 @@
+[
+    {
+        "clan": "neutral",
+        "cost": null,
+        "deck_limit": 1,
+        "element": "earth",
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "vassal-fields",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Vassal Fields",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "province",
+        "strength": "4",
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a conflict at this province - your opponent loses 1 fate.",
+        "traits": [],
+        "type": "province",
+        "unicity": false
+    }
+]
