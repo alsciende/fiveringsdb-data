@@ -20,7 +20,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> Perform a glory count - The player who loses the glory count returns all rings in his or her claimed ring pool to the unclaimed ring pool.",
+        "text": "<b>Action:</b> Perform a glory count. The player who loses the glory count returns all rings in his or her claimed ring pool to the unclaimed ring pool.",
         "traits": [
         	"spell",
 			"void"
