@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "crane",
+        "cost": null,
+        "deck_limit": 1,
+        "element": "water",
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "market-of-kaze-no-kami",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Market of Kaze-no-Kami",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "province",
+        "strength": "3",
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After this province is revealed, choose a character that is not honored – bow that character.",
+        "traits": [
+        	"marketplace"
+        ],
+        "type": "province",
+        "unicity": false
+    }
+]
