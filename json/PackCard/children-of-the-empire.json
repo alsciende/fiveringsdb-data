@@ -34,7 +34,7 @@
     {
         "card_id": "vassal-fields",
         "flavor": "\"New daimyō, same tax.\"",
-        "illustrator": "",
+        "illustrator": "IFS",
         "image_url": "",
         "position": "5",
         "quantity": 1  
@@ -66,7 +66,7 @@
     {
         "card_id": "hida-yakamo",
         "flavor": "",
-        "illustrator": "",
+        "illustrator": "Asep Ariyanto",
         "image_url": "",
         "position": "9",
         "quantity": 3
@@ -498,7 +498,7 @@
     {
         "card_id": "the-fires-of-justice",
         "flavor": "",
-        "illustrator": "",
+        "illustrator": "Isuardi Therianto",
         "image_url": "",
         "position": "63",
         "quantity": 3
@@ -530,7 +530,7 @@
     {
         "card_id": "severed-from-the-stream",
         "flavor": "\"There is no place for you, not even the Void.\"",
-        "illustrator": "",
+        "illustrator": "Reiko Murakami",
         "image_url": "",
         "position": "67",
         "quantity": 3  
