@@ -187,5 +187,14 @@
         "released_at": "2018-04-01",
         "ffg_id": "L5C18",
         "cycle_id": "clan-packs"
+    },
+    {
+        "id": "for-the-empire",
+        "name": "For the Empire",
+        "position": 1,
+        "size": 22,
+        "released_at": "2018-05-01",
+        "ffg_id": "L5C19",
+        "cycle_id": "inheritance"
     }
 ]
