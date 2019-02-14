@@ -252,6 +252,10 @@
         "value": "Library"
     },
     {
+        "id": "trait.marketplace",
+        "value": "Marketplace"
+    },
+    {
         "id": "trait.magistrate",
         "value": "Magistrate"
     },
