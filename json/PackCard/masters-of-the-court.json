@@ -7,12 +7,28 @@
         "position": "1",
         "quantity": 1
     },
+	{
+        "card_id": "market-of-kaze-no-kami",
+        "flavor": "The Daidoji learned long ago that the marketplace was merely another battlefield for them to master.",
+        "illustrator": "",
+        "image_url": "",
+        "position": "2",
+        "quantity": 1
+	}
     {
         "card_id": "support-of-the-crane",
         "flavor": "",
         "illustrator": "",
         "image_url": "",
         "position": "3",
+        "quantity": 1
+    },
+    {
+        "card_id": "kakite-favorite",
+        "flavor": "\"They will forget your name when they hear of mine.\"",
+        "illustrator": "Drew Baker",
+        "image_url": "",
+        "position": "6",
         "quantity": 1
     },
     {
@@ -31,6 +47,14 @@
         "position": "9",
         "quantity": 3
     },
+	{
+    	"card_id": "daidoji-uji",
+    	"flavor": "\"I'm proud of what Uji-sama has done with the Iron Cranes. But do they have the will to bear such crimson stains upon their white wings?\" - Bayushi Shoju",
+    	"illustrator": "Amélie Hutt",
+    	"image_url": "",
+    	"position": "11",
+    	"quantity": 3
+	},
     {
         "card_id": "distinguished-dojo",
         "flavor": "",
@@ -61,6 +85,22 @@
         "illustrator": "",
         "image_url": "",
         "position": "21",
+        "quantity": 3
+    },
+    {
+        "card_id": "the-spear-rushes-forth",
+        "flavor": "The Crane lives by the ceaseless vigilance of the Defenders of the Doji.",
+        "illustrator": "",
+        "image_url": "",
+        "position": "23",
+        "quantity": 3
+    },
+    {
+        "card_id": "shinjo-haruko",
+        "flavor": "\"I will forge my own destiny, and I do not need some treaty to do it.\"",
+        "illustrator": "Drew Baker",
+        "image_url": "",
+        "position": "26",
         "quantity": 3
     }
 ]
