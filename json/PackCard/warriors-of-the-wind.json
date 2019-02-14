@@ -1,18 +1,26 @@
 [
     {
-        "card_id": "compass",
+        "card_id": "shiro-shinjo",
         "flavor": "",
-        "illustrator": "Derek D. Edgell",
+        "illustrator": "Chris Ostrowski",
         "image_url": "",
-        "position": "27",
+        "position": "1",
         "quantity": 3
     },
     {
-        "card_id": "curved-blade",
+        "card_id": "khan-s-ordu",
         "flavor": "",
-        "illustrator": "Carlos Palma Cruchaga",
+        "illustrator": "Luis Nunez De Castro Torres",
         "image_url": "",
-        "position": "20",
+        "position": "2",
+        "quantity": 3
+    },
+    {
+        "card_id": "support-of-the-unicorn",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "3",
         "quantity": 3
     },
     {
@@ -24,11 +32,11 @@
         "quantity": 3
     },
     {
-        "card_id": "iuchi-daiyu",
-        "flavor": "Even the greatest amount of love for his firstborn daughter could not hinder his duty to the Emperor.",
-        "illustrator": "Le Vuong",
+        "card_id": "shinjo-trailblazer",
+        "flavor": "\"Do you fear what lies beyond your sight?\"",
+        "illustrator": "Edwin David",
         "image_url": "",
-        "position": "9",
+        "position": "6",
         "quantity": 3
     },
     {
@@ -40,19 +48,35 @@
         "quantity": 3
     },
     {
-        "card_id": "shinjo-trailblazer",
-        "flavor": "\"Do you fear what lies beyond your sight?\"",
-        "illustrator": "Edwin David",
+        "card_id": "iuchi-daiyu",
+        "flavor": "Even the greatest amount of love for his firstborn daughter could not hinder his duty to the Emperor.",
+        "illustrator": "Le Vuong",
         "image_url": "",
-        "position": "6",
+        "position": "9",
         "quantity": 3
     },
     {
-        "card_id": "shiro-shinjo",
-        "flavor": "",
-        "illustrator": "Chris Ostrowski",
+        "card_id": "hida-tsuru",
+        "flavor": "\"We cannot simply hide on our wall and wait.\"",
+        "illustrator": "Lukas Banas",
         "image_url": "",
-        "position": "1",
+        "position": "12",
+        "quantity": 3
+    },
+    {
+        "card_id": "curved-blade",
+        "flavor": "",
+        "illustrator": "Carlos Palma Cruchaga",
+        "image_url": "",
+        "position": "20",
+        "quantity": 3
+    },
+    {
+        "card_id": "ring-of-binding",
+        "flavor": "\"For the next thousand days and a day, may you contemplate the suffering you have wrought upon the lives of innocents.\"",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "",
+        "position": "21",
         "quantity": 3
     },
     {
@@ -61,6 +85,14 @@
         "illustrator": "Joshua Cairós",
         "image_url": "",
         "position": "23",
+        "quantity": 3
+    },
+    {
+        "card_id": "compass",
+        "flavor": "",
+        "illustrator": "Derek D. Edgell",
+        "image_url": "",
+        "position": "27",
         "quantity": 3
     },
     {
