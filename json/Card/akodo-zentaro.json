@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "lion",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "akodo-zentaro",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "3",
+        "military_bonus": null,
+        "name": "Akodo Zentarō",
+        "name_extra": null,
+        "political": "1",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Disguised <em>Bushi</em>.\n<b>Action:</b> During a conflict in which this character is attacking, choose a non-unique holding in the attacked province - gain control of that holding and move it to one of your unbroken provinces, if able, discarding each other card in the province. Otherwise, discard it.",
+        "traits": [
+            "bushi",
+            "commander"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]
