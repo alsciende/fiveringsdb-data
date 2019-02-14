@@ -147,6 +147,10 @@
         "id": "trait.creature",
         "value": "Creature"
     },
+	{
+        "id": "trait.crown-prince",
+        "value": "Crown Prince"
+    },
     {
         "id": "trait.curse",
         "value": "Curse"
