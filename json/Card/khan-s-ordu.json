@@ -1,18 +1,18 @@
 [
     {
-        "clan": "neutral",
+        "clan": "unicorn",
         "cost": null,
         "deck_limit": 1,
-        "element": "void",
+        "element": "fire",
         "fate": null,
         "glory": null,
         "honor": null,
-        "id": "temple-of-the-dragons",
+        "id": "khan-s-ordu",
         "influence_cost": null,
         "influence_pool": null,
         "military": null,
         "military_bonus": null,
-        "name": "Temple of the Dragons",
+        "name": "Khan's Ordu",
         "name_extra": null,
         "political": null,
         "political_bonus": null,
@@ -20,11 +20,9 @@
         "side": "province",
         "strength": "4",
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After this province is revealed - resolve the contested ring's effects as if you were the attacking player.",
-        "traits": [
-            "temple"
-        ],
+        "text": "<b>Reaction:</b> After this province is revealed - if the current conflict is [conflict-political], switch the conflict type. Each conflict declared this phase is [conflict-military] instead of its normal type.",
+        "traits": [],
         "type": "province",
-        "unicity": false
+        "unicity": true
     }
 ]
