@@ -20,7 +20,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "Pride\n<b>Action:</b> During a conflict, initiate a [conflict-military] duel - resolve the duel. The duel's winner does not bow as a result of this conflict's resolution.",
+        "text": "Pride.\n<b>Action:</b> During a conflict, initiate a [conflict-military] duel - resolve the duel. The duel's winner does not bow as a result of this conflict's resolution.",
         "traits": [
             "bushi",
             "duelist"
