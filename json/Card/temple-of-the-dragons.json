@@ -20,7 +20,7 @@
         "side": "province",
         "strength": "4",
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After this province is revealed - resolve the contested ring as if you were the attacking player.",
+        "text": "<b>Reaction:</b> After this province is revealed - resolve the contested ring's effects as if you were the attacking player.",
         "traits": [
             "temple"
         ],

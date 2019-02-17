@@ -20,7 +20,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": "+1",
-        "text": "<b>Action:</b> During a conflict, initiate a [conflict-military] duel – resolve the duel. Move 1 fate from the duel's loser to its owner's fate pool. If the duel's winner is a <em>Duelist</em>, discard the fate instead.",
+        "text": "<b>Action:</b> During a conflict, initiate a [conflict-military] duel – resolve the duel. Move 1 fate from the duel's loser to its owner's fate pool. If the duel's winner is a <em>Duelist</em>, discard that fate instead.",
         "traits": [
             "dojo"
         ],
