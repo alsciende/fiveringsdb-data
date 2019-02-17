@@ -20,7 +20,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Interrupt:</b> When an opponent initiates a duel that targets a character your control - cancel the duel.",
+        "text": "<b>Interrupt:</b> When an opponent initiates a duel that targets a character you control - cancel the duel.",
         "traits": [],
         "type": "event",
         "unicity": false
