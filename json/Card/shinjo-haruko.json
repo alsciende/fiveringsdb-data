@@ -1,0 +1,32 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "shinjo-haruko",
+        "influence_cost": 3,
+        "influence_pool": null,
+        "military": "3",
+        "military_bonus": null,
+        "name": "Shinjo Haruko",
+        "name_extra": null,
+        "political": "2",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a conflict in which this character is participating, choose an honored character - move that character to the conflict.",
+        "traits": [
+            "bushi",
+            "cavalry",
+            "scout"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]
