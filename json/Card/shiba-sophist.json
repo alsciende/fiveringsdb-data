@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "phoenix",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "shiba-sophist",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Shiba Sophist",
+        "name_extra": null,
+        "political": "1",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a conflict in which this character is participating - search the top 5 cards of you conflict deck for a card that shares a <em>Trait</em> with an element of the contested ring, reveal it, and add it to your hand. Shuffle.",
+        "traits": [
+            "bushi",
+            "scholar"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

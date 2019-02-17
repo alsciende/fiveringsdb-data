@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 4,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "shinjo-kyora",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "4",
+        "military_bonus": null,
+        "name": "Shinjo Kyōra",
+        "name_extra": null,
+        "political": "2",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Disguised <em>Cavalry</em>.\n<b>Action:</b> During a conflict in which this character is participating - switch the contested ring with a ring in the unclaimed ring pool. <i>(The attacking player gains all fate on that ring. Retain the ring's conflict type.)</i>",
+        "traits": [
+            "bushi",
+            "cavalry"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]

@@ -30,6 +30,12 @@
         "size": 6
     },
     {
+        "id": "inheritance",
+        "name": "Inheritance Cycle",
+        "position": 6,
+        "size": 6
+    },
+    {
       "id": "promos",
       "name": "Promos",
       "position": 99,
