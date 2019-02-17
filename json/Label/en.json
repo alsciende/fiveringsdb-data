@@ -419,6 +419,10 @@
         "id": "trait.trap",
         "value": "Trap"
     },
+	{
+        "id": "trait.unicorn",
+        "value": "Unicorn"
+    },
     {
         "id": "trait.void",
         "value": "Void"
