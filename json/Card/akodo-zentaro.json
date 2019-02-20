@@ -1,18 +1,18 @@
 [
     {
         "clan": "lion",
-        "cost": 2,
+        "cost": 3,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
-        "id": "honorable-challenger",
+        "id": "akodo-zentaro",
         "influence_cost": null,
         "influence_pool": null,
-        "military": "2",
+        "military": "3",
         "military_bonus": null,
-        "name": "Honorable Challenger",
+        "name": "Akodo Zentarō",
         "name_extra": null,
         "political": "1",
         "political_bonus": null,
@@ -20,12 +20,12 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "Pride.\n<b>Action:</b> During a conflict, initiate a [conflict-military] duel - resolve the duel. The duel's winner does not bow as a result of this conflict's resolution.",
+        "text": "Disguised <em>Bushi</em>.\n<b>Action:</b> During a conflict in which this character is attacking, choose a non-unique holding in the attacked province - gain control of that holding and move it to one of your unbroken provinces, if able, discarding each other card in the province. Otherwise, discard it.",
         "traits": [
             "bushi",
-            "duelist"
+            "commander"
         ],
         "type": "character",
-        "unicity": false
+        "unicity": true
     }
 ]

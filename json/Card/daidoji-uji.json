@@ -1,18 +1,18 @@
 [
     {
-        "clan": "crab",
-        "cost": 4,
+        "clan": "crane",
+        "cost": 5,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 1,
+        "glory": 2,
         "honor": null,
-        "id": "hida-yakamo",
+        "id": "daidoji-uji",
         "influence_cost": null,
         "influence_pool": null,
-        "military": "4",
+        "military": "6",
         "military_bonus": null,
-        "name": "Hida Yakamo",
+        "name": "Daidoji Uji",
         "name_extra": null,
         "political": "2",
         "political_bonus": null,
@@ -20,11 +20,11 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "While you are less honorable than an opponent, this character does not bow as the result of conflict resolution in [conflict-military] conflicts and cannot lose duels. <i>(This character is not the duel's loser, but the opponent's character is still the duel's winner.)</i>",
+        "text": "While this character is honored, you may play each character in your provinces as if it were in your hand, reducing its cost by 1.",
         "traits": [
             "bushi",
-            "berserker",
-            "duelist"
+            "daimyo",
+			"shinobi"
         ],
         "type": "character",
         "unicity": true
