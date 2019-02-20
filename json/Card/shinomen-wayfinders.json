@@ -1,0 +1,32 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 4,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "shinomen-wayfinders",
+        "influence_cost": 1,
+        "influence_pool": null,
+        "military": "3",
+        "military_bonus": null,
+        "name": "Shinomen Wayfinders",
+        "name_extra": null,
+        "political": "1",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "No attachments except <em>Weapon</em>.\nDuring a conflict, reduce the cost to play this character by 1 for each participating [clan-unicorn] character you control.",
+        "traits": [
+            "bushi",
+            "cavalry",
+			"scout"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

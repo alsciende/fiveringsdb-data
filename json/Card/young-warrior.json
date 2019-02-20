@@ -1,0 +1,32 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "young-warrior",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "3",
+        "military_bonus": null,
+        "name": "Young Warrior",
+        "name_extra": null,
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "This character must be declared as an attacker or defender in the first conflict declared each round.",
+        "traits": [
+            "bushi",
+            "cavalry",
+			"battle-maiden"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

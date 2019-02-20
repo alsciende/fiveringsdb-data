@@ -24,11 +24,11 @@
         "quantity": 3
     },
     {
-        "card_id": "hida-tsuru",
-        "flavor": "\"We cannot simply hide on our wall and wait.\"",
-        "illustrator": "Lukas Banas",
+        "card_id": "young-warrior",
+        "flavor": "Utaku women prove early on whether they have the strength and dedication to join the venerated ranks of the shiotome.",
+        "illustrator": "Anthony Grabski",
         "image_url": "",
-        "position": "12",
+        "position": "5",
         "quantity": 3
     },
     {
@@ -56,11 +56,35 @@
         "quantity": 3
     },
     {
+        "card_id": "aranat",
+        "flavor": "",
+        "illustrator": "Olly Lawson",
+        "image_url": "",
+        "position": "11",
+        "quantity": 3
+    },
+    {
         "card_id": "hida-tsuru",
         "flavor": "\"We cannot simply hide on our wall and wait.\"",
         "illustrator": "Lukas Banas",
         "image_url": "",
         "position": "12",
+        "quantity": 3
+    },
+    {
+        "card_id": "visiting-advisor",
+        "flavor": "She comes with foreign wisdom and leaves with fresh alliances.",
+        "illustrator": "Gong Studios",
+        "image_url": "",
+        "position": "18",
+        "quantity": 3
+    },
+    {
+        "card_id": "shinomen-wayfinders",
+        "flavor": "\"There are strange creatures that lie within Shinomen that are... unlikely to greet us as friends. Stay on your guard.\" - Shinjo Tatsuo",
+        "illustrator": "Jarreau Wimberly",
+        "image_url": "",
+        "position": "19",
         "quantity": 3
     },
     {
@@ -85,6 +109,14 @@
         "illustrator": "Joshua Cairós",
         "image_url": "",
         "position": "23",
+        "quantity": 3
+    },
+    {
+        "card_id": "warriors-of-the-wind",
+        "flavor": "",
+        "illustrator": "Wen Juinn",
+        "image_url": "",
+        "position": "25",
         "quantity": 3
     },
     {
