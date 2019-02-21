@@ -20,7 +20,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "This character gets +2[conflict-polititcal] while it is involved in a duel.",
+        "text": "This character gets +2[conflict-political] while it is involved in a duel.",
         "traits": [
             "bushi",
             "duelist"
