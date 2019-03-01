@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "phoenix",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "kaito-nobukai",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Kaito Nobukai",
+        "name_extra": null,
+        "political": "2",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a conflict in which this character is participating, sacrifice this character - bow each participating character. Character cannot be moved to this conflict.",
+        "traits": [
+            "courtier",
+			"daimyo"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]
