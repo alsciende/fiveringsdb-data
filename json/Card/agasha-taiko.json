@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "dragon",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "id": "agasha-taiko",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Agasha Taiko",
+        "name_extra": null,
+        "political": "2",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After you play this character, choose a non-stronghold province - that province cannot be attacked this round.",
+        "traits": [
+            "bushi"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]
