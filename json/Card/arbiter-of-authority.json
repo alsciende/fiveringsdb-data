@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "crane",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "arbiter-of-authority",
+        "influence_cost": 2,
+        "influence_pool": null,
+        "military": "0",
+        "military_bonus": null,
+        "name": "Arbiter of Authority",
+        "name_extra": null,
+        "political": "2",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a conflict, initiate a [conflict-political] duel – your opponent may dishonor his or her character to refuse the duel. Otherwise, resolve the duel. Bow and move home the duel's loser.",
+        "traits": [
+            "courtier",
+			"duelist"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]
