@@ -26,12 +26,13 @@ class Card
     const TYPE_ROLE = 'role';
     const TYPE_STRONGHOLD = 'stronghold';
 
-    const ELEMENTS = ['air', 'earth', 'fire', 'void', 'water'];
+    const ELEMENTS = ['air', 'earth', 'fire', 'void', 'water', 'all'];
     const ELEMENT_AIR = 'air';
     const ELEMENT_EARTH = 'earth';
     const ELEMENT_FIRE = 'fire';
     const ELEMENT_VOID = 'void';
     const ELEMENT_WATER = 'water';
+    const ELEMENT_ALL = 'all';
 
     const SIDES = ['conflict', 'dynasty', 'province', 'role'];
     const SIDE_CONFLICT = 'conflict';
