@@ -52,6 +52,9 @@ App\Entity\Card:
         cost:
             - Type: integer
             - GreaterThanOrEqual: 0
+            - Expression:
+                expression: "this.getType() in ['holding','province','role','stronghold','attachment'] or value !== null"
+                message: Must have a cost.
         text:
             - Type: string
             - Expression:
