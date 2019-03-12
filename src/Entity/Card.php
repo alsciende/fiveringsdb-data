@@ -70,11 +70,11 @@ class Card
     private $name;
 
     /**
-     * @var int
+     * @var string|null
      *
-     * @ORM\Column(name="cost", type="integer", nullable=true)
+     * @ORM\Column(name="cost", type="string", nullable=true)
      *
-     * @Skizzle\Field(type="integer")
+     * @Skizzle\Field(type="string")
      */
     private $cost;
 
@@ -308,12 +308,12 @@ class Card
         return $this;
     }
 
-    public function getCost(): int
+    public function getCost(): ?string
     {
         return $this->cost;
     }
 
-    public function setCost(int $cost): self
+    public function setCost(?string $cost): self
     {
         $this->cost = $cost;
 
