@@ -1,4 +1,4 @@
-	App\Entity\Card:
+App\Entity\Card:
     constraints:
         - App\Validator\Constraints\HasCorrectSlug: ~
     properties:
@@ -52,6 +52,9 @@
         cost:
             - Type: integer
             - GreaterThanOrEqual: 0
+            - Expression:
+                expression: "this.getType() in ['holding','province','role','stronghold'] and value !== null"
+                message: Cannot have a cost.
         text:
             - Type: string
             - Expression:
