@@ -60,6 +60,10 @@
         "value": "Water"
     },
     {
+        "id": "element.all",
+        "value": "All"
+    },
+    {
         "id": "side.conflict",
         "value": "Conflict"
     },

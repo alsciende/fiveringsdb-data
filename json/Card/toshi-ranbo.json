@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "scorpion",
+        "cost": null,
+        "deck_limit": 1,
+        "element": "all",
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "toshi-ranbo",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Toshi Ranbo",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "province",
+        "strength": "3",
+        "strength_bonus": null,
+        "text": "This province starts the game faceup and cannot be turned facedown. It cannot be a stronghold province.\nCharacters played from this province enter play with 1 additional fate on them.",
+        "traits": [
+			"imperial"
+		],
+        "type": "province",
+        "unicity": true
+    }
+]

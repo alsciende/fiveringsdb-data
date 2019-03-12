@@ -31,7 +31,7 @@ App\Entity\Card:
         element:
             - Type: string
             - Choice:
-                choices: [air, earth, fire, void, water]
+                choices: [air, earth, fire, void, water, all]
                 strict: true
                 message: Not a valid element.
             - Expression:
