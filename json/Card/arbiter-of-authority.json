@@ -1,28 +1,29 @@
 [
     {
         "clan": "crane",
-        "cost": 1,
+        "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 1,
+        "glory": 2,
         "honor": null,
-        "id": "ichigenkin-soloist",
-        "influence_cost": null,
+        "id": "arbiter-of-authority",
+        "influence_cost": 2,
         "influence_pool": null,
         "military": "0",
         "military_bonus": null,
-        "name": "Ichigenkin Soloist",
+        "name": "Arbiter of Authority",
         "name_extra": null,
         "political": "2",
         "political_bonus": null,
         "role_restriction": null,
-        "side": "dynasty",
+        "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "Composure - This character cannot be chosen as the target of an opponent's triggered ability. <i>(You have composure if your honor bid is lower than an opponent's.)</i>",
+        "text": "<b>Action:</b> During a conflict, initiate a [conflict-political] duel – your opponent may dishonor his or her character to refuse the duel. Otherwise, resolve the duel. Bow and move home the duel's loser.",
         "traits": [
-            "courtier"
+            "courtier",
+			"duelist"
         ],
         "type": "character",
         "unicity": false

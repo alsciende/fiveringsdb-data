@@ -1,31 +1,31 @@
 [
     {
         "clan": "lion",
-        "cost": 2,
+        "cost": 4,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
-        "id": "honorable-challenger",
-        "influence_cost": null,
+        "id": "ikoma-anakazu",
+        "influence_cost": 4,
         "influence_pool": null,
-        "military": "2",
+        "military": "3",
         "military_bonus": null,
-        "name": "Honorable Challenger",
+        "name": "Ikoma Anakazu",
         "name_extra": null,
-        "political": "1",
+        "political": "3",
         "political_bonus": null,
         "role_restriction": null,
-        "side": "dynasty",
+        "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "Pride.\n<b>Action:</b> During a conflict, initiate a [conflict-military] duel - resolve the duel. The duel's winner does not bow as a result of this conflict's resolution.",
+        "text": "During each conflict in which this character is participating, it gets +3[conflict-military] and +3[conflict-political] if your opponent has broken one or more of your provinces this phase.",
         "traits": [
             "bushi",
-            "duelist"
+			"daimyo"
         ],
         "type": "character",
-        "unicity": false
+        "unicity": true
     }
 ]

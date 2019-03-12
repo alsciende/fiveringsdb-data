@@ -1,0 +1,58 @@
+[
+    {
+        "card_id": "festival-of-the-departed",
+        "flavor": "",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "25",
+        "quantity": 1
+    },
+    {
+        "card_id": "yogo-preserver",
+        "flavor": "",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "",
+        "position": "1",
+        "quantity": 3
+    },
+    {
+        "card_id": "arbiter-of-authority",
+        "flavor": "Yuuhisa immediately regretted asking who had requested the historical records.",
+        "illustrator": "Eli Ring",
+        "image_url": "",
+        "position": "34",
+        "quantity": 3
+    },
+    {
+        "card_id": "duel-to-the-death",
+        "flavor": "\"So be it.\" - Kakita Toshimoko",
+        "illustrator": "Sergio Camarena",
+        "image_url": "",
+        "position": "36",
+        "quantity": 3
+    },
+    {
+        "card_id": "isawa-tadaka-2",
+        "flavor": "",
+        "illustrator": "Pius Pranoto",
+        "image_url": "",
+        "position": "40",
+        "quantity": 3
+    },
+    {
+        "card_id": "earth-becomes-sky",
+        "flavor": "\"I used to look up to the heavens, but the earth seems to have decided it wants that position.\"",
+        "illustrator": "Lukas Banas",
+        "image_url": "",
+        "position": "41",
+        "quantity": 3
+    },
+    {
+        "card_id": "softskin",
+        "flavor": "\"I wish you luck on your return to court.\"",
+        "illustrator": "Ruko Murakami",
+        "image_url": "",
+        "position": "43",
+        "quantity": 3
+    }
+]

@@ -1,42 +1,34 @@
 [
     {
-        "card_id": "compass",
+        "card_id": "shiro-shinjo",
         "flavor": "",
-        "illustrator": "Derek D. Edgell",
+        "illustrator": "Chris Ostrowski",
         "image_url": "",
-        "position": "27",
+        "position": "1",
         "quantity": 3
     },
     {
-        "card_id": "curved-blade",
+        "card_id": "khan-s-ordu",
         "flavor": "",
-        "illustrator": "Carlos Palma Cruchaga",
+        "illustrator": "Luis Nunez De Castro Torres",
         "image_url": "",
-        "position": "20",
+        "position": "2",
         "quantity": 3
     },
     {
-        "card_id": "hida-tsuru",
-        "flavor": "\"We cannot simply hide on our wall and wait.\"",
-        "illustrator": "Lukas Banas",
-        "image_url": "",
-        "position": "12",
-        "quantity": 3
-    },
-    {
-        "card_id": "iuchi-daiyu",
-        "flavor": "Even the greatest amount of love for his firstborn daughter could not hinder his duty to the Emperor.",
-        "illustrator": "Le Vuong",
-        "image_url": "",
-        "position": "9",
-        "quantity": 3
-    },
-    {
-        "card_id": "iuchi-farseer",
+        "card_id": "support-of-the-unicorn",
         "flavor": "",
         "illustrator": "",
         "image_url": "",
-        "position": "7",
+        "position": "3",
+        "quantity": 3
+    },
+    {
+        "card_id": "young-warrior",
+        "flavor": "Utaku women prove early on whether they have the strength and dedication to join the venerated ranks of the shiotome.",
+        "illustrator": "Anthony Grabski",
+        "image_url": "",
+        "position": "5",
         "quantity": 3
     },
     {
@@ -48,11 +40,107 @@
         "quantity": 3
     },
     {
-        "card_id": "shiro-shinjo",
+        "card_id": "iuchi-farseer",
         "flavor": "",
-        "illustrator": "Chris Ostrowski",
+        "illustrator": "",
         "image_url": "",
-        "position": "1",
+        "position": "7",
+        "quantity": 3
+    },
+    {
+        "card_id": "iuchi-daiyu",
+        "flavor": "Even the greatest amount of love for his firstborn daughter could not hinder his duty to the Emperor.",
+        "illustrator": "Le Vuong",
+        "image_url": "",
+        "position": "9",
+        "quantity": 3
+    },
+    {
+        "card_id": "aranat",
+        "flavor": "",
+        "illustrator": "Olly Lawson",
+        "image_url": "",
+        "position": "11",
+        "quantity": 3
+    },
+    {
+        "card_id": "hida-tsuru",
+        "flavor": "\"We cannot simply hide on our wall and wait.\"",
+        "illustrator": "Lukas Banas",
+        "image_url": "",
+        "position": "12",
+        "quantity": 3
+    },
+    {
+        "card_id": "kakita-ryoku",
+        "flavor": "From the virtue of her writing, gossip about the former Imperial Advisor inevitably becomes reverent praise.",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "13",
+        "quantity": 3
+    },
+    {
+        "card_id": "agasha-taiko",
+        "flavor": "\"How could it be wrong to seek the enlightenment the ise zumi so effortlessly possess, when we all work towards Togashi's wisdom?\"",
+        "illustrator": "Albert Tavira",
+        "image_url": "",
+        "position": "14",
+        "quantity": 3
+    },
+    {
+        "card_id": "kaito-nobukai",
+        "flavor": "\"The art of archery is the art of letting go.\"",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "",
+        "position": "15",
+        "quantity": 3
+    },
+    {
+        "card_id": "shosuro-hyobu",
+        "flavor": "",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "16",
+        "quantity": 3
+    },
+    {
+        "card_id": "ivory-kingdoms-unicorn",
+        "flavor": "\"Fat, stupid, and ugly. A perfect unicorn!\" - Caliph Harun",
+        "illustrator": "Eli Ring",
+        "image_url": "",
+        "position": "17",
+        "quantity": 3
+    },
+    {
+        "card_id": "visiting-advisor",
+        "flavor": "She comes with foreign wisdom and leaves with fresh alliances.",
+        "illustrator": "Gong Studios",
+        "image_url": "",
+        "position": "18",
+        "quantity": 3
+    },
+    {
+        "card_id": "shinomen-wayfinders",
+        "flavor": "\"There are strange creatures that lie within Shinomen that are... unlikely to greet us as friends. Stay on your guard.\" - Shinjo Tatsuo",
+        "illustrator": "Jarreau Wimberly",
+        "image_url": "",
+        "position": "19",
+        "quantity": 3
+    },
+    {
+        "card_id": "curved-blade",
+        "flavor": "",
+        "illustrator": "Carlos Palma Cruchaga",
+        "image_url": "",
+        "position": "20",
+        "quantity": 3
+    },
+    {
+        "card_id": "ring-of-binding",
+        "flavor": "\"For the next thousand days and a day, may you contemplate the suffering you have wrought upon the lives of innocents.\"",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "",
+        "position": "21",
         "quantity": 3
     },
     {
@@ -61,6 +149,30 @@
         "illustrator": "Joshua Cairós",
         "image_url": "",
         "position": "23",
+        "quantity": 3
+    },
+    {
+        "card_id": "warriors-of-the-wind",
+        "flavor": "",
+        "illustrator": "Wen Juinn",
+        "image_url": "",
+        "position": "25",
+        "quantity": 3
+    },
+	{
+        "card_id": "ikoma-anakazu",
+        "flavor": "\"You dishonor yourself and your clan with this rejection, Mistress of the Impetuous Winds.\"",
+        "illustrator": "Conceptopolis",
+        "image_url": "",
+        "position": "26",
+        "quantity": 3
+    },
+    {
+        "card_id": "compass",
+        "flavor": "",
+        "illustrator": "Derek D. Edgell",
+        "image_url": "",
+        "position": "27",
         "quantity": 3
     },
     {

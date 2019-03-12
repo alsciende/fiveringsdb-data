@@ -7,25 +7,26 @@
         "fate": null,
         "glory": 1,
         "honor": null,
-        "id": "ide-negotiator",
-        "influence_cost": null,
+        "id": "shinjo-haruko",
+        "influence_cost": 3,
         "influence_pool": null,
-        "military": "2",
+        "military": "3",
         "military_bonus": null,
-        "name": "Ide Negotiator",
+        "name": "Shinjo Haruko",
         "name_extra": null,
-        "political": "3",
+        "political": "2",
         "political_bonus": null,
         "role_restriction": null,
-        "side": "dynasty",
+        "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After you reveal your honor dial - change the bid on your dial to a value 1 higher or lower than its current value <i>(to a minimum of 1 and a maximum of 5)</i>.",
+        "text": "<b>Action:</b> During a conflict in which this character is participating, choose an honored character - move that character to the conflict.",
         "traits": [
-            "courtier",
-            "cavalry"
+            "bushi",
+            "cavalry",
+            "scout"
         ],
         "type": "character",
-        "unicity": false
+        "unicity": true
     }
 ]

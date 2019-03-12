@@ -1,0 +1,58 @@
+[
+    {
+        "card_id": "fifth-tower-watch",
+        "flavor": "",
+        "illustrator": "Leanna Crossan",
+        "image_url": "",
+        "position": "5",
+        "quantity": 3
+    },
+    {
+        "card_id": "akodo-zentaro",
+        "flavor": "",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "",
+        "position": "9",
+        "quantity": 3
+    },
+    {
+        "card_id": "shiba-sophist",
+        "flavor": "",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "10",
+        "quantity": 3
+    },
+    {
+        "card_id": "shinjo-kyora",
+        "flavor": "",
+        "illustrator": "Jorge Matar",
+        "image_url": "",
+        "position": "12",
+        "quantity": 3
+    },
+    {
+        "card_id": "hantei-sotorii",
+        "flavor": "",
+        "illustrator": "Leo Avero",
+        "image_url": "",
+        "position": "13",
+        "quantity": 3
+    },
+    {
+        "card_id": "purity-of-spirit",
+        "flavor": "\"One masters war by embracing peace.\" - Tao of Shinsei",
+        "illustrator": "Tony Foti",
+        "image_url": "",
+        "position": "19",
+        "quantity": 3
+    },
+    {
+        "card_id": "a-perfect-cut",
+        "flavor": "\"The quality of a warrior's skill can be measured in a single stroke\" - Book of Sun Tao",
+        "illustrator": "David Horn",
+        "image_url": "",
+        "position": "22",
+        "quantity": 3
+    }
+]

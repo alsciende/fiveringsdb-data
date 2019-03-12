@@ -20,7 +20,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "While you are more honorable than your opponent, this character gets +2[conflict-political].",
+        "text": "While you are more honorable than an opponent, this character gets +2[conflict-political].",
         "traits": [
             "courtier"
         ],

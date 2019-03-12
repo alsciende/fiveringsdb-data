@@ -1,18 +1,18 @@
 [
     {
-        "clan": "scorpion",
-        "cost": 1,
+        "clan": "unicorn",
+        "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
-        "id": "kirei-ko",
+        "id": "warriors-of-the-wind",
         "influence_cost": 3,
         "influence_pool": null,
         "military": null,
         "military_bonus": null,
-        "name": "Kirei-ko",
+        "name": "Warriors of the Wind",
         "name_extra": null,
         "political": null,
         "political_bonus": null,
@@ -20,10 +20,8 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After a character your opponent controls triggers an ability - bow that character.",
-        "traits": [
-            "poison"
-        ],
+        "text": "<b>Action:</b> During a conflict - move each participating <em>Cavalry</em> character you control home. Then, choose any number of <em>Cavalry</em> character you control and move them to the conflict.",
+        "traits": [],
         "type": "event",
         "unicity": false
     }

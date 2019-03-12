@@ -1,29 +1,29 @@
 [
     {
-        "clan": "unicorn",
-        "cost": 3,
+        "clan": "crab",
+        "cost": 5,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 1,
         "honor": null,
-        "id": "ide-negotiator",
+        "id": "fifth-tower-watch",
         "influence_cost": null,
         "influence_pool": null,
-        "military": "2",
+        "military": "5",
         "military_bonus": null,
-        "name": "Ide Negotiator",
+        "name": "Fifth Tower Watch",
         "name_extra": null,
-        "political": "3",
+        "political": "4",
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After you reveal your honor dial - change the bid on your dial to a value 1 higher or lower than its current value <i>(to a minimum of 1 and a maximum of 5)</i>.",
+        "text": "No attachments except <em>Weapon</em>.\n<b>Interrupt:</b> When you sacrifice a character, choose an opponent. That opponent must choose a character he or she controls with lower [conflict-military] skill than the sacrificed character - bow that character.",
         "traits": [
-            "courtier",
-            "cavalry"
+            "bushi",
+            "army"
         ],
         "type": "character",
         "unicity": false

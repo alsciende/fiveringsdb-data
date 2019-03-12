@@ -151,6 +151,10 @@
         "id": "trait.creature",
         "value": "Creature"
     },
+	{
+        "id": "trait.crown-prince",
+        "value": "Crown Prince"
+    },
     {
         "id": "trait.curse",
         "value": "Curse"
@@ -256,6 +260,10 @@
         "value": "Library"
     },
     {
+        "id": "trait.marketplace",
+        "value": "Marketplace"
+    },
+    {
         "id": "trait.magistrate",
         "value": "Magistrate"
     },
@@ -337,7 +345,7 @@
     },
     {
         "id": "trait.ronin",
-        "value": "Ronin"
+        "value": "Rōnin"
     },
     {
         "id": "trait.scholar",
@@ -418,6 +426,10 @@
     {
         "id": "trait.trap",
         "value": "Trap"
+    },
+	{
+        "id": "trait.unicorn",
+        "value": "Unicorn"
     },
     {
         "id": "trait.void",
