@@ -1,0 +1,33 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 6,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "id": "aranat",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "6",
+        "military_bonus": null,
+        "name": "Aranat",
+        "name_extra": null,
+        "political": "6",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "No attachments.\n<b>Reaction:</b> After you play this character, choose an opponent - that player may reveal any number of his or her facedown non-stronghold provinces. Then, place 1 fate on this character for each facedown province that player controls <i>(including their stronghold province)</i>.",
+        "traits": [
+            "creature",
+            "air",
+            "mythic",
+            "spirit"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]

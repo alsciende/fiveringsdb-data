@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "neutral",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "id": "ivory-kingdoms-unicorn",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "4",
+        "military_bonus": null,
+        "name": "Ivory Kingdoms Unicorn",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "No attachments.\n<b>Reaction:</> After the resolution of a conflict in which this character was attacking, if a province was broken in the conflict - immediately declare your next conflict for the phase. That conflict is [conflict-military] instead of its normal type.",
+        "traits": [
+            "creature",
+            "gaijin"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

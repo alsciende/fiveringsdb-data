@@ -1,31 +1,31 @@
 [
     {
-        "clan": "crane",
-        "cost": 2,
+        "clan": "phoenix",
+        "cost": 3,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 1,
+        "glory": 2,
         "honor": null,
-        "id": "kakita-favorite",
+        "id": "kaito-nobukai",
         "influence_cost": null,
         "influence_pool": null,
-        "military": "3",
+        "military": "2",
         "military_bonus": null,
-        "name": "Kakita Favorite",
+        "name": "Kaito Nobukai",
         "name_extra": null,
-        "political": "1",
+        "political": "2",
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "This character gets +2[conflict-political] while it is involved in a duel.",
+        "text": "<b>Action:</b> During a conflict in which this character is participating, sacrifice this character - bow each participating character. Character cannot be moved to this conflict.",
         "traits": [
-            "bushi",
-            "duelist"
+            "courtier",
+			"daimyo"
         ],
         "type": "character",
-        "unicity": false
+        "unicity": true
     }
 ]
