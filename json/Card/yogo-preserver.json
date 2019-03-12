@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "scorpion",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "yogo-preserver",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Yogo Preserver",
+        "name_extra": null,
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Each dishonored character you control gains sincerity.",
+        "traits": [
+            "shugenja",
+            "air"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

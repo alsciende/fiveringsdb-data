@@ -196,5 +196,14 @@
         "released_at": "2018-05-01",
         "ffg_id": "L5C19",
         "cycle_id": "inheritance"
+    },
+    {
+        "id": "bonds-of-blood",
+        "name": "Bonds of Blood",
+        "position": 2,
+        "size": 22,
+        "released_at": "2018-06-01",
+        "ffg_id": "L5C20",
+        "cycle_id": "inheritance"
     }
 ]
