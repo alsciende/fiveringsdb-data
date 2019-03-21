@@ -71,9 +71,9 @@ class Card
     private $name;
 
     /**
-     * @var int
+     * @var integer|null
      *
-     * @ORM\Column(name="cost", type="integer", nullable=true)
+     * @ORM\Column(name="cost", type="smallint", nullable=true)
      *
      * @Skizzle\Field(type="integer")
      */
@@ -309,12 +309,12 @@ class Card
         return $this;
     }
 
-    public function getCost(): int
+    public function getCost(): ?int
     {
         return $this->cost;
     }
 
-    public function setCost(int $cost): self
+    public function setCost(?int $cost): self
     {
         $this->cost = $cost;
 

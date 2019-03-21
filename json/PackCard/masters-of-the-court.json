@@ -102,5 +102,13 @@
         "image_url": "",
         "position": "26",
         "quantity": 3
+    },
+    {
+        "card_id": "daimyo-s-gunbai",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "27",
+        "quantity": 3
     }
 ]
