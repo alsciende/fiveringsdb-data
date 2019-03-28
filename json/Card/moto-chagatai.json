@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 5,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "moto-chagatai",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "6",
+        "military_bonus": null,
+        "name": "Moto Chagatai",
+        "name_extra": null,
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "This character does not bow during the conflict resolution of conflicts in which a province your opponent controls was broken.",
+        "traits": [
+            "bushi",
+            "cavalry"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]
