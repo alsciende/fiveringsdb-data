@@ -1,0 +1,28 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 0,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "spoils-of-war",
+        "influence_cost": 2,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Spoils of War",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After you win a [conflict-military] as the attacker - draw 3 cards. Then, choose and discard 1 card from your hand. (Max 1 per conflict.)",
+        "traits": [],
+        "type": "event",
+        "unicity": false
+    }
+]
