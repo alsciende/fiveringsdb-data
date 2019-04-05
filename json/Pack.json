@@ -205,5 +205,14 @@
         "released_at": "2018-06-01",
         "ffg_id": "L5C20",
         "cycle_id": "inheritance"
+    },
+    {
+        "id": "justice-for-satsume",
+        "name": "Justice for Satsume",
+        "position": 2,
+        "size": 22,
+        "released_at": "2018-07-01",
+        "ffg_id": "L5C21",
+        "cycle_id": "inheritance"
     }
 ]
