@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "shinjo-gunso",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "1",
+        "military_bonus": null,
+        "name": "Shinjo Gunsō",
+        "name_extra": null,
+        "political": "1",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After you play this character from your provinces - look at the top 5 cards of your dynasty deck. You may put a character with cost 2 or lower from among those cards into play. Discard the rest.",
+        "traits": [
+            "bushi",
+            "cavalry"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]
