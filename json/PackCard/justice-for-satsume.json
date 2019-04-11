@@ -1,0 +1,66 @@
+[
+    {
+        "card_id": "into-the-forbidden-city",
+        "flavor": "",
+        "illustrator": "Leanna Crossan",
+        "image_url": "",
+        "position": "47",
+        "quantity": 1
+    },
+    {
+        "card_id": "matsu-swiftspear",
+        "flavor": "\"One does not achieve victory by holding forces in reserve.\" - Akodo's Leadership",
+        "illustrator": "Hector Herreira",
+        "image_url": "",
+        "position": "53",
+        "quantity": 3
+    },
+    {
+        "card_id": "steward-of-the-rich-frog",
+        "flavor": "The City of the Rich Frog receives goods from all over Rokugan for trade. Whether the caretaking of those goods is meant to be overseen by the Lion, the Dragon, or the Unicorn depends upon who you ask.",
+        "illustrator": "Eli Ring",
+        "image_url": "",
+        "position": "54",
+        "quantity": 3
+    },
+    {
+        "card_id": "shinjo-gunso",
+        "flavor": "\"March divided. Attack united.\" - from the tactics of Shinjo Khulan Khan",
+        "illustrator": "Eli Ring",
+        "image_url": "",
+        "position": "58",
+        "quantity": 3
+    },
+    {
+        "card_id": "wayfinder-s-camp",
+        "flavor": "",
+        "illustrator": "Leanna Crossan",
+        "image_url": "",
+        "position": "59",
+        "quantity": 3
+    },
+    {
+        "card_id": "sharpen-the-mind",
+        "flavor": "Even in peace, the warrioir's mind cannot rest.",
+        "illustrator": "Eli Ring",
+        "image_url": "",
+        "position": "63",
+        "quantity": 3
+    },
+    {
+        "card_id": "shosuro-miyako-2",
+        "flavor": "",
+        "illustrator": "Derek D. Edgell",
+        "image_url": "",
+        "position": "65",
+        "quantity": 3
+    },
+    {
+        "card_id": "ujik-tactics",
+        "flavor": "It was only by adopting the tactics of their assailants that the Ki-Rin Clan survived their journey across the Plain of Wind and Stone.",
+        "illustrator": "Shen Fei",
+        "image_url": "",
+        "position": "66",
+        "quantity": 3
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "scorpion",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "shosuro-miyako-2",
+        "influence_cost": 2,
+        "influence_pool": null,
+        "military": "3",
+        "military_bonus": null,
+        "name": "Shosuro Miyako",
+        "name_extra": "(2)",
+        "political": "2",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Disguised non-[clan-scorpion] character.\nThis character can only be played by the disguised keyword.\n<b>Reaction:</b> After you play this character, choose a non-unique character an opponent controls - dishonor that character.",
+        "traits": [
+            "bushi",
+            "shinobi"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]
