@@ -24,6 +24,14 @@
         "quantity": 3
     },
     {
+        "card_id": "wild-stallion",
+        "flavor": "",
+        "illustrator": "Eli Ring",
+        "image_url": "",
+        "position": "3",
+        "quantity": 3
+    },
+    {
         "card_id": "young-warrior",
         "flavor": "Utaku women prove early on whether they have the strength and dedication to join the venerated ranks of the shiotome.",
         "illustrator": "Anthony Grabski",
@@ -45,6 +53,14 @@
         "illustrator": "",
         "image_url": "",
         "position": "7",
+        "quantity": 3
+    },
+    {
+        "card_id": "saadiyah-al-mozedu",
+        "flavor": "\"When I turned sixteen I vowed to escape or to die in the attempt, thereby to free my father to act against the caliph's tyranny.\"",
+        "illustrator": "Maerel Hibadita",
+        "image_url": "",
+        "position": "8",
         "quantity": 3
     },
     {
@@ -152,11 +168,27 @@
         "quantity": 3
     },
     {
+        "card_id": "utaku-battle-steed",
+        "flavor": "",
+        "illustrator": "Charles Urbach",
+        "image_url": "",
+        "position": "22",
+        "quantity": 3
+    },
+    {
         "card_id": "speak-to-the-heart",
         "flavor": "\"Let this be a token of good will, that a prosperous future awaits us both.\"",
         "illustrator": "Joshua Cairós",
         "image_url": "",
         "position": "23",
+        "quantity": 3
+    },
+    {
+        "card_id": "spoils-of-war",
+        "flavor": "\"It would be a shame to leave such craftsmanship to rust.\"",
+        "illustrator": "Andreia Ugrai",
+        "image_url": "",
+        "position": "24",
         "quantity": 3
     },
     {
@@ -189,14 +221,6 @@
         "illustrator": "Derek D. Edgell",
         "image_url": "",
         "position": "28",
-        "quantity": 3
-    },
-    {
-        "card_id": "utaku-battle-steed",
-        "flavor": "",
-        "illustrator": "",
-        "image_url": "",
-        "position": "2",
         "quantity": 3
     }
 ]

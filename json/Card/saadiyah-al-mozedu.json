@@ -1,0 +1,32 @@
+[
+    {
+        "clan": "unicorn",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "saadiyah-al-mozedu",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "0",
+        "military_bonus": null,
+        "name": "Saadiyah al-Mozedu",
+        "name_extra": null,
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Sincerity.\n<b>Action:</b> Discard a card from your hand and choose an unbroken province not currently being attacked - turn that province facedown.",
+        "traits": [
+            "courtier",
+            "gaijin",
+            "scholar"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]
