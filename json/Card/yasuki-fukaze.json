@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "crab",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "id": "yasuki-fuzake",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Yasuki Fuzake",
+        "name_extra": null,
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Interrupt:</b> When this character leaves play, choose up to one character controlled by each player - discard each status token from each of those characters.",
+        "traits": [
+            "shugenja",
+            "earth"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]

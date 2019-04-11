@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "dragon",
+        "cost": 4,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "kitsuki-jusai",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "3",
+        "military_bonus": null,
+        "name": "Kitsuki Jusai",
+        "name_extra": null,
+        "political": "4",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After honor dials are revealed, if your honor bid is equal to an opponent's - move 1 fate from that opponent's fate pool to an unclaimed ring.",
+        "traits": [
+            "courtier",
+            "daimyo"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]
