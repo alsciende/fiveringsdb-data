@@ -29,7 +29,15 @@
         "illustrator": "Drew Baker",
         "image_url": "",
         "position": "6",
-        "quantity": 1
+        "quantity": 3
+    },
+    {
+        "card_id": "maker-of-keepsakes",
+        "flavor": "No two of her brushes are the same, each carved with a distinct grace that suits the kami dwelling within.",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "7",
+        "quantity": 3
     },
     {
         "card_id": "kakita-yuri",
@@ -47,12 +55,28 @@
         "position": "9",
         "quantity": 3
     },
+    {
+        "card_id": "benevolent-host",
+        "flavor": "Crane generosity often end conflicts before a single blow is struck.",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "10",
+        "quantity": 3
+    },
 	{
     	"card_id": "daidoji-uji",
     	"flavor": "\"I'm proud of what Uji-sama has done with the Iron Cranes. But do they have the will to bear such crimson stains upon their white wings?\" - Bayushi Shoju",
     	"illustrator": "Amélie Hutt",
     	"image_url": "",
     	"position": "11",
+    	"quantity": 3
+    },
+    {
+    	"card_id": "winter-court-hosts",
+    	"flavor": "",
+    	"illustrator": "Kevin Sidharta",
+    	"image_url": "",
+    	"position": "12",
     	"quantity": 3
 	},
     {
@@ -122,17 +146,33 @@
     {
         "card_id": "gossip",
         "flavor": "",
-        "illustrator": "",
+        "illustrator": "Richard Garcia",
         "image_url": "",
-        "position": "21",
+        "position": "22",
         "quantity": 3
     },
     {
         "card_id": "the-spear-rushes-forth",
         "flavor": "The Crane lives by the ceaseless vigilance of the Defenders of the Doji.",
-        "illustrator": "",
+        "illustrator": "Mark Smylie",
         "image_url": "",
         "position": "23",
+        "quantity": 3
+    },
+    {
+        "card_id": "courteous-scheming",
+        "flavor": "\"Why don't we discuss this in private?\"",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "24",
+        "quantity": 3
+    },
+    {
+        "card_id": "festival-for-the-fortunes",
+        "flavor": "Wisteria blooms \nPrayers fly on colored streamers \nArmies march to war",
+        "illustrator": "Borja Pindado",
+        "image_url": "",
+        "position": "25",
         "quantity": 3
     },
     {

@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "crane",
+        "cost": 6,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 3,
+        "honor": null,
+        "id": "winter-court-hosts",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Winter Court Hosts",
+        "name_extra": null,
+        "political": "7",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "No attachments.\n<b>Reaction:</b> After your opponent plays a card during a conflict in which this character is participating, if you are more honorable than that opponent - draw 1 card. <i>(Unlimited.)</i>",
+        "traits": [
+            "courtier"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]
