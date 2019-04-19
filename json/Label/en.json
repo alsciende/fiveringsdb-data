@@ -260,6 +260,10 @@
         "value": "Library"
     },
     {
+        "id": "trait.lion",
+        "value": "Lion"
+    },
+    {
         "id": "trait.marketplace",
         "value": "Marketplace"
     },
