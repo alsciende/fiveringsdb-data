@@ -214,5 +214,14 @@
         "released_at": "2018-07-01",
         "ffg_id": "L5C21",
         "cycle_id": "inheritance"
+    },
+    {
+        "id": "the-emperor-s-legion",
+        "name": "The Emperor's Legion",
+        "position": 5,
+        "size": 28,
+        "released_at": "2018-08-01",
+        "ffg_id": "L5C27",
+        "cycle_id": "clan-packs"
     }
 ]
