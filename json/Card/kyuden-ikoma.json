@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "lion",
+        "cost": null,
+        "deck_limit": 1,
+        "element": null,
+        "fate": 7,
+        "glory": null,
+        "honor": 13,
+        "id": "kyuden-ikoma",
+        "influence_cost": null,
+        "influence_pool": 10,
+        "military": null,
+        "military_bonus": null,
+        "name": "Kyūden Ikoma",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "province",
+        "strength": null,
+        "strength_bonus": "+1",
+        "text": "<b>Reaction:</b> After a character you control loses a conflict, bow this stronghold. Choose a non-<em>Champion</em> character - bow that character.",
+        "traits": [
+            "castle"
+        ],
+        "type": "stronghold",
+        "unicity": false
+    }
+]

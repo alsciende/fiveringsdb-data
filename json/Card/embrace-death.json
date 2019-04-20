@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "lion",
+        "cost": 0,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "embrace-death",
+        "influence_cost": 4,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Embrace Death",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After a <em>Bushi</em> character you control loses a conflict as the attacker, sacrifice it. Choose a character controlled by your opponent - if that character has no fate on it, discard it. Otherwise, remove 1 fate from it.",
+        "traits": [
+            "philosophy"
+        ],
+        "type": "event",
+        "unicity": false
+    }
+]

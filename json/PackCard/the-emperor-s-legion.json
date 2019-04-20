@@ -1,0 +1,58 @@
+[
+    {
+        "card_id": "kyuden-ikoma",
+        "flavor": "",
+        "illustrator": "Daniel Alekow",
+        "image_url": "",
+        "position": "1",
+        "quantity": 1
+    },
+    {
+        "card_id": "support-of-the-lion",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "3",
+        "quantity": 1
+    },
+    {
+        "card_id": "ashigaru-levy",
+        "flavor": "Ashigaru of the Lion Clan benefit from better training, better equipment, and greater numbers than those of any other clan.",
+        "illustrator": "Felipe Gaona",
+        "image_url": "",
+        "position": "4",
+        "quantity": 3
+    },
+    {
+        "card_id": "matsu-gohei",
+        "flavor": "\"Why'd you want to fight me when you'd do such a bad job of it.\"",
+        "illustrator": "Stanislav Dikolenko",
+        "image_url": "",
+        "position": "6",
+        "quantity": 3
+    },
+    {
+        "card_id": "voice-of-the-ancestors",
+        "flavor": "",
+        "illustrator": "Bram Sels",
+        "image_url": "",
+        "position": "10",
+        "quantity": 3
+    },
+    {
+        "card_id": "shosuro-denmaru",
+        "flavor": "\"I fear I can offer nothing of value for your investigation. I generally leave matters of murder in Denmaru's hands.\" - Shosuro Hyobu",
+        "illustrator": "Conceptopolis",
+        "image_url": "",
+        "position": "17",
+        "quantity": 3
+    },
+    {
+        "card_id": "embrace-death",
+        "flavor": "",
+        "illustrator": "Michael Matsumoto",
+        "image_url": "",
+        "position": "23",
+        "quantity": 3
+    }
+]
