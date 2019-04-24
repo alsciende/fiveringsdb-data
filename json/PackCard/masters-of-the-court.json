@@ -24,6 +24,22 @@
         "quantity": 1
     },
     {
+        "card_id": "iwasaki-pupil",
+        "flavor": "\"Remember that with you, there are no samurai. There are only men and women in need of a compassionate friend and a listening ear.\"",
+        "illustrator": "Luis Nci",
+        "image_url": "",
+        "position": "4",
+        "quantity": 1
+    },
+    {
+        "card_id": "beloved-advisor",
+        "flavor": "\"The children would love to see you again.\"\n\"As long as our lords maintain peace, I see no reason that could not happen.\"",
+        "illustrator": "Felipe Gaona",
+        "image_url": "",
+        "position": "5",
+        "quantity": 1
+    },
+    {
         "card_id": "kakita-favorite",
         "flavor": "\"They will forget your name when they hear of mine.\"",
         "illustrator": "Drew Baker",
@@ -144,6 +160,14 @@
         "quantity": 3
     },
     {
+        "card_id": "letter-from-the-daimyo",
+        "flavor": "",
+        "illustrator": "Carlos Palma Cruchaga",
+        "image_url": "",
+        "position": "21",
+        "quantity": 3
+    },
+    {
         "card_id": "gossip",
         "flavor": "",
         "illustrator": "Richard Garcia",
@@ -186,9 +210,17 @@
     {
         "card_id": "daimyo-s-gunbai",
         "flavor": "",
-        "illustrator": "",
+        "illustrator": "Robin Woulters",
         "image_url": "",
         "position": "27",
+        "quantity": 3
+    },
+    {
+        "card_id": "daimyo-s-gunbai",
+        "flavor": "",
+        "illustrator": "Luis Nunez De Castro",
+        "image_url": "\"The astute warrior who lives reaps three victories over the foolish warrior who dies.\" - Book of Sun Tao",
+        "position": "28",
         "quantity": 3
     }
 ]
