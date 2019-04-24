@@ -212,6 +212,10 @@
         "value": "Garden"
     },
     {
+        "id": "trait.geisha",
+        "value": "Geisha"
+    },
+    {
         "id": "trait.goblin",
         "value": "Goblin"
     },
