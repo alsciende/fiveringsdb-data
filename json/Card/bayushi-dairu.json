@@ -20,7 +20,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> During a conflict in which this character is participating, choose a status token on another characters in play - move that token to this character.",
+        "text": "<b>Action:</b> During a conflict in which this character is participating, choose a status token on another character in play - move that token to this character.",
         "traits": [
             "courtier",
             "scholar"

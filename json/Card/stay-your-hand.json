@@ -20,7 +20,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Interrupt:</b> When a duel that targets a character you control would resolve - cancel the duel.",
+        "text": "<b>Interrupt:</b> When a duel that targets a character you control would resolve - cancel the duel.\n<i>Errata from RRG v2.0</i>",
         "traits": [],
         "type": "event",
         "unicity": false

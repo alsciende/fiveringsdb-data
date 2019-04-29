@@ -20,7 +20,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After an opponent declares an [element-earth] conflict, choose a <em>Monk</em> character or a character with a <em>Monk</em> attachment – until the end of the conflict, opponents' card abilities cannot choose that character as a target. Draw 1 card.",
+        "text": "<b>Reaction:</b> After an opponent declares an [element-earth] conflict, choose a <em>Monk</em> character or a character with a <em>Monk</em> attachment – until the end of the conflict, opponents’ card abilities cannot choose that character as a target. Draw 1 card.\n<i>Errata from RRG v1.7</i>",
         "traits": [
             "kiho",
             "earth"
