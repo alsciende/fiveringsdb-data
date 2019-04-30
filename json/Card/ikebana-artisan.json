@@ -20,7 +20,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Interrupt:</b> When you would lose 1 honor for an unopposed conflict – cancel the honor loss. Then, lose 1 fate. (Unlimited.)",
+        "text": "<b>Interrupt:</b> When you would lose 1 honor for an unopposed conflict – cancel that honor loss. Then, lose 1 fate. (Unlimited.)\n<i>Errata from RRG v1.7</i>",
         "traits": [
             "courtier"
         ],
