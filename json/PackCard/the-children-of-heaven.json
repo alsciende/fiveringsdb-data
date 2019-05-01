@@ -1,0 +1,66 @@
+[
+    {
+        "card_id": "emperor-s-summons",
+        "flavor": "",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "68",
+        "quantity": 1
+    },
+    {
+        "card_id": "togashi-yoshi",
+        "flavor": "\"If I can provide some solace to those less fortunate, then perhaps I will understand my Champion's wisdom.\"",
+        "illustrator": "Amélie Hutt",
+        "image_url": "",
+        "position": "72",
+        "quantity": 3
+    },
+    {
+        "card_id": "truthseeker",
+        "flavor": "\"I recognized the ink that had been used, as one whose meesage could be hidden by clever alchemy.\"",
+        "illustrator": "Quintin Gleim",
+        "image_url": "",
+        "position": "73",
+        "quantity": 3
+    },
+    {
+        "card_id": "emissary-of-lies",
+        "flavor": "",
+        "illustrator": "Hai Hoang",
+        "image_url": "",
+        "position": "77",
+        "quantity": 3
+    },
+    {
+        "card_id": "hantei-daisetsu",
+        "flavor": "",
+        "illustrator": "Polar Engine",
+        "image_url": "",
+        "position": "80",
+        "quantity": 3
+    },
+    {
+        "card_id": "rising-stars-kata",
+        "flavor": "",
+        "illustrator": "Carlos Nunez De Castro",
+        "image_url": "",
+        "position": "83",
+        "quantity": 3
+    },
+    {
+        "card_id": "unspoken-etiquette",
+        "flavor": "No one had informed the Hida visitors that gifts were expected for such an informal visit, but that didn't make their empty hands any less disgraceful.",
+        "illustrator": "Hai Hoang",
+        "image_url": "",
+        "position": "86",
+        "quantity": 3
+    },
+    {
+        "card_id": "overhear",
+        "flavor": "",
+        "illustrator": "Anna Christenson",
+        "image_url": "",
+        "position": "88",
+        "quantity": 3
+    }
+]
