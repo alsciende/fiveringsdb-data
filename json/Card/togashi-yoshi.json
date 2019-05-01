@@ -1,0 +1,31 @@
+[
+    {
+        "clan": "dragon",
+        "cost": 1,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "togashi-yoshi",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "1",
+        "military_bonus": null,
+        "name": "Togashi Yoshi",
+        "name_extra": null,
+        "political": "1",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After this character wins a conflict - gain 1 fate from an unclaimed ring.",
+        "traits": [
+            "monk",
+            "tattooed"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]

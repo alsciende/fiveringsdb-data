@@ -1,0 +1,32 @@
+[
+    {
+        "clan": "neutral",
+        "cost": 4,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 3,
+        "honor": null,
+        "id": "hantei-daisetsu",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "3",
+        "military_bonus": null,
+        "name": "Hantei Daisetsu",
+        "name_extra": null,
+        "political": "4",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Sincerity.\n<b>Action: </b>During a [conflict-political] conflict in which this character is participating, choose a participating character - until the end of the conflict, treat that character as if its printed text box were blank (except for <em>Traits</em>).",
+        "traits": [
+            "courtier",
+            "imperial",
+            "crown-prince"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]

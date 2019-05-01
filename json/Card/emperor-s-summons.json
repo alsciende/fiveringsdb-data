@@ -1,0 +1,28 @@
+[
+    {
+        "clan": "neutral",
+        "cost": null,
+        "deck_limit": 1,
+        "element": "air",
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "emperor-s-summons",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Emperor's Summons",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": "seeker",
+        "side": "province",
+        "strength": "5",
+        "strength_bonus": null,
+        "text": "<em>Seeker</em> role only.\n<b>Reaction:</b> After this province is revealed - search your dynasty deck for a character card and put it faceup into a non-stronghold province you control, discarding each other card in that province. Shuffle.",
+        "traits": [],
+        "type": "province",
+        "unicity": false
+    }
+]
