@@ -175,7 +175,7 @@
         "name": "Warriors of the Wind",
         "position": 3,
         "size": 28,
-        "released_at": "2018-04-01",
+        "released_at": "2019-04-11",
         "ffg_id": "L5C17",
         "cycle_id": "clan-packs"
     },
@@ -184,7 +184,7 @@
         "name": "Masters of the Court",
         "position": 4,
         "size": 28,
-        "released_at": "2018-04-01",
+        "released_at": "2019-04-26",
         "ffg_id": "L5C18",
         "cycle_id": "clan-packs"
     },
@@ -193,7 +193,7 @@
         "name": "For the Empire",
         "position": 1,
         "size": 22,
-        "released_at": "2018-05-01",
+        "released_at": "2019-05-01",
         "ffg_id": "L5C19",
         "cycle_id": "inheritance"
     },
@@ -202,7 +202,7 @@
         "name": "Bonds of Blood",
         "position": 2,
         "size": 22,
-        "released_at": "2018-06-01",
+        "released_at": "2019-06-01",
         "ffg_id": "L5C20",
         "cycle_id": "inheritance"
     },
@@ -211,7 +211,7 @@
         "name": "Justice for Satsume",
         "position": 3,
         "size": 22,
-        "released_at": "2018-07-01",
+        "released_at": "2019-07-01",
         "ffg_id": "L5C21",
         "cycle_id": "inheritance"
     },
@@ -220,8 +220,17 @@
         "name": "The Emperor's Legion",
         "position": 5,
         "size": 28,
-        "released_at": "2018-08-01",
+        "released_at": "2019-08-01",
         "ffg_id": "L5C27",
         "cycle_id": "clan-packs"
+    },
+    {
+        "id": "the-children-of-heaven",
+        "name": "The Children of Heaven",
+        "position": 4,
+        "size": 22,
+        "released_at": "2019-08-01",
+        "ffg_id": "L5C22",
+        "cycle_id": "inheritance"
     }
 ]
