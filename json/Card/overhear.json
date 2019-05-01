@@ -1,0 +1,28 @@
+[
+    {
+        "clan": "neutral",
+        "cost": 1,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "overhear",
+        "influence_cost": 0,
+        "influence_pool": null,
+        "military": null,
+        "military_bonus": null,
+        "name": "Overhear",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a [conflict-political] conflict - your opponent reveals a random card from his or her hand and puts it on top of his or her conflict deck. If you control a participating <em>Courtier</em> character, you may give your opponent 1 honor to resolve this ability twice.",
+        "traits": [],
+        "type": "event",
+        "unicity": false
+    }
+]

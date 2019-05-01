@@ -1,0 +1,30 @@
+[
+    {
+        "clan": "scorpion",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "emissary-of-lies",
+        "influence_cost": null,
+        "influence_pool": null,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Emissary of Lies",
+        "name_extra": null,
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a conflict in which this character is participating, choose a participating character controlled by your opponent - your opponent guesses the name of a card. You may reveal your hand. If you do, and the named card is not in your hand, move the chosen character home.",
+        "traits": [
+            "courtier"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]
