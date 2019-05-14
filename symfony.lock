@@ -134,9 +134,6 @@
             "ref": "9f94d3ea453cd8a3b95db7f82592d7344fe3a76a"
         }
     },
-    "symfony/contracts": {
-        "version": "v1.1.0"
-    },
     "symfony/debug": {
         "version": "v4.0.3"
     },
@@ -221,17 +218,20 @@
             "ref": "cda8b550123383d25827705d05a42acf6819fe4e"
         }
     },
-    "symfony/stopwatch": {
-        "version": "v4.2.8"
+    "symfony/translation": {
+        "version": "3.3",
+        "recipe": {
+            "repo": "github.com/symfony/recipes",
+            "branch": "master",
+            "version": "3.3",
+            "ref": "6bcd6c570c017ea6ae5a7a6a027c929fd3542cd8"
+        }
     },
     "symfony/validator": {
         "version": "v4.0.3"
     },
     "symfony/var-dumper": {
         "version": "v4.0.3"
-    },
-    "symfony/var-exporter": {
-        "version": "v4.2.8"
     },
     "symfony/yaml": {
         "version": "v4.0.3"
