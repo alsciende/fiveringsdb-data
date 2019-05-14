@@ -19,7 +19,7 @@
         "id": "embrace-the-void",
         "influence_cost": 2,
         "influence_pool": null,
-        "is_restricted": false,
+        "is_restricted": true,
         "military": null,
         "military_bonus": "+0",
         "name": "Embrace the Void",

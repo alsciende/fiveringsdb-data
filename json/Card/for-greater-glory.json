@@ -19,7 +19,7 @@
         "id": "for-greater-glory",
         "influence_cost": 3,
         "influence_pool": null,
-        "is_restricted": false,
+        "is_restricted": true,
         "military": null,
         "military_bonus": null,
         "name": "For Greater Glory",

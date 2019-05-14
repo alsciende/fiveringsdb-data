@@ -19,7 +19,7 @@
         "id": "pathfinder-s-blade",
         "influence_cost": 1,
         "influence_pool": null,
-        "is_restricted": false,
+        "is_restricted": true,
         "military": null,
         "military_bonus": "+1",
         "name": "Pathfinder's Blade",

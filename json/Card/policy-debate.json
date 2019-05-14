@@ -19,7 +19,7 @@
         "id": "policy-debate",
         "influence_cost": 0,
         "influence_pool": null,
-        "is_restricted": false,
+        "is_restricted": true,
         "military": null,
         "military_bonus": null,
         "name": "Policy Debate",
