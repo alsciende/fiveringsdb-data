@@ -1,5 +1,14 @@
 [
     {
+        "allowed_clans": [
+            "crab",
+            "crane",
+            "dragon",
+            "lion",
+            "phoenix",
+            "scorpion",
+            "unicorn"
+        ],
         "clan": "phoenix",
         "cost": 1,
         "deck_limit": 3,
@@ -10,6 +19,7 @@
         "id": "severed-from-the-stream",
         "influence_cost": 1,
         "influence_pool": null,
+        "is_restricted": false,
         "military": null,
         "military_bonus": null,
         "name": "Severed from the Stream",
@@ -22,8 +32,8 @@
         "strength_bonus": null,
         "text": "<b>Action:</b> Perform a glory count. The player who loses the glory count returns all rings in his or her claimed ring pool to the unclaimed ring pool.",
         "traits": [
-        	"spell",
-			"void"
+            "spell",
+            "void"
         ],
         "type": "event",
         "unicity": false

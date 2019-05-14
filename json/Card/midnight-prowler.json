@@ -1,5 +1,8 @@
 [
     {
+        "allowed_clans": [
+            "scorpion"
+        ],
         "clan": "scorpion",
         "cost": 2,
         "deck_limit": 3,
@@ -10,6 +13,7 @@
         "id": "midnight-prowler",
         "influence_cost": null,
         "influence_pool": null,
+        "is_restricted": false,
         "military": "2",
         "military_bonus": null,
         "name": "Midnight Prowler",
@@ -23,7 +27,7 @@
         "text": "<b>Reaction:</b> After this character wins a [conflict-military] conflict - look at the top 2 cards of your opponent's conflict deck. You may discard 1 of those cards",
         "traits": [
             "bushi",
-			"shinobi"
+            "shinobi"
         ],
         "type": "character",
         "unicity": false

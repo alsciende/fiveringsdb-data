@@ -1,5 +1,14 @@
 [
     {
+        "allowed_clans": [
+            "crab",
+            "crane",
+            "dragon",
+            "lion",
+            "phoenix",
+            "scorpion",
+            "unicorn"
+        ],
         "clan": "unicorn",
         "cost": 4,
         "deck_limit": 3,
@@ -10,6 +19,7 @@
         "id": "shinomen-wayfinders",
         "influence_cost": 1,
         "influence_pool": null,
+        "is_restricted": false,
         "military": "3",
         "military_bonus": null,
         "name": "Shinomen Wayfinders",
@@ -24,7 +34,7 @@
         "traits": [
             "bushi",
             "cavalry",
-			"scout"
+            "scout"
         ],
         "type": "character",
         "unicity": false

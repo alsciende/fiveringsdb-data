@@ -1,5 +1,14 @@
 [
     {
+        "allowed_clans": [
+            "crab",
+            "crane",
+            "dragon",
+            "lion",
+            "phoenix",
+            "scorpion",
+            "unicorn"
+        ],
         "clan": "neutral",
         "cost": 5,
         "deck_limit": 3,
@@ -10,6 +19,7 @@
         "id": "akodo-toturi-2",
         "influence_cost": null,
         "influence_pool": null,
+        "is_restricted": false,
         "military": "6",
         "military_bonus": null,
         "name": "Akodo Toturi",

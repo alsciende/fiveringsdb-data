@@ -1,5 +1,14 @@
 [
     {
+        "allowed_clans": [
+            "crab",
+            "crane",
+            "dragon",
+            "lion",
+            "phoenix",
+            "scorpion",
+            "unicorn"
+        ],
         "clan": "scorpion",
         "cost": 4,
         "deck_limit": 3,
@@ -10,6 +19,7 @@
         "id": "a-fate-worse-than-death",
         "influence_cost": 3,
         "influence_pool": null,
+        "is_restricted": false,
         "military": null,
         "military_bonus": null,
         "name": "A Fate Worse Than Death",

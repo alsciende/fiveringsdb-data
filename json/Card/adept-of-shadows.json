@@ -1,5 +1,14 @@
 [
     {
+        "allowed_clans": [
+            "crab",
+            "crane",
+            "dragon",
+            "lion",
+            "phoenix",
+            "scorpion",
+            "unicorn"
+        ],
         "clan": "scorpion",
         "cost": 2,
         "deck_limit": 3,
@@ -10,6 +19,7 @@
         "id": "adept-of-shadows",
         "influence_cost": 3,
         "influence_pool": null,
+        "is_restricted": false,
         "military": "2",
         "military_bonus": null,
         "name": "Adept of Shadows",

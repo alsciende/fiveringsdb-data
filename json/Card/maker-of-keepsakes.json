@@ -1,5 +1,8 @@
 [
     {
+        "allowed_clans": [
+            "crane"
+        ],
         "clan": "crane",
         "cost": 3,
         "deck_limit": 3,
@@ -10,6 +13,7 @@
         "id": "maker-of-keepsakes",
         "influence_cost": null,
         "influence_pool": null,
+        "is_restricted": false,
         "military": "3",
         "military_bonus": null,
         "name": "Maker of Keepsakes",

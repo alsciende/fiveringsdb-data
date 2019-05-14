@@ -1,5 +1,8 @@
 [
     {
+        "allowed_clans": [
+            "crane"
+        ],
         "clan": "crane",
         "cost": 4,
         "deck_limit": 3,
@@ -10,6 +13,7 @@
         "id": "asahina-storyteller",
         "influence_cost": null,
         "influence_pool": null,
+        "is_restricted": false,
         "military": "2",
         "military_bonus": null,
         "name": "Asahina Storyteller",

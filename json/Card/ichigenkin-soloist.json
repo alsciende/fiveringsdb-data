@@ -1,5 +1,8 @@
 [
     {
+        "allowed_clans": [
+            "crane"
+        ],
         "clan": "crane",
         "cost": 1,
         "deck_limit": 3,
@@ -10,6 +13,7 @@
         "id": "ichigenkin-soloist",
         "influence_cost": null,
         "influence_pool": null,
+        "is_restricted": false,
         "military": "0",
         "military_bonus": null,
         "name": "Ichigenkin Soloist",

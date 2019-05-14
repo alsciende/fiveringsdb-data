@@ -1,5 +1,8 @@
 [
     {
+        "allowed_clans": [
+            "lion"
+        ],
         "clan": "lion",
         "cost": null,
         "deck_limit": 1,
@@ -10,6 +13,7 @@
         "id": "hito-district",
         "influence_cost": null,
         "influence_pool": null,
+        "is_restricted": false,
         "military": null,
         "military_bonus": null,
         "name": "Hito District",

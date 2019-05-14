@@ -1,5 +1,14 @@
 [
     {
+        "allowed_clans": [
+            "crab",
+            "crane",
+            "dragon",
+            "lion",
+            "phoenix",
+            "scorpion",
+            "unicorn"
+        ],
         "clan": "phoenix",
         "cost": 5,
         "deck_limit": 3,
@@ -10,6 +19,7 @@
         "id": "isawa-tadaka-2",
         "influence_cost": 2,
         "influence_pool": null,
+        "is_restricted": false,
         "military": "5",
         "military_bonus": null,
         "name": "Isawa Tadaka",
@@ -24,7 +34,7 @@
         "traits": [
             "shugenja",
             "earth",
-			"elemental-master"
+            "elemental-master"
         ],
         "type": "character",
         "unicity": true

@@ -1,5 +1,6 @@
 [
     {
+        "allowed_clans": [],
         "clan": "unicorn",
         "cost": null,
         "deck_limit": 1,
@@ -10,6 +11,7 @@
         "id": "border-fortress",
         "influence_cost": null,
         "influence_pool": null,
+        "is_restricted": false,
         "military": null,
         "military_bonus": null,
         "name": "Border Fortress",

@@ -1,5 +1,8 @@
 [
     {
+        "allowed_clans": [
+            "scorpion"
+        ],
         "clan": "scorpion",
         "cost": 5,
         "deck_limit": 3,
@@ -10,6 +13,7 @@
         "id": "ignoble-enforcers",
         "influence_cost": null,
         "influence_pool": null,
+        "is_restricted": false,
         "military": "4",
         "military_bonus": null,
         "name": "Ignoble Enforcers",

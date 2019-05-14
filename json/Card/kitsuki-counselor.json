@@ -1,5 +1,8 @@
 [
     {
+        "allowed_clans": [
+            "dragon"
+        ],
         "clan": "dragon",
         "cost": 1,
         "deck_limit": 3,
@@ -10,6 +13,7 @@
         "id": "kitsuki-counselor",
         "influence_cost": null,
         "influence_pool": null,
+        "is_restricted": false,
         "military": "1",
         "military_bonus": null,
         "name": "Kitsuki Counselor",

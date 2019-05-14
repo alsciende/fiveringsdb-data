@@ -1,5 +1,6 @@
 [
     {
+        "allowed_clans": [],
         "clan": "lion",
         "cost": null,
         "deck_limit": 1,
@@ -10,6 +11,7 @@
         "id": "hisu-mori-toride-lion",
         "influence_cost": null,
         "influence_pool": 9,
+        "is_restricted": false,
         "military": null,
         "military_bonus": null,
         "name": "Hisu Mori Toride",

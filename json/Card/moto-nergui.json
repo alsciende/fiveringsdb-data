@@ -1,5 +1,8 @@
 [
     {
+        "allowed_clans": [
+            "unicorn"
+        ],
         "clan": "unicorn",
         "cost": 3,
         "deck_limit": 3,
@@ -10,6 +13,7 @@
         "id": "moto-nergui",
         "influence_cost": null,
         "influence_pool": null,
+        "is_restricted": false,
         "military": "2",
         "military_bonus": null,
         "name": "Moto Nergüi",
