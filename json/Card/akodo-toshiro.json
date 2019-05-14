@@ -1,5 +1,8 @@
 [
     {
+        "allowed_clans": [
+            "lion"
+        ],
         "clan": "lion",
         "cost": 2,
         "deck_limit": 3,
@@ -10,6 +13,7 @@
         "id": "akodo-toshiro",
         "influence_cost": null,
         "influence_pool": null,
+        "is_restricted": false,
         "military": "2",
         "military_bonus": null,
         "name": "Akodo Toshiro",

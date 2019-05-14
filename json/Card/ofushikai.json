@@ -1,5 +1,14 @@
 [
     {
+        "allowed_clans": [
+            "crab",
+            "crane",
+            "dragon",
+            "lion",
+            "phoenix",
+            "scorpion",
+            "unicorn"
+        ],
         "clan": "phoenix",
         "cost": 2,
         "deck_limit": 3,
@@ -10,6 +19,7 @@
         "id": "ofushikai",
         "influence_cost": null,
         "influence_pool": null,
+        "is_restricted": false,
         "military": null,
         "military_bonus": "+2",
         "name": "Ofushikai",

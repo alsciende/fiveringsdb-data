@@ -1,5 +1,14 @@
 [
     {
+        "allowed_clans": [
+            "crab",
+            "crane",
+            "dragon",
+            "lion",
+            "phoenix",
+            "scorpion",
+            "unicorn"
+        ],
         "clan": "lion",
         "cost": 0,
         "deck_limit": 3,
@@ -10,6 +19,7 @@
         "id": "embrace-death",
         "influence_cost": 4,
         "influence_pool": null,
+        "is_restricted": false,
         "military": null,
         "military_bonus": null,
         "name": "Embrace Death",

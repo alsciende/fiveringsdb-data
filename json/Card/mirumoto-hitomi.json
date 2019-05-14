@@ -1,5 +1,8 @@
 [
     {
+        "allowed_clans": [
+            "dragon"
+        ],
         "clan": "dragon",
         "cost": 4,
         "deck_limit": 3,
@@ -10,6 +13,7 @@
         "id": "mirumoto-hitomi",
         "influence_cost": null,
         "influence_pool": null,
+        "is_restricted": false,
         "military": "4",
         "military_bonus": null,
         "name": "Mirumoto Hitomi",

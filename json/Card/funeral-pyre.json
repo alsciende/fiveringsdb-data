@@ -1,5 +1,8 @@
 [
     {
+        "allowed_clans": [
+            "crab"
+        ],
         "clan": "crab",
         "cost": null,
         "deck_limit": 3,
@@ -10,6 +13,7 @@
         "id": "funeral-pyre",
         "influence_cost": null,
         "influence_pool": null,
+        "is_restricted": false,
         "military": null,
         "military_bonus": null,
         "name": "Funeral Pyre",

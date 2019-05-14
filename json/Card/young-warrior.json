@@ -1,5 +1,8 @@
 [
     {
+        "allowed_clans": [
+            "unicorn"
+        ],
         "clan": "unicorn",
         "cost": 2,
         "deck_limit": 3,
@@ -10,6 +13,7 @@
         "id": "young-warrior",
         "influence_cost": null,
         "influence_pool": null,
+        "is_restricted": false,
         "military": "3",
         "military_bonus": null,
         "name": "Young Warrior",
@@ -24,7 +28,7 @@
         "traits": [
             "bushi",
             "cavalry",
-			"battle-maiden"
+            "battle-maiden"
         ],
         "type": "character",
         "unicity": false

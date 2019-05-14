@@ -1,5 +1,14 @@
 [
     {
+        "allowed_clans": [
+            "crab",
+            "crane",
+            "dragon",
+            "lion",
+            "phoenix",
+            "scorpion",
+            "unicorn"
+        ],
         "clan": "crane",
         "cost": 1,
         "deck_limit": 3,
@@ -10,6 +19,7 @@
         "id": "kakita-blade",
         "influence_cost": 2,
         "influence_pool": null,
+        "is_restricted": false,
         "military": null,
         "military_bonus": "+2",
         "name": "Kakita Blade",

@@ -1,5 +1,14 @@
 [
     {
+        "allowed_clans": [
+            "crab",
+            "crane",
+            "dragon",
+            "lion",
+            "phoenix",
+            "scorpion",
+            "unicorn"
+        ],
         "clan": "neutral",
         "cost": 0,
         "deck_limit": 3,
@@ -10,6 +19,7 @@
         "id": "offer-testimony",
         "influence_cost": 0,
         "influence_pool": null,
+        "is_restricted": false,
         "military": null,
         "military_bonus": null,
         "name": "Offer Testimony",
@@ -21,8 +31,7 @@
         "strength": null,
         "strength_bonus": null,
         "text": "<b>Action:</b> During a [conflict-political] conflict, you and your opponent each chooses a ready participating character he or she controls – each of those players simultaneously reveals a card from his or her hand. Each player who reveals the lowest cost card bows his or her chosen character.",
-        "traits": [
-        ],
+        "traits": [],
         "type": "event",
         "unicity": false
     }

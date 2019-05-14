@@ -1,5 +1,14 @@
 [
     {
+        "allowed_clans": [
+            "crab",
+            "crane",
+            "dragon",
+            "lion",
+            "phoenix",
+            "scorpion",
+            "unicorn"
+        ],
         "clan": "crane",
         "cost": 0,
         "deck_limit": 3,
@@ -10,8 +19,9 @@
         "id": "icon-of-favor",
         "influence_cost": 2,
         "influence_pool": null,
+        "is_restricted": false,
         "military": null,
-        "military_bonus": "+0", 
+        "military_bonus": "+0",
         "name": "Icon of Favor",
         "name_extra": null,
         "political": null,

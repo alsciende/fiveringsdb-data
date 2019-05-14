@@ -1,5 +1,8 @@
 [
     {
+        "allowed_clans": [
+            "scorpion"
+        ],
         "clan": "scorpion",
         "cost": 4,
         "deck_limit": 3,
@@ -10,6 +13,7 @@
         "id": "shosuro-hametsu",
         "influence_cost": null,
         "influence_pool": null,
+        "is_restricted": false,
         "military": "2",
         "military_bonus": null,
         "name": "Shosuro Hametsu",
