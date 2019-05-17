@@ -1,6 +1,8 @@
 [
     {
-        "allowed_clans": [],
+        "allowed_clans": [
+            "phoenix"
+        ],
         "clan": "phoenix",
         "cost": null,
         "deck_limit": 1,

@@ -1,6 +1,8 @@
 [
     {
-        "allowed_clans": [],
+        "allowed_clans": [
+            "crane"
+        ],
         "clan": "crane",
         "cost": null,
         "deck_limit": 1,

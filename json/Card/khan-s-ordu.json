@@ -1,6 +1,8 @@
 [
     {
-        "allowed_clans": [],
+        "allowed_clans": [
+            "unicorn"
+        ],
         "clan": "unicorn",
         "cost": null,
         "deck_limit": 1,
