@@ -1,6 +1,8 @@
 [
     {
-        "allowed_clans": [],
+        "allowed_clans": [
+            "scorpion"
+        ],
         "clan": "scorpion",
         "cost": null,
         "deck_limit": 1,
