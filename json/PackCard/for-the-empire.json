@@ -16,6 +16,22 @@
         "quantity": 3
     },
     {
+        "card_id": "sententious-poet",
+        "flavor": "\"Please allow me to finish your composition. Your words inspire me towards the battle chants of the Moto.\"",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "6",
+        "quantity": 3
+    },
+    {
+        "card_id": "esteemed-tea-house",
+        "flavor": "",
+        "illustrator": "Leanna Crossan",
+        "image_url": "",
+        "position": "7",
+        "quantity": 3
+    },
+    {
         "card_id": "akodo-zentaro",
         "flavor": "",
         "illustrator": "Pavel Kolomeyets",
