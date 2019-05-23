@@ -424,6 +424,10 @@
         "value": "Tattooed"
     },
     {
+        "id": "trait.tea-house",
+        "value": "Tea House"
+    },
+    {
         "id": "trait.technique",
         "value": "Technique"
     },
