@@ -1,0 +1,35 @@
+[
+    {
+        "allowed_clans": [
+            "crab"
+        ],
+        "clan": "crab",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "hiruma-signaller",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Hiruma Signaller",
+        "name_extra": null,
+        "political": "2",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a conflict in which this character is defending, sacrifice this character and choose a character you control - ready that character and move it to the conflict.",
+        "traits": [
+            "bushi",
+            "scout"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

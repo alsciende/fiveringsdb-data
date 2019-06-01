@@ -1,0 +1,32 @@
+[
+    {
+        "allowed_clans": [
+            "dragon"
+        ],
+        "clan": "dragon",
+        "cost": null,
+        "deck_limit": 1,
+        "element": "earth",
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "scene-of-the-crime",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": null,
+        "military_bonus": null,
+        "name": "Scene of the Crime",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "province",
+        "strength": "4",
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After this province is revealed – look at your opponent's hand.",
+        "traits": [],
+        "type": "province",
+        "unicity": false
+    }
+]
