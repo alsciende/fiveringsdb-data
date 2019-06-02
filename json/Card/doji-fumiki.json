@@ -1,13 +1,7 @@
 [
     {
         "allowed_clans": [
-            "crab",
-            "crane",
-            "dragon",
-            "lion",
-            "phoenix",
-            "scorpion",
-            "unicorn"
+            "crane"
         ],
         "clan": "crane",
         "cost": 2,
