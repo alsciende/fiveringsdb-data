@@ -232,5 +232,14 @@
         "released_at": "2019-08-01",
         "ffg_id": "L5C22",
         "cycle_id": "inheritance"
+    },
+    {
+        "id": "a-champion-s-foresight",
+        "name": "A Champion's Foresight",
+        "position": 5,
+        "size": 22,
+        "released_at": "2019-09-01",
+        "ffg_id": "L5C23",
+        "cycle_id": "inheritance"
     }
 ]
