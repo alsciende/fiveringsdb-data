@@ -1,0 +1,66 @@
+[
+    {
+        "card_id": "shiro-kitsuki",
+        "flavor": "",
+        "illustrator": "Nele Diel",
+        "image_url": "",
+        "position": "89",
+        "quantity": 1
+    },
+    {
+        "card_id": "frontline-engineer",
+        "flavor": "",
+        "illustrator": "Stanislav Dikolenko",
+        "image_url": "",
+        "position": "92",
+        "quantity": 3
+    },
+    {
+        "card_id": "strategic-weakpoint",
+        "flavor": "",
+        "illustrator": "Calvin Chua",
+        "image_url": "",
+        "position": "93",
+        "quantity": 3
+    },
+    {
+        "card_id": "army-of-the-rising-wave",
+        "flavor": "\"Stripped by the wave, the wasteland becomes a battlefield.\" - Togashi Yokuni",
+        "illustrator": "Felipe Gaona",
+        "image_url": "",
+        "position": "96",
+        "quantity": 3
+    },
+    {
+        "card_id": "withstand-the-darkness",
+        "flavor": "",
+        "illustrator": "Andreja Ugrai",
+        "image_url": "",
+        "position": "103",
+        "quantity": 3
+    },
+    {
+        "card_id": "deduction",
+        "flavor": "",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "105",
+        "quantity": 3
+    },
+    {
+        "card_id": "by-any-means",
+        "flavor": "",
+        "illustrator": "Conceptopolis",
+        "image_url": "",
+        "position": "108",
+        "quantity": 3
+    },
+    {
+        "card_id": "outflank",
+        "flavor": "\"Do not follow the roads you foe lays out for you. Blaze your own.\" - from the tactics of Shinjo Khulan Khan",
+        "illustrator": "Calvin Chua",
+        "image_url": "",
+        "position": "110",
+        "quantity": 3
+    }
+]
