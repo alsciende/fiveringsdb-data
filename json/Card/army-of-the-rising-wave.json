@@ -1,0 +1,35 @@
+[
+    {
+        "allowed_clans": [
+            "dragon"
+        ],
+        "clan": "dragon",
+        "cost": 5,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "army-of-the-rising-wave",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": "6",
+        "military_bonus": null,
+        "name": "Army of the Rising Wave",
+        "name_extra": null,
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After this character enters play - place 1 fate on each unclaimed ring.",
+        "traits": [
+            "bushi",
+            "army"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

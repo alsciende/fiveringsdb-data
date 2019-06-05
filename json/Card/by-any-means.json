@@ -1,0 +1,40 @@
+[
+    {
+        "allowed_clans": [
+            "crab",
+            "crane",
+            "dragon",
+            "lion",
+            "phoenix",
+            "scorpion",
+            "unicorn"
+        ],
+        "clan": "scorpion",
+        "cost": 0,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "by-any-means",
+        "influence_cost": 2,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": null,
+        "military_bonus": null,
+        "name": "By Any Means",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a conflict, if your honor bid is higher than you opponent's, choose a participating <em>Bushi</em> character you control and a participating character your opponent controls - until the end of the conflict, set your character's base [conflict-military] skill to the current [conflict-military] skill of your opponent's character.",
+        "traits": [
+            "tactic"
+        ],
+        "type": "event",
+        "unicity": false
+    }
+]
