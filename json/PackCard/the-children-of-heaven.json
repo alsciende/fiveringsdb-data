@@ -8,6 +8,14 @@
         "quantity": 1
     },
     {
+        "card_id": "student-of-anatomies",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "69",
+        "quantity": 3
+    },
+    {
         "card_id": "togashi-yoshi",
         "flavor": "\"If I can provide some solace to those less fortunate, then perhaps I will understand my Champion's wisdom.\"",
         "illustrator": "Amélie Hutt",
@@ -29,6 +37,14 @@
         "illustrator": "Hai Hoang",
         "image_url": "",
         "position": "77",
+        "quantity": 3
+    },
+    {
+        "card_id": "ide-ryoma",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "79",
         "quantity": 3
     },
     {

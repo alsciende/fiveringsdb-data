@@ -8,11 +8,19 @@
         "quantity": 1
     },
     {
+        "card_id": "kitsuki-yuikimi",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "27",
+        "quantity": 1
+    },
+    {
         "card_id": "yogo-preserver",
         "flavor": "",
         "illustrator": "Pavel Kolomeyets",
         "image_url": "",
-        "position": "1",
+        "position": "30",
         "quantity": 3
     },
     {
@@ -24,11 +32,27 @@
         "quantity": 3
     },
     {
+        "card_id": "a-new-name",
+        "flavor": "With your new name, you leave childhood behind and begin your service to your lord",
+        "illustrator": "",
+        "image_url": "",
+        "position": "35",
+        "quantity": 3
+    },
+    {
         "card_id": "duel-to-the-death",
         "flavor": "\"So be it.\" - Kakita Toshimoko",
         "illustrator": "Sergio Camarena",
         "image_url": "",
         "position": "36",
+        "quantity": 3
+    },
+    {
+        "card_id": "forebearer-s-echoes",
+        "flavor": "",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "",
+        "position": "39",
         "quantity": 3
     },
     {

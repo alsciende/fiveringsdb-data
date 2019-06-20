@@ -1,5 +1,13 @@
 [
     {
+        "card_id": "conflict-between-kin",
+        "flavor": "",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "45",
+        "quantity": 1
+    },
+    {
         "card_id": "into-the-forbidden-city",
         "flavor": "",
         "illustrator": "Leanna Crossan",
@@ -37,6 +45,14 @@
         "illustrator": "Leanna Crossan",
         "image_url": "",
         "position": "59",
+        "quantity": 3
+    },
+    {
+        "card_id": "justicar-s-approach",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "62",
         "quantity": 3
     },
     {
