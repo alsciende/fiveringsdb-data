@@ -8,6 +8,14 @@
         "quantity": 1
     },
     {
+        "card_id": "smuggler-s-cove",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "91",
+        "quantity": 1
+    },
+    {
         "card_id": "frontline-engineer",
         "flavor": "",
         "illustrator": "Stanislav Dikolenko",
@@ -29,6 +37,14 @@
         "illustrator": "Felipe Gaona",
         "image_url": "",
         "position": "96",
+        "quantity": 3
+    },
+    {
+        "card_id": "petal-village-estate",
+        "flavor": "",
+        "illustrator": "Nele Diel",
+        "image_url": "",
+        "position": "101",
         "quantity": 3
     },
     {
