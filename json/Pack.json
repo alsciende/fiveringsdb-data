@@ -193,7 +193,7 @@
         "name": "For the Empire",
         "position": 1,
         "size": 22,
-        "released_at": "2019-05-01",
+        "released_at": "2019-06-22",
         "ffg_id": "L5C19",
         "cycle_id": "inheritance"
     },
@@ -202,7 +202,7 @@
         "name": "Bonds of Blood",
         "position": 2,
         "size": 22,
-        "released_at": "2019-06-01",
+        "released_at": "2019-07-01",
         "ffg_id": "L5C20",
         "cycle_id": "inheritance"
     },
@@ -211,25 +211,16 @@
         "name": "Justice for Satsume",
         "position": 3,
         "size": 22,
-        "released_at": "2019-07-01",
+        "released_at": "2019-08-01",
         "ffg_id": "L5C21",
         "cycle_id": "inheritance"
-    },
-    {
-        "id": "the-emperor-s-legion",
-        "name": "The Emperor's Legion",
-        "position": 5,
-        "size": 28,
-        "released_at": "2019-08-01",
-        "ffg_id": "L5C27",
-        "cycle_id": "clan-packs"
     },
     {
         "id": "the-children-of-heaven",
         "name": "The Children of Heaven",
         "position": 4,
         "size": 22,
-        "released_at": "2019-08-01",
+        "released_at": "2019-09-01",
         "ffg_id": "L5C22",
         "cycle_id": "inheritance"
     },
@@ -238,8 +229,26 @@
         "name": "A Champion's Foresight",
         "position": 5,
         "size": 22,
-        "released_at": "2019-09-01",
+        "released_at": "2019-10-01",
         "ffg_id": "L5C23",
         "cycle_id": "inheritance"
+    },
+    {
+        "id": "shoju-s-duty",
+        "name": "Shoju's Duty",
+        "position": 6,
+        "size": 22,
+        "released_at": "2019-11-01",
+        "ffg_id": "L5C24",
+        "cycle_id": "inheritance"
+    },
+    {
+        "id": "the-emperor-s-legion",
+        "name": "The Emperor's Legion",
+        "position": 5,
+        "size": 28,
+        "released_at": "2019-09-01",
+        "ffg_id": "L5C27",
+        "cycle_id": "clan-packs"
     }
 ]
