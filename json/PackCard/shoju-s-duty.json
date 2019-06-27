@@ -1,0 +1,50 @@
+[
+    {
+        "card_id": "gallant-quartermaster",
+        "flavor": "\"Doom descends on our brothers and sisters on the Wall. I will not wait for help to come when my own stores could mean the difference between life or death.\"",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "111",
+        "quantity": 3
+    },
+    {
+        "card_id": "yasuki-hatsu",
+        "flavor": "",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "112",
+        "quantity": 3
+    },
+    {
+        "card_id": "inferno-guard-invoker",
+        "flavor": "",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "",
+        "position": "119",
+        "quantity": 3
+    },
+    {
+        "card_id": "chrysanthemum-steward",
+        "flavor": "\"The Empire cannot survive if it does not have leadership.\"",
+        "illustrator": "Felipe Gaona",
+        "image_url": "",
+        "position": "120",
+        "quantity": 3
+    },
+    {
+        "card_id": "bayushi-shoju-2",
+        "flavor": "In one clear moment, Shoju understood his unspoken duty, though the touch of polished emerald would forever tarnish his soul.",
+        "illustrator": "Pius Pranoto",
+        "image_url": "",
+        "position": "121",
+        "quantity": 3
+    },
+    {
+        "card_id": "castigated",
+        "flavor": "",
+        "illustrator": "Eli Ring",
+        "image_url": "",
+        "position": "129",
+        "quantity": 3
+    }
+]
