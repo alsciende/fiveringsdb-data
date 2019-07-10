@@ -1,0 +1,36 @@
+[
+    {
+        "allowed_clans": [
+            "crab"
+        ],
+        "clan": "crab",
+        "cost": 4,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "hiruma-yoshino",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": "3",
+        "military_bonus": null,
+        "name": "Hiruma Yoshino",
+        "name_extra": null,
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Disguised <em>Bushi</em>.\n<b>Action:</b> During a [conflict-military] conflict in which this character is participating, choose a character card in the attacked province - that character contributes its printed [conflict-military] skill towards your side during the resolution of this conflict.",
+        "traits": [
+            "bushi",
+            "daimyo",
+            "scout"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]
