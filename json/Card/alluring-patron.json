@@ -1,0 +1,40 @@
+[
+    {
+        "allowed_clans": [
+            "crab",
+            "crane",
+            "dragon",
+            "lion",
+            "phoenix",
+            "scorpion",
+            "unicorn"
+        ],
+        "clan": "scorpion",
+        "cost": 4,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "alluring-patron",
+        "influence_cost": 2,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": "1",
+        "military_bonus": null,
+        "name": "Alluring Patron",
+        "name_extra": null,
+        "political": "4",
+        "political_bonus": null,
+        "role_restriction": "fire",
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<em>Fire</em> role only.\n<b>Action:</b> During a conflict in which this character is participating, choose a character your opponent controls in his or her home. Your opponent selects one - either move that character to the conflict, or dishonor it.",
+        "traits": [
+            "courtier"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

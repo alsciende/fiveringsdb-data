@@ -1,0 +1,37 @@
+[
+    {
+        "allowed_clans": [
+            "unicorn"
+        ],
+        "clan": "unicorn",
+        "cost": 5,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 3,
+        "honor": null,
+        "id": "utaku-rumaru",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": "4",
+        "military_bonus": null,
+        "name": "Utaku Rumaru",
+        "name_extra": null,
+        "political": "4",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Each honored character you control gets +1 glory. Each dishonored character you control gets -1 glory.\n<b>Reaction:</b> After this character wins a conflict, discard a card from your hand. Choose another participating character - honor that character.",
+        "traits": [
+            "bushi",
+            "cavalry",
+            "battle-maiden",
+            "daimyo"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]

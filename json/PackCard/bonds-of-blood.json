@@ -1,5 +1,21 @@
 [
     {
+        "card_id": "dishonorable-assault",
+        "flavor": "",
+        "illustrator": "John Anthony Di Giovanni",
+        "image_url": "",
+        "position": "23",
+        "quantity": 1
+    },
+    {
+        "card_id": "untamed-steppe",
+        "flavor": "TO DO",
+        "illustrator": "Nele Diel",
+        "image_url": "",
+        "position": "24",
+        "quantity": 1
+    },
+    {
         "card_id": "festival-of-the-departed",
         "flavor": "",
         "illustrator": "Lin Hsiang",
@@ -8,19 +24,67 @@
         "quantity": 1
     },
     {
-        "card_id": "kitsuki-yuikimi",
-        "flavor": "",
-        "illustrator": "",
-        "image_url": "",
-        "position": "27",
-        "quantity": 1
-    },
-    {
-        "card_id": "yogo-preserver",
+        "card_id": "hiruma-yoshino",
         "flavor": "",
         "illustrator": "Pavel Kolomeyets",
         "image_url": "",
+        "position": "26",
+        "quantity": 3
+    },
+    {
+        "card_id": "kitsuki-yuikimi",
+        "flavor": "",
+        "illustrator": "Jorge Matar",
+        "image_url": "",
+        "position": "27",
+        "quantity": 3
+    },
+    {
+        "card_id": "akodo-kaede",
+        "flavor": "TO DO",
+        "illustrator": "TO DO",
+        "image_url": "",
+        "position": "28",
+        "quantity": 3
+    },
+    {
+        "card_id": "valiant-oathkeeper",
+        "flavor": "\"If the Isawa cannot be at peace, then of what value is my blade? If I would not die to uphold my oath, then of what value is my word? If you think me faithless, then your know nothing of the Shiba.\"",
+        "illustrator": "TO DO",
+        "image_url": "",
+        "position": "29",
+        "quantity": 3
+    },
+    {
+        "card_id": "yogo-preserver",
+        "flavor": "TO DO",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "",
         "position": "30",
+        "quantity": 3
+    },
+    {
+        "card_id": "benevolent-ambassador",
+        "flavor": "With compassion and patience, the Ide turn trade into friendship, and friendship into alliance.",
+        "illustrator": "Andreia Ugrai",
+        "image_url": "",
+        "position": "31",
+        "quantity": 3
+    },
+    {
+        "card_id": "utaku-rumaru",
+        "flavor": "",
+        "illustrator": "TO DO",
+        "image_url": "",
+        "position": "32",
+        "quantity": 3
+    },
+    {
+        "card_id": "fury-of-the-damned",
+        "flavor": "",
+        "illustrator": "Reiko Murakami",
+        "image_url": "",
+        "position": "33",
         "quantity": 3
     },
     {
@@ -34,7 +98,7 @@
     {
         "card_id": "a-new-name",
         "flavor": "With your new name, you leave childhood behind and begin your service to your lord",
-        "illustrator": "",
+        "illustrator": "Drazenka Kimpel",
         "image_url": "",
         "position": "35",
         "quantity": 3
@@ -45,6 +109,22 @@
         "illustrator": "Sergio Camarena",
         "image_url": "",
         "position": "36",
+        "quantity": 3
+    },
+    {
+        "card_id": "niten-pupil",
+        "flavor": "",
+        "illustrator": "Ruwen Liu",
+        "image_url": "",
+        "position": "37",
+        "quantity": 3
+    },
+    {
+        "card_id": "two-heavens-technique",
+        "flavor": "\"One man, one sword, one strike.\" - Kakita\n \"Two hands.\" - Mirumoto",
+        "illustrator": "Mario Wibisono",
+        "image_url": "",
+        "position": "38",
         "quantity": 3
     },
     {
@@ -72,11 +152,27 @@
         "quantity": 3
     },
     {
+        "card_id": "alluring-patron",
+        "flavor": "",
+        "illustrator": "TO DO",
+        "image_url": "",
+        "position": "42",
+        "quantity": 3
+    },
+    {
         "card_id": "softskin",
         "flavor": "\"I wish you luck on your return to court.\"",
         "illustrator": "Ruko Murakami",
         "image_url": "",
         "position": "43",
+        "quantity": 3
+    },
+    {
+        "card_id": "unfulfilled-duty",
+        "flavor": "",
+        "illustrator": "TO DO",
+        "image_url": "",
+        "position": "44",
         "quantity": 3
     }
 ]
