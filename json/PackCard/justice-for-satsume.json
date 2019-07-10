@@ -8,12 +8,60 @@
         "quantity": 1
     },
     {
+        "card_id": "effective-deception",
+        "flavor": "If would only be a matter of time before Kuwanan came searching for his sister's seal. It was Sadako's duty that he find it.",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "",
+        "position": "46",
+        "quantity": 1
+    },
+    {
         "card_id": "into-the-forbidden-city",
         "flavor": "",
         "illustrator": "Leanna Crossan",
         "image_url": "",
         "position": "47",
         "quantity": 1
+    },
+    {
+        "card_id": "hida-sugi",
+        "flavor": "\"I knew there was much to Rokugan that we must defend. I never realized how much of it was beautiful.\"",
+        "illustrator": "Amélie Hutt",
+        "image_url": "",
+        "position": "48",
+        "quantity": 3
+    },
+    {
+        "card_id": "doji-hotaru-2",
+        "flavor": "\"Do you believe the Emerald Magistrates lie, brother, or that they are simply incompetent?\"",
+        "illustrator": "Agri Karuniawan",
+        "image_url": "",
+        "position": "49",
+        "quantity": 3
+    },
+    {
+        "card_id": "doji-kuwanan",
+        "flavor": "\"I begin to suspect you don't even care about the truth.\"",
+        "illustrator": "Agri Karuniawan",
+        "image_url": "",
+        "position": "50",
+        "quantity": 3
+    },
+    {
+        "card_id": "trusted-advisor",
+        "flavor": "\"I am privileged that you would seek my insights in uncovering the truth of such a bizarre matter.\"",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "51",
+        "quantity": 3
+    },
+    {
+        "card_id": "court-of-justice",
+        "flavor": "\"You will find I am only interested in the truth.\" - Kitsuki Jusai",
+        "illustrator": "Nele Diel",
+        "image_url": "",
+        "position": "52",
+        "quantity": 3
     },
     {
         "card_id": "matsu-swiftspear",
@@ -32,6 +80,30 @@
         "quantity": 3
     },
     {
+        "card_id": "acolyte-of-koyane",
+        "flavor": "The fortune of accomplishment expects - and rewards - only excellence.",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "55",
+        "quantity": 3
+    },
+    {
+        "card_id": "isawa-heiko",
+        "flavor": "\"How can you not find beauty in water's frozen crystal?\"",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "56",
+        "quantity": 3
+    },
+    {
+        "card_id": "shosuro-ibuki",
+        "flavor": "So long as they fear the knife's subtlety, you can trust you will remain safe in court.",
+        "illustrator": "Isuardi Therianto",
+        "image_url": "",
+        "position": "57",
+        "quantity": 3
+    },
+    {
         "card_id": "shinjo-gunso",
         "flavor": "\"March divided. Attack united.\" - from the tactics of Shinjo Khulan Khan",
         "illustrator": "Eli Ring",
@@ -40,7 +112,7 @@
         "quantity": 3
     },
     {
-        "card_id": "wayfinder-s-camp",
+        "card_id": "wayfarer-s-camp",
         "flavor": "",
         "illustrator": "Leanna Crossan",
         "image_url": "",
@@ -48,9 +120,25 @@
         "quantity": 3
     },
     {
+        "card_id": "warden-of-the-damned",
+        "flavor": "The wardens who attend to the Damned are as ruthless as they are courgaeous. They must stand ready to cut down the very companions whose humanity they seek to preserve.",
+        "illustrator": "Derek D. Edgell",
+        "image_url": "",
+        "position": "60",
+        "quantity": 3
+    },
+    {
+        "card_id": "callous-ashigaru",
+        "flavor": "",
+        "illustrator": "Stanislav Dikolenko",
+        "image_url": "",
+        "position": "61",
+        "quantity": 3
+    },
+    {
         "card_id": "justicar-s-approach",
         "flavor": "",
-        "illustrator": "",
+        "illustrator": "Felipe Gaona",
         "image_url": "",
         "position": "62",
         "quantity": 3
@@ -61,6 +149,14 @@
         "illustrator": "Eli Ring",
         "image_url": "",
         "position": "63",
+        "quantity": 3
+    },
+    {
+        "card_id": "stride-the-waves",
+        "flavor": "",
+        "illustrator": "Shen Fei",
+        "image_url": "",
+        "position": "64",
         "quantity": 3
     },
     {

@@ -1,32 +1,32 @@
 [
     {
         "allowed_clans": [
-            "unicorn"
+            "scorpion"
         ],
-        "clan": "unicorn",
+        "clan": "scorpion",
         "cost": null,
-        "deck_limit": 3,
-        "element": null,
+        "deck_limit": 1,
+        "element": "earth",
         "fate": null,
         "glory": null,
         "honor": null,
-        "id": "wayfinder-s-camp",
+        "id": "effective-deception",
         "influence_cost": null,
         "influence_pool": null,
         "is_restricted": false,
         "military": null,
         "military_bonus": null,
-        "name": "Wayfinder's Camp",
+        "name": "Effective Deception",
         "name_extra": null,
         "political": null,
         "political_bonus": null,
         "role_restriction": null,
-        "side": "dynasty",
-        "strength": null,
-        "strength_bonus": "+1",
-        "text": "<b>Action:</b> During the dynasty phase - play two characters from your provinces. Then, turn a card in your provinces faceup.",
+        "side": "province",
+        "strength": "4",
+        "strength_bonus": null,
+        "text": "<b>Interrupt:</b> When the effects of a triggered ability would initiate during a conflict at this province - cancel those effects.",
         "traits": [],
-        "type": "holding",
+        "type": "province",
         "unicity": false
     }
 ]
