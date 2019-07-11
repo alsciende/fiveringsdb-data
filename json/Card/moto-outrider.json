@@ -1,0 +1,35 @@
+[
+    {
+        "allowed_clans": [
+            "unicorn"
+        ],
+        "clan": "unicorn",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "moto-outrider",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": "3",
+        "military_bonus": null,
+        "name": "Moto Outrider",
+        "name_extra": null,
+        "political": "2",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a [conflict-military] conflict in which this character is participating - ready this character.",
+        "traits": [
+            "bushi",
+            "cavalry"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]
