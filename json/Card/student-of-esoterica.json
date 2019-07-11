@@ -1,0 +1,36 @@
+[
+    {
+        "allowed_clans": [
+            "phoenix"
+        ],
+        "clan": "phoenix",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 3,
+        "honor": null,
+        "id": "solemn-scholar",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": "1",
+        "military_bonus": null,
+        "name": "Solemn Scholar",
+        "name_extra": null,
+        "political": "1",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "You may spend fate from this character to pay for <em>Spell</em> cards.",
+        "traits": [
+            "shugenja",
+            "earth",
+            "scholar"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]
