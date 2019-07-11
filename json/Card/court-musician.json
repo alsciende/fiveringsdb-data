@@ -1,0 +1,34 @@
+[
+    {
+        "allowed_clans": [
+            "crane"
+        ],
+        "clan": "crane",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "court-musician",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": "0",
+        "military_bonus": null,
+        "name": "Court Musician",
+        "name_extra": null,
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a conflict in which this character is participating - during each player's next action opportunity in this conflict, decrease the cost to play cards by 1.",
+        "traits": [
+            "courtier"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]
