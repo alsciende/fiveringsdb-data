@@ -202,7 +202,7 @@
         "name": "Bonds of Blood",
         "position": 2,
         "size": 22,
-        "released_at": "2019-07-01",
+        "released_at": "2019-07-19",
         "ffg_id": "L5C20",
         "cycle_id": "inheritance"
     },
@@ -237,7 +237,7 @@
         "id": "shoju-s-duty",
         "name": "Shoju's Duty",
         "position": 6,
-        "size": 22,
+        "size": 20,
         "released_at": "2019-11-01",
         "ffg_id": "L5C24",
         "cycle_id": "inheritance"

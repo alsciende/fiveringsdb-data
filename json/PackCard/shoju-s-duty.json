@@ -16,6 +16,54 @@
         "quantity": 3
     },
     {
+        "card_id": "daidoji-harrier",
+        "flavor": "\"Vitory will only be achieved through preparedness.\" - Daidoji Uji",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "",
+        "position": "113",
+        "quantity": 3
+    },
+    {
+        "card_id": "hitsu-do-disciple",
+        "flavor": "\"You expect me to fear some unarmed woman?\" - Hatsuichi the rōnin",
+        "illustrator": "Lukas Banas",
+        "image_url": "",
+        "position": "114",
+        "quantity": 3
+    },
+    {
+        "card_id": "togashi-ichi",
+        "flavor": "",
+        "illustrator": "Jorge Matar",
+        "image_url": "",
+        "position": "115",
+        "quantity": 3
+    },
+    {
+        "card_id": "hero-of-three-trees",
+        "flavor": "",
+        "illustrator": "Diego Gisbert Llorens",
+        "image_url": "",
+        "position": "116",
+        "quantity": 3
+    },
+    {
+        "card_id": "persuaive-couselor",
+        "flavor": "\"You must not take offense at my words. Did your Bayushi not name himself a villain?\"",
+        "illustrator": "Felipe Gaona",
+        "image_url": "",
+        "position": "117",
+        "quantity": 3
+    },
+    {
+        "card_id": "student-of-esoterica",
+        "flavor": "\"Isawa Koutomo writes as if the Yobanjin could invoke spells without appealing to the kami. Surely this could not be the case?\"",
+        "illustrator": "Felipe Gaona",
+        "image_url": "",
+        "position": "118",
+        "quantity": 3
+    },
+    {
         "card_id": "inferno-guard-invoker",
         "flavor": "",
         "illustrator": "Pavel Kolomeyets",
@@ -40,6 +88,22 @@
         "quantity": 3
     },
     {
+        "card_id": "golden-plains-raider",
+        "flavor": "Better this town be left abandoned than run by despots.",
+        "illustrator": "Quintin Gleim",
+        "image_url": "",
+        "position": "122",
+        "quantity": 3
+    },
+    {
+        "card_id": "moto-outrider",
+        "flavor": "Lands won on horseback ought to be ruled from horseback.",
+        "illustrator": "Conceptopolis",
+        "image_url": "",
+        "position": "123",
+        "quantity": 3
+    },
+    {
         "card_id": "root-out-heresy",
         "flavor": "",
         "illustrator": "Felipe Gaona",
@@ -48,11 +112,51 @@
         "quantity": 3
     },
     {
+        "card_id": "kakita-s-final-stance",
+        "flavor": "",
+        "illustrator": "Drew Baker",
+        "image_url": "",
+        "position": "125",
+        "quantity": 3
+    },
+    {
+        "card_id": "mantra-of-air",
+        "flavor": "",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "",
+        "position": "126",
+        "quantity": 3
+    },
+    {
+        "card_id": "in-service-to-my-lord",
+        "flavor": "",
+        "illustrator": "Andreia Ugrai",
+        "image_url": "",
+        "position": "127",
+        "quantity": 3
+    },
+    {
+        "card_id": "cloak-of-night",
+        "flavor": "",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "",
+        "position": "128",
+        "quantity": 3
+    },
+    {
         "card_id": "castigated",
         "flavor": "",
         "illustrator": "Eli Ring",
         "image_url": "",
         "position": "129",
+        "quantity": 3
+    },
+    {
+        "card_id": "know-the-tarrain",
+        "flavor": "",
+        "illustrator": "Shen Fei",
+        "image_url": "",
+        "position": "130",
         "quantity": 3
     }
 ]
