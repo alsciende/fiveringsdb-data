@@ -9,7 +9,7 @@
     },
     {
         "card_id": "untamed-steppe",
-        "flavor": "TO DO",
+        "flavor": "\"We are meant to hunt and ride free, not stay tethered to Khanbulak like an ox on a string.\" - Moto Rurame",
         "illustrator": "Nele Diel",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C20_24.jpg",
         "position": "24",
@@ -41,8 +41,8 @@
     },
     {
         "card_id": "akodo-kaede",
-        "flavor": "TO DO",
-        "illustrator": "TO DO",
+        "flavor": "Heedless of her own fate, Kaede chose. With that choice, a sould was rent and a destiny altered.",
+        "illustrator": "Leo Avero",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C20_28.jpg",
         "position": "28",
         "quantity": 3
@@ -50,14 +50,14 @@
     {
         "card_id": "valiant-oathkeeper",
         "flavor": "\"If the Isawa cannot be at peace, then of what value is my blade? If I would not die to uphold my oath, then of what value is my word? If you think me faithless, then your know nothing of the Shiba.\"",
-        "illustrator": "TO DO",
+        "illustrator": "Adam Schumpert",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C20_29.jpg",
         "position": "29",
         "quantity": 3
     },
     {
         "card_id": "yogo-preserver",
-        "flavor": "TO DO",
+        "flavor": "\"Yet surely it cannot be one of my origami moths in the lord's kitchens - I have never set foot there. Unless you mean to suggest that my origami can fly?\"",
         "illustrator": "Pavel Kolomeyets",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C20_30.jpg",
         "position": "30",
@@ -74,7 +74,7 @@
     {
         "card_id": "utaku-rumaru",
         "flavor": "",
-        "illustrator": "TO DO",
+        "illustrator": "Pius Pranoto",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C20_32.jpg",
         "position": "32",
         "quantity": 3
@@ -154,7 +154,7 @@
     {
         "card_id": "alluring-patron",
         "flavor": "",
-        "illustrator": "TO DO",
+        "illustrator": "Sara Winters",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C20_42.jpg",
         "position": "42",
         "quantity": 3
@@ -170,7 +170,7 @@
     {
         "card_id": "unfulfilled-duty",
         "flavor": "",
-        "illustrator": "TO DO",
+        "illustrator": "Guillaume Ducos",
         "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C20_44.jpg",
         "position": "44",
         "quantity": 3
