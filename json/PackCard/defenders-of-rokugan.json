@@ -1,0 +1,82 @@
+[
+    {
+        "card_id": "kyuden-hida",
+        "flavor": "",
+        "illustrator": "Juan Carlos Barquet",
+        "image_url": "",
+        "position": "1",
+        "quantity": 1
+    },
+    {
+        "card_id": "support-of-the-crab",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "3",
+        "quantity": 1
+    },
+    {
+        "card_id": "hida-o-ushi",
+        "flavor": "\"Empty words are the coward's way.\"",
+        "illustrator": "Amélie Hutt",
+        "image_url": "",
+        "position": "7",
+        "quantity": 3
+    },
+    {
+        "card_id": "kaiu-shihobu",
+        "flavor": "",
+        "illustrator": "Polar Engine",
+        "image_url": "",
+        "position": "10",
+        "quantity": 3
+    },
+    {
+        "card_id": "northern-curtain-wall",
+        "flavor": "",
+        "illustrator": "Tomas Muir",
+        "image_url": "",
+        "position": "13",
+        "quantity": 1
+    },
+    {
+        "card_id": "river-of-the-last-stand",
+        "flavor": "",
+        "illustrator": "Leanna Crossan",
+        "image_url": "",
+        "position": "14",
+        "quantity": 1
+    },
+    {
+        "card_id": "watchtower-of-valor",
+        "flavor": "",
+        "illustrator": "Tomas Muir",
+        "image_url": "",
+        "position": "17",
+        "quantity": 1
+    },
+    {
+        "card_id": "daidoji-netsu",
+        "flavor": "\"I am unworthy of the trust you place in me, my lady. I shall endeavor to earn it.\"",
+        "illustrator": "Doug Shuler",
+        "image_url": "",
+        "position": "18",
+        "quantity": 3
+    },
+    {
+        "card_id": "siege-warfare",
+        "flavor": "",
+        "illustrator": "William O'Connor",
+        "image_url": "",
+        "position": "24",
+        "quantity": 3
+    },
+    {
+        "card_id": "subterranean-guile",
+        "flavor": "\"You'll get used to the smell\" - Yasuki Fuzake",
+        "illustrator": "Paolo Puggioni",
+        "image_url": "",
+        "position": "26",
+        "quantity": 3
+    }
+]
