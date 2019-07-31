@@ -250,5 +250,14 @@
         "released_at": "2019-09-01",
         "ffg_id": "L5C27",
         "cycle_id": "clan-packs"
+    },
+    {
+        "id": "defenders-of-rokugan",
+        "name": "Defenders of Rokugan",
+        "position": 6,
+        "size": 28,
+        "released_at": "2019-10-01",
+        "ffg_id": "L5C26",
+        "cycle_id": "clan-packs"
     }
 ]

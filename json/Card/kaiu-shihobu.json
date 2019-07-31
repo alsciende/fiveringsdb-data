@@ -1,0 +1,36 @@
+[
+    {
+        "allowed_clans": [
+            "crab"
+        ],
+        "clan": "crab",
+        "cost": 5,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "kaiu-shihobu",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": "5",
+        "military_bonus": null,
+        "name": "Kaiu Shihobu",
+        "name_extra": null,
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After this character enters play - search your dynasty deck for any number of holdings, reveal them, and put them facedown underneath your stronghold province <i>(out of play)</i>. Shuffle.\n<b>Action:</b> Put a facedown holding under your stronghold province into an unbroken non-stronghold province you control, discarding each other card in that province.",
+        "traits": [
+            "bushi",
+            "daimyo",
+            "engineer"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]

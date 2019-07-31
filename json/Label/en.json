@@ -144,6 +144,10 @@
         "value": "Courtier"
     },
     {
+        "id": "trait.crab",
+        "value": "Crab"
+    },
+    {
         "id": "trait.crane",
         "value": "Crane"
     },
@@ -238,6 +242,10 @@
     {
         "id": "trait.jade",
         "value": "Jade"
+    },
+    {
+        "id": "trait.kaiu-wall",
+        "value": "Kaiu Wall"
     },
     {
         "id": "trait.keeper",
