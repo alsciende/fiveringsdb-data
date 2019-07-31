@@ -144,6 +144,10 @@
         "value": "Courtier"
     },
     {
+        "id": "trait.crab",
+        "value": "Crab"
+    },
+    {
         "id": "trait.crane",
         "value": "Crane"
     },
