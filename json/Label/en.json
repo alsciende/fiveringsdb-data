@@ -240,6 +240,10 @@
         "value": "Jade"
     },
     {
+        "id": "trait.kaiu-wall",
+        "value": "Kaiu Wall"
+    },
+    {
         "id": "trait.keeper",
         "value": "Keeper"
     },
