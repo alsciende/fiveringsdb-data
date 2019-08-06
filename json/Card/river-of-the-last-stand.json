@@ -26,7 +26,8 @@
         "strength_bonus": "+0",
         "text": "Limit 1 per deck.\n<b>Action:</b> During a conflict at a province you control with a <em>Kaiu Wall</em> holding - your opponent discards 2 random cards from his or her hand and draws 1 card.",
         "traits": [
-            "kaiu-wall"
+            "kaiu-wall",
+            "river"
         ],
         "type": "holding",
         "unicity": true
