@@ -1,0 +1,41 @@
+[
+    {
+        "allowed_clans": [
+            "crab",
+            "crane",
+            "dragon",
+            "lion",
+            "phoenix",
+            "scorpion",
+            "unicorn"
+        ],
+        "clan": "dragon",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "kitsuki-kagi",
+        "influence_cost": 1,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": "1",
+        "military_bonus": null,
+        "name": "Kitsuki Kāgi",
+        "name_extra": null,
+        "political": "2",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After this character wins a conflict, choose up to 3 cards in a player's discard pile - remove them from the game.",
+        "traits": [
+            "courtier",
+            "imperial"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]
