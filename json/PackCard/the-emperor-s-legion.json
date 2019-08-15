@@ -40,6 +40,22 @@
         "quantity": 3
     },
     {
+        "card_id": "yasuki-hikaru",
+        "flavor": "\"As a samurai in service to my clan, I cannot allow you to spread the Taint any further.\"",
+        "illustrator": "Stanislav Dikolenko",
+        "image_url": "",
+        "position": "14",
+        "quantity": 3
+    },
+    {
+        "card_id": "isawa-tsuke",
+        "flavor": "",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "",
+        "position": "16",
+        "quantity": 3
+    },
+    {
         "card_id": "shosuro-denmaru",
         "flavor": "\"I fear I can offer nothing of value for your investigation. I generally leave matters of murder in Denmaru's hands.\" - Shosuro Hyobu",
         "illustrator": "Conceptopolis",
@@ -48,11 +64,51 @@
         "quantity": 3
     },
     {
+        "card_id": "moto-ariq",
+        "flavor": "",
+        "illustrator": "Jorge Matar",
+        "image_url": "",
+        "position": "18",
+        "quantity": 3
+    },
+    {
+        "card_id": "caravan-guard",
+        "flavor": "",
+        "illustrator": "Kevin Zamir Golke",
+        "image_url": "",
+        "position": "19",
+        "quantity": 3
+    },
+    {
+        "card_id": "insolent-outcast",
+        "flavor": "\"I could defeat any samurai who thinks themselves great just because of which clan they serve.\"",
+        "illustrator": "Ben Peck",
+        "image_url": "",
+        "position": "20",
+        "quantity": 3
+    },
+    {
         "card_id": "embrace-death",
         "flavor": "",
         "illustrator": "Michael Matsumoto",
         "image_url": "",
         "position": "23",
+        "quantity": 3
+    },
+    {
+        "card_id": "kitsuki-kagi",
+        "flavor": "\"If only Doji-sama's recordings were not as frustratingly secretive as he was when he was alive...\"",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "27",
+        "quantity": 3
+    },
+    {
+        "card_id": "those-who-serve",
+        "flavor": "",
+        "illustrator": "B. D. Judkins",
+        "image_url": "",
+        "position": "28",
         "quantity": 3
     }
 ]
