@@ -18,19 +18,29 @@ use Doctrine\ORM\Mapping as ORM;
 class ClanRole
 {
     /**
-     * @var Card
+     * @var PrimaryRole
      *
      * @ORM\ManyToOne(targetEntity="Card")
-     * @ORM\JoinColumn(name="card_id", referencedColumnName="id")
-     *
+     * @ORM\JoinColumn(name="primary_role_id", referencedColumnName="id", nullable=false)
+     * 
      * @Skizzle\Field(type="association")
      */
-    private $card;
+    private $primaryRole;
+
+    /**
+     * @var SecondaryRole
+     *
+     * @ORM\ManyToOne(targetEntity="Card")
+     * @ORM\JoinColumn(name="secondary_role_id", referencedColumnName="id", nullable=false)
+     * 
+     * @Skizzle\Field(type="association")
+     */
+    private $secondaryRole;
 
     /**
      * @var string
      *
-     * @ORM\Column(name="clan", type="string", nullable=false, unique=true)
+     * @ORM\Column(name="clan", type="string", nullable=false)
      * @ORM\Id
      * @ORM\GeneratedValue(strategy="NONE")
      *
@@ -38,39 +48,35 @@ class ClanRole
      */
     private $clan;
 
-    /**
-     * @return Card
-     */
-    public function getCard (): Card
+    function getPrimaryRole (): Card
     {
-        return $this->card;
+        return $this->primaryRole;
     }
 
-    /**
-     * @return string
-     */
+    function setPrimaryRole (Card $card): self
+    {
+        $this->primaryRole = $card;
+
+        return $this;
+    }
+
+    function getSecondaryRole (): Card
+    {
+        return $this->secondaryRole;
+    }
+
+    function setSecondaryRole (Card $card): self
+    {
+        $this->secondaryRole = $card;
+
+        return $this;
+    }
+
     public function getClan (): string
     {
         return $this->clan;
     }
 
-    /**
-     * @param Card $card
-     *
-     * @return self
-     */
-    public function setCard (Card $card): self
-    {
-        $this->card = $card;
-
-        return $this;
-    }
-
-    /**
-     * @param string $clan
-     *
-     * @return self
-     */
     public function setClan (string $clan): self
     {
         $this->clan = $clan;
