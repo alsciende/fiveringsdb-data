@@ -1,58 +1,58 @@
 [
   {
-    "card_id": "seeker-of-earth",
+    "card_id": "seeker-of-void",
     "clan": "crab"
+  },
+  {
+    "card_id": "keeper-of-air",
+    "clan": "crab"
+  },
+  {
+    "card_id": "seeker-of-void",
+    "clan": "crane"
+  },
+  {
+    "card_id": "keeper-of-air",
+    "clan": "crane"
   },
   {
     "card_id": "keeper-of-water",
-    "clan": "crab"
-  },
-  {
-    "card_id": "keeper-of-air",
-    "clan": "crane"
-  },
-  {
-    "card_id": "seeker-of-fire",
-    "clan": "crane"
-  },
-  {
-    "card_id": "keeper-of-void",
     "clan": "dragon"
-  },
-  {
-    "card_id": "seeker-of-void",
-    "clan": "dragon"
-  },
-  {
-    "card_id": "seeker-of-void",
-    "clan": "lion"
-  },
-  {
-    "card_id": "keeper-of-earth",
-    "clan": "lion"
   },
   {
     "card_id": "seeker-of-air",
+    "clan": "dragon"
+  },
+  {
+    "card_id": "seeker-of-air",
+    "clan": "lion"
+  },
+  {
+    "card_id": "seeker-of-earth",
+    "clan": "lion"
+  },
+  {
+    "card_id": "seeker-of-void",
+    "clan": "phoenix"
+  },
+  {
+    "card_id": "seeker-of-earth",
     "clan": "phoenix"
   },
   {
     "card_id": "keeper-of-air",
-    "clan": "phoenix"
-  },
-  {
-    "card_id": "keeper-of-earth",
     "clan": "scorpion"
   },
   {
-    "card_id": "seeker-of-air",
+    "card_id": "seeker-of-earth",
     "clan": "scorpion"
   },
   {
-    "card_id": "keeper-of-fire",
+    "card_id": "keeper-of-water",
     "clan": "unicorn"
   },
   {
-    "card_id": "seeker-of-water",
+    "card_id": "keeper-of-earth",
     "clan": "unicorn"
   }
 ]
