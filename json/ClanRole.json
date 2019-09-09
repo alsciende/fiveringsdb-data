@@ -1,58 +1,37 @@
 [
   {
-    "card_id": "seeker-of-void",
+    "primary_role_id": "seeker-of-void",
+    "secondary_role_id": "keeper-of-air",
     "clan": "crab"
   },
   {
-    "card_id": "keeper-of-air",
-    "clan": "crab"
-  },
-  {
-    "card_id": "seeker-of-void",
+    "primary_role_id": "seeker-of-void",
+    "secondary_role_id": "keeper-of-air",
     "clan": "crane"
   },
   {
-    "card_id": "keeper-of-air",
-    "clan": "crane"
-  },
-  {
-    "card_id": "keeper-of-water",
+    "primary_role_id": "keeper-of-water",
+    "secondary_role_id": "seeker-of-air",
     "clan": "dragon"
   },
   {
-    "card_id": "seeker-of-air",
-    "clan": "dragon"
-  },
-  {
-    "card_id": "seeker-of-air",
+    "primary_role_id": "seeker-of-air",
+    "secondary_role_id": "seeker-of-earth",
     "clan": "lion"
   },
   {
-    "card_id": "seeker-of-earth",
-    "clan": "lion"
-  },
-  {
-    "card_id": "seeker-of-void",
+    "primary_role_id": "seeker-of-void",
+    "secondary_role_id": "seeker-of-earth",
     "clan": "phoenix"
   },
   {
-    "card_id": "seeker-of-earth",
-    "clan": "phoenix"
-  },
-  {
-    "card_id": "keeper-of-air",
+    "primary_role_id": "keeper-of-air",
+    "secondary_role_id": "keeper-of-earth",
     "clan": "scorpion"
   },
   {
-    "card_id": "seeker-of-earth",
-    "clan": "scorpion"
-  },
-  {
-    "card_id": "keeper-of-water",
-    "clan": "unicorn"
-  },
-  {
-    "card_id": "keeper-of-earth",
+    "primary_role_id": "keeper-of-water",
+    "secondary_role_id": "keeper-of-earth",
     "clan": "unicorn"
   }
 ]
