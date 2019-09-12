@@ -1,0 +1,66 @@
+[
+    {
+        "card_id": "high-house-of-light",
+        "flavor": "",
+        "illustrator": "Daria Khlebnikova",
+        "image_url": "",
+        "position": "1",
+        "quantity": 1
+    },
+    {
+        "card_id": "support-of-the-dragon",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "3",
+        "quantity": 1
+    },
+    {
+        "card_id": "austere-exemplar",
+        "flavor": "\"To understand the world is to understand the rhythm of the breath.\"",
+        "illustrator": "Zezhou Chen",
+        "image_url": "",
+        "position": "6",
+        "quantity": 3
+    },
+    {
+        "card_id": "togashi-gaijutsu",
+        "flavor": "\"The tattoos I give are gifts from Togashi-no-Kami himself. You were meant to wield this power.\"",
+        "illustrator": "Polar Engine",
+        "image_url": "",
+        "position": "7",
+        "quantity": 3
+    },
+    {
+        "card_id": "togashi-hoshi",
+        "flavor": "",
+        "illustrator": "Polar Engine",
+        "image_url": "",
+        "position": "11",
+        "quantity": 3
+    },
+    {
+        "card_id": "asako-togama",
+        "flavor": "\"Never overlook knowledge when you find it, no matter how lowly its source.\"",
+        "illustrator": "Carlos Palma Cruchaga",
+        "image_url": "",
+        "position": "13",
+        "quantity": 3
+    },
+    {
+        "card_id": "vine-tattoo",
+        "flavor": "",
+        "illustrator": "Derek D. Edgell",
+        "image_url": "",
+        "position": "20",
+        "quantity": 3
+    },
+    {
+        "card_id": "dragon-tattoo",
+        "flavor": "",
+        "illustrator": "Matthew Armstrong",
+        "image_url": "",
+        "position": "21",
+        "quantity": 3
+    }
+]

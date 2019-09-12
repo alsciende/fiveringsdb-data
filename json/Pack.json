@@ -255,9 +255,18 @@
         "id": "defenders-of-rokugan",
         "name": "Defenders of Rokugan",
         "position": 6,
-        "size": 28,
+        "size": 32,
         "released_at": "2019-10-01",
         "ffg_id": "L5C26",
+        "cycle_id": "clan-packs"
+    },
+    {
+        "id": "seekers-of-wisdom",
+        "name": "Seekers of Wisdom",
+        "position": 7,
+        "size": 28,
+        "released_at": "2019-11-01",
+        "ffg_id": "L5C25",
         "cycle_id": "clan-packs"
     }
 ]

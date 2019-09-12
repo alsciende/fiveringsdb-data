@@ -172,6 +172,10 @@
         "value": "Dōjō"
     },
     {
+        "id": "trait.dragon",
+        "value": "Dragon"
+    },
+    {
         "id": "trait.duelist",
         "value": "Duelist"
     },
