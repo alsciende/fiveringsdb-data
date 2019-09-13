@@ -1,0 +1,35 @@
+[
+    {
+        "allowed_clans": [
+            "dragon"
+        ],
+        "clan": "dragon",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "togashi-gaijutsu",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": null,
+        "military_bonus": null,
+        "name": "Togashi Gaijutsu",
+        "name_extra": null,
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After you play a <em>Tattoo</em> attachment on a character - ready that character.",
+        "traits": [
+            "monk",
+            "tattooed"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]

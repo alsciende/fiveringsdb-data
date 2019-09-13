@@ -1,0 +1,37 @@
+[
+    {
+        "allowed_clans": [
+            "dragon"
+        ],
+        "clan": "dragon",
+        "cost": 6,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 3,
+        "honor": null,
+        "id": "togashi-hoshi",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": "5",
+        "military_bonus": null,
+        "name": "Togashi Hoshi",
+        "name_extra": null,
+        "political": "5",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "No attachments except <em>Monk</em> or <em>Tattoo</em>.\n<b>Action:</b> Detach an attachment from a character you control and turn it into a character. If that card has the printed attachment card type, its [conflict-military] and [conflict-political] skills are equal to its printed [conflict-military] and [conflict-political] modifiers and it has 0 glory.",
+        "traits": [
+            "monk",
+            "creature",
+            "fire",
+            "mythic"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]
