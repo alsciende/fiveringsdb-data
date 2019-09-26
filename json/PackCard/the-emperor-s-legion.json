@@ -8,6 +8,14 @@
         "quantity": 1
     },
     {
+        "card_id": "kenson-no-gakka",
+        "flavor": "It stands as a testament to the limits of Scorpion ambition.",
+        "illustrator": "Noah Bradley",
+        "image_url": "",
+        "position": "1",
+        "quantity": 1
+    },
+    {
         "card_id": "support-of-the-lion",
         "flavor": "",
         "illustrator": "",
@@ -24,11 +32,43 @@
         "quantity": 3
     },
     {
+        "card_id": "samurai-of-integrity",
+        "flavor": "\"Your soldiers will follow you into the darkest valley, and fight in the blackest night, if they are illuminated by your honor.\" - Akodo's Leadership",
+        "illustrator": "Drew Baker",
+        "image_url": "",
+        "position": "5",
+        "quantity": 3
+    },
+    {
         "card_id": "matsu-gohei",
         "flavor": "\"Why'd you want to fight me when you'd do such a bad job of it.\"",
         "illustrator": "Stanislav Dikolenko",
         "image_url": "",
         "position": "6",
+        "quantity": 3
+    },
+    {
+        "card_id": "ardent-omoidasu",
+        "flavor": "\"You expect Akodo-san to care about an insult conceived by a novice, when he has singlehandedly repelled eight different Unicorn assaults on Juntou no Shiro?\"",
+        "illustrator": "Greg Burrowski",
+        "image_url": "",
+        "position": "7",
+        "quantity": 3
+    },
+    {
+        "card_id": "kitsu-motso",
+        "flavor": "\"The time is now\"",
+        "illustrator": "Felipe Gaona",
+        "image_url": "",
+        "position": "8",
+        "quantity": 3
+    },
+    {
+        "card_id": "kitsu-motso",
+        "flavor": "\"You may find that honor carries a different meaning in this battlefield.\"",
+        "illustrator": "Kevin Zamir Golke",
+        "image_url": "",
+        "position": "9",
         "quantity": 3
     },
     {
@@ -40,11 +80,43 @@
         "quantity": 3
     },
     {
+        "card_id": "matsu-tsuko-2",
+        "flavor": "\"We will make them cower for their insults, and Arasou will be avenged.\"",
+        "illustrator": "Amélie Hutt",
+        "image_url": "",
+        "position": "11",
+        "quantity": 3
+    },
+    {
+        "card_id": "champions-of-yomi",
+        "flavor": "",
+        "illustrator": "Polar Engine",
+        "image_url": "",
+        "position": "12",
+        "quantity": 3
+    },
+    {
+        "card_id": "hall-of-victories",
+        "flavor": "\"In these records, you will be remembered for the next thousand years.\"",
+        "illustrator": "Hai Hoang",
+        "image_url": "",
+        "position": "13",
+        "quantity": 3
+    },
+    {
         "card_id": "yasuki-hikaru",
         "flavor": "\"As a samurai in service to my clan, I cannot allow you to spread the Taint any further.\"",
         "illustrator": "Stanislav Dikolenko",
         "image_url": "",
         "position": "14",
+        "quantity": 3
+    },
+    {
+        "card_id": "doji-kuzunobu",
+        "flavor": "Each poem spun discloses a trace of the wondrous forest home to which he hopes to one day return.",
+        "illustrator": "Polar Engine",
+        "image_url": "",
+        "position": "15",
         "quantity": 3
     },
     {
@@ -88,11 +160,51 @@
         "quantity": 3
     },
     {
+        "card_id": "tactical-ingenuity",
+        "flavor": "",
+        "illustrator": "Greg Lambrakis",
+        "image_url": "",
+        "position": "21",
+        "quantity": 3
+    },
+    {
+        "card_id": "total-warfare",
+        "flavor": "",
+        "illustrator": "Evan Shipard",
+        "image_url": "",
+        "position": "22",
+        "quantity": 3
+    },
+    {
         "card_id": "embrace-death",
         "flavor": "",
         "illustrator": "Michael Matsumoto",
         "image_url": "",
         "position": "23",
+        "quantity": 3
+    },
+    {
+        "card_id": "honor-in-battle",
+        "flavor": "\"With victory, your foe is set back. With honor, your foe is vanquished.\" - Akodo's Leadership",
+        "illustrator": "Diego Gisbert Llorens",
+        "image_url": "",
+        "position": "24",
+        "quantity": 3
+    },
+    {
+        "card_id": "prepare-for-war",
+        "flavor": "",
+        "illustrator": "Le Vuong",
+        "image_url": "",
+        "position": "25",
+        "quantity": 3
+    },
+    {
+        "card_id": "right-hand-of-the-emperor",
+        "flavor": "",
+        "illustrator": "Marius Bota",
+        "image_url": "",
+        "position": "26",
         "quantity": 3
     },
     {
