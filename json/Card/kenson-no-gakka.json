@@ -1,31 +1,33 @@
 [
     {
         "allowed_clans": [
-            "dragon"
+            "lion"
         ],
-        "clan": "dragon",
+        "clan": "lion",
         "cost": null,
         "deck_limit": 1,
-        "element": "fire",
+        "element": "air",
         "fate": null,
         "glory": null,
         "honor": null,
-        "id": "restoration-of-balance",
+        "id": "kenson-no-gakka",
         "influence_cost": null,
         "influence_pool": null,
         "is_restricted": false,
         "military": null,
         "military_bonus": null,
-        "name": "Restoration of Balance",
+        "name": "Kenson no Gakka",
         "name_extra": null,
         "political": null,
         "political_bonus": null,
         "role_restriction": null,
         "side": "province",
-        "strength": "3",
+        "strength": "5",
         "strength_bonus": null,
-        "text": "<b>Interrupt:</b> When this province is broken – your opponent discards cards from his or her hand until that player has 4 or fewer cards in hand.\n<i>Errata from RRG v9</i>",
-        "traits": [],
+        "text": "<b>Reaction:</b> After you lose a conflict at this province - honor each defending character.",
+        "traits": [
+            "castle"
+        ],
         "type": "province",
         "unicity": false
     }
