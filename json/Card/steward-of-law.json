@@ -30,7 +30,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "While this character is participating in a conflict, characters cannot become dishonored.",
+        "text": "While this character is participating in a conflict, characters cannot receive dishonored status tokens.\n<i>Errata from RRG v11</i>",
         "traits": [
             "courtier",
             "scholar"
