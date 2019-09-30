@@ -19,7 +19,7 @@
         "id": "feast-or-famine",
         "influence_cost": null,
         "influence_pool": null,
-        "is_restricted": true,
+        "is_restricted": false,
         "military": null,
         "military_bonus": null,
         "name": "Feast or Famine",

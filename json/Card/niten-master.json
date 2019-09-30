@@ -13,7 +13,7 @@
         "id": "niten-master",
         "influence_cost": null,
         "influence_pool": null,
-        "is_restricted": true,
+        "is_restricted": false,
         "military": "3",
         "military_bonus": null,
         "name": "Niten Master",

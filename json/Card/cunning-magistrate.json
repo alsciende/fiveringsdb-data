@@ -13,7 +13,7 @@
         "id": "cunning-magistrate",
         "influence_cost": null,
         "influence_pool": null,
-        "is_restricted": false,
+        "is_restricted": true,
         "military": "2",
         "military_bonus": null,
         "name": "Cunning Magistrate",
