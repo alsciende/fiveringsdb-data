@@ -1,0 +1,41 @@
+[
+    {
+        "allowed_clans": [
+            "crab",
+            "crane",
+            "dragon",
+            "lion",
+            "phoenix",
+            "scorpion",
+            "unicorn"
+        ],
+        "clan": "dragon",
+        "cost": 0,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "iron-foundations-stance",
+        "influence_cost": 1,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": null,
+        "military_bonus": null,
+        "name": "Iron Foundations Stance",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a conflict, choose a participating <em>Monk</em> character you control – until the end of the conflict, that character cannot be bowed or moved home by opponents' card effects. If you have played another <em>Kihō</em> in this conflict, draw 1 card.",
+        "traits": [
+            "kiho",
+            "earth"
+        ],
+        "type": "event",
+        "unicity": false
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "allowed_clans": [
+            "dragon"
+        ],
+        "clan": "dragon",
+        "cost": 1,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "niten",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": null,
+        "military_bonus": "+0",
+        "name": "Niten",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": "+1",
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Attach to a [clan-dragon] character.\n<b>Action:</b> During a conflict in which attached character is participating, return this attachment to your hand - put an attachment from your hand into play attached to the same character. (Max 1 per round.)",
+        "traits": [
+            "item",
+            "philosophy"
+        ],
+        "type": "attachment",
+        "unicity": true
+    }
+]

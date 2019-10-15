@@ -112,6 +112,10 @@
         "value": "Berserker"
     },
     {
+        "id": "trait.brotherhood",
+        "value": "Brotherhood"
+    },
+    {
         "id": "trait.bushi",
         "value": "Bushi"
     },
@@ -454,6 +458,10 @@
 	{
         "id": "trait.unicorn",
         "value": "Unicorn"
+    },
+    {
+        "id": "trait.village",
+        "value": "Village"
     },
     {
         "id": "trait.void",

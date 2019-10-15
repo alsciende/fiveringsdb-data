@@ -1,0 +1,35 @@
+[
+    {
+        "allowed_clans": [
+            "dragon"
+        ],
+        "clan": "dragon",
+        "cost": 5,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 3,
+        "honor": null,
+        "id": "togashi-mitsu-2",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": "4",
+        "military_bonus": null,
+        "name": "Togashi Mitsu",
+        "name_extra": "(2)",
+        "political": "5",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "This character cannot be evaded by the covert keyword.\n<b>Action:</b> During a conflict in which this character is participating, if you have played 5 or more cards in the conflict, choose a ring - resolve that ring's effects as if you were the attacking player.",
+        "traits": [
+            "monk",
+            "tattooed"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]
