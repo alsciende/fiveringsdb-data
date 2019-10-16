@@ -1,0 +1,18 @@
+{
+    "id": "core",
+    "name": "Grundspiel",
+    "cards": [
+        {
+            "id": "mountain-s-anvil-castle",
+            "name": "Bergamboss-Burg",
+            "text": "<b>Aktion:</b> Beuge während eines Konflikts diese Festung. Wähle einen teilnehmenden Charakter mit 1 oder mehr Verstärkungen - jener Charakter bekommt bis zum Ende des Konflikts +1[conflict-military] und +1[conflict-political] (stattdessen +2[conflict-military] und +2[conflict-political], falls er 2 oder mehr Verstärkungen hat).",
+            "flavor": "" 
+        },
+        {
+            "id": "charge",
+            "name": "Zum Angriff!",
+            "text": "<b>Aktion:</b> Wähle während eines [conflict-military]-Konflikts einen Charakter in 1 deiner Provinzen - bringe jenen Charakter in den Konflikt ins Spiel.",
+            "flavor": "Ein Samurai muss immer bereit sein. Bereit zu kämpfen. Und falls nötig bereit zu sterben"
+        }
+    ]
+}
