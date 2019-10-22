@@ -1,0 +1,41 @@
+[
+    {
+        "allowed_clans": [
+            "crab",
+            "crane",
+            "dragon",
+            "lion",
+            "phoenix",
+            "scorpion",
+            "unicorn"
+        ],
+        "clan": "dragon",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "togashi-acolyte",
+        "influence_cost": 2,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Togashi Acolyte",
+        "name_extra": null,
+        "political": "2",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "You may play this character as an attachment with the text: \"<b>Reaction:</b> After you play a card during a conflict in which attached character is participating - attached character gets +1[conflict-military] and +1[conflict-political] until the end of the conflict. (Unlimited.)",
+        "traits": [
+            "monk",
+            "tattooed"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]
