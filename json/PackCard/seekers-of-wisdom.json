@@ -24,7 +24,7 @@
         "quantity": 1
     },
     {
-        "card_id": "taois-adept",
+        "card_id": "taoist-adept",
         "flavor": "\"Only a mind open to the world can perceive it.\" - Tao of Shinsei",
         "illustrator": "Bram Sels",
         "image_url": "",
@@ -133,14 +133,6 @@
         "illustrator": "Greg Bobrowski",
         "image_url": "",
         "position": "17",
-        "quantity": 3
-    },
-    {
-        "card_id": "ichiro",
-        "flavor": "\"My father is a liar and a hypocrite. How could I feel any loyalty to a man who  has never once told me the truth?\"",
-        "illustrator": "Lin Hsiang",
-        "image_url": "",
-        "position": "18",
         "quantity": 3
     },
     {
