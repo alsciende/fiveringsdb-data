@@ -308,6 +308,10 @@
         "value": "Meishōdō"
     },
     {
+        "id": "trait.merchant",
+        "value": "Merchant"
+    },
+    {
         "id": "trait.mine",
         "value": "Mine"
     },
@@ -466,6 +470,10 @@
     {
         "id": "trait.void",
         "value": "Void"
+    },
+    {
+        "id": "trait.wasteland",
+        "value": "Wasteland"
     },
     {
         "id": "trait.water",

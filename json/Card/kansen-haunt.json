@@ -9,33 +9,32 @@
             "scorpion",
             "unicorn"
         ],
-        "clan": "dragon",
-        "cost": 1,
+        "clan": "neutral",
+        "cost": null,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": null,
         "honor": null,
-        "id": "wildfire-kick",
-        "influence_cost": 2,
+        "id": "kansen-haunt",
+        "influence_cost": null,
         "influence_pool": null,
         "is_restricted": false,
         "military": null,
         "military_bonus": null,
-        "name": "Wildfire Kick",
+        "name": "Kansen Haunt",
         "name_extra": null,
         "political": null,
         "political_bonus": null,
         "role_restriction": null,
-        "side": "conflict",
+        "side": "dynasty",
         "strength": null,
-        "strength_bonus": null,
-        "text": "<b>Action:</b> During a conflict in which you have played 3 or more cards, choose a participating <em>Monk</em> character you control - each participating character your opponent controls with [conflict-military] skill equal to or lower than the chosen character gets -2[conflict-military] and -2[conflict-political] until the end of the conflict.",
+        "strength_bonus": "-2",
+        "text": "<b>Reaction:</b> After you claim a ring during a conflict in which you are the defending player, if you are less honorable than an opponent, lose 2 honor - resolve that ring's effect as if you were the attacking player.",
         "traits": [
-            "kiho",
-            "fire"
+            "shadowlands"
         ],
-        "type": "event",
+        "type": "holding",
         "unicity": false
     }
 ]

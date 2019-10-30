@@ -1,0 +1,36 @@
+[
+    {
+        "allowed_clans": [
+            "phoenix"
+        ],
+        "clan": "phoenix",
+        "cost": 4,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 2,
+        "honor": null,
+        "id": "isawa-eju",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": "1",
+        "military_bonus": null,
+        "name": "Isawa Eju",
+        "name_extra": null,
+        "political": "4",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "Courtesy. Sincerity.\n<b>Action:</b> If you have claimed the [element-air] ring, choose a province - sicard each card in that province and refill it faceup. (Limit 3 times per round.)",
+        "traits": [
+            "shugenja",
+            "air",
+            "elemental-master"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]

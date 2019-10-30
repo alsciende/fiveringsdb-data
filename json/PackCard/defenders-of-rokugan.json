@@ -8,12 +8,36 @@
         "quantity": 1
     },
     {
+        "card_id": "kuni-wastelands",
+        "flavor": "",
+        "illustrator": "Daniel Alekow",
+        "image_url": "",
+        "position": "2",
+        "quantity": 1
+    },
+    {
         "card_id": "support-of-the-crab",
         "flavor": "",
         "illustrator": "",
         "image_url": "",
         "position": "3",
         "quantity": 1
+    },
+    {
+        "card_id": "purifier-apprentice",
+        "flavor": "\"When you face the darkness of the Shadowlands, you must be unflinching, lest you become the subject you wish to study.\" - Kuni Ritsuko",
+        "illustrator": "Greg Lambrakis",
+        "image_url": "",
+        "position": "4",
+        "quantity": 3
+    },
+    {
+        "card_id": "hida-sukune",
+        "flavor": "\"Few can claim to know the defences of the Wall as well as the Champion's youngest son. Yet who will follow such a child into battle?\" - Hida Sanae",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "5",
+        "quantity": 3
     },
     {
         "card_id": "hida-o-ushi",
@@ -24,12 +48,36 @@
         "quantity": 3
     },
     {
+        "card_id": "unyielding-sensei",
+        "flavor": "",
+        "illustrator": "Jason Engle",
+        "image_url": "",
+        "position": "8",
+        "quantity": 3
+    },
+    {
+        "card_id": "favorable-dealbroker",
+        "flavor": "\"A tea set this fine would go anywhere else for 2 koku. But for only you, I will make an exception.\"",
+        "illustrator": "Erich Schreiner",
+        "image_url": "",
+        "position": "9",
+        "quantity": 3
+    },
+    {
         "card_id": "kaiu-shihobu",
         "flavor": "",
         "illustrator": "Polar Engine",
         "image_url": "",
         "position": "10",
         "quantity": 3
+    },
+    {
+        "card_id": "kuni-forges",
+        "flavor": "",
+        "illustrator": "Hai Hoang",
+        "image_url": "",
+        "position": "12",
+        "quantity": 1
     },
     {
         "card_id": "northern-curtain-wall",
@@ -45,6 +93,22 @@
         "illustrator": "Leanna Crossan",
         "image_url": "",
         "position": "14",
+        "quantity": 1
+    },
+    {
+        "card_id": "seventh-tower",
+        "flavor": "",
+        "illustrator": "Leanna Crossan",
+        "image_url": "",
+        "position": "15",
+        "quantity": 1
+    },
+    {
+        "card_id": "third-whisker-warrens",
+        "flavor": "",
+        "illustrator": "Mocaran",
+        "image_url": "",
+        "position": "16",
         "quantity": 1
     },
     {
@@ -64,9 +128,49 @@
         "quantity": 3
     },
     {
-        "card_id": "siege-warfare",
+        "card_id": "agasha-hiyori",
         "flavor": "",
-        "illustrator": "William O'Connor",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "19",
+        "quantity": 3
+    },
+    {
+        "card_id": "matsu-agetoki",
+        "flavor": "",
+        "illustrator": "Quintin Gleim",
+        "image_url": "",
+        "position": "20",
+        "quantity": 3
+    },
+    {
+        "card_id": "yogo-asami",
+        "flavor": "",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "21",
+        "quantity": 3
+    },
+    {
+        "card_id": "shinjo-yasamura",
+        "flavor": "",
+        "illustrator": "Diego Gisbert Llorens",
+        "image_url": "",
+        "position": "22",
+        "quantity": 3
+    },
+    {
+        "card_id": "moto-eviscerator",
+        "flavor": "\"Do not be so quick to put yourself above the Shinjo, nephew. Do you ignore or forget the lesson Moto Tsume taught our family of pride?\" - Moto Rurame, to Moto Chagatai",
+        "illustrator": "Jason Engle",
+        "image_url": "",
+        "position": "23",
+        "quantity": 3
+    },
+    {
+        "card_id": "kansen-haunt",
+        "flavor": "",
+        "illustrator": "Max Bedulenko",
         "image_url": "",
         "position": "24",
         "quantity": 3
@@ -77,6 +181,46 @@
         "illustrator": "Paolo Puggioni",
         "image_url": "",
         "position": "26",
+        "quantity": 3
+    },
+    {
+        "card_id": "siege-warfare",
+        "flavor": "",
+        "illustrator": "William O'Connor",
+        "image_url": "",
+        "position": "28",
+        "quantity": 3
+    },
+    {
+        "card_id": "desolation",
+        "flavor": "",
+        "illustrator": "Stanislav Dikolenko",
+        "image_url": "",
+        "position": "29",
+        "quantity": 3
+    },
+    {
+        "card_id": "the-strength-of-the-mountain",
+        "flavor": "",
+        "illustrator": "Preston Stone",
+        "image_url": "",
+        "position": "30",
+        "quantity": 3
+    },
+    {
+        "card_id": "isawa-eju",
+        "flavor": "\"This council...could serve...to learn much...from our young...champion.\"",
+        "illustrator": "Mocaran",
+        "image_url": "",
+        "position": "31",
+        "quantity": 3
+    },
+    {
+        "card_id": "slovenly-scavenger",
+        "flavor": "\"No wonder they're always so weak and scrawny.\" - Hiruma Izumi",
+        "illustrator": "Luis Nunez de Castro Torres",
+        "image_url": "",
+        "position": "32",
         "quantity": 3
     }
 ]
