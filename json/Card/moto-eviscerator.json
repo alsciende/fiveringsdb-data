@@ -1,0 +1,42 @@
+[
+    {
+        "allowed_clans": [
+            "crab",
+            "crane",
+            "dragon",
+            "lion",
+            "phoenix",
+            "scorpion",
+            "unicorn"
+        ],
+        "clan": "neutral",
+        "cost": 2,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "moto-eviscerator",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": "3",
+        "military_bonus": null,
+        "name": "Moto Eviscerator",
+        "name_extra": null,
+        "political": "0",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Action:</b> During a conflict, lose 1 honor - move this character to the conflict.",
+        "traits": [
+            "bushi",
+            "cavalry",
+            "shadowlands"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

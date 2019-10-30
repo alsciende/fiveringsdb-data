@@ -1,0 +1,41 @@
+[
+    {
+        "allowed_clans": [
+            "crab",
+            "crane",
+            "dragon",
+            "lion",
+            "phoenix",
+            "scorpion",
+            "unicorn"
+        ],
+        "clan": "neutral",
+        "cost": 1,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 0,
+        "honor": null,
+        "id": "slovenly-scavenger",
+        "influence_cost": 0,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": "1",
+        "military_bonus": null,
+        "name": "Slovenly Scavenger",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After this character wins a conflict, sacrifice it. Choose a discard pile – shuffle that discard pile into its owner's corresponding deck.",
+        "traits": [
+            "goblin",
+            "shadowlands"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

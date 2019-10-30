@@ -1,0 +1,35 @@
+[
+    {
+        "allowed_clans": [
+            "crab"
+        ],
+        "clan": "crab",
+        "cost": 4,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "favorable-dealbroker",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Favorable Dealbroker",
+        "name_extra": null,
+        "political": "3",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After this character enters play - search your dynasty deck for a character with printed cost 1 and put it into play. Shuffle.",
+        "traits": [
+            "courtier",
+            "merchant"
+        ],
+        "type": "character",
+        "unicity": false
+    }
+]

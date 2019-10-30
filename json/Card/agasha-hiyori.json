@@ -1,0 +1,35 @@
+[
+    {
+        "allowed_clans": [
+            "dragon"
+        ],
+        "clan": "dragon",
+        "cost": 3,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": 1,
+        "honor": null,
+        "id": "agasha-hiyori",
+        "influence_cost": null,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": "2",
+        "military_bonus": null,
+        "name": "Agasha Hiyori",
+        "name_extra": null,
+        "political": "2",
+        "political_bonus": null,
+        "role_restriction": null,
+        "side": "dynasty",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "<b>Reaction:</b> After a phase begins, spend 1 fate to an unclaimed ring and choose an attachment on a character - until the end of the phase, treat that attachment as if its printed text bow were blank (except for <em>Traits</em>) and as if it had no skill modifiers.",
+        "traits": [
+            "shugenja",
+            "fire"
+        ],
+        "type": "character",
+        "unicity": true
+    }
+]
