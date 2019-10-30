@@ -30,7 +30,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> During a conflict in which you have played 3 or more cards, choose a participating <em>Monk</em> character you control - each participating character your opponent controls with [conflict-military] skill equal to or lower than the chosen character gets -2[conflict-military]and -2[conflict-political] until the end of the conflict.",
+        "text": "<b>Action:</b> During a conflict in which you have played 3 or more cards, choose a participating <em>Monk</em> character you control - each participating character your opponent controls with [conflict-military] skill equal to or lower than the chosen character gets -2[conflict-military] and -2[conflict-political] until the end of the conflict.",
         "traits": [
             "kiho",
             "fire"
