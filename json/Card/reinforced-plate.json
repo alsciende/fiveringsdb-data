@@ -1,0 +1,40 @@
+[
+    {
+        "allowed_clans": [
+            "crab",
+            "crane",
+            "dragon",
+            "lion",
+            "phoenix",
+            "scorpion",
+            "unicorn"
+        ],
+        "clan": "crab",
+        "cost": 1,
+        "deck_limit": 3,
+        "element": null,
+        "fate": null,
+        "glory": null,
+        "honor": null,
+        "id": "reinforced-plate",
+        "influence_cost": 3,
+        "influence_pool": null,
+        "is_restricted": false,
+        "military": null,
+        "military_bonus": "+1",
+        "name": "Reinforced Plate",
+        "name_extra": null,
+        "political": null,
+        "political_bonus": "+0",
+        "role_restriction": null,
+        "side": "conflict",
+        "strength": null,
+        "strength_bonus": null,
+        "text": "While attached character is participating in a [conflict-military] conflict, it is immune to the effects of opponents' events.",
+        "traits": [
+            "armor"
+        ],
+        "type": "attachment",
+        "unicity": false
+    }
+]

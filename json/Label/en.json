@@ -92,6 +92,10 @@
         "value": "Air"
     },
     {
+        "id": "trait.armor",
+        "value": "Armor"
+    },
+    {
         "id": "trait.army",
         "value": "Army"
     },

@@ -40,6 +40,14 @@
         "quantity": 3
     },
     {
+        "card_id": "shadowlands-hunter",
+        "flavor": "\"Anyone willing to take on the Shadowlands in their own domain is either a paragon of courage or foolishly reckless. I have yet to meet any paragons.\" - Toritaka Taguchi",
+        "illustrator": "Paul (Prof.) Herbert",
+        "image_url": "",
+        "position": "6",
+        "quantity": 3
+    },
+    {
         "card_id": "hida-o-ushi",
         "flavor": "\"Empty words are the coward's way.\"",
         "illustrator": "Amélie Hutt",
@@ -69,6 +77,14 @@
         "illustrator": "Polar Engine",
         "image_url": "",
         "position": "10",
+        "quantity": 3
+    },
+    {
+        "card_id": "kaiu-siege-force",
+        "flavor": "Where the work of Kaiu minds falls short, Kaiu hands must follow through.",
+        "illustrator": "Felipe Gaona",
+        "image_url": "",
+        "position": "11",
         "quantity": 3
     },
     {
@@ -176,11 +192,27 @@
         "quantity": 3
     },
     {
+        "card_id": "reinforced-plate",
+        "flavor": "\"It is a wonder that anyone can fight in that thing.\" - Kakita Kaezin",
+        "illustrator": "Guillaume Ducos",
+        "image_url": "",
+        "position": "25",
+        "quantity": 3
+    },
+    {
         "card_id": "subterranean-guile",
         "flavor": "\"You'll get used to the smell\" - Yasuki Fuzake",
         "illustrator": "Paolo Puggioni",
         "image_url": "",
         "position": "26",
+        "quantity": 3
+    },
+    {
+        "card_id": "fruitful-respite",
+        "flavor": "Kaiu engineers are never idle.",
+        "illustrator": "Albert Tavira",
+        "image_url": "",
+        "position": "27",
         "quantity": 3
     },
     {
