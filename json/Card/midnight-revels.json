@@ -30,7 +30,7 @@
         "side": "province",
         "strength": "4",
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After a conflict is declared against this province, choose a character with the highest printed cost among characters in play - bow that character.</i>",
+        "text": "<b>Reaction:</b> After a conflict is declared against this province, choose a character with the highest printed cost among characters in play - bow that character.",
         "traits": [],
         "type": "province",
         "unicity": false
