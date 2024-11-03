@@ -2,8 +2,9 @@
 
 namespace App\Validator\Constraints;
 
-use App\Entity\Card;
+use App\Model\Card;
 use Cocur\Slugify\SlugifyInterface;
+use Symfony\Component\String\Slugger\AsciiSlugger;
 use Symfony\Component\Validator\Constraint;
 use Symfony\Component\Validator\ConstraintValidator;
 
@@ -11,20 +12,20 @@ use Symfony\Component\Validator\ConstraintValidator;
  */
 class HasCorrectSlugValidator extends ConstraintValidator
 {
-    /** @var SlugifyInterface $slugify */
-    private $slugify;
-
-    public function __construct (SlugifyInterface $slugify)
+    /**
+     * @param Card $value
+     * @param HasCorrectSlug $constraint
+     * @return void
+     */
+    #[\Override]
+    public function validate($value, Constraint $constraint): void
     {
-        $this->slugify = $slugify;
-    }
+        $slugger = new AsciiSlugger();
 
-    public function validate ($card, Constraint $constraint)
-    {
-        if ($card instanceof Card && $constraint instanceof HasCorrectSlug) {
-            if ($this->slugify->slugify($card->getFullName()) !== $card->getId()) {
+        if ($value instanceof Card && $constraint instanceof HasCorrectSlug) {
+            if ($slugger->slug($value->getFullName())->toString() !== $value->getId()) {
                 $this->context->buildViolation($constraint->message)
-                              ->setParameter('{{ card.name }}', $card->getName())
+                              ->setParameter('{{ card.name }}', $value->getName())
                               ->addViolation();
             }
         }

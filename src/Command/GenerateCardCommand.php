@@ -2,92 +2,58 @@
 
 namespace App\Command;
 
-use App\Entity\Card;
-use Cocur\Slugify\SlugifyInterface;
-use Doctrine\ORM\EntityManagerInterface;
-use JMS\Serializer\ArrayTransformerInterface;
-use JMS\Serializer\SerializationContext;
+use App\Model\Card;
+use Symfony\Component\Console\Attribute\AsCommand;
 use Symfony\Component\Console\Command\Command;
+use Symfony\Component\Console\Helper\HelperInterface;
 use Symfony\Component\Console\Helper\QuestionHelper;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Console\Question\ChoiceQuestion;
 use Symfony\Component\Console\Question\Question;
+use Symfony\Component\Console\Style\SymfonyStyle;
 use Symfony\Component\Finder\Finder;
+use Symfony\Component\Serializer\SerializerInterface;
+use Symfony\Component\String\Slugger\AsciiSlugger;
 use Symfony\Component\Validator\ConstraintViolationInterface;
 use Symfony\Component\Validator\Validator\ValidatorInterface;
 
-/**
- * Description of GenerateJsonCardCommand
- *
- * @author Alsciende <alsciende@icloud.com>
- */
-class GenerateJsonCardCommand extends Command
+#[AsCommand(
+    name: 'app:generate:card',
+    description: 'Generate json file for a card',
+)]
+class GenerateCardCommand extends Command
 {
-    /** @var EntityManagerInterface $entityManager */
-    private $entityManager;
+    private readonly AsciiSlugger $slugger;
 
-    /** @var ArrayTransformerInterface $arrayTransformer */
-    private $arrayTransformer;
-
-    /** @var ValidatorInterface $validator */
-    private $validator;
-
-    /** @var SlugifyInterface $slugify */
-    private $slugify;
-
-    public function __construct (
-        $name = null,
-        EntityManagerInterface $entityManager,
-        ArrayTransformerInterface $arrayTransformer,
-        ValidatorInterface $validator,
-        SlugifyInterface $slugify
+    public function __construct(
+        private readonly ValidatorInterface $validator,
+        private readonly SerializerInterface $serializer,
     )
     {
-        parent::__construct($name);
-        $this->entityManager = $entityManager;
-        $this->arrayTransformer = $arrayTransformer;
-        $this->validator = $validator;
-        $this->slugify = $slugify;
+        $this->slugger = new AsciiSlugger();
+        parent::__construct();
     }
 
-    protected function configure ()
+    #[\Override]
+    protected function execute(InputInterface $input, OutputInterface $output): int
     {
-        $this
-            ->setName('app:generate:card')
-            ->setDescription("Generate json file for a card");
-    }
-
-    private function alreadyExists(string $name): bool
-    {
-        $finder = new Finder();
-        $finder->files()->in('./json/Card/')->name('*.json');
-        foreach ($finder as $file) {
-            $content = json_decode(file_get_contents($file), true);
-            if ($content[0]['name'] === $name) {
-                return true;
-            }
-        }
-
-        return false;
-    }
-
-    protected function execute (InputInterface $input, OutputInterface $output)
-    {
+        $io = new SymfonyStyle($input, $output);
+        /** @var QuestionHelper $helper */
         $helper = $this->getHelper('question');
 
         $card = new Card();
         $card->setName($helper->ask($input, $output, new Question('Name: ')));
         if ($this->alreadyExists($card->getName())) {
-            $output->writeln('<info>A card with that name already exists, you must provide an extra.</info>');
+            $io->error('A card with that name already exists, you must provide an extra.');
             $card->setNameExtra($helper->ask($input, $output, new Question('Extra: ')) ?: null);
         }
 
-        $card->setId($this->slugify->slugify($card->getFullName()));
+        $card->setId($this->slugger->slug($card->getFullName())->toString());
         $filepath = './json/Card/' . $card->getId() . '.json';
         if (file_exists($filepath)) {
-            $output->writeln(sprintf('<info>Card already exists at %s -- aborting.</info>', $filepath));
-            die();
+            $io->error(sprintf('Card already exists at %s -- aborting.', $filepath));
+            return Command::FAILURE;
         }
 
         $card->setClan($helper->ask($input, $output, new ChoiceQuestion('Clan: ', [
@@ -192,27 +158,35 @@ class GenerateJsonCardCommand extends Command
             }
         }
 
-        $context = new SerializationContext();
-        $context->setSerializeNull(true);
-        $data = $this->arrayTransformer->toArray($card, $context);
+        $data = $this->serializer->serialize($card, 'json', [
+            'json_encode_options' => \JSON_PRETTY_PRINT | \JSON_UNESCAPED_SLASHES | \JSON_UNESCAPED_UNICODE
+        ]);
 
-        file_put_contents($filepath, $this->encode($data));
+        file_put_contents($filepath, $data);
+
+        $io->success("Card created at $filepath");
+
+        return Command::SUCCESS;
     }
 
-    private function encode (array $data): string
+    private function alreadyExists(string $name): bool
     {
-        return str_replace([
-            '—',
-            '--',
-            '\\\\n',
-        ], [
-            '–',
-            '–',
-            '\n',
-        ], json_encode([$data], JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE));
+        $finder = new Finder();
+        $finder->files()->in('./json/Card/')->name('*.json');
+        foreach ($finder as $file) {
+            $content = json_decode(file_get_contents($file), true);
+            if ($content[0]['name'] === $name) {
+                return true;
+            }
+        }
+
+        return false;
     }
 
-    private function askArray (InputInterface $input, OutputInterface $output, QuestionHelper $helper, Question $question): array
+    /**
+     * @return string[]
+     */
+    private function askArray(InputInterface $input, OutputInterface $output, QuestionHelper $helper, Question $question): array
     {
         $answers = [];
         while ($answer = $helper->ask($input, $output, $question)) {
@@ -222,11 +196,9 @@ class GenerateJsonCardCommand extends Command
         return $answers;
     }
 
-    private function askBoolean (InputInterface $input, OutputInterface $output, QuestionHelper $helper, Question $question): bool
+    private function askBoolean(InputInterface $input, OutputInterface $output, QuestionHelper $helper, Question $question): bool
     {
-        $question->setNormalizer(function ($value) {
-            return strtolower($value) === 'y';
-        });
+        $question->setNormalizer(fn($value): bool => strtolower((string) $value) === 'y');
 
         return $helper->ask($input, $output, $question);
     }

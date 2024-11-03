@@ -36,7 +36,3 @@ To generate a pack, execute:
 bin/console app:generate:pack {id} {position} {size} [{ffg-id}]
 ``` 
 The file is generated in `json/PackCard/`.
-
-## Contributing
-
-All contributions are welcome. See [CONTRIBUTING](./CONTRIBUTING.md) for details on how.

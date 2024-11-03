@@ -6,9 +6,10 @@ use Symfony\Component\Validator\Constraint;
 
 class KnownTraits extends Constraint
 {
-    public $message = 'The trait "{{ trait }}" is unknown.';
+    public string $message = 'The trait "{{ trait }}" is unknown.';
 
-    public function getTargets ()
+    #[\Override]
+    public function getTargets(): array|string
     {
         return self::PROPERTY_CONSTRAINT;
     }

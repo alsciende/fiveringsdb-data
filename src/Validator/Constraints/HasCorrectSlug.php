@@ -9,9 +9,10 @@ use Symfony\Component\Validator\Constraint;
  */
 class HasCorrectSlug extends Constraint
 {
-    public $message = 'The card "{{ card.name }}" has an incorrect slug id.';
+    public string $message = 'The card "{{ card.name }}" has an incorrect slug id.';
 
-    public function getTargets ()
+    #[\Override]
+    public function getTargets(): array|string
     {
         return self::CLASS_CONSTRAINT;
     }

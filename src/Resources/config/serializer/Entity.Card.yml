@@ -1,3 +1,0 @@
-App\Entity\Card:
-    exclusion_policy: NONE
-    accessor_order: alphabetical

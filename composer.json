@@ -1,74 +1,77 @@
 {
-  "type": "project",
-  "license": "proprietary",
-  "require": {
-    "php": "^7.1.3",
-    "ext-iconv": "*",
-    "alsciende/serializer-bundle": "1.1.1",
-    "cocur/slugify": "^3.1",
-    "jms/serializer-bundle": "^2.3",
-    "symfony/console": "^4.0",
-    "symfony/expression-language": "^4.0",
-    "symfony/finder": "^4.0",
-    "symfony/flex": "^1.0",
-    "symfony/framework-bundle": "^4.0",
-    "symfony/lts": "^4@dev",
-    "symfony/monolog-bundle": "^3.1",
-    "symfony/orm-pack": "^1.0",
-    "symfony/validator": "^4.0",
-    "symfony/yaml": "^4.0"
-  },
-  "require-dev": {
-    "symfony/dotenv": "^4.0",
-    "symfony/var-dumper": "^4.0"
-  },
-  "config": {
-    "preferred-install": {
-      "*": "dist"
+    "type": "project",
+    "license": "proprietary",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=8.3",
+        "ext-ctype": "*",
+        "ext-iconv": "*",
+        "phpdocumentor/reflection-docblock": "^5.4",
+        "phpstan/phpdoc-parser": "^1.33",
+        "symfony/console": "7.1.*",
+        "symfony/dotenv": "7.1.*",
+        "symfony/flex": "^2",
+        "symfony/framework-bundle": "7.1.*",
+        "symfony/property-access": "7.1.*",
+        "symfony/property-info": "7.1.*",
+        "symfony/runtime": "7.1.*",
+        "symfony/serializer": "7.1.*",
+        "symfony/string": "7.1.*",
+        "symfony/validator": "7.1.*",
+        "symfony/yaml": "7.1.*"
     },
-    "sort-packages": true
-  },
-  "autoload": {
-    "psr-4": {
-      "App\\": "src/"
-    }
-  },
-  "autoload-dev": {
-    "psr-4": {
-      "App\\Tests\\": "tests/"
-    }
-  },
-  "replace": {
-    "symfony/polyfill-iconv": "*",
-    "symfony/polyfill-php71": "*",
-    "symfony/polyfill-php70": "*",
-    "symfony/polyfill-php56": "*"
-  },
-  "scripts": {
-    "auto-scripts": {
-      "cache:clear": "symfony-cmd",
-      "assets:install --symlink --relative %PUBLIC_DIR%": "symfony-cmd"
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true,
+            "symfony/flex": true,
+            "symfony/runtime": true
+        },
+        "sort-packages": true
     },
-    "post-install-cmd": [
-      "@auto-scripts"
-    ],
-    "post-update-cmd": [
-      "@auto-scripts"
-    ]
-  },
-  "conflict": {
-    "symfony/symfony": "*"
-  },
-  "extra": {
-    "symfony": {
-      "id": "01C4F057VX3B0Y553SGT5Q9A33",
-      "allow-contrib": false
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "App\\Tests\\": "tests/"
+        }
+    },
+    "replace": {
+        "symfony/polyfill-ctype": "*",
+        "symfony/polyfill-iconv": "*",
+        "symfony/polyfill-php72": "*",
+        "symfony/polyfill-php73": "*",
+        "symfony/polyfill-php74": "*",
+        "symfony/polyfill-php80": "*",
+        "symfony/polyfill-php81": "*",
+        "symfony/polyfill-php82": "*"
+    },
+    "scripts": {
+        "auto-scripts": {
+            "cache:clear": "symfony-cmd",
+            "assets:install %PUBLIC_DIR%": "symfony-cmd"
+        },
+        "post-install-cmd": [
+            "@auto-scripts"
+        ],
+        "post-update-cmd": [
+            "@auto-scripts"
+        ]
+    },
+    "conflict": {
+        "symfony/symfony": "*"
+    },
+    "extra": {
+        "symfony": {
+            "allow-contrib": false,
+            "require": "7.1.*"
+        }
+    },
+    "require-dev": {
+        "rector/rector": "^1.2",
+        "symfony/maker-bundle": "^1.61"
     }
-  },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "git://github.com/alsciende/serializer-bundle.git"
-    }
-  ]
 }
