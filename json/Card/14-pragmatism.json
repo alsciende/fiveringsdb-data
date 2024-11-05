@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a character you control.\nWhile you are less honorable than an opponent, attached character gets +1[conflict-military], +1[conflict-political], and gains: \"This character cannot be honored or dishonored.\"",
+    "text": "Attach to a character you control.<br>While you are less honorable than an opponent, attached character gets +1[conflict-military], +1[conflict-political], and gains: \"This character cannot be honored or dishonored.\"",
     "traits": [
         "condition"
     ],

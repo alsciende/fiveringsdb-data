@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "While the [element-earth] ring is contested or in your claimed ring pool, each opponent cannot play copies of event cards that are in his or her conflict discard pile.\n<i>Errata from RRG v9</i>",
+    "text": "While the [element-earth] ring is contested or in your claimed ring pool, each opponent cannot play copies of event cards that are in his or her conflict discard pile.<br><i>Errata from RRG v9</i>",
     "traits": [
         "shugenja",
         "earth",

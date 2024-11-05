@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "Pride.\nDuring a conflict in which this character is participating, it gains +2[conflict-military] for each other participating dishonored character and +2[conflict-political] for each other participating honored character.",
+    "text": "Pride.<br>During a conflict in which this character is participating, it gains +2[conflict-military] for each other participating dishonored character and +2[conflict-political] for each other participating honored character.",
     "traits": [
         "courtier"
     ],

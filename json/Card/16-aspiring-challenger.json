@@ -28,7 +28,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "Composure - This character gets +2 glory. <i>(You have composure if your honor bid is lower than an opponent's.)</i>\n<b>Action: </b>During a conflict, initiate a [conflict-military] duel - resolve the duel.  Honor the duel's winner.",
+    "text": "Composure - This character gets +2 glory. <i>(You have composure if your honor bid is lower than an opponent's.)</i><br><b>Action: </b>During a conflict, initiate a [conflict-military] duel - resolve the duel.  Honor the duel's winner.",
     "traits": [
         "bushi",
         "duelist",

@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Fire</b> role only.\nAttached character cannot receive dishonored status tokens.\n<b>Forced Reaction:</b> After attached character loses a conflict - discard this attachment.\n<i>Errata from RRG v11</i>",
+    "text": "<b>Fire</b> role only.<br>Attached character cannot receive dishonored status tokens.<br><b>Forced Reaction:</b> After attached character loses a conflict - discard this attachment.<br><i>Errata from RRG v11</i>",
     "traits": [
         "technique"
     ],

@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Play only during a [conflict-political] conflict, in which you count more current [conflict-political] than your opponent, and only on a participating character.\nAttached character cannot trigger its abilities.",
+    "text": "Play only during a [conflict-political] conflict, in which you count more current [conflict-political] than your opponent, and only on a participating character.<br>Attached character cannot trigger its abilities.",
     "traits": [
         "condition"
     ],

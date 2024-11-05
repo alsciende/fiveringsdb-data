@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a <em>Courtier</em> character.\nAttached character gains: \"<b>Action:</b> During a conflict, initiate a [conflict-military] duel - resolve the duel. Dishonor the duel's loser. If that character is already dishonored, bow it. If it is already bowed and dishonored, discard it.\"",
+    "text": "Attach to a <em>Courtier</em> character.<br>Attached character gains: \"<b>Action:</b> During a conflict, initiate a [conflict-military] duel - resolve the duel. Dishonor the duel's loser. If that character is already dishonored, bow it. If it is already bowed and dishonored, discard it.\"",
     "traits": [
         "technique"
     ],

@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "No attachments except <em>Monk</em> or <em>Tattoo</em>.\nAs an additional cost to choose a <em>Tattooed</em> character you control as a target of an event, the opponent playing that event must pay 1 additional fate.",
+    "text": "No attachments except <em>Monk</em> or <em>Tattoo</em>.<br>As an additional cost to choose a <em>Tattooed</em> character you control as a target of an event, the opponent playing that event must pay 1 additional fate.",
     "traits": [
         "monk",
         "tattooed"

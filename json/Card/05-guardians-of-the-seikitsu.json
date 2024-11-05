@@ -28,7 +28,7 @@
     "side": "province",
     "strength": "5",
     "strength_bonus": null,
-    "text": "<em>Earth</em> role only.\n<b>Reaction:</b> After this province is revealed – bow each character with printed cost 2 or lower.",
+    "text": "<em>Earth</em> role only.<br><b>Reaction:</b> After this province is revealed – bow each character with printed cost 2 or lower.",
     "traits": [],
     "type": "province",
     "unique": false

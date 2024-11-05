@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "Pride.\n<b>Action:</b> While this character is participating in a conflict, if you control more participating characters than your opponent – each participating <em>Cavalry</em> character you control gets +1[conflict-military] and +1[conflict-political] until the end of the conflict.",
+    "text": "Pride.<br><b>Action:</b> While this character is participating in a conflict, if you control more participating characters than your opponent – each participating <em>Cavalry</em> character you control gets +1[conflict-military] and +1[conflict-political] until the end of the conflict.",
     "traits": [
         "bushi",
         "cavalry",

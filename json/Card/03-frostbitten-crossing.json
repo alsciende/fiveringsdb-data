@@ -28,7 +28,7 @@
     "side": "province",
     "strength": "4",
     "strength_bonus": null,
-    "text": "<em>Air</em> role only.\n<b>Action:</b> During a conflict at this province, choose a participating character – discard each attachment on that character.",
+    "text": "<em>Air</em> role only.<br><b>Action:</b> During a conflict at this province, choose a participating character – discard each attachment on that character.",
     "traits": [],
     "type": "province",
     "unique": false

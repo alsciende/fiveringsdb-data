@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+1",
-    "text": "Limit 1 per deck.\nDuring each conflict at a province you control with a <em>Kaiu Wall</em> holding, you may look at and play the top card of your dynasty deck as if it were in your hand.",
+    "text": "Limit 1 per deck.<br>During each conflict at a province you control with a <em>Kaiu Wall</em> holding, you may look at and play the top card of your dynasty deck as if it were in your hand.",
     "traits": [
         "kaiu-wall"
     ],

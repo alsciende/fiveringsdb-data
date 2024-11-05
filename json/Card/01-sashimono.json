@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a <em>Bushi</em> character you control.\nAttached character does not bow as a result of conflict resolution during [conflict-military] conflicts.",
+    "text": "Attach to a <em>Bushi</em> character you control.<br>Attached character does not bow as a result of conflict resolution during [conflict-military] conflicts.",
     "traits": [
         "item",
         "banner"

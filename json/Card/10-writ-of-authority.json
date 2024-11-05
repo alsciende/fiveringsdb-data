@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Earth</em> role only. Restricted.\nIf an opponent is more honorable than you, discard this attachment.",
+    "text": "<em>Earth</em> role only. Restricted.<br>If an opponent is more honorable than you, discard this attachment.",
     "traits": [
         "item"
     ],

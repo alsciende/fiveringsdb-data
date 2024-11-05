@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Play only if you are less honorable than an opponent.\n<b>Action:</b> During a conflict – put a <em>Shinobi</em> character into play from your hand or provinces in the conflict. That character enters play dishonored.",
+    "text": "Play only if you are less honorable than an opponent.<br><b>Action:</b> During a conflict – put a <em>Shinobi</em> character into play from your hand or provinces in the conflict. That character enters play dishonored.",
     "traits": [],
     "type": "event",
     "unique": false

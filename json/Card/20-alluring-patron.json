@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Fire</em> role only.\n<b>Action:</b> During a conflict in which this character is participating, choose a character your opponent controls in his or her home. Your opponent selects one - either move that character to the conflict, or dishonor it.",
+    "text": "<em>Fire</em> role only.<br><b>Action:</b> During a conflict in which this character is participating, choose a character your opponent controls in his or her home. Your opponent selects one - either move that character to the conflict, or dishonor it.",
     "traits": [
         "courtier"
     ],

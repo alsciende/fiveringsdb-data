@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "Covert. <i>(When this character attacks, choose one character without covert. That character cannot be declared as a defender.)</i>\n<b>Action:</b> During a conflict in which this character is participating, if there is a holding in play – gain 1 fate.",
+    "text": "Covert. <i>(When this character attacks, choose one character without covert. That character cannot be declared as a defender.)</i><br><b>Action:</b> During a conflict in which this character is participating, if there is a holding in play – gain 1 fate.",
     "traits": [
         "bushi",
         "engineer"

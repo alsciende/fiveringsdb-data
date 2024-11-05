@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a <em>Shugenja</em> character you control.\n<b>Reaction:</b> After the effects of an opponent's event resolve – resolve that event again as if you had just played it, ignoring costs and triggering conditions. You may choose new targets.",
+    "text": "Attach to a <em>Shugenja</em> character you control.<br><b>Reaction:</b> After the effects of an opponent's event resolve – resolve that event again as if you had just played it, ignoring costs and triggering conditions. You may choose new targets.",
     "traits": [
         "spell",
         "air"

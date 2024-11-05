@@ -28,7 +28,7 @@
     "side": "province",
     "strength": "3",
     "strength_bonus": null,
-    "text": "Cannot be a stronghold province.\nDuring conflicts at this province, you may play characters from your dynasty discard pile into the conflict as if they were in your hand.",
+    "text": "Cannot be a stronghold province.<br>During conflicts at this province, you may play characters from your dynasty discard pile into the conflict as if they were in your hand.",
     "traits": [],
     "type": "province",
     "unique": false

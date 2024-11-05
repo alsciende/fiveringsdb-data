@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Earth</em> role only.\n<b>Action:</b> During a conflict, initiate a [conflict-political] duel against a character your opponent controls of his or her choice – resolve the duel. Until the end of the conflict, the duel’s loser gains: \"Increase the cost to play each card in your hand by 1.\"",
+    "text": "<em>Earth</em> role only.<br><b>Action:</b> During a conflict, initiate a [conflict-political] duel against a character your opponent controls of his or her choice – resolve the duel. Until the end of the conflict, the duel’s loser gains: \"Increase the cost to play each card in your hand by 1.\"",
     "traits": [],
     "type": "event",
     "unique": false

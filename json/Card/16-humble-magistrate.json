@@ -28,7 +28,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Seeker</em> role only.\nWhile this character is attacking, each character with printed cost 4 or higher does not count its skill towards the resolution of this conflict.",
+    "text": "<em>Seeker</em> role only.<br>While this character is attacking, each character with printed cost 4 or higher does not count its skill towards the resolution of this conflict.",
     "traits": [
         "courtier",
         "imperial",

@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Fire</em> role only.\n<b>Action:</b> During a conflict, choose any number of participating <em>Bushi</em> characters you control - double the base [conflict-military] skill of each of those characters until the end of the conflict. At the end of the conflict, sacrifice each of those characters.",
+    "text": "<em>Fire</em> role only.<br><b>Action:</b> During a conflict, choose any number of participating <em>Bushi</em> characters you control - double the base [conflict-military] skill of each of those characters until the end of the conflict. At the end of the conflict, sacrifice each of those characters.",
     "traits": [],
     "type": "event",
     "unique": false

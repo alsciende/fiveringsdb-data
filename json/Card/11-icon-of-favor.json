@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Fire</em> role only.\nWhile you have the Imperial Favor, attached character gets +1 glory.\n<b>Reaction:</b> After you win a [element-fire] conflict — honor attached character.",
+    "text": "<em>Fire</em> role only.<br>While you have the Imperial Favor, attached character gets +1 glory.<br><b>Reaction:</b> After you win a [element-fire] conflict — honor attached character.",
     "traits": [
         "item"
     ],

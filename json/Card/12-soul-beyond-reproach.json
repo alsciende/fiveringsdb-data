@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Air</em> role only.\n<b>Action:</b> Choose a character you control – honor that character. Then, honor it again.",
+    "text": "<em>Air</em> role only.<br><b>Action:</b> Choose a character you control – honor that character. Then, honor it again.",
     "traits": [],
     "type": "event",
     "unique": false

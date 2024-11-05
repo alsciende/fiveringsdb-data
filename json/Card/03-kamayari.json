@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Bushi</em> character only. Restricted.\n<b>Reaction:</b> After a character triggers an ability during a conflict in which attached character is participating – bow that character.",
+    "text": "<em>Bushi</em> character only. Restricted.<br><b>Reaction:</b> After a character triggers an ability during a conflict in which attached character is participating – bow that character.",
     "traits": [
         "weapon"
     ],

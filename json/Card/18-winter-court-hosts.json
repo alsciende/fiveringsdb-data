@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "No attachments.\n<b>Reaction:</b> After your opponent plays a card during a conflict in which this character is participating, if you are more honorable than that opponent - draw 1 card. <i>(Unlimited.)</i>",
+    "text": "No attachments.<br><b>Reaction:</b> After your opponent plays a card during a conflict in which this character is participating, if you are more honorable than that opponent - draw 1 card. <i>(Unlimited.)</i>",
     "traits": [
         "courtier"
     ],

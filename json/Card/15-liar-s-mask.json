@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Play only if your have 6 or fewer honor.\n<b>Action:</b> Discard a status token from attached character.",
+    "text": "Play only if your have 6 or fewer honor.<br><b>Action:</b> Discard a status token from attached character.",
     "traits": [
         "item",
         "mask"

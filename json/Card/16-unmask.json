@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Void</em> role only.\n<b>Action:</b> During a conflict, if the bid on your honor dial is higher than your opponent’s, choose a participating character – discard that character’s status token and set its skills to their printed values until the end of the conflict. Its controller gains 2 honor.",
+    "text": "<em>Void</em> role only.<br><b>Action:</b> During a conflict, if the bid on your honor dial is higher than your opponent’s, choose a participating character – discard that character’s status token and set its skills to their printed values until the end of the conflict. Its controller gains 2 honor.",
     "traits": [],
     "type": "event",
     "unique": false

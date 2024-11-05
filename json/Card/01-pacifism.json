@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "This attachment cannot be played during a conflict.\nAttached character cannot participate in [conflict-military] conflicts.",
+    "text": "This attachment cannot be played during a conflict.<br>Attached character cannot participate in [conflict-military] conflicts.",
     "traits": [
         "condition"
     ],

@@ -28,7 +28,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Void</em> role only.\nYou may use the fate on a ring to pay the cost of a conflict card that has a <em>Trait</em> that matches an element of that ring.",
+    "text": "<em>Void</em> role only.<br>You may use the fate on a ring to pay the cost of a conflict card that has a <em>Trait</em> that matches an element of that ring.",
     "traits": [
         "spirit",
         "void"

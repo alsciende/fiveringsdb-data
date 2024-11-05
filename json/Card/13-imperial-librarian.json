@@ -28,7 +28,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Fire</em> role only.\nEach other character gets +1 glory.",
+    "text": "<em>Fire</em> role only.<br>Each other character gets +1 glory.",
     "traits": [
         "courtier",
         "imperial",

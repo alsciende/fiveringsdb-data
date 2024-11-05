@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "No attachments except <em>Weapon</em>.\nWhile the [element-fire] ring is unclaimed, this character gets +2[conflict-military] and +2[conflict-political].",
+    "text": "No attachments except <em>Weapon</em>.<br>While the [element-fire] ring is unclaimed, this character gets +2[conflict-military] and +2[conflict-political].",
     "traits": [
         "creature"
     ],

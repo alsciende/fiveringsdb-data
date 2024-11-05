@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Fire</em> role only. Limit 1 per character.\nEach other attachment on attached character gains ancestral.",
+    "text": "<em>Fire</em> role only. Limit 1 per character.<br>Each other attachment on attached character gains ancestral.",
     "traits": [
         "condition"
     ],

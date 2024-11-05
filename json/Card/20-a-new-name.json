@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Void</em> role only.\nAttached character gains the <em>Bushi</em> and <em>Courtier</em> traits.",
+    "text": "<em>Void</em> role only.<br>Attached character gains the <em>Bushi</em> and <em>Courtier</em> traits.",
     "traits": [],
     "type": "attachment",
     "unique": false

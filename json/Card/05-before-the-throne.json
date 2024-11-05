@@ -28,7 +28,7 @@
     "side": "province",
     "strength": "5",
     "strength_bonus": null,
-    "text": "Cannot be the stronghold province.\n<b>Interrupt:</b> When this province is broken – take 2 honor from your opponent.",
+    "text": "Cannot be the stronghold province.<br><b>Interrupt:</b> When this province is broken – take 2 honor from your opponent.",
     "traits": [
         "imperial"
     ],

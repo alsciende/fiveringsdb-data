@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "If you control a <em>Shugenja</em> character, reduce the cost to play this card by 1.\n<b>Action:</b> Look at the top 3 cards of your dynasty deck. Discard a card from a province you control, and put one of the looked at cards into that province faceup. Shuffle.",
+    "text": "If you control a <em>Shugenja</em> character, reduce the cost to play this card by 1.<br><b>Action:</b> Look at the top 3 cards of your dynasty deck. Discard a card from a province you control, and put one of the looked at cards into that province faceup. Shuffle.",
     "traits": [
         "spell",
         "air"

@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Earth</em> role only.\n<b>Action:</b> Choose any number of characters with no fate that have a total printed cost of 6 or lower - ready each of those characters.",
+    "text": "<em>Earth</em> role only.<br><b>Action:</b> Choose any number of characters with no fate that have a total printed cost of 6 or lower - ready each of those characters.",
     "traits": [],
     "type": "event",
     "unique": false

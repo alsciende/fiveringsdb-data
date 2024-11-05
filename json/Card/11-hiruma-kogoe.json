@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "Sincerity.\n<b>Reaction:</b> After the draw phase begins, if you have lower honor than an opponent – look at the top 3 cards of your conflict deck and put them back in any order.",
+    "text": "Sincerity.<br><b>Reaction:</b> After the draw phase begins, if you have lower honor than an opponent – look at the top 3 cards of your conflict deck and put them back in any order.",
     "traits": [
         "bushi",
         "scout"

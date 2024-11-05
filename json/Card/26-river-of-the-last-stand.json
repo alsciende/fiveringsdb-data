@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+0",
-    "text": "Limit 1 per deck.\n<b>Action:</b> During a conflict at a province you control with a <em>Kaiu Wall</em> holding - your opponent discards 2 random cards from his or her hand and draws 1 card.",
+    "text": "Limit 1 per deck.<br><b>Action:</b> During a conflict at a province you control with a <em>Kaiu Wall</em> holding - your opponent discards 2 random cards from his or her hand and draws 1 card.",
     "traits": [
         "kaiu-wall",
         "river"

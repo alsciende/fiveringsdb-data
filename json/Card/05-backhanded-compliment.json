@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Keeper</em> role only.\n<b>Action:</b> Choose a player – that player draws 1 card and loses 1 honor.",
+    "text": "<em>Keeper</em> role only.<br><b>Action:</b> Choose a player – that player draws 1 card and loses 1 honor.",
     "traits": [],
     "type": "event",
     "unique": false

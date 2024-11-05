@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+1",
-    "text": "Limit 1 per deck.\n<b>Reaction:</b> After fate is removed from characters in the fate phase. If 4 or more fate was removed - gain 2 fate.",
+    "text": "Limit 1 per deck.<br><b>Reaction:</b> After fate is removed from characters in the fate phase. If 4 or more fate was removed - gain 2 fate.",
     "traits": [
         "temple",
         "void"

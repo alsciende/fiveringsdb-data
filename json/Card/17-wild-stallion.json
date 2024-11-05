@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "No attachments.\n<b>Action</b>: During a conflict in which this character is not participating, choose up to 1 other character you control - move this character and that character to the conflict.",
+    "text": "No attachments.<br><b>Action</b>: During a conflict in which this character is not participating, choose up to 1 other character you control - move this character and that character to the conflict.",
     "traits": [
         "creature"
     ],

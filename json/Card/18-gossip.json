@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Limited. <i>(No more than one limited card can be played by each player each round.)</i>\n<b>Action:</b> Name a card. Until the end of the phase, each opponent cannot play cards from his or her hand with that name.",
+    "text": "Limited. <i>(No more than one limited card can be played by each player each round.)</i><br><b>Action:</b> Name a card. Until the end of the phase, each opponent cannot play cards from his or her hand with that name.",
     "traits": [],
     "type": "event",
     "unique": false

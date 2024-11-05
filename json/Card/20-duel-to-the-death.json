@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "\n<b>Action:</b> During a conflict, initiate a [conflict-military] duel – your opponent may dishonor his or her character to refuse the duel. Otherwise, resolve the duel. Discard the duel's loser.",
+    "text": "<br><b>Action:</b> During a conflict, initiate a [conflict-military] duel – your opponent may dishonor his or her character to refuse the duel. Otherwise, resolve the duel. Discard the duel's loser.",
     "traits": [],
     "type": "event",
     "unique": false

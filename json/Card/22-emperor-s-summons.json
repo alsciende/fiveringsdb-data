@@ -28,7 +28,7 @@
     "side": "province",
     "strength": "5",
     "strength_bonus": null,
-    "text": "<em>Seeker</em> role only.\n<b>Reaction:</b> After this province is revealed - search your dynasty deck for a character card and put it faceup into a non-stronghold province you control, discarding each other card in that province. Shuffle.",
+    "text": "<em>Seeker</em> role only.<br><b>Reaction:</b> After this province is revealed - search your dynasty deck for a character card and put it faceup into a non-stronghold province you control, discarding each other card in that province. Shuffle.",
     "traits": [],
     "type": "province",
     "unique": false

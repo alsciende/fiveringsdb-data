@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "Composure - This character must be chosen as a target of an opponent's event, if able.  <i>(You have composure if your honor bid is lower than an opponent's.)</i>\n<b>Action: </b>During a conflict in which this character is participating - switch honor dials with your opponent until your next honor bid.",
+    "text": "Composure - This character must be chosen as a target of an opponent's event, if able.  <i>(You have composure if your honor bid is lower than an opponent's.)</i><br><b>Action: </b>During a conflict in which this character is participating - switch honor dials with your opponent until your next honor bid.",
     "traits": [
         "courtier"
     ],

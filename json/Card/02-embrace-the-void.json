@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Play only if you control a <em>Shugenja</em> character.\n<b>Interrupt:</b> When 1 or more fate would be removed from attached character – instead, move that fate to your fate pool.",
+    "text": "Play only if you control a <em>Shugenja</em> character.<br><b>Interrupt:</b> When 1 or more fate would be removed from attached character – instead, move that fate to your fate pool.",
     "traits": [
         "spell",
         "void"

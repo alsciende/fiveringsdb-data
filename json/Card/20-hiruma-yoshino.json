@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "Disguised <em>Bushi</em>.\n<b>Action:</b> During a [conflict-military] conflict in which this character is participating, choose a character card in the attacked province - that character contributes its printed [conflict-military] skill towards your side during the resolution of this conflict.",
+    "text": "Disguised <em>Bushi</em>.<br><b>Action:</b> During a [conflict-military] conflict in which this character is participating, choose a character card in the attacked province - that character contributes its printed [conflict-military] skill towards your side during the resolution of this conflict.",
     "traits": [
         "bushi",
         "daimyo",

@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a ring.\n<b>Reaction:</b> After fate is placed on attached ring - resolve that ring's effect as if you were the attacking player.",
+    "text": "Attach to a ring.<br><b>Reaction:</b> After fate is placed on attached ring - resolve that ring's effect as if you were the attacking player.",
     "traits": [],
     "type": "attachment",
     "unique": false

@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "You may look at facedown cards in each province you control.\n<b>Action:</b> Choose a card in one of your provinces – switch that card with a card in another of your provinces or discard it.",
+    "text": "You may look at facedown cards in each province you control.<br><b>Action:</b> Choose a card in one of your provinces – switch that card with a card in another of your provinces or discard it.",
     "traits": [
         "shugenja",
         "air"

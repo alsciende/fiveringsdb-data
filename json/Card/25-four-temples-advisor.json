@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Restricted.\n<b>Reaction:</b> After you gain fate from a ring - draw 1 card. (Unlimited.)",
+    "text": "Restricted.<br><b>Reaction:</b> After you gain fate from a ring - draw 1 card. (Unlimited.)",
     "traits": [
         "brotherhood",
         "follower"

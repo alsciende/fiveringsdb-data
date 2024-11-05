@@ -28,7 +28,7 @@
     "side": "province",
     "strength": "3",
     "strength_bonus": null,
-    "text": "<em>Fire</em> role only.\n<b>Interrupt:</b> When this province is broken, choose an opponent's character – move 1 fate from that character to a character you control.\n<i>Errata from RRG v11</i>",
+    "text": "<em>Fire</em> role only.<br><b>Interrupt:</b> When this province is broken, choose an opponent's character – move 1 fate from that character to a character you control.<br><i>Errata from RRG v11</i>",
     "traits": [],
     "type": "province",
     "unique": false

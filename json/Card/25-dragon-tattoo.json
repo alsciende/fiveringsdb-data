@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a character you control. Attached character gains the <em>Tattooed</em> trait.\nRestricted.\n<b>Reaction:</b> After you play an event that chooses attached character as a target - play that event again <i>(paying all costs)</i>. You may choose new targets. Remove that event from the game.",
+    "text": "Attach to a character you control. Attached character gains the <em>Tattooed</em> trait.<br>Restricted.<br><b>Reaction:</b> After you play an event that chooses attached character as a target - play that event again <i>(paying all costs)</i>. You may choose new targets. Remove that event from the game.",
     "traits": [
         "tattoo"
     ],

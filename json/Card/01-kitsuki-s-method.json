@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Ancestral. <i>(When attached card leaves play, return this card to your hand.)</i>\nRestricted. <i>(No more than two restricted attachments per character.)</i>",
+    "text": "Ancestral. <i>(When attached card leaves play, return this card to your hand.)</i><br>Restricted. <i>(No more than two restricted attachments per character.)</i>",
     "traits": [
         "technique"
     ],

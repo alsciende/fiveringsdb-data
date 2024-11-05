@@ -28,7 +28,7 @@
     "side": "province",
     "strength": "3",
     "strength_bonus": null,
-    "text": "This province gets +2 strength while you have a <em>Void</em> role.\n<b>Interrupt:</b> When this province is broken – put a character into play from one of your provinces or from your hand.",
+    "text": "This province gets +2 strength while you have a <em>Void</em> role.<br><b>Interrupt:</b> When this province is broken – put a character into play from one of your provinces or from your hand.",
     "traits": [],
     "type": "province",
     "unique": false

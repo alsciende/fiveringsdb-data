@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Air</em> role only.\n<b>Action:</b> Return the [element-air] ring from a claimed ring pool to the unclaimed ring pool.",
+    "text": "<em>Air</em> role only.<br><b>Action:</b> Return the [element-air] ring from a claimed ring pool to the unclaimed ring pool.",
     "traits": [
         "spell",
         "air"

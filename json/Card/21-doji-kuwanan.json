@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "If you control Doji Hotaru, discard her.\n<b>Action:</b> During a [conflict-military] conflict in which this character is participating, choose a participating character with lower [conflict-military] skill than this character - bow that character.",
+    "text": "If you control Doji Hotaru, discard her.<br><b>Action:</b> During a [conflict-military] conflict in which this character is participating, choose a participating character with lower [conflict-military] skill than this character - bow that character.",
     "traits": [
         "bushi",
         "champion"

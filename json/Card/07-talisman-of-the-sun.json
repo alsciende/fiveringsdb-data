@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Keeper</em> role only.\n<b>Action:</b> During a conflict in which you are the defending player, bow this attachment – move the contested ring to another eligible province and reveal it, if able. That province is now the attacked province.",
+    "text": "<em>Keeper</em> role only.<br><b>Action:</b> During a conflict in which you are the defending player, bow this attachment – move the contested ring to another eligible province and reveal it, if able. That province is now the attacked province.",
     "traits": [
         "item",
         "meishodo"

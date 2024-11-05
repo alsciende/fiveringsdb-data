@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Seeker</em> role only.\n<b>Action:</b> During a conflict in which you are the attacking player – move the contested ring to another eligible province and reveal it, if able. That province is now the attacked province.",
+    "text": "<em>Seeker</em> role only.<br><b>Action:</b> During a conflict in which you are the attacking player – move the contested ring to another eligible province and reveal it, if able. That province is now the attacked province.",
     "traits": [
         "quest"
     ],

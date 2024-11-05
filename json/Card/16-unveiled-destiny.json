@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Seeker</em> role only.\nWhile attached character is attacking, the contested ring gains the element of your role. <i>(If attached character wins the conflict as an attacker, you may choose which of its ring effects to resolve.)</i>",
+    "text": "<em>Seeker</em> role only.<br>While attached character is attacking, the contested ring gains the element of your role. <i>(If attached character wins the conflict as an attacker, you may choose which of its ring effects to resolve.)</i>",
     "traits": [],
     "type": "attachment",
     "unique": false

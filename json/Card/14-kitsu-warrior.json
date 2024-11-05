@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "For each [conflict-military] ring that is claimed, this character gets +2[conflict-military].\nFor each [conflict-political] ring that is claimed, this character gets +2[conflict-political].",
+    "text": "For each [conflict-military] ring that is claimed, this character gets +2[conflict-military].<br>For each [conflict-political] ring that is claimed, this character gets +2[conflict-political].",
     "traits": [
         "bushi",
         "creature"

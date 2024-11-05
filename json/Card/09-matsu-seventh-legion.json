@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "No attachments except <em>Weapon</em>.\nWhile this character is attacking, each <em>Courtier</em> character cannot be declared as a defender.",
+    "text": "No attachments except <em>Weapon</em>.<br>While this character is attacking, each <em>Courtier</em> character cannot be declared as a defender.",
     "traits": [
         "bushi",
         "army",

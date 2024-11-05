@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a character with glory 2 or higher.\n<b>Action:</b> During a [conflict-political] conflict – move attached character to the conflict.",
+    "text": "Attach to a character with glory 2 or higher.<br><b>Action:</b> During a [conflict-political] conflict – move attached character to the conflict.",
     "traits": [
         "item"
     ],

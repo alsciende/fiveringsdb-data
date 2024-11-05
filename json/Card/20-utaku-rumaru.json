@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "Each honored character you control gets +1 glory. Each dishonored character you control gets -1 glory.\n<b>Reaction:</b> After this character wins a conflict, discard a card from your hand. Choose another participating character - honor that character.",
+    "text": "Each honored character you control gets +1 glory. Each dishonored character you control gets -1 glory.<br><b>Reaction:</b> After this character wins a conflict, discard a card from your hand. Choose another participating character - honor that character.",
     "traits": [
         "bushi",
         "cavalry",

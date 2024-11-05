@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "No attachments except <em>Spirit</em>.\n<b>Reaction:</b> After a character you control loses a conflict as the attacker, bow your stronghold - put this character into play from your dynasty discard pile. If it is in play at the end of the phase, remove it from the game.",
+    "text": "No attachments except <em>Spirit</em>.<br><b>Reaction:</b> After a character you control loses a conflict as the attacker, bow your stronghold - put this character into play from your dynasty discard pile. If it is in play at the end of the phase, remove it from the game.",
     "traits": [
         "spirit",
         "army"

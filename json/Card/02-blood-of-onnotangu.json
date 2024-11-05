@@ -28,7 +28,7 @@
     "side": "province",
     "strength": "3",
     "strength_bonus": null,
-    "text": "<em>Seeker</em> role only.\nDuring conflicts at this province, each player cannot spend fate from his or her fate pool.",
+    "text": "<em>Seeker</em> role only.<br>During conflicts at this province, each player cannot spend fate from his or her fate pool.",
     "traits": [
         "shrine"
     ],

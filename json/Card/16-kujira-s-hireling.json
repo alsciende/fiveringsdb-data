@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:</b> Spend 1 fate and select one - this character gets +1[conflict-military] and +1[conflict-political] until the end of the phase, or this character gets -1[conflict-military] and -1[conflict-political] until the end of the phase. Any player may trigger this ability. (Unlimited.)\n<b>Card design by 2017 World Champion Samuel Benies.</b>",
+    "text": "<b>Action:</b> Spend 1 fate and select one - this character gets +1[conflict-military] and +1[conflict-political] until the end of the phase, or this character gets -1[conflict-military] and -1[conflict-political] until the end of the phase. Any player may trigger this ability. (Unlimited.)<br><b>Card design by 2017 World Champion Samuel Benies.</b>",
     "traits": [
         "bushi",
         "ronin"

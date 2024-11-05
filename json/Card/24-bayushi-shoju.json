@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "Your opponents cannot have the Imperial Favor.\n<b>Forced Reaction:</b> After the conflict phase begins - each player draws 2 cards and loses 1 honor.",
+    "text": "Your opponents cannot have the Imperial Favor.<br><b>Forced Reaction:</b> After the conflict phase begins - each player draws 2 cards and loses 1 honor.",
     "traits": [
         "courtier",
         "champion",

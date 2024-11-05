@@ -28,7 +28,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Keeper</em> role only.\nWhile this character is defending, players cannot gain or lose honor.",
+    "text": "<em>Keeper</em> role only.<br>While this character is defending, players cannot gain or lose honor.",
     "traits": [
         "courtier",
         "imperial",

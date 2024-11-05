@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Play only if you have the Imperial Favor.\n<b>Interrupt:</b> When the effects of an event would initiate – cancel those effects.",
+    "text": "Play only if you have the Imperial Favor.<br><b>Interrupt:</b> When the effects of an event would initiate – cancel those effects.",
     "traits": [
         "imperial"
     ],

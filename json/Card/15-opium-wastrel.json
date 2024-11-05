@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Play only if you are less honorable than an opponent.\n<b>Reaction:</b> After this character enters play during a conflict, choose a participating character – set that character’s glory to 0 until the end of the conflict.",
+    "text": "Play only if you are less honorable than an opponent.<br><b>Reaction:</b> After this character enters play during a conflict, choose a participating character – set that character’s glory to 0 until the end of the conflict.",
     "traits": [
         "peasant"
     ],

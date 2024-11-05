@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+3",
-    "text": "Limit 1 per deck.\n<b>Action:</b> Choose a province you control - search the top 10 cards of your dynasty deck for a holding and switch it with a <em>Kaiu Wall</em> holding in that province. Shuffle. <i>(The new holding is faceup.)</i>    ",
+    "text": "Limit 1 per deck.<br><b>Action:</b> Choose a province you control - search the top 10 cards of your dynasty deck for a holding and switch it with a <em>Kaiu Wall</em> holding in that province. Shuffle. <i>(The new holding is faceup.)</i>    ",
     "traits": [
         "kaiu-wall"
     ],

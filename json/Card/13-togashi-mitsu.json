@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "Covert.\n<b>Action:</b> During a conflict in which this character is participating, choose a <em>Monk</em>, <em>Tattoo</em>, or <em>Kihō</em> card in your conflict discard pile – play that card as if it were in your hand. If it is an event, put it on the bottom of your conflict deck instead of into your discard pile after resolving its effects.",
+    "text": "Covert.<br><b>Action:</b> During a conflict in which this character is participating, choose a <em>Monk</em>, <em>Tattoo</em>, or <em>Kihō</em> card in your conflict discard pile – play that card as if it were in your hand. If it is an event, put it on the bottom of your conflict deck instead of into your discard pile after resolving its effects.",
     "traits": [
         "monk",
         "tattooed"

@@ -22,7 +22,7 @@
     "side": "province",
     "strength": null,
     "strength_bonus": "+1",
-    "text": "<b>Action:</b> If you are less honorable than an opponent, bow this stronghold and select one – either that opponent loses 1 honor, or you gain 1 honor.\n<i>Errata from RRG v9</i>",
+    "text": "<b>Action:</b> If you are less honorable than an opponent, bow this stronghold and select one – either that opponent loses 1 honor, or you gain 1 honor.<br><i>Errata from RRG v9</i>",
     "traits": [
         "city"
     ],

@@ -22,7 +22,7 @@
     "side": "province",
     "strength": "1",
     "strength_bonus": null,
-    "text": "Cannot be a stronghold province.\nWhile resolving a conflict at this province, characters count their glory instead of their [conflict-military] skill and [conflict-political] skill.",
+    "text": "Cannot be a stronghold province.<br>While resolving a conflict at this province, characters count their glory instead of their [conflict-military] skill and [conflict-political] skill.",
     "traits": [
         "shrine"
     ],

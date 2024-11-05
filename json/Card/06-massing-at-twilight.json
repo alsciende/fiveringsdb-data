@@ -28,7 +28,7 @@
     "side": "province",
     "strength": "8",
     "strength_bonus": null,
-    "text": "<em>Void</em> role only.\nWhile resolving conflicts at this province, each character counts its combined [conflict-military] and [conflict-political] skill.",
+    "text": "<em>Void</em> role only.<br>While resolving conflicts at this province, each character counts its combined [conflict-military] and [conflict-political] skill.",
     "traits": [],
     "type": "province",
     "unique": false

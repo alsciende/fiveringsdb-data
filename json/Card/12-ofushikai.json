@@ -22,7 +22,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Ancestral. Restricted. Attach to a unique [clan-phoenix] character you control.\nIf attached character has the <em>Champion</em> trait, it gains \"<b>Action:</b> During a conflict in which this character is participating, choose a participating character – move that character home. It cannot participate as an attacker this phase.\"",
+    "text": "Ancestral. Restricted. Attach to a unique [clan-phoenix] character you control.<br>If attached character has the <em>Champion</em> trait, it gains \"<b>Action:</b> During a conflict in which this character is participating, choose a participating character – move that character home. It cannot participate as an attacker this phase.\"",
     "traits": [
         "weapon"
     ],

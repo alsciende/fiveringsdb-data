@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "Immune to opponent's ring effects.\n<b>Interrupt:</b> When another character would leave play - remove 1 fate from this character instead.",
+    "text": "Immune to opponent's ring effects.<br><b>Interrupt:</b> When another character would leave play - remove 1 fate from this character instead.",
     "traits": [
         "shugenja",
         "void"

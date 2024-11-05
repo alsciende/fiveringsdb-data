@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Play only if your honor bid is lower than an opponent's.\n<b>Action:</b> Choose a card in your conflict discard pile - play that card as if it were in your hand. If that card is an event, put it on the bottom of your conflict deck.",
+    "text": "Play only if your honor bid is lower than an opponent's.<br><b>Action:</b> Choose a card in your conflict discard pile - play that card as if it were in your hand. If that card is an event, put it on the bottom of your conflict deck.",
     "traits": [],
     "type": "event",
     "unique": false

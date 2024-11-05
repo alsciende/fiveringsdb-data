@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a character you control.\n<b>Action:</b> Return this attachment to your hand and dishonor attached character.",
+    "text": "Attach to a character you control.<br><b>Action:</b> Return this attachment to your hand and dishonor attached character.",
     "traits": [
         "item",
         "mask"

@@ -28,7 +28,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "No attachments. If an opponent has the Imperial Favor, discard this character.\n<b>Action: </b>During a conflict, choose a participating character - bow that character.\n<b>Interrupt:</b> When an opponent triggers an ability that chooses 1 or more targets - you choose those targets instead.",
+    "text": "No attachments. If an opponent has the Imperial Favor, discard this character.<br><b>Action: </b>During a conflict, choose a participating character - bow that character.<br><b>Interrupt:</b> When an opponent triggers an ability that chooses 1 or more targets - you choose those targets instead.",
     "traits": [
         "imperial",
         "emperor",
