@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After a character you control bows as a result of conflict resolution from the second conflict you declared this round \u2013 ready that character.",
+    "text": "<b>Reaction:<\/b> After a character you control bows as a result of conflict resolution from the second conflict you declared this round – ready that character.",
     "traits": [],
     "type": "event",
     "unique": false

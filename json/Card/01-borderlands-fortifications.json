@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+2",
-    "text": "<b>Action:<\/b> Choose a card in one of your provinces \u2013 switch this holding with that card.",
+    "text": "<b>Action:<\/b> Choose a card in one of your provinces – switch this holding with that card.",
     "traits": [
         "battlefield"
     ],

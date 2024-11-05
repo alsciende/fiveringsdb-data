@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict \u2013 move this character home.",
+    "text": "<b>Action:<\/b> During a conflict – move this character home.",
     "traits": [
         "courtier"
     ],

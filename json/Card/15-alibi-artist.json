@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> If you have 6 or fewer honor \u2013 look at the top 2 cards of your conflict deck. Put 1 of those cards into your hand and the other on the bottom of your conflict deck.",
+    "text": "<b>Action:<\/b> If you have 6 or fewer honor – look at the top 2 cards of your conflict deck. Put 1 of those cards into your hand and the other on the bottom of your conflict deck.",
     "traits": [
         "courtier",
         "shinobi"

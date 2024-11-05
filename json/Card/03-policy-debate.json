@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, choose a participating character you control and a participating character your opponent controls \u2013 your character challenges the opponent's character to a [conflict-political] duel. The controller of the losing character reveals his or her hand. That player's opponent chooses and discards 1 card from it.",
+    "text": "<b>Action:<\/b> During a conflict, choose a participating character you control and a participating character your opponent controls – your character challenges the opponent's character to a [conflict-political] duel. The controller of the losing character reveals his or her hand. That player's opponent chooses and discards 1 card from it.",
     "traits": [],
     "type": "event",
     "unique": false

@@ -21,14 +21,14 @@
     "is_restricted": false,
     "military": null,
     "military_bonus": "+1",
-    "name": "Wicked Tetsub\u014d",
+    "name": "Wicked Tetsubō",
     "political": null,
     "political_bonus": "+1",
     "role_restriction": null,
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a <em>Berserker<\/em> character.\nRestricted.\n<b>Action:<\/b> During a conflict in which attached character is attacking, choose a defending character and select either [conflict-military] or [conflict-political] \u2013 set that character's selected skill to 0 until the end of the conflict.",
+    "text": "Attach to a <em>Berserker<\/em> character.\nRestricted.\n<b>Action:<\/b> During a conflict in which attached character is attacking, choose a defending character and select either [conflict-military] or [conflict-political] – set that character's selected skill to 0 until the end of the conflict.",
     "traits": [
         "weapon"
     ],

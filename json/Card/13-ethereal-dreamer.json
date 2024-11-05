@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After the conflict phase begins, choose a ring \u2013 until the end of this phase, this character gets +2[conflict-military] and +2[conflict-political] while that ring is being contested.",
+    "text": "<b>Reaction:<\/b> After the conflict phase begins, choose a ring – until the end of this phase, this character gets +2[conflict-military] and +2[conflict-political] while that ring is being contested.",
     "traits": [
         "shugenja",
         "void"

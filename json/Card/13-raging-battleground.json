@@ -22,7 +22,7 @@
     "side": "province",
     "strength": "4",
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After this province is revealed, choose a non-unique character with no fate on it \u2013 discard that character.",
+    "text": "<b>Reaction:<\/b> After this province is revealed, choose a non-unique character with no fate on it – discard that character.",
     "traits": [],
     "type": "province",
     "unique": false

@@ -22,7 +22,7 @@
     "side": "province",
     "strength": "2",
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After an attack is declared at this province, choose a <em>Monk<\/em> character you control \u2013 ready that character. Until the end of the conflict, that character cannot be bowed by opponents' card effects or as a result of conflict resolution.",
+    "text": "<b>Reaction:<\/b> After an attack is declared at this province, choose a <em>Monk<\/em> character you control – ready that character. Until the end of the conflict, that character cannot be bowed by opponents' card effects or as a result of conflict resolution.",
     "traits": [
         "temple"
     ],

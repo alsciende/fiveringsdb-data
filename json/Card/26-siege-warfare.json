@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict in which you are attacking, if you control a holding \u2013 until the end of the conflict, the attacked province gets -2 strength <i>(to a minimum of 0)<\/i>.",
+    "text": "<b>Action:<\/b> During a conflict in which you are attacking, if you control a holding – until the end of the conflict, the attacked province gets -2 strength <i>(to a minimum of 0)<\/i>.",
     "traits": [
         "tactic"
     ],

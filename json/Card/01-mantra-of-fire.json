@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After an opponent declares a [element-fire] conflict, choose a <em>Monk<\/em> character or a character with a <em>Monk<\/em> attachment \u2013 place 1 fate on that character and draw 1 card.",
+    "text": "<b>Reaction:<\/b> After an opponent declares a [element-fire] conflict, choose a <em>Monk<\/em> character or a character with a <em>Monk<\/em> attachment – place 1 fate on that character and draw 1 card.",
     "traits": [
         "kiho",
         "fire"

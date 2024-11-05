@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+2",
-    "text": "Limit 1 per deck.\n<b>Action:<\/b> During a conflict, discard the Imperial Favor. Choose a participating character \u2013 bow that character and move it home.",
+    "text": "Limit 1 per deck.\n<b>Action:<\/b> During a conflict, discard the Imperial Favor. Choose a participating character – bow that character and move it home.",
     "traits": [
         "imperial"
     ],

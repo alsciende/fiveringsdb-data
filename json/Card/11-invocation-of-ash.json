@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Lose 1 honor. Choose a character you control \u2013 move this attachment to that character. Then, remove 1 fate from that character.",
+    "text": "<b>Action:<\/b> Lose 1 honor. Choose a character you control – move this attachment to that character. Then, remove 1 fate from that character.",
     "traits": [
         "spell",
         "fire",

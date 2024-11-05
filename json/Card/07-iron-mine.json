@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+0",
-    "text": "<b>Interrupt:<\/b> When a character you control would leave play \u2013 sacrifice this holding instead.",
+    "text": "<b>Interrupt:<\/b> When a character you control would leave play – sacrifice this holding instead.",
     "traits": [
         "mine"
     ],

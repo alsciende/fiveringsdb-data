@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Sacrifice a <i>(friendly)<\/i> character. Choose a character \u2013 ready that character.",
+    "text": "<b>Action:<\/b> Sacrifice a <i>(friendly)<\/i> character. Choose a character – ready that character.",
     "traits": [
         "shugenja",
         "earth"

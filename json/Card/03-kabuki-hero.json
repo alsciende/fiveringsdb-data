@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Spend 1 fate \u2013 this character gets +X[conflict-military] until the end of the conflict. X is equal to its [conflict-political] skill.",
+    "text": "<b>Action:<\/b> Spend 1 fate – this character gets +X[conflict-military] until the end of the conflict. X is equal to its [conflict-political] skill.",
     "traits": [
         "courtier",
         "actor"

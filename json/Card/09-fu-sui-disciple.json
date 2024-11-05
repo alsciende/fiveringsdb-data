@@ -15,14 +15,14 @@
     "is_restricted": false,
     "military": "1",
     "military_bonus": null,
-    "name": "F\u016b Sui Disciple",
+    "name": "Fū Sui Disciple",
     "political": "2",
     "political_bonus": null,
     "role_restriction": null,
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> The player that has the [element-air] ring in his or her claimed ring pool chooses an ordinary character he or she controls. You select one \u2013 honor or dishonor that character.",
+    "text": "<b>Action:<\/b> The player that has the [element-air] ring in his or her claimed ring pool chooses an ordinary character he or she controls. You select one – honor or dishonor that character.",
     "traits": [
         "shugenja",
         "air"

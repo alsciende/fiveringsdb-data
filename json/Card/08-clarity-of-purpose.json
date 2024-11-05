@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, choose a character you control \u2013 until the end of that conflict, opponents' card effects cannot bow that character and it does not bow as a result of conflict resolution during [conflict-political] conflicts.",
+    "text": "<b>Action:<\/b> During a conflict, choose a character you control – until the end of that conflict, opponents' card effects cannot bow that character and it does not bow as a result of conflict resolution during [conflict-political] conflicts.",
     "traits": [
         "spell",
         "water"

@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> While a dishonored character is participating in a conflict \u2013 move this character into or out of that conflict.",
+    "text": "<b>Action:<\/b> While a dishonored character is participating in a conflict – move this character into or out of that conflict.",
     "traits": [
         "bushi",
         "shadow",

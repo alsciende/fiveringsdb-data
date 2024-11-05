@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, choose a participating character you control and a participating character your opponent controls \u2013 your character challenges the opponent's character to a [conflict-political] duel. Honor the duel's winner and dishonor the duel's loser.",
+    "text": "<b>Action:<\/b> During a conflict, choose a participating character you control and a participating character your opponent controls – your character challenges the opponent's character to a [conflict-political] duel. Honor the duel's winner and dishonor the duel's loser.",
     "traits": [],
     "type": "event",
     "unique": false

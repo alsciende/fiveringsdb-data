@@ -15,14 +15,14 @@
     "is_restricted": false,
     "military": null,
     "military_bonus": null,
-    "name": "Kakita D\u014dj\u014d",
+    "name": "Kakita Dōjō",
     "political": null,
     "political_bonus": null,
     "role_restriction": null,
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+1",
-    "text": "<b>Action:<\/b> During a conflict, initiate a [conflict-military] duel \u2013 resolve the duel. Until the end of the conflict, the duel's loser cannot trigger its abilities. If the duel's winner is a <em>Duelist<\/em>, bow the duel's loser as well.",
+    "text": "<b>Action:<\/b> During a conflict, initiate a [conflict-military] duel – resolve the duel. Until the end of the conflict, the duel's loser cannot trigger its abilities. If the duel's winner is a <em>Duelist<\/em>, bow the duel's loser as well.",
     "traits": [
         "dojo"
     ],

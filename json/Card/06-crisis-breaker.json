@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Keeper<\/em> role only.\n<b>Action:<\/b> During a [conflict-military] conflict, if your opponent counts more current [conflict-military] skill than you, choose a <em>Berserker<\/em> character you control \u2013 ready that character and move it to the conflict.",
+    "text": "<em>Keeper<\/em> role only.\n<b>Action:<\/b> During a [conflict-military] conflict, if your opponent counts more current [conflict-military] skill than you, choose a <em>Berserker<\/em> character you control – ready that character and move it to the conflict.",
     "traits": [
         "bushi",
         "berserker"

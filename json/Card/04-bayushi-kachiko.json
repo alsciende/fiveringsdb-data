@@ -22,7 +22,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> While this character is participating in a [conflict-political] conflict, choose a participating character with lower [conflict-political] than this character \u2013 move the chosen character home. Then, you may bow it.",
+    "text": "<b>Action:<\/b> While this character is participating in a [conflict-political] conflict, choose a participating character with lower [conflict-political] than this character – move the chosen character home. Then, you may bow it.",
     "traits": [
         "courtier",
         "imperial"

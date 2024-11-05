@@ -15,14 +15,14 @@
     "is_restricted": false,
     "military": null,
     "military_bonus": null,
-    "name": "Hidden Moon D\u014dj\u014d",
+    "name": "Hidden Moon Dōjō",
     "political": null,
     "political_bonus": null,
     "role_restriction": null,
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+0",
-    "text": "Limit 1 per deck.\nYou may play cards in adjacent provinces as if they were in your hand.\n<b>Action:<\/b> During a conflict \u2013 turn a card in an adjacent province faceup.",
+    "text": "Limit 1 per deck.\nYou may play cards in adjacent provinces as if they were in your hand.\n<b>Action:<\/b> During a conflict – turn a card in an adjacent province faceup.",
     "traits": [
         "dojo"
     ],

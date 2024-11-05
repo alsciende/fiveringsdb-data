@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After you lose an unopposed conflict \u2013 cancel the ring effect of that conflict. Then, you resolve that ring effect as if you had won the conflict as the attacking player. Claim that ring.",
+    "text": "<b>Reaction:<\/b> After you lose an unopposed conflict – cancel the ring effect of that conflict. Then, you resolve that ring effect as if you had won the conflict as the attacking player. Claim that ring.",
     "traits": [
         "spell",
         "fire"

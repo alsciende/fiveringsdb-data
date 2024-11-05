@@ -28,7 +28,7 @@
     "side": "province",
     "strength": "4",
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After this province is revealed \u2013 switch the conflict type. <i>(The conflict retains its element.)<\/i>",
+    "text": "<b>Reaction:<\/b> After this province is revealed – switch the conflict type. <i>(The conflict retains its element.)<\/i>",
     "traits": [],
     "type": "province",
     "unique": false

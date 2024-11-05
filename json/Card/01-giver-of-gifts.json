@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Choose an attachment you control \u2013 move that attachment to an eligible character you control.",
+    "text": "<b>Action:<\/b> Choose an attachment you control – move that attachment to an eligible character you control.",
     "traits": [
         "courtier"
     ],

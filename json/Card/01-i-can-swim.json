@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, if the bid on your honor dial is higher than an opponent's, choose a participating dishonored character controlled by that opponent \u2013 discard that character.",
+    "text": "<b>Action:<\/b> During a conflict, if the bid on your honor dial is higher than an opponent's, choose a participating dishonored character controlled by that opponent – discard that character.",
     "traits": [
         "philosophy"
     ],

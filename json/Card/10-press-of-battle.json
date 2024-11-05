@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Water<\/em> role only.\n<b>Action:<\/b> During a [conflict-military] conflict, if you control more participating characters than your opponent, choose a non-unique participating character \u2013 bow that character.",
+    "text": "<em>Water<\/em> role only.\n<b>Action:<\/b> During a [conflict-military] conflict, if you control more participating characters than your opponent, choose a non-unique participating character – bow that character.",
     "traits": [],
     "type": "event",
     "unique": false

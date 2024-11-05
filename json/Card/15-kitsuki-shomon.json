@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Interrupt:<\/b> When another character you control would be dishonored \u2013 instead, dishonor this character. Then, ready this character.",
+    "text": "<b>Interrupt:<\/b> When another character you control would be dishonored – instead, dishonor this character. Then, ready this character.",
     "traits": [
         "bushi",
         "duelist"

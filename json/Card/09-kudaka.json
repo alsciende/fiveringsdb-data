@@ -28,7 +28,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After you claim the [element-air] ring \u2013 gain 1 fate and draw 1 card. (Limit twice per round.)",
+    "text": "<b>Reaction:<\/b> After you claim the [element-air] ring – gain 1 fate and draw 1 card. (Limit twice per round.)",
     "traits": [
         "shugenja",
         "air",

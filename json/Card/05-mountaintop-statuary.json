@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+1",
-    "text": "<b>Reaction:<\/b> After this holding is turned faceup \u2013 move it onto your stronghold province.\n<b>Action:<\/b> During a conflict at this province, sacrifice this holding. Choose an attacking character with printed cost 2 or lower \u2013 move that character home.",
+    "text": "<b>Reaction:<\/b> After this holding is turned faceup – move it onto your stronghold province.\n<b>Action:<\/b> During a conflict at this province, sacrifice this holding. Choose an attacking character with printed cost 2 or lower – move that character home.",
     "traits": [
         "temple"
     ],

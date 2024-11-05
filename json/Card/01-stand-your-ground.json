@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Interrupt:<\/b> When an honored character you control would leave play \u2013 instead discard that character's status token.",
+    "text": "<b>Interrupt:<\/b> When an honored character you control would leave play – instead discard that character's status token.",
     "traits": [],
     "type": "event",
     "unique": false

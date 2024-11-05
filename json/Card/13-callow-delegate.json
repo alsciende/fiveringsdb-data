@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Interrupt:<\/b> When this character leaves play, choose a character you control \u2013 honor that character.",
+    "text": "<b>Interrupt:<\/b> When this character leaves play, choose a character you control – honor that character.",
     "traits": [
         "courtier"
     ],

@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During the conflict phase, lose 1 honor. Choose a character with cost 2 or lower that has entered play from a player's hand this phase \u2013 return that character to its owner's hand.",
+    "text": "<b>Action:<\/b> During the conflict phase, lose 1 honor. Choose a character with cost 2 or lower that has entered play from a player's hand this phase – return that character to its owner's hand.",
     "traits": [
         "shugenja",
         "air",

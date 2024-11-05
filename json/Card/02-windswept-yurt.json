@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+1",
-    "text": "<b>Action:<\/b> Sacrifice this holding, select one \u2013 each player gains 2 fate or each player gains 2 honor. Refill this province faceup.",
+    "text": "<b>Action:<\/b> Sacrifice this holding, select one – each player gains 2 fate or each player gains 2 honor. Refill this province faceup.",
     "traits": [],
     "type": "holding",
     "unique": false

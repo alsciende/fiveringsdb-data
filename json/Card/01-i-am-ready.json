@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Remove 1 fate from a <i>(friendly)<\/i> [clan-unicorn] character \u2013 ready that character.",
+    "text": "<b>Action:<\/b> Remove 1 fate from a <i>(friendly)<\/i> [clan-unicorn] character – ready that character.",
     "traits": [],
     "type": "event",
     "unique": false

@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, choose a participating character you control. Your opponent selects one \u2013 that character gets +2[conflict-military] and +2[conflict-political] until the end of the conflict, or your opponent gives you 1 honor.",
+    "text": "<b>Action:<\/b> During a conflict, choose a participating character you control. Your opponent selects one – that character gets +2[conflict-military] and +2[conflict-political] until the end of the conflict, or your opponent gives you 1 honor.",
     "traits": [],
     "type": "event",
     "unique": false

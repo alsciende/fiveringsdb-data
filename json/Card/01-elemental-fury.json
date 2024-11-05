@@ -28,7 +28,7 @@
     "side": "province",
     "strength": "4",
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After this province is revealed \u2013 switch the contested ring with an unclaimed ring. <i>(The conflict retains its type.)<\/i>",
+    "text": "<b>Reaction:<\/b> After this province is revealed – switch the contested ring with an unclaimed ring. <i>(The conflict retains its type.)<\/i>",
     "traits": [],
     "type": "province",
     "unique": false

@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After a province this character is attacking is revealed \u2013 the attacker has the first action opportunity this conflict.",
+    "text": "<b>Reaction:<\/b> After a province this character is attacking is revealed – the attacker has the first action opportunity this conflict.",
     "traits": [
         "cavalry",
         "scout"

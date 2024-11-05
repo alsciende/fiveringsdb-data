@@ -28,7 +28,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+1",
-    "text": "<b>Action:<\/b> Sacrifice this holding \u2013 draw 1 card.",
+    "text": "<b>Action:<\/b> Sacrifice this holding – draw 1 card.",
     "traits": [
         "imperial"
     ],

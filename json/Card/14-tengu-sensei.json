@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "Covert.\n<b>Reaction:<\/b> After this character chooses a character using covert \u2013 that character cannot be declared as an attacker this phase.",
+    "text": "Covert.\n<b>Reaction:<\/b> After this character chooses a character using covert – that character cannot be declared as an attacker this phase.",
     "traits": [
         "bushi",
         "creature",

@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After you play this character, choose a <em>Courtier<\/em> in your provinces \u2013 put that character into play. If that character has a printed cost of 2 or lower, put 1 fate on it.",
+    "text": "<b>Reaction:<\/b> After you play this character, choose a <em>Courtier<\/em> in your provinces – put that character into play. If that character has a printed cost of 2 or lower, put 1 fate on it.",
     "traits": [
         "courtier"
     ],

@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After this character loses a conflict as an attacker, if you have fewer cards in your hand than your opponent \u2013 your opponent discards 1 random card from his or her hand.",
+    "text": "<b>Reaction:<\/b> After this character loses a conflict as an attacker, if you have fewer cards in your hand than your opponent – your opponent discards 1 random card from his or her hand.",
     "traits": [
         "bushi"
     ],

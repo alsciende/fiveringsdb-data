@@ -22,7 +22,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Limit 1 per deck.\n<b>Interrupt:<\/b> When the effect of a card ability, ring effect, or framework step would cause you to lose your last honor \u2013 cancel that effect, then gain 1 honor.",
+    "text": "Limit 1 per deck.\n<b>Interrupt:<\/b> When the effect of a card ability, ring effect, or framework step would cause you to lose your last honor – cancel that effect, then gain 1 honor.",
     "traits": [
         "philosophy"
     ],

@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After 1 or more characters move to a conflict in which this character is participating, select one \u2013 gain 1 fate or draw 1 card. (Limit once per conflict.)",
+    "text": "<b>Reaction:<\/b> After 1 or more characters move to a conflict in which this character is participating, select one – gain 1 fate or draw 1 card. (Limit once per conflict.)",
     "traits": [
         "courtier"
     ],

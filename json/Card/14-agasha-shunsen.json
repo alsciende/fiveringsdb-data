@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, return 1 or more rings you have claimed to the unclaimed ring pool. Choose a character you control \u2013 search your conflict deck for an attachment with printed cost equal to or lower than the number of rings returned and attach it to that character. Shuffle.",
+    "text": "<b>Action:<\/b> During a conflict, return 1 or more rings you have claimed to the unclaimed ring pool. Choose a character you control – search your conflict deck for an attachment with printed cost equal to or lower than the number of rings returned and attach it to that character. Shuffle.",
     "traits": [
         "shugenja",
         "fire"

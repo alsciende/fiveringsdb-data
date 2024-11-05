@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Choose a non-unique character with 1 or more fate on it \u2013 move each fate from that character to a non-unique character with no fate on it controlled by the same player.",
+    "text": "<b>Action:<\/b> Choose a non-unique character with 1 or more fate on it – move each fate from that character to a non-unique character with no fate on it controlled by the same player.",
     "traits": [
         "spell",
         "void"

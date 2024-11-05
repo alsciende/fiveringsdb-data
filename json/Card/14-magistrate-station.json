@@ -22,7 +22,7 @@
     "side": "province",
     "strength": "3",
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Choose an honored character \u2013 ready that character.",
+    "text": "<b>Action:<\/b> Choose an honored character – ready that character.",
     "traits": [],
     "type": "province",
     "unique": false

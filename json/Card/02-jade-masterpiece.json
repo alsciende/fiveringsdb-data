@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Bow this attachment. Choose an unclaimed ring \u2013 move 1 fate from the chosen ring to another unclaimed ring.",
+    "text": "<b>Action:<\/b> Bow this attachment. Choose an unclaimed ring – move 1 fate from the chosen ring to another unclaimed ring.",
     "traits": [
         "item",
         "jade"

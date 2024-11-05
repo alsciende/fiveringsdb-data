@@ -15,14 +15,14 @@
     "is_restricted": false,
     "military": null,
     "military_bonus": null,
-    "name": "Ky\u016bden Isawa",
+    "name": "Kyūden Isawa",
     "political": null,
     "political_bonus": null,
     "role_restriction": null,
     "side": "province",
     "strength": null,
     "strength_bonus": "+1",
-    "text": "<b>Action:<\/b> During a conflict, bow this stronghold \u2013 play a <em>Spell<\/em> event from your conflict discard pile as if it were in your hand. Remove that event from the game.",
+    "text": "<b>Action:<\/b> During a conflict, bow this stronghold – play a <em>Spell<\/em> event from your conflict discard pile as if it were in your hand. Remove that event from the game.",
     "traits": [
         "library",
         "palace"

@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+2",
-    "text": "While this card is in an unbroken province, it gains: \"<b>Reaction:<\/b> After an opponent declares a conflict against a province that does not have a holding in it \u2013 that opponent loses 1 honor.\"",
+    "text": "While this card is in an unbroken province, it gains: \"<b>Reaction:<\/b> After an opponent declares a conflict against a province that does not have a holding in it – that opponent loses 1 honor.\"",
     "traits": [
         "outpost"
     ],

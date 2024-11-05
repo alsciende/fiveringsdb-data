@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After this character wins a [conflict-military] conflict \u2013 draw 1 card.",
+    "text": "<b>Reaction:<\/b> After this character wins a [conflict-military] conflict – draw 1 card.",
     "traits": [
         "bushi",
         "commander"

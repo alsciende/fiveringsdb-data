@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, bow this character. Choose a character in one of your discard piles \u2013 put that character into play in the conflict. If that character is still in play at the end of the conflict, return it to the bottom of its deck.",
+    "text": "<b>Action:<\/b> During a conflict, bow this character. Choose a character in one of your discard piles – put that character into play in the conflict. If that character is still in play at the end of the conflict, return it to the bottom of its deck.",
     "traits": [
         "shugenja",
         "water"

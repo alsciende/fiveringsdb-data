@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+1",
-    "text": "<b>Action:<\/b> Choose up to 2 facedown cards in your provinces \u2013 turn the chosen cards faceup.",
+    "text": "<b>Action:<\/b> Choose up to 2 facedown cards in your provinces – turn the chosen cards faceup.",
     "traits": [
         "battlefield"
     ],

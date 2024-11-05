@@ -21,14 +21,14 @@
     "is_restricted": false,
     "military": null,
     "military_bonus": "+0",
-    "name": "Daimy\u014d's Favor",
+    "name": "Daimyō's Favor",
     "political": null,
     "political_bonus": "+0",
     "role_restriction": null,
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a character you control.\n<b>Action:<\/b> Bow this attachment \u2013 reduce the cost of the next attachment you play on this character this phase by 1.",
+    "text": "Attach to a character you control.\n<b>Action:<\/b> Bow this attachment – reduce the cost of the next attachment you play on this character this phase by 1.",
     "traits": [
         "condition"
     ],

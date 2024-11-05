@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, if you control fewer participating characters than your opponent, choose a character you control \u2013 move that character to the conflict. If that character is a <em>Commander<\/em>, honor it.",
+    "text": "<b>Action:<\/b> During a conflict, if you control fewer participating characters than your opponent, choose a character you control – move that character to the conflict. If that character is a <em>Commander<\/em>, honor it.",
     "traits": [
         "tactic"
     ],

@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "Covert.\n<b>Reaction:<\/b> After an opponent plays an event during a conflict in which this character is defending \u2013 until the end of the conflict, this character gets +1[conflict-military] and +1[conflict-political]. (Unlimited.)",
+    "text": "Covert.\n<b>Reaction:<\/b> After an opponent plays an event during a conflict in which this character is defending – until the end of the conflict, this character gets +1[conflict-military] and +1[conflict-political]. (Unlimited.)",
     "traits": [
         "courtier"
     ],

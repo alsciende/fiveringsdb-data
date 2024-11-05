@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After honor dials are revealed, if your bid is lower than an opponent's \u2013 draw 1 card. (Limit once per phase.)",
+    "text": "<b>Reaction:<\/b> After honor dials are revealed, if your bid is lower than an opponent's – draw 1 card. (Limit once per phase.)",
     "traits": [
         "bushi"
     ],

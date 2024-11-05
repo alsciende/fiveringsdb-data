@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Choose an attachment attached to a dishonored character \u2013 discard both that attachment and that character\u2019s status token.",
+    "text": "<b>Action:<\/b> Choose an attachment attached to a dishonored character – discard both that attachment and that character’s status token.",
     "traits": [
         "courtier"
     ],

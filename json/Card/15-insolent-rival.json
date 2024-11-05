@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "While the bid on your honor dial is higher than an opponent's, this character gets +2 [conflict-military] and +2 [conflict-political].\n<b>Action:<\/b> While this character is participating in a conflict, choose a participating character controlled by an opponent \u2013 challenge that character to a [conflict-military] duel. Dishonor the loser of the duel.",
+    "text": "While the bid on your honor dial is higher than an opponent's, this character gets +2 [conflict-military] and +2 [conflict-political].\n<b>Action:<\/b> While this character is participating in a conflict, choose a participating character controlled by an opponent – challenge that character to a [conflict-military] duel. Dishonor the loser of the duel.",
     "traits": [
         "bushi",
         "duelist"

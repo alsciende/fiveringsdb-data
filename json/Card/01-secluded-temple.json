@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+1",
-    "text": "<b>Reaction:<\/b> After the conflict phase begins, each opponent who controls more characters than you must choose a character he or she controls with 1 or more fate on it \u2013 remove 1 fate from each chosen character.",
+    "text": "<b>Reaction:<\/b> After the conflict phase begins, each opponent who controls more characters than you must choose a character he or she controls with 1 or more fate on it – remove 1 fate from each chosen character.",
     "traits": [
         "shrine"
     ],

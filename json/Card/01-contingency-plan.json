@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After honor dials are revealed \u2013 increase or decrease the value of your bid by 1 <i>(to a minimum of 0)<\/i>.",
+    "text": "<b>Reaction:<\/b> After honor dials are revealed – increase or decrease the value of your bid by 1 <i>(to a minimum of 0)<\/i>.",
     "traits": [],
     "type": "event",
     "unique": false

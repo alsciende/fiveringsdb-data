@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Interrupt:<\/b> When attached character would leave play \u2013 discard this attachment instead.",
+    "text": "<b>Interrupt:<\/b> When attached character would leave play – discard this attachment instead.",
     "traits": [
         "condition"
     ],

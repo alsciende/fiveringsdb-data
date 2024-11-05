@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Seeker<\/b> role only.\n<b>Action:<\/b> While this character is attacking, sacrifice it \u2013 resolve the ring effect of the contested ring as if you won the conflict as the attacking player. (Max 1 per conflict.)",
+    "text": "<b>Seeker<\/b> role only.\n<b>Action:<\/b> While this character is attacking, sacrifice it – resolve the ring effect of the contested ring as if you won the conflict as the attacking player. (Max 1 per conflict.)",
     "traits": [
         "spirit"
     ],

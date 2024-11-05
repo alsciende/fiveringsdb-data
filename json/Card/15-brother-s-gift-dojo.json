@@ -15,14 +15,14 @@
     "is_restricted": false,
     "military": null,
     "military_bonus": null,
-    "name": "Brother\u2019s Gift D\u014dj\u014d",
+    "name": "Brother’s Gift Dōjō",
     "political": null,
     "political_bonus": null,
     "role_restriction": null,
     "side": "province",
     "strength": "4",
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, lose 1 honor and choose a participating character you control \u2013 move that character home. (Limit twice per round.)",
+    "text": "<b>Action:<\/b> During a conflict, lose 1 honor and choose a participating character you control – move that character home. (Limit twice per round.)",
     "traits": [
         "dojo"
     ],

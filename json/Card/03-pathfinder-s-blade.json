@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Seeker<\/em> role only.\n<b>Interrupt:<\/b> When the effects of a triggered ability on the attacked province would initiate, if attached character is attacking, sacrifice this attachment \u2013 cancel those effects.",
+    "text": "<em>Seeker<\/em> role only.\n<b>Interrupt:<\/b> When the effects of a triggered ability on the attacked province would initiate, if attached character is attacking, sacrifice this attachment – cancel those effects.",
     "traits": [
         "weapon"
     ],

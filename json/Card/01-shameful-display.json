@@ -28,7 +28,7 @@
     "side": "province",
     "strength": "3",
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict at this province, choose 2 participating characters \u2013 honor one of those characters and dishonor the other.",
+    "text": "<b>Action:<\/b> During a conflict at this province, choose 2 participating characters – honor one of those characters and dishonor the other.",
     "traits": [],
     "type": "province",
     "unique": false

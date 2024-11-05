@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Lose 1 honor and choose a character you control. Select one \u2013 until the end of the phase that character gets +1[conflict-military] and gains the <em>Bushi<\/em> trait, or until the end of the phase that character gets +1[conflict-political] and gains the <em>Courtier<\/em> trait.",
+    "text": "<b>Action:<\/b> Lose 1 honor and choose a character you control. Select one – until the end of the phase that character gets +1[conflict-military] and gains the <em>Bushi<\/em> trait, or until the end of the phase that character gets +1[conflict-political] and gains the <em>Courtier<\/em> trait.",
     "traits": [
         "shugenja",
         "air"

@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, choose a participating <em>Monk<\/em> character you control \u2013 until the end of the conflict, that character cannot be bowed or moved home by opponents' card effects. If you have played another <em>Kih\u014d<\/em> in this conflict, draw 1 card.",
+    "text": "<b>Action:<\/b> During a conflict, choose a participating <em>Monk<\/em> character you control – until the end of the conflict, that character cannot be bowed or moved home by opponents' card effects. If you have played another <em>Kihō<\/em> in this conflict, draw 1 card.",
     "traits": [
         "kiho",
         "earth"

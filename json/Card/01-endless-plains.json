@@ -22,7 +22,7 @@
     "side": "province",
     "strength": "2",
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After an attack is declared here, break this province. Your opponent chooses an attacking character \u2013 discard that character.",
+    "text": "<b>Reaction:<\/b> After an attack is declared here, break this province. Your opponent chooses an attacking character – discard that character.",
     "traits": [],
     "type": "province",
     "unique": false

@@ -22,7 +22,7 @@
     "side": "province",
     "strength": null,
     "strength_bonus": "+2",
-    "text": "<b>Reaction:<\/b> After you win a [conflict-military] conflict by 5 or more skill, bow this stronghold and sacrifice a <i>(friendly)<\/i> <em>Bushi<\/em> character \u2013 you may declare an additional [conflict-military] conflict this phase.",
+    "text": "<b>Reaction:<\/b> After you win a [conflict-military] conflict by 5 or more skill, bow this stronghold and sacrifice a <i>(friendly)<\/i> <em>Bushi<\/em> character – you may declare an additional [conflict-military] conflict this phase.",
     "traits": [
         "fort"
     ],

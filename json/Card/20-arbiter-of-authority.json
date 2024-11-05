@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, initiate a [conflict-political] duel \u2013 your opponent may dishonor his or her character to refuse the duel. Otherwise, resolve the duel. Bow and move home the duel's loser.",
+    "text": "<b>Action:<\/b> During a conflict, initiate a [conflict-political] duel – your opponent may dishonor his or her character to refuse the duel. Otherwise, resolve the duel. Bow and move home the duel's loser.",
     "traits": [
         "courtier",
         "duelist"

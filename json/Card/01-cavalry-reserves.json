@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a [conflict-military] conflict, choose up to 6 printed cost worth of <em>Cavalry<\/em> characters in your dynasty discard pile \u2013 put those characters into play in the conflict.",
+    "text": "<b>Action:<\/b> During a [conflict-military] conflict, choose up to 6 printed cost worth of <em>Cavalry<\/em> characters in your dynasty discard pile – put those characters into play in the conflict.",
     "traits": [],
     "type": "event",
     "unique": false

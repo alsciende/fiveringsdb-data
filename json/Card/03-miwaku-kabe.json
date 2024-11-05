@@ -28,7 +28,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+3",
-    "text": "Limit 1 per deck.\n<b>Interrupt:<\/b> When this holding's province is broken \u2013 shuffle this card back into your dynasty deck.",
+    "text": "Limit 1 per deck.\n<b>Interrupt:<\/b> When this holding's province is broken – shuffle this card back into your dynasty deck.",
     "traits": [
         "imperial"
     ],

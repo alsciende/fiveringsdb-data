@@ -10,7 +10,7 @@ trait JsonTrait
 
     private function putFileJsonContent(string $filename, array $data): void
     {
-        $this->fs->dumpFile($filename, json_encode($data, JSON_PRETTY_PRINT));
+        $this->fs->dumpFile($filename, json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
     }
 
     private function getFileJsonContent(string $filename): array

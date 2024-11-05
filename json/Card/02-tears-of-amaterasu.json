@@ -28,7 +28,7 @@
     "side": "province",
     "strength": "4",
     "strength_bonus": null,
-    "text": "<em>Keeper<\/em> role only.\n<b>Reaction:<\/b> After this province is revealed \u2013 gain 1 fate for each attacking character.",
+    "text": "<em>Keeper<\/em> role only.\n<b>Reaction:<\/b> After this province is revealed – gain 1 fate for each attacking character.",
     "traits": [
         "shrine"
     ],

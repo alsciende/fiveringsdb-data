@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Select one \u2013 place 1 fate on each unclaimed ring with no fate or remove 1 fate from each unclaimed ring.",
+    "text": "<b>Action:<\/b> Select one – place 1 fate on each unclaimed ring with no fate or remove 1 fate from each unclaimed ring.",
     "traits": [
         "omen"
     ],

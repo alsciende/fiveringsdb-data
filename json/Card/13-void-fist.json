@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, if you have played at least 2 other cards this conflict, choose a participating character with equal or lower [conflict-military] skill than a participating <em>Monk<\/em> character you control \u2013 move the chosen character home and bow it.",
+    "text": "<b>Action:<\/b> During a conflict, if you have played at least 2 other cards this conflict, choose a participating character with equal or lower [conflict-military] skill than a participating <em>Monk<\/em> character you control – move the chosen character home and bow it.",
     "traits": [
         "kiho",
         "void"

@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Shuffle a card in one of your unbroken provinces back into your dynasty deck. Choose a holding in your dynasty discard pile \u2013 put that holding into play in that province.",
+    "text": "<b>Action:<\/b> Shuffle a card in one of your unbroken provinces back into your dynasty deck. Choose a holding in your dynasty discard pile – put that holding into play in that province.",
     "traits": [],
     "type": "event",
     "unique": false

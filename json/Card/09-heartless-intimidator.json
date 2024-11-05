@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After an opponent loses 1 or more honor \u2013 discard the top card of that player's conflict deck. (Unlimited.)",
+    "text": "<b>Reaction:<\/b> After an opponent loses 1 or more honor – discard the top card of that player's conflict deck. (Unlimited.)",
     "traits": [
         "courtier"
     ],

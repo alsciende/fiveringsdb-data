@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After this character wins a conflict as a defender \u2013 resolve the ring effect of that conflict as if you were the attacking player. (Max 1 per conflict)",
+    "text": "<b>Reaction:<\/b> After this character wins a conflict as a defender – resolve the ring effect of that conflict as if you were the attacking player. (Max 1 per conflict)",
     "traits": [
         "bushi",
         "yojimbo"

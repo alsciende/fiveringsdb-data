@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> While this character is participating in a [conflict-military] conflict \u2013 until the end of the conflict, each participating character your opponent controls with equal or lower [conflict-military] skill than this character cannot trigger their abilities.",
+    "text": "<b>Action:<\/b> While this character is participating in a [conflict-military] conflict – until the end of the conflict, each participating character your opponent controls with equal or lower [conflict-military] skill than this character cannot trigger their abilities.",
     "traits": [
         "bushi"
     ],

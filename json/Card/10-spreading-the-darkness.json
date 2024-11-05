@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Lose 2 honor. Choose a participating character you control \u2013 until the end of the conflict, that character gets +4[conflict-military] and cannot be targeted by opponents' card abilities.",
+    "text": "<b>Action:<\/b> Lose 2 honor. Choose a participating character you control – until the end of the conflict, that character gets +4[conflict-military] and cannot be targeted by opponents' card abilities.",
     "traits": [
         "maho",
         "spell",

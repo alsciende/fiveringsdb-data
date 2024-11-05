@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, choose a participating <em>Shugenja<\/em> character you control and a character in your dynasty discard pile \u2013 until the end of the conflict, set the participating character's base [conflict-military] and [conflict-political] skill equal to the printed [conflict-military] and [conflict-political] skill of the other character.",
+    "text": "<b>Action:<\/b> During a conflict, choose a participating <em>Shugenja<\/em> character you control and a character in your dynasty discard pile – until the end of the conflict, set the participating character's base [conflict-military] and [conflict-political] skill equal to the printed [conflict-military] and [conflict-political] skill of the other character.",
     "traits": [
         "spell",
         "water"

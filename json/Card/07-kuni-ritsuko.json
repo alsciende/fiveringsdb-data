@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After this character wins a conflict as a defender, choose an attacking character \u2013 remove 1 fate from that character.",
+    "text": "<b>Reaction:<\/b> After this character wins a conflict as a defender, choose an attacking character – remove 1 fate from that character.",
     "traits": [
         "shugenja",
         "earth"

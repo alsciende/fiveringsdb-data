@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After attached character commits to a conflict or moves to a conflict \u2013 draw 1 card. (Limit twice per round.)",
+    "text": "<b>Reaction:<\/b> After attached character commits to a conflict or moves to a conflict – draw 1 card. (Limit twice per round.)",
     "traits": [
         "item",
         "gaijin"

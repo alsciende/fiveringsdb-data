@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After the conflict phase begins, choose a ring \u2013 while that ring is contested this phase, non-<em>Spell<\/em> events cannot be played.",
+    "text": "<b>Reaction:<\/b> After the conflict phase begins, choose a ring – while that ring is contested this phase, non-<em>Spell<\/em> events cannot be played.",
     "traits": [
         "shugenja",
         "earth"

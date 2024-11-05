@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Spend 1 fate, choose a character \u2013 discard a status token from that character.",
+    "text": "<b>Action:<\/b> Spend 1 fate, choose a character – discard a status token from that character.",
     "traits": [
         "shugenja",
         "air"

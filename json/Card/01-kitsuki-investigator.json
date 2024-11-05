@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> While this character is participating in a [conflict-political] conflict, spend 1 fate to an unclaimed ring \u2013 look at your opponent's hand. Choose 1 of those cards and discard it. (Max 1 per conflict.)",
+    "text": "<b>Action:<\/b> While this character is participating in a [conflict-political] conflict, spend 1 fate to an unclaimed ring – look at your opponent's hand. Choose 1 of those cards and discard it. (Max 1 per conflict.)",
     "traits": [
         "courtier"
     ],

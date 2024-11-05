@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+1",
-    "text": "Limit 1 per deck.\n<b>Action:<\/b> During a conflict at this province, lose 1 honor \u2013 this province gets +1 strength until the end of the conflict. (Unlimited.)",
+    "text": "Limit 1 per deck.\n<b>Action:<\/b> During a conflict at this province, lose 1 honor – this province gets +1 strength until the end of the conflict. (Unlimited.)",
     "traits": [
         "shrine"
     ],

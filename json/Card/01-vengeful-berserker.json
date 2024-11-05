@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After another character you control leaves play during a conflict \u2013 double this character's [conflict-military] skill until the end of the conflict.",
+    "text": "<b>Reaction:<\/b> After another character you control leaves play during a conflict – double this character's [conflict-military] skill until the end of the conflict.",
     "traits": [
         "bushi",
         "berserker"

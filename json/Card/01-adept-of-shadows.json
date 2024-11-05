@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Lose 1 honor \u2013 return this character to your hand.",
+    "text": "<b>Action:<\/b> Lose 1 honor – return this character to your hand.",
     "traits": [
         "bushi",
         "shinobi"

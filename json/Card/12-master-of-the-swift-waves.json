@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, choose a participating character you control and a character in your home \u2013 switch the chosen characters' location.",
+    "text": "<b>Action:<\/b> During a conflict, choose a participating character you control and a character in your home – switch the chosen characters' location.",
     "traits": [
         "shugenja",
         "water",

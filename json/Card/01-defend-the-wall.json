@@ -22,7 +22,7 @@
     "side": "province",
     "strength": "4",
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After you win a conflict at this province \u2013 resolve the ring effect of that conflict as if you were the attacking player.",
+    "text": "<b>Reaction:<\/b> After you win a conflict at this province – resolve the ring effect of that conflict as if you were the attacking player.",
     "traits": [],
     "type": "province",
     "unique": false

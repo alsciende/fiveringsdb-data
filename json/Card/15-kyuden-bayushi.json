@@ -15,14 +15,14 @@
     "is_restricted": false,
     "military": null,
     "military_bonus": null,
-    "name": "Ky\u016bden Bayushi",
+    "name": "Kyūden Bayushi",
     "political": null,
     "political_bonus": null,
     "role_restriction": null,
     "side": "province",
     "strength": null,
     "strength_bonus": "+2",
-    "text": "<b>Action:<\/b> Bow this stronghold and choose a dishonored character you control \u2013 ready that character. If you have 6 or fewer honor, that character gets +1[conflict-military] and +1[conflict-political] until the end of the phase.",
+    "text": "<b>Action:<\/b> Bow this stronghold and choose a dishonored character you control – ready that character. If you have 6 or fewer honor, that character gets +1[conflict-military] and +1[conflict-political] until the end of the phase.",
     "traits": [
         "palace"
     ],
