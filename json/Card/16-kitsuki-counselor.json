@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "Composure - This character gets +1[conflict-military] and +1[conflict-political]. <i>(You have composure if your honor bid is lower than an opponent's.)<\/i>",
+    "text": "Composure - This character gets +1[conflict-military] and +1[conflict-political]. <i>(You have composure if your honor bid is lower than an opponent's.)</i>",
     "traits": [
         "courtier"
     ],

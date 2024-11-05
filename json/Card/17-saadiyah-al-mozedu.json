@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "Sincerity.\n<b>Action:<\/b> Discard a card from your hand and choose an unbroken province not currently being attacked - turn that province facedown.",
+    "text": "Sincerity.\n<b>Action:</b> Discard a card from your hand and choose an unbroken province not currently being attacked - turn that province facedown.",
     "traits": [
         "courtier",
         "gaijin",

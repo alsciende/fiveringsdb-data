@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict in which this character is participating, choose up to 1 other character you control - move this character and that character home.",
+    "text": "<b>Action:</b> During a conflict in which this character is participating, choose up to 1 other character you control - move this character and that character home.",
     "traits": [
         "courtier",
         "cavalry"

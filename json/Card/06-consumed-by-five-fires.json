@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Seeker<\/em> role only.\n<b>Action:<\/b> If you control a <em>Shugenja<\/em> character – remove up to 5 fate from among characters an opponent controls.",
+    "text": "<em>Seeker</em> role only.\n<b>Action:</b> If you control a <em>Shugenja</em> character – remove up to 5 fate from among characters an opponent controls.",
     "traits": [
         "spell",
         "fire"

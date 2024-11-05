@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "Disguised <em>Courtier<\/em>.\n<b>Action:<\/b> During a [conflict-political] conflict in which this character is participating - draw 1 card for each card you opponent has played in this conflict.",
+    "text": "Disguised <em>Courtier</em>.\n<b>Action:</b> During a [conflict-political] conflict in which this character is participating - draw 1 card for each card you opponent has played in this conflict.",
     "traits": [
         "courtier",
         "shinobi"

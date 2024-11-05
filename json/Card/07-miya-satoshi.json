@@ -28,7 +28,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Discard cards from your dynasty deck until you discard an <em>Imperial<\/em> card. Then, discard a card in a non-stronghold province you control and put the discarded <em>Imperial<\/em> card into that province, faceup.",
+    "text": "<b>Action:</b> Discard cards from your dynasty deck until you discard an <em>Imperial</em> card. Then, discard a card in a non-stronghold province you control and put the discarded <em>Imperial</em> card into that province, faceup.",
     "traits": [
         "courtier",
         "daimyo",

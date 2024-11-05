@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Water<\/em> role only. Restricted.\n<b>Interrupt:<\/b> When you would resolve the [element-water] ring effect, choose a character you control – instead of resolving normal ring effects, put this attachment into play from your hand or conflict discard pile, attached to that character.",
+    "text": "<em>Water</em> role only. Restricted.\n<b>Interrupt:</b> When you would resolve the [element-water] ring effect, choose a character you control – instead of resolving normal ring effects, put this attachment into play from your hand or conflict discard pile, attached to that character.",
     "traits": [
         "weapon"
     ],

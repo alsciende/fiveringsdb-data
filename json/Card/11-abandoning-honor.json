@@ -28,7 +28,7 @@
     "side": "province",
     "strength": "3",
     "strength_bonus": null,
-    "text": "This province gets +2 strength while you have a <em>Fire<\/em> role.\n<b>Interrupt:<\/b> When this province is broken, choose a dishonored character – discard that character.",
+    "text": "This province gets +2 strength while you have a <em>Fire</em> role.\n<b>Interrupt:</b> When this province is broken, choose a dishonored character – discard that character.",
     "traits": [],
     "type": "province",
     "unique": false

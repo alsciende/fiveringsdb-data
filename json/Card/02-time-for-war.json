@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Seeker<\/em> role only.\n<b>Reaction:<\/b> After you lose a [conflict-political] conflict, choose a <em>Bushi<\/em> character you control – put a <em>Weapon<\/em> attachment with printed cost 3 or lower into play from your hand or conflict discard pile, attached to that character.",
+    "text": "<em>Seeker</em> role only.\n<b>Reaction:</b> After you lose a [conflict-political] conflict, choose a <em>Bushi</em> character you control – put a <em>Weapon</em> attachment with printed cost 3 or lower into play from your hand or conflict discard pile, attached to that character.",
     "traits": [],
     "type": "event",
     "unique": false

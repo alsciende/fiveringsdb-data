@@ -23,7 +23,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "[clan-crab] and [clan-phoenix] only.\nDisguised <em>Shugenja<\/em>.\n<b>Action:<\/b> During a conflict, remove one or more characters in your dynasty discard pile from the game - look at that many random cards from your opponent's hand. Choose and discard one of those cards.",
+    "text": "[clan-crab] and [clan-phoenix] only.\nDisguised <em>Shugenja</em>.\n<b>Action:</b> During a conflict, remove one or more characters in your dynasty discard pile from the game - look at that many random cards from your opponent's hand. Choose and discard one of those cards.",
     "traits": [
         "shugenja",
         "earth",

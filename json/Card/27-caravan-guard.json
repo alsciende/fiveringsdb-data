@@ -28,7 +28,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Keeper<\/em> role only.\nThis character cannot be declared as an attacker unless you spend 1 fate.",
+    "text": "<em>Keeper</em> role only.\nThis character cannot be declared as an attacker unless you spend 1 fate.",
     "traits": [
         "bushi",
         "ronin"

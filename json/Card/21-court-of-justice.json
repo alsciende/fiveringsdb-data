@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+1",
-    "text": "<b>Reaction:<\/b> After you win a [conflict-political] conflict - look at 3 random cards in your opponent's hand.",
+    "text": "<b>Reaction:</b> After you win a [conflict-political] conflict - look at 3 random cards in your opponent's hand.",
     "traits": [],
     "type": "holding",
     "unique": false

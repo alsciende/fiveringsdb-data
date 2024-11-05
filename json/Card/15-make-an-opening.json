@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict in which you control a participating character, choose a participating character controlled by your opponent – that character gets –X[conflict-military] and –X[conflict-political] until the end of the conflict, where X is the difference between the bid on your honor dial and that of your opponent.",
+    "text": "<b>Action:</b> During a conflict in which you control a participating character, choose a participating character controlled by your opponent – that character gets –X[conflict-military] and –X[conflict-political] until the end of the conflict, where X is the difference between the bid on your honor dial and that of your opponent.",
     "traits": [],
     "type": "event",
     "unique": false

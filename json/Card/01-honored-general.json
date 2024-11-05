@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "During a conflict in which this character is participating, each other participating [clan-lion] character you control gets +1[conflict-military].\n<b>Reaction:<\/b> After this character enters play – honor it.",
+    "text": "During a conflict in which this character is participating, each other participating [clan-lion] character you control gets +1[conflict-military].\n<b>Reaction:</b> After this character enters play – honor it.",
     "traits": [
         "bushi",
         "commander"

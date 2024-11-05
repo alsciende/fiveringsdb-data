@@ -22,7 +22,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a [clan-dragon] character.\n<b>Action:<\/b> During a conflict in which attached character is participating, return this attachment to your hand - put an attachment from your hand into play attached to the same character. (Max 1 per round.)",
+    "text": "Attach to a [clan-dragon] character.\n<b>Action:</b> During a conflict in which attached character is participating, return this attachment to your hand - put an attachment from your hand into play attached to the same character. (Max 1 per round.)",
     "traits": [
         "item",
         "philosophy"

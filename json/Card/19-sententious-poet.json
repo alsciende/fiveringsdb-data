@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After your opponent spends fate to play a card during a conflict in which this character is participating - gain 1 fate.",
+    "text": "<b>Reaction:</b> After your opponent spends fate to play a card during a conflict in which this character is participating - gain 1 fate.",
     "traits": [
         "courtier"
     ],

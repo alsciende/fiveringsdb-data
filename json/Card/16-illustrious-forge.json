@@ -28,7 +28,7 @@
     "side": "province",
     "strength": "4",
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After this province is revealed - search the top 5 cards of your conflict deck for an attachment and put it into play attached to a character you control. Shuffle.",
+    "text": "<b>Reaction:</b> After this province is revealed - search the top 5 cards of your conflict deck for an attachment and put it into play attached to a character you control. Shuffle.",
     "traits": [],
     "type": "province",
     "unique": false

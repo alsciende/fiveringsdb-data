@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "Covert. <i>(When this character attacks, choose one character without covert. That character cannot be declared as a defender.)<\/i><b>Reaction:<\/b> After this character evades a character using covert - that character cannot be declared as a defender this phase.",
+    "text": "Covert. <i>(When this character attacks, choose one character without covert. That character cannot be declared as a defender.)</i><b>Reaction:</b> After this character evades a character using covert - that character cannot be declared as a defender this phase.",
     "traits": [
         "bushi",
         "cavalry"

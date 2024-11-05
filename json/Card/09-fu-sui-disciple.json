@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> The player that has the [element-air] ring in his or her claimed ring pool chooses an ordinary character he or she controls. You select one – honor or dishonor that character.",
+    "text": "<b>Action:</b> The player that has the [element-air] ring in his or her claimed ring pool chooses an ordinary character he or she controls. You select one – honor or dishonor that character.",
     "traits": [
         "shugenja",
         "air"

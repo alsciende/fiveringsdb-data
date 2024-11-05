@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a [conflict-military] conflict, discard an honored status token from a participating <i>(friendly)<\/i> character and choose a participating character your opponent controls - bow that character.\n<i>Errata from RRG v9<\/i>",
+    "text": "<b>Action:</b> During a [conflict-military] conflict, discard an honored status token from a participating <i>(friendly)</i> character and choose a participating character your opponent controls - bow that character.\n<i>Errata from RRG v9</i>",
     "traits": [
         "philosophy"
     ],

@@ -22,7 +22,7 @@
     "side": "province",
     "strength": null,
     "strength_bonus": "+0",
-    "text": "<b>Action:<\/b> During a [conflict-military] conflict, bow this stronghold. Choose a <em>Cavalry<\/em> character you control – move it to that conflict.",
+    "text": "<b>Action:</b> During a [conflict-military] conflict, bow this stronghold. Choose a <em>Cavalry</em> character you control – move it to that conflict.",
     "traits": [
         "outpost"
     ],

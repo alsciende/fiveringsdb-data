@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, if you have fewer cards in your hand than your opponent - as an additional cost for your opponent to play an event during this conflict, that opponent must give you 1 honor. (Max 1 per conflict.)",
+    "text": "<b>Action:</b> During a conflict, if you have fewer cards in your hand than your opponent - as an additional cost for your opponent to play an event during this conflict, that opponent must give you 1 honor. (Max 1 per conflict.)",
     "traits": [],
     "type": "event",
     "unique": false

@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a character you control.\n<b>Interrupt:<\/b> When the effects of a card ability that targets attached character would initiate, sacrifice this attachment – cancel those effects.",
+    "text": "Attach to a character you control.\n<b>Interrupt:</b> When the effects of a card ability that targets attached character would initiate, sacrifice this attachment – cancel those effects.",
     "traits": [
         "item",
         "jade"

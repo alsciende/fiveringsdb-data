@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict in which this character is participating - search the top 5 cards of you conflict deck for a card that shares a <em>Trait<\/em> with an element of the contested ring, reveal it, and add it to your hand. Shuffle.",
+    "text": "<b>Action:</b> During a conflict in which this character is participating - search the top 5 cards of you conflict deck for a card that shares a <em>Trait</em> with an element of the contested ring, reveal it, and add it to your hand. Shuffle.",
     "traits": [
         "bushi",
         "scholar"

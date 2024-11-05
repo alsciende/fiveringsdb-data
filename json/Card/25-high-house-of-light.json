@@ -22,7 +22,7 @@
     "side": "province",
     "strength": null,
     "strength_bonus": "+3",
-    "text": "<b>Action:<\/b> During a conflict, bow this stronghold. Choose a participating <em>Monk<\/em> character you control - that character cannot be chosen as the target of an opponent's event during this conflict. If you have played 5 or more cards in this conflict, also move 1 fate from a ring to this character.",
+    "text": "<b>Action:</b> During a conflict, bow this stronghold. Choose a participating <em>Monk</em> character you control - that character cannot be chosen as the target of an opponent's event during this conflict. If you have played 5 or more cards in this conflict, also move 1 fate from a ring to this character.",
     "traits": [
         "temple"
     ],

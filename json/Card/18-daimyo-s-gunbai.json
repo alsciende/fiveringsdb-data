@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Restricted.\n<b>Action:<\/b> During a conflict, if this card is in your hand, reveal it and initiate a [conflict-military] duel against a character your opponent controls of his or her choice - resolve the duel. Put this card into play attached to the duel's winner, if able. Otherwise, discard it.",
+    "text": "Restricted.\n<b>Action:</b> During a conflict, if this card is in your hand, reveal it and initiate a [conflict-military] duel against a character your opponent controls of his or her choice - resolve the duel. Put this card into play attached to the duel's winner, if able. Otherwise, discard it.",
     "traits": [
         "item"
     ],

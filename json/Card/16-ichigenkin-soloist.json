@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "Composure - This character cannot be chosen as the target of an opponent's triggered ability. <i>(You have composure if your honor bid is lower than an opponent's.)<\/i>",
+    "text": "Composure - This character cannot be chosen as the target of an opponent's triggered ability. <i>(You have composure if your honor bid is lower than an opponent's.)</i>",
     "traits": [
         "courtier"
     ],

@@ -28,7 +28,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+0",
-    "text": "<b>Reaction:<\/b> After a character you control wins a duel - draw 1 card. (Limit twice per round.)",
+    "text": "<b>Reaction:</b> After a character you control wins a duel - draw 1 card. (Limit twice per round.)",
     "traits": [
         "dojo"
     ],

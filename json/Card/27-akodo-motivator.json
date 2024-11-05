@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After an opponent's card ability or ring effect discards 1 or more cards from your hand - that opponent discards an equal number of cards at random from his or her hand.",
+    "text": "<b>Reaction:</b> After an opponent's card ability or ring effect discards 1 or more cards from your hand - that opponent discards an equal number of cards at random from his or her hand.",
     "traits": [
         "bushi"
     ],

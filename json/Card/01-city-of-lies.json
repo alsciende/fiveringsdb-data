@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+1",
-    "text": "<b>Action:<\/b> Reduce the cost of the next event you play this phase by 1.",
+    "text": "<b>Action:</b> Reduce the cost of the next event you play this phase by 1.",
     "traits": [
         "city"
     ],

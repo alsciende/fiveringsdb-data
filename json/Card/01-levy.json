@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Choose an opponent, that player must select one – give you 1 fate or 1 honor.",
+    "text": "<b>Action:</b> Choose an opponent, that player must select one – give you 1 fate or 1 honor.",
     "traits": [],
     "type": "event",
     "unique": false

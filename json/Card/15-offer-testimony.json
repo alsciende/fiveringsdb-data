@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a [conflict-political] conflict, you and your opponent each chooses a ready participating character he or she controls – each of those players simultaneously reveals a card from his or her hand. Each player who reveals the lowest cost card bows his or her chosen character.",
+    "text": "<b>Action:</b> During a [conflict-political] conflict, you and your opponent each chooses a ready participating character he or she controls – each of those players simultaneously reveals a card from his or her hand. Each player who reveals the lowest cost card bows his or her chosen character.",
     "traits": [],
     "type": "event",
     "unique": false

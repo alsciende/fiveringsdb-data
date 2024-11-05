@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "If you are more honorable than an opponent, you can play this card from your discard pile.\n<b>Action:<\/b> Choose up to 6 printed cost worth of <em>Bushi<\/em> characters you control - ready each of those characters. Put this card on the bottom of its owner's conflict deck.",
+    "text": "If you are more honorable than an opponent, you can play this card from your discard pile.\n<b>Action:</b> Choose up to 6 printed cost worth of <em>Bushi</em> characters you control - ready each of those characters. Put this card on the bottom of its owner's conflict deck.",
     "traits": [],
     "type": "event",
     "unique": false

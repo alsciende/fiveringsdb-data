@@ -22,7 +22,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Choose a ring and an opponent – that player cannot declare conflicts of that ring's element this phase. (Max 1 per phase.)",
+    "text": "<b>Action:</b> Choose a ring and an opponent – that player cannot declare conflicts of that ring's element this phase. (Max 1 per phase.)",
     "traits": [
         "philosophy"
     ],

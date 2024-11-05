@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a [conflict-political] conflict, initiate a [conflict-political] duel against a character your opponent controls of his or her choice - resolve the duel. The controller of the duel's winner may declare an additional [conflict-political] conflict this phase. (Max 1 per round.)",
+    "text": "<b>Action:</b> During a [conflict-political] conflict, initiate a [conflict-political] duel against a character your opponent controls of his or her choice - resolve the duel. The controller of the duel's winner may declare an additional [conflict-political] conflict this phase. (Max 1 per round.)",
     "traits": [],
     "type": "event",
     "unique": false

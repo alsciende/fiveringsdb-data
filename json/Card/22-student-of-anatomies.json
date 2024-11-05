@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Sacrifice a <i>(friendly)<\/i> character. Choose a character - until the end of the phase treat that character as if its printed text box were blank (except for <em>Traits<\/em>).",
+    "text": "<b>Action:</b> Sacrifice a <i>(friendly)</i> character. Choose a character - until the end of the phase treat that character as if its printed text box were blank (except for <em>Traits</em>).",
     "traits": [
         "shugenja",
         "earth"

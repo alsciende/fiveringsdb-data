@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a character you control.\nAttached character gains <em>Tattooed<\/em>.\n<b>Reaction:<\/b> After you play this attachment during a conflict – move attached character to the conflict. If attached character is a <em>Monk<\/em>, you may take another action after this one.\n<i>Errata from RRG v1.6<\/i>",
+    "text": "Attach to a character you control.\nAttached character gains <em>Tattooed</em>.\n<b>Reaction:</b> After you play this attachment during a conflict – move attached character to the conflict. If attached character is a <em>Monk</em>, you may take another action after this one.\n<i>Errata from RRG v1.6</i>",
     "traits": [
         "tattoo"
     ],

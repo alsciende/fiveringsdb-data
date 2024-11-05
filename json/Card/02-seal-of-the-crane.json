@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attached character gains the [clan-crane] clan symbol and the <em>Duelist<\/em> trait.",
+    "text": "Attached character gains the [clan-crane] clan symbol and the <em>Duelist</em> trait.",
     "traits": [
         "item",
         "seal"

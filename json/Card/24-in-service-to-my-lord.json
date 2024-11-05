@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "This card can be played from your discard pile.\n<b>Action:<\/b> Bow a <i>(friendly)<\/i> non-unique character and choose a unique character - ready the chosen character. Put this card on the bottom of its owner's conflict deck.",
+    "text": "This card can be played from your discard pile.\n<b>Action:</b> Bow a <i>(friendly)</i> non-unique character and choose a unique character - ready the chosen character. Put this card on the bottom of its owner's conflict deck.",
     "traits": [
         "tactic"
     ],

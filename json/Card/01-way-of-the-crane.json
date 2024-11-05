@@ -22,7 +22,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Choose a [clan-crane] character you control – honor that character.",
+    "text": "<b>Action:</b> Choose a [clan-crane] character you control – honor that character.",
     "traits": [
         "philosophy"
     ],

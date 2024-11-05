@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a unique character. Restricted.\n<b>Reaction:<\/b> After you break a province during a [conflict-military] conflict in which attached character is attacking - discard each card from each of your opponent's provinces.",
+    "text": "Attach to a unique character. Restricted.\n<b>Reaction:</b> After you break a province during a [conflict-military] conflict in which attached character is attacking - discard each card from each of your opponent's provinces.",
     "traits": [
         "follower"
     ],

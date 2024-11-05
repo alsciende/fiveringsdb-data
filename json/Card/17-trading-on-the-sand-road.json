@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Interrupt:<\/b> When the draw phase would begin - skip the draw phase. Each player removes the top 4 cards of his or her conflict deck from the game. Until the end of the round, either player may play the removed cards as if they were in his or her hand.",
+    "text": "<b>Interrupt:</b> When the draw phase would begin - skip the draw phase. Each player removes the top 4 cards of his or her conflict deck from the game. Until the end of the round, either player may play the removed cards as if they were in his or her hand.",
     "traits": [
         "gaijin"
     ],

@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+4",
-    "text": "Limit 1 per deck.\nEach <em>Kaiu Wall<\/em> holding in each adjacent province gets +2 bonus strength.",
+    "text": "Limit 1 per deck.\nEach <em>Kaiu Wall</em> holding in each adjacent province gets +2 bonus strength.",
     "traits": [
         "kaiu-wall"
     ],

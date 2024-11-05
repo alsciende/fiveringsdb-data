@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After you gain a fate from a ring during a conflict in which this character is participating - this character cannot be chosen as the target of your opponent's triggered abilities until the end of the conflict.",
+    "text": "<b>Reaction:</b> After you gain a fate from a ring during a conflict in which this character is participating - this character cannot be chosen as the target of your opponent's triggered abilities until the end of the conflict.",
     "traits": [
         "bushi",
         "champion"

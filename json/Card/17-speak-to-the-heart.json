@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, choose a [clan-unicorn] character - that character gets +1[conflict-political] until the end of the conflict for each faceup non-stronghold province your opponent controls.  (Max 1 per conflict.)",
+    "text": "<b>Action:</b> During a conflict, choose a [clan-unicorn] character - that character gets +1[conflict-political] until the end of the conflict for each faceup non-stronghold province your opponent controls.  (Max 1 per conflict.)",
     "traits": [],
     "type": "event",
     "unique": false

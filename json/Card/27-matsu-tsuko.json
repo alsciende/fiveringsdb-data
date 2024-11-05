@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After this character wins a conflict as the attacker against a non-stronghold province, if you are more honorable than your opponent – break the attacked province.",
+    "text": "<b>Reaction:</b> After this character wins a conflict as the attacker against a non-stronghold province, if you are more honorable than your opponent – break the attacked province.",
     "traits": [
         "bushi",
         "champion",

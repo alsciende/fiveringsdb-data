@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "Pride.\n<b>Action:<\/b> Choose another character you control – move an honored status token from this character to the chosen character.",
+    "text": "Pride.\n<b>Action:</b> Choose another character you control – move an honored status token from this character to the chosen character.",
     "traits": [
         "shugenja",
         "air"

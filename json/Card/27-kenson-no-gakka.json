@@ -22,7 +22,7 @@
     "side": "province",
     "strength": "5",
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After you lose a conflict at this province - honor each defending character.",
+    "text": "<b>Reaction:</b> After you lose a conflict at this province - honor each defending character.",
     "traits": [
         "castle"
     ],

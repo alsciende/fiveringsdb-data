@@ -28,7 +28,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action: <\/b>During a conflict in which this character is participating, if you have the Imperial Favor - each player cannot play cards from his or her hand until the end of the conflict.",
+    "text": "<b>Action: </b>During a conflict in which this character is participating, if you have the Imperial Favor - each player cannot play cards from his or her hand until the end of the conflict.",
     "traits": [
         "bushi",
         "champion",

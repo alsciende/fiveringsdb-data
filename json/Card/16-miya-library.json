@@ -28,7 +28,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+1",
-    "text": "Limit 1 per deck.\n<b>Action:<\/b> Look at the top 4 cards of your dynasty deck. You may choose an <em>Imperial<\/em> character from among them and switch it with this card <i>(faceup)<\/i>. Put the cards back on top in any order.",
+    "text": "Limit 1 per deck.\n<b>Action:</b> Look at the top 4 cards of your dynasty deck. You may choose an <em>Imperial</em> character from among them and switch it with this card <i>(faceup)</i>. Put the cards back on top in any order.",
     "traits": [
         "imperial",
         "library"

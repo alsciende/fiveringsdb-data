@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict - move each participating <em>Cavalry<\/em> character you control home. Then, choose any number of <em>Cavalry<\/em> character you control and move them to the conflict.",
+    "text": "<b>Action:</b> During a conflict - move each participating <em>Cavalry</em> character you control home. Then, choose any number of <em>Cavalry</em> character you control and move them to the conflict.",
     "traits": [],
     "type": "event",
     "unique": false

@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+0",
-    "text": "<b>Reaction:<\/b> After the conflict phase begins, choose a ring – until the end of the phase, you are considered to have that ring in your claimed ring pool.",
+    "text": "<b>Reaction:</b> After the conflict phase begins, choose a ring – until the end of the phase, you are considered to have that ring in your claimed ring pool.",
     "traits": [
         "shrine"
     ],

@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After you win a conflict by 5 or more skill – gain 2 fate.",
+    "text": "<b>Reaction:</b> After you win a conflict by 5 or more skill – gain 2 fate.",
     "traits": [
         "kiho",
         "philosophy"

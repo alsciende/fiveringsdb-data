@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict in which attached character is participating, sacrifice this attachment and choose a player - that player puts his or her hand on the bottom of his or her conflict deck in a random order and draws that many cards.",
+    "text": "<b>Action:</b> During a conflict in which attached character is participating, sacrifice this attachment and choose a player - that player puts his or her hand on the bottom of his or her conflict deck in a random order and draws that many cards.",
     "traits": [
         "spell",
         "water"

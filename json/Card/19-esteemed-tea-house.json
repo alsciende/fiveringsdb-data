@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+2",
-    "text": "<b>Action:<\/b> During a conflict in which you control a participating <em>Courtier<\/em>, choose an attachment on a participating character - return that attachment to its owner's hand. That player cannot play copies of that card until the end of the phase.",
+    "text": "<b>Action:</b> During a conflict in which you control a participating <em>Courtier</em>, choose an attachment on a participating character - return that attachment to its owner's hand. That player cannot play copies of that card until the end of the phase.",
     "traits": [
         "tea-house"
     ],

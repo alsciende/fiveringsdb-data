@@ -28,7 +28,7 @@
     "side": "province",
     "strength": "5",
     "strength_bonus": null,
-    "text": "During conflicts at this province, cancel all ring effects. <i>(If this province breaks, resolve ring effects as normal.)<\/i>",
+    "text": "During conflicts at this province, cancel all ring effects. <i>(If this province breaks, resolve ring effects as normal.)</i>",
     "traits": [],
     "type": "province",
     "unique": false

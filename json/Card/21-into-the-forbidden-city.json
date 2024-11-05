@@ -28,7 +28,7 @@
     "side": "province",
     "strength": "5",
     "strength_bonus": null,
-    "text": "<em>Keeper<\/em> role only.\n<b>Action:<\/b> During a conflict at this province, choose an attachment on an attacking character - discard that attachment.",
+    "text": "<em>Keeper</em> role only.\n<b>Action:</b> During a conflict at this province, choose an attachment on an attacking character - discard that attachment.",
     "traits": [
         "imperial"
     ],

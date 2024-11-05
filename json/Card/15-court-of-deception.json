@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+1",
-    "text": "<b>Action:<\/b> If you have 6 or fewer honor, choose a dishonored character in you home area – discard that character's status token.",
+    "text": "<b>Action:</b> If you have 6 or fewer honor, choose a dishonored character in you home area – discard that character's status token.",
     "traits": [],
     "type": "holding",
     "unique": false

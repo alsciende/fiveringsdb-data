@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After this character wins a conflict, choose a character – honor or dishonor that character.",
+    "text": "<b>Reaction:</b> After this character wins a conflict, choose a character – honor or dishonor that character.",
     "traits": [
         "courtier"
     ],

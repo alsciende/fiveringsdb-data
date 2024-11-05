@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After an opponent passes on declaring a conflict, if he or she controls 1 or more ready characters - gain 2 fate.",
+    "text": "<b>Reaction:</b> After an opponent passes on declaring a conflict, if he or she controls 1 or more ready characters - gain 2 fate.",
     "traits": [],
     "type": "event",
     "unique": false

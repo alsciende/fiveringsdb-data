@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a <em>Bushi<\/em> character.\nWhile there are exactly 2 <em>Weapon<\/em> attachments on attached character, attached character gains covert.",
+    "text": "Attach to a <em>Bushi</em> character.\nWhile there are exactly 2 <em>Weapon</em> attachments on attached character, attached character gains covert.",
     "traits": [
         "technique"
     ],

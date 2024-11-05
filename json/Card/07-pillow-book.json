@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> While attached character is participating in a conflict – reveal the top card of your conflict deck until the end of the conflict. While it remains revealed, you may play that card as if it were in your hand.",
+    "text": "<b>Action:</b> While attached character is participating in a conflict – reveal the top card of your conflict deck until the end of the conflict. While it remains revealed, you may play that card as if it were in your hand.",
     "traits": [
         "item"
     ],

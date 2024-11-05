@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a <em>Berserker<\/em> character.\nRestricted.\n<b>Action:<\/b> During a conflict in which attached character is attacking, choose a defending character and select either [conflict-military] or [conflict-political] – set that character's selected skill to 0 until the end of the conflict.",
+    "text": "Attach to a <em>Berserker</em> character.\nRestricted.\n<b>Action:</b> During a conflict in which attached character is attacking, choose a defending character and select either [conflict-military] or [conflict-political] – set that character's selected skill to 0 until the end of the conflict.",
     "traits": [
         "weapon"
     ],

@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After this character wins a conflict - gain 1 fate from an unclaimed ring.",
+    "text": "<b>Reaction:</b> After this character wins a conflict - gain 1 fate from an unclaimed ring.",
     "traits": [
         "monk",
         "tattooed"

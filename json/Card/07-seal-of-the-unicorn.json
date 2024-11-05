@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attached character gains the [clan-unicorn] clan symbol and the <em>Cavalry<\/em> trait.",
+    "text": "Attached character gains the [clan-unicorn] clan symbol and the <em>Cavalry</em> trait.",
     "traits": [
         "item",
         "seal"

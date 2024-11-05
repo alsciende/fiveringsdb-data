@@ -22,7 +22,7 @@
     "side": "province",
     "strength": "5",
     "strength_bonus": null,
-    "text": "During a conflict at this province, when a player would claim the contested ring, return it to the unclaimed ring pool instead. <i>(If this province breaks, the ring is claimed as normal.)<\/i>",
+    "text": "During a conflict at this province, when a player would claim the contested ring, return it to the unclaimed ring pool instead. <i>(If this province breaks, the ring is claimed as normal.)</i>",
     "traits": [],
     "type": "province",
     "unique": false

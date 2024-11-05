@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "0",
-    "text": "<b>Action: <\/b>During a [conflict-military] conflict in which you are defending, discard a card from your hand and choose a ready attacking character.  That character's controller selects one - bow that character, or remove 1 fate from it.",
+    "text": "<b>Action: </b>During a [conflict-military] conflict in which you are defending, discard a card from your hand and choose a ready attacking character.  That character's controller selects one - bow that character, or remove 1 fate from it.",
     "traits": [],
     "type": "holding",
     "unique": false

@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After this character enters play, choose another copy of this card in your provinces or discard pile - put that character into play.",
+    "text": "<b>Reaction:</b> After this character enters play, choose another copy of this card in your provinces or discard pile - put that character into play.",
     "traits": [
         "peasant"
     ],

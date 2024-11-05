@@ -22,7 +22,7 @@
     "side": "province",
     "strength": "4",
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After this province is revealed – look at your opponent's hand.",
+    "text": "<b>Reaction:</b> After this province is revealed – look at your opponent's hand.",
     "traits": [],
     "type": "province",
     "unique": false

@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Forced Reaction:<\/b> After the [element-void] ring is claimed, choose a character with no fate - remove that character from the game. (Unlimited.)",
+    "text": "<b>Forced Reaction:</b> After the [element-void] ring is claimed, choose a character with no fate - remove that character from the game. (Unlimited.)",
     "traits": [
         "shugenja",
         "void",

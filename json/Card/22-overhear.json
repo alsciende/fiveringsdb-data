@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a [conflict-political] conflict - your opponent reveals a random card from his or her hand and puts it on top of his or her conflict deck. If you control a participating <em>Courtier<\/em> character, you may give your opponent 1 honor to resolve this ability twice.",
+    "text": "<b>Action:</b> During a [conflict-political] conflict - your opponent reveals a random card from his or her hand and puts it on top of his or her conflict deck. If you control a participating <em>Courtier</em> character, you may give your opponent 1 honor to resolve this ability twice.",
     "traits": [],
     "type": "event",
     "unique": false

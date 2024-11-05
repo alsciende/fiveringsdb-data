@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, choose a character that has lost a duel during this conflict - bow that character. You may spend 1 fate to dishonor that character.",
+    "text": "<b>Action:</b> During a conflict, choose a character that has lost a duel during this conflict - bow that character. You may spend 1 fate to dishonor that character.",
     "traits": [],
     "type": "event",
     "unique": false

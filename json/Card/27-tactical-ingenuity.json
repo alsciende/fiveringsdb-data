@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a <em>Commander<\/em> character.\nAttached character gains: \"<b>Action:<\/b> During a conflict in which this character is participating - search the top 4 cards of your conflict deck for an event, reveal it, and add it to your hand.\"",
+    "text": "Attach to a <em>Commander</em> character.\nAttached character gains: \"<b>Action:</b> During a conflict in which this character is participating - search the top 4 cards of your conflict deck for an event, reveal it, and add it to your hand.\"",
     "traits": [
         "condition"
     ],

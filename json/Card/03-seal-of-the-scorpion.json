@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attached character gains the [clan-scorpion] clan symbol and the <em>Shinobi<\/em> trait.",
+    "text": "Attached character gains the [clan-scorpion] clan symbol and the <em>Shinobi</em> trait.",
     "traits": [
         "item",
         "seal"

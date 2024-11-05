@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Each player draws 2 cards. Then, each player discards 2 cards from his or her hand.\n<i>Errata from RRG v1.7<\/i>",
+    "text": "<b>Action:</b> Each player draws 2 cards. Then, each player discards 2 cards from his or her hand.\n<i>Errata from RRG v1.7</i>",
     "traits": [
         "spell",
         "earth"

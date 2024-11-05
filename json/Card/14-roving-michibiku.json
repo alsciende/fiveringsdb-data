@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After this character wins a conflict – take a ring from the defending player's claimed ring pool.",
+    "text": "<b>Reaction:</b> After this character wins a conflict – take a ring from the defending player's claimed ring pool.",
     "traits": [
         "monk",
         "scholar"

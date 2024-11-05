@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict in which this character is participating - each participating character gets -X[conflict-military] until the end of the conflict, where X is that character's printed [conflict-political] skill.",
+    "text": "<b>Action:</b> During a conflict in which this character is participating - each participating character gets -X[conflict-military] until the end of the conflict, where X is that character's printed [conflict-political] skill.",
     "traits": [
         "bushi",
         "berserker"

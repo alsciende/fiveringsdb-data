@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a [conflict-military] conflict, choose a character in one of your provinces – put that character into play in the conflict.",
+    "text": "<b>Action:</b> During a [conflict-military] conflict, choose a character in one of your provinces – put that character into play in the conflict.",
     "traits": [],
     "type": "event",
     "unique": false

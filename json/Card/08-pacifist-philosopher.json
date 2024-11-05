@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After a player passes on declaring a conflict - gain 1 fate. (Limit twice per round.)",
+    "text": "<b>Reaction:</b> After a player passes on declaring a conflict - gain 1 fate. (Limit twice per round.)",
     "traits": [
         "courtier"
     ],

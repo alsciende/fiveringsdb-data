@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a unique character you control. Limited. Restricted.\n<b>Action:<\/b> During a [conflict-military] conflict in which attached character is not participating, choose a participating character - bow that character and move attached character to the conflict.",
+    "text": "Attach to a unique character you control. Limited. Restricted.\n<b>Action:</b> During a [conflict-military] conflict in which attached character is not participating, choose a participating character - bow that character and move attached character to the conflict.",
     "traits": [
         "gaijin",
         "weapon"

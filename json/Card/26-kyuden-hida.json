@@ -22,7 +22,7 @@
     "side": "province",
     "strength": null,
     "strength_bonus": "+2",
-    "text": "<b>Action:<\/b> During the dynasty phase, bow this stronghold - look at the top 3 cards of your dynasty deck. You may play a character from among those cards as if it were in your provinces. Discard the rest.",
+    "text": "<b>Action:</b> During the dynasty phase, bow this stronghold - look at the top 3 cards of your dynasty deck. You may play a character from among those cards as if it were in your provinces. Discard the rest.",
     "traits": [
         "castle"
     ],

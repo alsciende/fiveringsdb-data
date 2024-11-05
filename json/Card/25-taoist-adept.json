@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, initiate a [conflict-military] duel - resolve the duel. The controller of the duel's winner may place 1 fate on an unclaimed ring.",
+    "text": "<b>Action:</b> During a conflict, initiate a [conflict-military] duel - resolve the duel. The controller of the duel's winner may place 1 fate on an unclaimed ring.",
     "traits": [
         "bushi",
         "monk",

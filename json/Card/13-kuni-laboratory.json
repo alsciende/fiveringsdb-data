@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+0",
-    "text": "Each character you control gets +1[conflict-military] and +1[conflict-political].\n<b>Forced Reaction:<\/b> After the conflict phase begins – lose 1 honor.",
+    "text": "Each character you control gets +1[conflict-military] and +1[conflict-political].\n<b>Forced Reaction:</b> After the conflict phase begins – lose 1 honor.",
     "traits": [
         "laboratory"
     ],

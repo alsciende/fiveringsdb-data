@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Choose the topmost event in an opponent's conflict discard pile – this character gains each of that event's action abilities until the end of the phase.",
+    "text": "<b>Action:</b> Choose the topmost event in an opponent's conflict discard pile – this character gains each of that event's action abilities until the end of the phase.",
     "traits": [
         "courtier",
         "shugenja",

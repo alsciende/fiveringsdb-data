@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After you claim a ring during a [conflict-military] conflict in which this character is participating – resolve that ring's effect.",
+    "text": "<b>Reaction:</b> After you claim a ring during a [conflict-military] conflict in which this character is participating – resolve that ring's effect.",
     "traits": [
         "bushi",
         "champion"

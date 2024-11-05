@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a [conflict-political] conflict in which you control a participating <em>Courtier<\/em> character - set the bid on your honor dial to 1 and draw cards equal to the difference between your honor bid and that of your opponent. (Max 1 per conflict.)",
+    "text": "<b>Action:</b> During a [conflict-political] conflict in which you control a participating <em>Courtier</em> character - set the bid on your honor dial to 1 and draw cards equal to the difference between your honor bid and that of your opponent. (Max 1 per conflict.)",
     "traits": [],
     "type": "event",
     "unique": false

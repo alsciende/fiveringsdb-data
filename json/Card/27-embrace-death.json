@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After a <em>Bushi<\/em> character you control loses a conflict as the attacker, sacrifice it. Choose a character controlled by your opponent - if that character has no fate on it, discard it. Otherwise, remove 1 fate from it.",
+    "text": "<b>Reaction:</b> After a <em>Bushi</em> character you control loses a conflict as the attacker, sacrifice it. Choose a character controlled by your opponent - if that character has no fate on it, discard it. Otherwise, remove 1 fate from it.",
     "traits": [
         "philosophy"
     ],

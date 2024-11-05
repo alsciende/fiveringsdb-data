@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Keeper<\/em> role only.\n<b>Action:<\/b> If attached character is defending – honor it.",
+    "text": "<em>Keeper</em> role only.\n<b>Action:</b> If attached character is defending – honor it.",
     "traits": [],
     "type": "attachment",
     "unique": false

@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a character you control. Attached character gains the <em>Tattooed<\/em> trait.\nAttached character cannot be chosen as the target of keywords or abilities triggered from characters with an equal or higher printed cost.",
+    "text": "Attach to a character you control. Attached character gains the <em>Tattooed</em> trait.\nAttached character cannot be chosen as the target of keywords or abilities triggered from characters with an equal or higher printed cost.",
     "traits": [
         "tattoo"
     ],

@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a [conflict-military] conflict, choose a participating character you control - move that character home.",
+    "text": "<b>Action:</b> During a [conflict-military] conflict, choose a participating character you control - move that character home.",
     "traits": [],
     "type": "event",
     "unique": false

@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After this character wins a conflict, sacrifice it. Choose a discard pile – shuffle that discard pile into its owner's corresponding deck.",
+    "text": "<b>Reaction:</b> After this character wins a conflict, sacrifice it. Choose a discard pile – shuffle that discard pile into its owner's corresponding deck.",
     "traits": [
         "goblin",
         "shadowlands"

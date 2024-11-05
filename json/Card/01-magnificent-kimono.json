@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attached character gains pride. <i>(After this character wins a conflict, honor it. After this character loses a conflict, dishonor it.)<\/i>",
+    "text": "Attached character gains pride. <i>(After this character wins a conflict, honor it. After this character loses a conflict, dishonor it.)</i>",
     "traits": [
         "item"
     ],

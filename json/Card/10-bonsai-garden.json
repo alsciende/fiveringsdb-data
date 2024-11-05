@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+0",
-    "text": "<b>Action:<\/b> During an [element-air] conflict – gain 1 honor.",
+    "text": "<b>Action:</b> During an [element-air] conflict – gain 1 honor.",
     "traits": [
         "garden"
     ],

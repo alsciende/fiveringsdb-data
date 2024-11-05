@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During the conflict phase, dishonor a <i>(friendly)<\/i> character and choose a province – look at that province if it is facedown. You may shuffle a faceup card in that province into its owner’s dynasty deck.",
+    "text": "<b>Action:</b> During the conflict phase, dishonor a <i>(friendly)</i> character and choose a province – look at that province if it is facedown. You may shuffle a faceup card in that province into its owner’s dynasty deck.",
     "traits": [],
     "type": "event",
     "unique": false

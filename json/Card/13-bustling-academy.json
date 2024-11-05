@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+1",
-    "text": "<b>Action:<\/b> If you control a <em>Scholar<\/em> character – discard a card in a province and refill it faceup.",
+    "text": "<b>Action:</b> If you control a <em>Scholar</em> character – discard a card in a province and refill it faceup.",
     "traits": [
         "academy"
     ],

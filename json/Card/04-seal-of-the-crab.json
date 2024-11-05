@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attached character gains the [clan-crab] clan symbol and the <em>Berserker<\/em> trait.",
+    "text": "Attached character gains the [clan-crab] clan symbol and the <em>Berserker</em> trait.",
     "traits": [
         "item",
         "seal"

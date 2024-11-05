@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Choose a facedown card in one of your provinces – turn that card faceup.",
+    "text": "<b>Action:</b> Choose a facedown card in one of your provinces – turn that card faceup.",
     "traits": [
         "bushi",
         "scout"

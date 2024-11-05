@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After an opponent's province is revealed during a conflict in which attached character is participating - look at the top 3 cards of one of your decks.  You may put any number of those cards on the bottom of that deck and the rest on top in any order.",
+    "text": "<b>Reaction:</b> After an opponent's province is revealed during a conflict in which attached character is participating - look at the top 3 cards of one of your decks.  You may put any number of those cards on the bottom of that deck and the rest on top in any order.",
     "traits": [
         "gaijin",
         "item"

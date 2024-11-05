@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After this character wins a conflict, choose up to 3 cards in a player's discard pile - remove them from the game.",
+    "text": "<b>Reaction:</b> After this character wins a conflict, choose up to 3 cards in a player's discard pile - remove them from the game.",
     "traits": [
         "courtier",
         "imperial"

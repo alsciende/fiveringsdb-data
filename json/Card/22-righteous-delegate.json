@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> While this character is participating in a conflict -  until the end of the conflict, each participating non-<em>Bushi<\/em> character gets +1[conflict-military] and +1[conflict-political] and each participating <em>Bushi<\/em> character gets -1[conflict-military] and -1[conflict-political].",
+    "text": "<b>Action:</b> While this character is participating in a conflict -  until the end of the conflict, each participating non-<em>Bushi</em> character gets +1[conflict-military] and +1[conflict-political] and each participating <em>Bushi</em> character gets -1[conflict-military] and -1[conflict-political].",
     "traits": [
         "courtier"
     ],

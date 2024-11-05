@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, choose a participating <em>Bushi<\/em> character - honor that character. At the end of the conflict, discard any status tokens on it.",
+    "text": "<b>Action:</b> During a conflict, choose a participating <em>Bushi</em> character - honor that character. At the end of the conflict, discard any status tokens on it.",
     "traits": [],
     "type": "event",
     "unique": false

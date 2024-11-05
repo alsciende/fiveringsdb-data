@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "The defending player chooses the element <i>(but not the type)<\/i> during each conflict declared against him or her. This choice is made before conflict type, attacking characters, and the attacked province are chosen.",
+    "text": "The defending player chooses the element <i>(but not the type)</i> during each conflict declared against him or her. This choice is made before conflict type, attacking characters, and the attacked province are chosen.",
     "traits": [
         "monk",
         "heretic"

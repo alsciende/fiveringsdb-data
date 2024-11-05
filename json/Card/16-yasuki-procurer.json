@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Dishonor this character - reduce the cost of the next attachment or character you play this phase by 1.",
+    "text": "<b>Action:</b> Dishonor this character - reduce the cost of the next attachment or character you play this phase by 1.",
     "traits": [
         "courtier"
     ],

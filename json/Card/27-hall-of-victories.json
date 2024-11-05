@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+1",
-    "text": "<b>Forced Reaction:<\/b> After a player wins a conflict - that player gains 1 honor. (Unlimited.)",
+    "text": "<b>Forced Reaction:</b> After a player wins a conflict - that player gains 1 honor. (Unlimited.)",
     "traits": [],
     "type": "holding",
     "unique": false

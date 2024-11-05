@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action: <\/b>While attached character is attacking, lose 1 honor - reduce the attacked province's province strength by 1 until the end of the conflict (to a minimum of 0).  (Unlimited.)",
+    "text": "<b>Action: </b>While attached character is attacking, lose 1 honor - reduce the attacked province's province strength by 1 until the end of the conflict (to a minimum of 0).  (Unlimited.)",
     "traits": [
         "item",
         "meishodo"

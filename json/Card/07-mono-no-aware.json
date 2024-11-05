@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Remove 1 fate from each character. Draw 1 card. (Max 1 per round.)",
+    "text": "<b>Action:</b> Remove 1 fate from each character. Draw 1 card. (Max 1 per round.)",
     "traits": [],
     "type": "event",
     "unique": false

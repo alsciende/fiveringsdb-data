@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict in which this character is participating, choose a [clan-unicorn] character and a non-[clan-unicorn] character controlled by the same player - bow one of those characters. Then, ready the other.",
+    "text": "<b>Action:</b> During a conflict in which this character is participating, choose a [clan-unicorn] character and a non-[clan-unicorn] character controlled by the same player - bow one of those characters. Then, ready the other.",
     "traits": [
         "courtier",
         "cavalry"

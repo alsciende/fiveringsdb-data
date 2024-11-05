@@ -22,7 +22,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a unique [clan-crane] character you control. Ancestral. Restricted.\nIf attached character has the <em>Champion<\/em> trait, it gains \"<b>Action:<\/b> During a conflict in which this character is participating – switch the conflict type.\"",
+    "text": "Attach to a unique [clan-crane] character you control. Ancestral. Restricted.\nIf attached character has the <em>Champion</em> trait, it gains \"<b>Action:</b> During a conflict in which this character is participating – switch the conflict type.\"",
     "traits": [
         "weapon"
     ],

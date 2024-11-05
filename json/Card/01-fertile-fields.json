@@ -28,7 +28,7 @@
     "side": "province",
     "strength": "4",
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict at this province – draw 1 card.",
+    "text": "<b>Action:</b> During a conflict at this province – draw 1 card.",
     "traits": [],
     "type": "province",
     "unique": false

@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Choose a character you control - you may discard any number of attachments and\/or status tokens from it. If that character is a <em>Commander<\/em>, honor it.",
+    "text": "<b>Action:</b> Choose a character you control - you may discard any number of attachments and/or status tokens from it. If that character is a <em>Commander</em>, honor it.",
     "traits": [
         "tactic"
     ],

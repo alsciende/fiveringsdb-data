@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict in which this character is attacking, spend 1 fate to an unclaimed ring - take 3 actions. (Max 1 per conflict.)",
+    "text": "<b>Action:</b> During a conflict in which this character is attacking, spend 1 fate to an unclaimed ring - take 3 actions. (Max 1 per conflict.)",
     "traits": [
         "monk",
         "tattooed"

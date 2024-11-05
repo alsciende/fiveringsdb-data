@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Restricted. <i>(No more than two restricted attachments per character.)<\/i>",
+    "text": "Restricted. <i>(No more than two restricted attachments per character.)</i>",
     "traits": [
         "weapon"
     ],

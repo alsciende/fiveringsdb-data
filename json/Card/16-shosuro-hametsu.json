@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Lose 1 honor – search your conflict deck for a <em>Poison<\/em> card, reveal it, and add it to your hand. Shuffle.",
+    "text": "<b>Action:</b> Lose 1 honor – search your conflict deck for a <em>Poison</em> card, reveal it, and add it to your hand. Shuffle.",
     "traits": [
         "daimyo",
         "shinobi"

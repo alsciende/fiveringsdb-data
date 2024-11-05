@@ -39,6 +39,14 @@ class EncodeUtf8Command extends Command
             $this->putFileJsonContent($filename, $data);
         }
 
+        $finder->files()->in('./json/PackCard/');
+
+        foreach ($finder as $file) {
+            $filename = $file->getRealPath();
+            $data = $this->getFileJsonContent($filename);
+            $this->putFileJsonContent($filename, $data);
+        }
+
         return Command::SUCCESS;
     }
 }

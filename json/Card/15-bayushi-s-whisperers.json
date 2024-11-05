@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "No attachments.\n<b>Action:<\/b> During a conflict – look at an opponent’s hand, then name a card. That player cannot play copies of the named card this phase.",
+    "text": "No attachments.\n<b>Action:</b> During a conflict – look at an opponent’s hand, then name a card. That player cannot play copies of the named card this phase.",
     "traits": [
         "informant"
     ],

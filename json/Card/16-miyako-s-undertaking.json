@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Play only if you have 6 or fewer honor.\n<b>Action: <\/b>During a conflict, choose a non-unique character in your opponent's dynasty discard pile and a participating character you control - until the end of the conflict, your character becomes a copy of the character in your opponent's discard pile.",
+    "text": "Play only if you have 6 or fewer honor.\n<b>Action: </b>During a conflict, choose a non-unique character in your opponent's dynasty discard pile and a participating character you control - until the end of the conflict, your character becomes a copy of the character in your opponent's discard pile.",
     "traits": [],
     "type": "event",
     "unique": false

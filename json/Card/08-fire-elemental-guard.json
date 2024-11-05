@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "No attachments except <em>Spell<\/em>.\n<b>Action:<\/b> During a conflict in which you have played 3 or more <em>Spell<\/em> cards, choose an attachment – discard that attachment.",
+    "text": "No attachments except <em>Spell</em>.\n<b>Action:</b> During a conflict in which you have played 3 or more <em>Spell</em> cards, choose an attachment – discard that attachment.",
     "traits": [
         "shugenja",
         "fire",

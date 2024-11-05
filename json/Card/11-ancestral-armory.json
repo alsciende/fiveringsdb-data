@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+2",
-    "text": "<b>Action:<\/b> Sacrifice this holding, choose a <em>Weapon<\/em> attachment in your discard pile – return that attachment to your hand.",
+    "text": "<b>Action:</b> Sacrifice this holding, choose a <em>Weapon</em> attachment in your discard pile – return that attachment to your hand.",
     "traits": [],
     "type": "holding",
     "unique": false

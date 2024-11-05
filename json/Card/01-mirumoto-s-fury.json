@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, choose an attacking character with glory X or lower – bow that character. X is equal to the number of unrevealed provinces you control.",
+    "text": "<b>Action:</b> During a conflict, choose an attacking character with glory X or lower – bow that character. X is equal to the number of unrevealed provinces you control.",
     "traits": [],
     "type": "event",
     "unique": false

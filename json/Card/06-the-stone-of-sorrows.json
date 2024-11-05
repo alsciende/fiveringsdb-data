@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Seeker<\/em> role only.\nWhile attached character is ready, opponents cannot remove or gain fate from rings.",
+    "text": "<em>Seeker</em> role only.\nWhile attached character is ready, opponents cannot remove or gain fate from rings.",
     "traits": [
         "item"
     ],

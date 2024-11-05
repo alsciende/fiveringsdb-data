@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Cavalry<\/em> character only.\nX is equal to the number of unclaimed rings.",
+    "text": "<em>Cavalry</em> character only.\nX is equal to the number of unclaimed rings.",
     "traits": [
         "condition"
     ],

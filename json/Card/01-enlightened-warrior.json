@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After an opponent selects a ring with fate on it – place 1 fate on this character.",
+    "text": "<b>Reaction:</b> After an opponent selects a ring with fate on it – place 1 fate on this character.",
     "traits": [
         "bushi"
     ],

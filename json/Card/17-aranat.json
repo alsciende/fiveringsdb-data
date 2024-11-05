@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "No attachments.\n<b>Reaction:<\/b> After you play this character, choose an opponent - that player may reveal any number of his or her facedown non-stronghold provinces. Then, place 1 fate on this character for each facedown province that player controls <i>(including their stronghold province)<\/i>.",
+    "text": "No attachments.\n<b>Reaction:</b> After you play this character, choose an opponent - that player may reveal any number of his or her facedown non-stronghold provinces. Then, place 1 fate on this character for each facedown province that player controls <i>(including their stronghold province)</i>.",
     "traits": [
         "creature",
         "air",

@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After you break a province during a [conflict-military] conflict – honor each character you control.",
+    "text": "<b>Reaction:</b> After you break a province during a [conflict-military] conflict – honor each character you control.",
     "traits": [],
     "type": "event",
     "unique": false

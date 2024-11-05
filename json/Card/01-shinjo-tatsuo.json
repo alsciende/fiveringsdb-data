@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, choose this character and up to 1 other character you control – move those characters to the conflict.",
+    "text": "<b>Action:</b> During a conflict, choose this character and up to 1 other character you control – move those characters to the conflict.",
     "traits": [
         "bushi",
         "cavalry",

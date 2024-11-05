@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, initiate a [conflict-military] duel - resolve the duel, giving each dueling character +1[conflict-military] for each other participating character controlled by the same player until the end of the duel. Move the duel's loser home.",
+    "text": "<b>Action:</b> During a conflict, initiate a [conflict-military] duel - resolve the duel, giving each dueling character +1[conflict-military] for each other participating character controlled by the same player until the end of the duel. Move the duel's loser home.",
     "traits": [],
     "type": "event",
     "unique": false

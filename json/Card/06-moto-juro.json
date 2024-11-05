@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Select one – move this character into a conflict or move this character home from a conflict. (Limit twice per round.)",
+    "text": "<b>Action:</b> Select one – move this character into a conflict or move this character home from a conflict. (Limit twice per round.)",
     "traits": [
         "bushi",
         "cavalry"

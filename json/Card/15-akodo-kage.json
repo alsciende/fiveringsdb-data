@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After honor dials are revealed for an honor bid, if your bid is lower than an opponent's and you are more honorable than that opponent – set that opponent's honor dial to be equal to yours.",
+    "text": "<b>Reaction:</b> After honor dials are revealed for an honor bid, if your bid is lower than an opponent's and you are more honorable than that opponent – set that opponent's honor dial to be equal to yours.",
     "traits": [
         "courtier"
     ],

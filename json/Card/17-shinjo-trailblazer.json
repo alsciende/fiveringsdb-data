@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After an opponent's province is revealed during a conflict - this character gets +2[conflict-military] and +2[conflict-political] until the end of the conflict.",
+    "text": "<b>Reaction:</b> After an opponent's province is revealed during a conflict - this character gets +2[conflict-military] and +2[conflict-political] until the end of the conflict.",
     "traits": [
         "bushi",
         "cavalry"

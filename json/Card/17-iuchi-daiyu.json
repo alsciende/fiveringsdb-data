@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, choose a character - that character gets +1[conflict-military] until the end of the conflict for each faceup non-stronghold province your opponent controls.",
+    "text": "<b>Action:</b> During a conflict, choose a character - that character gets +1[conflict-military] until the end of the conflict for each faceup non-stronghold province your opponent controls.",
     "traits": [
         "shugenja",
         "water",

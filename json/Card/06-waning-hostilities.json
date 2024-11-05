@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After the conflict phase begins – each player has only one opportunity to declare a conflict this phase.",
+    "text": "<b>Reaction:</b> After the conflict phase begins – each player has only one opportunity to declare a conflict this phase.",
     "traits": [],
     "type": "event",
     "unique": false

@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Interrupt:<\/b> When a glory count would begin, if you are more honorable than your opponent - ready this character.",
+    "text": "<b>Interrupt:</b> When a glory count would begin, if you are more honorable than your opponent - ready this character.",
     "traits": [
         "courtier",
         "storyteller"

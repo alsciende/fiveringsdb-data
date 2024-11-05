@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "Disguised <em>Courtier<\/em>.\n<b>Reaction:<\/b> After this character wins a conflict - remove 1 fate from each other participating character.",
+    "text": "Disguised <em>Courtier</em>.\n<b>Reaction:</b> After this character wins a conflict - remove 1 fate from each other participating character.",
     "traits": [
         "bushi",
         "yojimbo"

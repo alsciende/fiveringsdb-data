@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "This character does not bow as the result of conflict resolution during conflicts in which it is attacking with 2 or more other <em>Bushi<\/em> characters.",
+    "text": "This character does not bow as the result of conflict resolution during conflicts in which it is attacking with 2 or more other <em>Bushi</em> characters.",
     "traits": [
         "bushi"
     ],

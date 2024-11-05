@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After this character wins a [conflict-military] conflict, your opponent chooses 2 cards in his or her hand - reveal those cards. You choose and discard one of them.",
+    "text": "<b>Reaction:</b> After this character wins a [conflict-military] conflict, your opponent chooses 2 cards in his or her hand - reveal those cards. You choose and discard one of them.",
     "traits": [
         "bushi",
         "shinobi"

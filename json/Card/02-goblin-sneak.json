@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After this character enters play – place 1 fate from an opponent's fate pool on it.",
+    "text": "<b>Reaction:</b> After this character enters play – place 1 fate from an opponent's fate pool on it.",
     "traits": [
         "goblin",
         "shadowlands"

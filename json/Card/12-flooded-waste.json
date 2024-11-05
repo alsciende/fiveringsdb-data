@@ -22,7 +22,7 @@
     "side": "province",
     "strength": "2",
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After this province is revealed – bow each attacking character.",
+    "text": "<b>Reaction:</b> After this province is revealed – bow each attacking character.",
     "traits": [],
     "type": "province",
     "unique": false

@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict in which this character is participating - each event you play during this conflict cannot be canceled.",
+    "text": "<b>Action:</b> During a conflict in which this character is participating - each event you play during this conflict cannot be canceled.",
     "traits": [
         "courtier"
     ],

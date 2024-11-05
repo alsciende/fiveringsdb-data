@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+0",
-    "text": "Each <em>Imperial<\/em> character you control gets +1[conflict-military] and +1[conflict-political].",
+    "text": "Each <em>Imperial</em> character you control gets +1[conflict-military] and +1[conflict-political].",
     "traits": [
         "imperial"
     ],

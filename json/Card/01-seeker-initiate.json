@@ -28,7 +28,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Seeker<\/em> role only.\n<b>Reaction:<\/b> After you claim a ring that matches the element of your role – search the top 5 cards of your conflict deck for a card and add it to your hand. Shuffle.",
+    "text": "<em>Seeker</em> role only.\n<b>Reaction:</b> After you claim a ring that matches the element of your role – search the top 5 cards of your conflict deck for a card and add it to your hand. Shuffle.",
     "traits": [
         "monk"
     ],

@@ -22,7 +22,7 @@
     "side": "province",
     "strength": null,
     "strength_bonus": "+1",
-    "text": "<b>Reaction:<\/b> After you collect fate during the dynasty phase, choose an opponent and bow this stronghold - gain 1 fate for each faceup non-stronghold province controlled by that player.",
+    "text": "<b>Reaction:</b> After you collect fate during the dynasty phase, choose an opponent and bow this stronghold - gain 1 fate for each faceup non-stronghold province controlled by that player.",
     "traits": [
         "castle"
     ],

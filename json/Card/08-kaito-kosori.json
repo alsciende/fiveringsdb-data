@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "During each [element-air] conflict, if you control at least 1 participating character and if this character is in your home area and ready, it contributes its skill to your side.\n<i>Errata from RRG v1.3<\/i>",
+    "text": "During each [element-air] conflict, if you control at least 1 participating character and if this character is in your home area and ready, it contributes its skill to your side.\n<i>Errata from RRG v1.3</i>",
     "traits": [
         "monk",
         "shugenja",

@@ -28,7 +28,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Water<\/em> role only.\n<b>Interrupt:<\/b> When you play an event, lose 1 honor – reduce the cost of that event by 1.",
+    "text": "<em>Water</em> role only.\n<b>Interrupt:</b> When you play an event, lose 1 honor – reduce the cost of that event by 1.",
     "traits": [
         "shugenja",
         "water",

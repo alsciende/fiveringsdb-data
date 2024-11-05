@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, sacrifice this character. Choose a non-<em>Shinobi<\/em> character with printed cost 3 or lower in an opponent's discard pile – put that character into play in the conflict under your control.",
+    "text": "<b>Action:</b> During a conflict, sacrifice this character. Choose a non-<em>Shinobi</em> character with printed cost 3 or lower in an opponent's discard pile – put that character into play in the conflict under your control.",
     "traits": [
         "courtier",
         "shinobi"

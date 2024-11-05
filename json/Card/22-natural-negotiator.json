@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a <em>Courtier<\/em> character you control.\n<b>Action:<\/b> During a conflict, give your opponent 1 honor - switch attached character's base [conflict-military] and [conflict-political] skills until the end of the conflict.",
+    "text": "Attach to a <em>Courtier</em> character you control.\n<b>Action:</b> During a conflict, give your opponent 1 honor - switch attached character's base [conflict-military] and [conflict-political] skills until the end of the conflict.",
     "traits": [
         "technique"
     ],

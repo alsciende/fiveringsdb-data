@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Interrupt:<\/b> When attached character is sacrificed - return this card to your hand.",
+    "text": "<b>Interrupt:</b> When attached character is sacrificed - return this card to your hand.",
     "traits": [
         "weapon"
     ],

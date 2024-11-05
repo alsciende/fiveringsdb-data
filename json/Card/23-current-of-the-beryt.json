@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a <em>Shugenja<\/em> character you control.\n<b>Action:<\/b> During a conflict – take two actions.",
+    "text": "Attach to a <em>Shugenja</em> character you control.\n<b>Action:</b> During a conflict – take two actions.",
     "traits": [
         "spell",
         "water",

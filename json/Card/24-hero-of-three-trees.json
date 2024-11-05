@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict in which this character is participating, if you have fewer cards in your hand than your opponent, select one - either gain 1 honor, or the attacked province gets -1 strength until the end of the conflict (to a minimum of 0).",
+    "text": "<b>Action:</b> During a conflict in which this character is participating, if you have fewer cards in your hand than your opponent, select one - either gain 1 honor, or the attacked province gets -1 strength until the end of the conflict (to a minimum of 0).",
     "traits": [
         "bushi"
     ],

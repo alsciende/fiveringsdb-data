@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After you break a province during a [conflict-military] conflict in which this character is participating, your opponent chooses a character he or she controls – discard that character.",
+    "text": "<b>Reaction:</b> After you break a province during a [conflict-military] conflict in which this character is participating, your opponent chooses a character he or she controls – discard that character.",
     "traits": [
         "bushi",
         "cavalry",

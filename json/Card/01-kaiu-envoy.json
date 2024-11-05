@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "Courtesy. <i>(When this character leaves play, gain 1 fate.)<\/i>\nSincerity. <i>(When this character leaves play, draw 1 card.)<\/i>",
+    "text": "Courtesy. <i>(When this character leaves play, gain 1 fate.)</i>\nSincerity. <i>(When this character leaves play, draw 1 card.)</i>",
     "traits": [
         "bushi"
     ],

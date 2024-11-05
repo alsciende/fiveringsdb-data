@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, initiate a [conflict-military] duel against up to two characters your opponent controls - resolve the duel. For each character that loses the duel, its controller must either dishonor or bow it.",
+    "text": "<b>Action:</b> During a conflict, initiate a [conflict-military] duel against up to two characters your opponent controls - resolve the duel. For each character that loses the duel, its controller must either dishonor or bow it.",
     "traits": [
         "bushi",
         "duelist"

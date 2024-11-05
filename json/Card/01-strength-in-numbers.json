@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> While you are the attacking player, choose a defending character with glory X or lower – move that character home. X is equal to the number of attacking characters.",
+    "text": "<b>Action:</b> While you are the attacking player, choose a defending character with glory X or lower – move that character home. X is equal to the number of attacking characters.",
     "traits": [],
     "type": "event",
     "unique": false

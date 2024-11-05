@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After you break a province during a [conflict-military] conflict – place 1 fate on each participating <em>Bushi<\/em> character you control. (Max 1 per conflict.)",
+    "text": "<b>Reaction:</b> After you break a province during a [conflict-military] conflict – place 1 fate on each participating <em>Bushi</em> character you control. (Max 1 per conflict.)",
     "traits": [],
     "type": "event",
     "unique": false

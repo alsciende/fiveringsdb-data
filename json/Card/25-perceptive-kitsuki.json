@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict in which this character is participating, return a ring in your claimed ring pool to the unclaimed ring pool - look at your opponent's hand.",
+    "text": "<b>Action:</b> During a conflict in which this character is participating, return a ring in your claimed ring pool to the unclaimed ring pool - look at your opponent's hand.",
     "traits": [
         "courtier"
     ],

@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, initiate a [conflict-military] duel - resolve the duel, ignoring the skill modifiers of attachments until the end of the duel. Bow the duel's loser and dishonor the duel's winner.",
+    "text": "<b>Action:</b> During a conflict, initiate a [conflict-military] duel - resolve the duel, ignoring the skill modifiers of attachments until the end of the duel. Bow the duel's loser and dishonor the duel's winner.",
     "traits": [
         "bushi",
         "duelist"

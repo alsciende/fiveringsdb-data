@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Interrupt:<\/b> When this character leaves play, choose up to one character controlled by each player - discard each status token from each of those characters.",
+    "text": "<b>Interrupt:</b> When this character leaves play, choose up to one character controlled by each player - discard each status token from each of those characters.",
     "traits": [
         "shugenja",
         "earth"

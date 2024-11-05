@@ -28,7 +28,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During the conflict phase, sacrifice this character. Choose an attachment – discard that attachment.",
+    "text": "<b>Action:</b> During the conflict phase, sacrifice this character. Choose an attachment – discard that attachment.",
     "traits": [
         "shugenja",
         "earth",

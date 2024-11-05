@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attached character gains the [clan-dragon] clan symbol and the <em>Monk<\/em> trait.",
+    "text": "Attached character gains the [clan-dragon] clan symbol and the <em>Monk</em> trait.",
     "traits": [
         "item",
         "seal"

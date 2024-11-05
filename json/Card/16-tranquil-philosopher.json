@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Choose an unclaimed ring - move 1 fate from that ring to another unclaimed ring. Then, gain 1 honor.",
+    "text": "<b>Action:</b> Choose an unclaimed ring - move 1 fate from that ring to another unclaimed ring. Then, gain 1 honor.",
     "traits": [
         "monk"
     ],

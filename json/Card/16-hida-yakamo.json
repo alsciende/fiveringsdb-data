@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "While you are less honorable than an opponent, this character does not bow as the result of conflict resolution in [conflict-military] conflicts and cannot lose duels. <i>(This character is not the duel's loser, but the opponent's character is still the duel's winner.)<\/i>",
+    "text": "While you are less honorable than an opponent, this character does not bow as the result of conflict resolution in [conflict-military] conflicts and cannot lose duels. <i>(This character is not the duel's loser, but the opponent's character is still the duel's winner.)</i>",
     "traits": [
         "bushi",
         "berserker",

@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Earth<\/em> role only.\n<b>Reaction:<\/b> After a character an opponent controls is readied - bow that character.",
+    "text": "<em>Earth</em> role only.\n<b>Reaction:</b> After a character an opponent controls is readied - bow that character.",
     "traits": [
         "spell",
         "earth"

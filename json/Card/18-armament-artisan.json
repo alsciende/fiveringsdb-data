@@ -28,7 +28,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After another character you control is honored - honor this character.",
+    "text": "<b>Reaction:</b> After another character you control is honored - honor this character.",
     "traits": [
         "bushi",
         "mantis-clan"

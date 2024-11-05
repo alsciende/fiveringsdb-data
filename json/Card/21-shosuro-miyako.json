@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Disguised non-[clan-scorpion] character.\nThis character can only be played by the disguised keyword.\n<b>Reaction:<\/b> After you play this character, choose a non-unique character an opponent controls - dishonor that character.",
+    "text": "Disguised non-[clan-scorpion] character.\nThis character can only be played by the disguised keyword.\n<b>Reaction:</b> After you play this character, choose a non-unique character an opponent controls - dishonor that character.",
     "traits": [
         "bushi",
         "shinobi"

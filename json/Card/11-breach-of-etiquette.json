@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a [conflict-political] conflict – until the end of the conflict, each time a player triggers an ability on a non-<em>Courtier<\/em> character, he or she loses 1 honor (Max 1 per conflict.)",
+    "text": "<b>Action:</b> During a [conflict-political] conflict – until the end of the conflict, each time a player triggers an ability on a non-<em>Courtier</em> character, he or she loses 1 honor (Max 1 per conflict.)",
     "traits": [],
     "type": "event",
     "unique": false

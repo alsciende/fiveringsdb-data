@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After a character is moved to the conflict in which this character is participating, choose a participating character - honor that character.",
+    "text": "<b>Reaction:</b> After a character is moved to the conflict in which this character is participating, choose a participating character - honor that character.",
     "traits": [
         "bushi",
         "scout"

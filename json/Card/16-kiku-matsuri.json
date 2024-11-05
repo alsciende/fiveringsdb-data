@@ -28,7 +28,7 @@
     "side": "province",
     "strength": "4",
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict at this province, choose a participating character controlled by each player - honor each of those characters.",
+    "text": "<b>Action:</b> During a conflict at this province, choose a participating character controlled by each player - honor each of those characters.",
     "traits": [
         "festival"
     ],

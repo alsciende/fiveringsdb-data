@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict - increase the cost for each player to play cards by 1 until the end of the conflict.",
+    "text": "<b>Action:</b> During a conflict - increase the cost for each player to play cards by 1 until the end of the conflict.",
     "traits": [
         "shugenja",
         "air"

@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Keeper<\/em> role only.\n<b>Interrupt:<\/b> When the effects of an opponent's event would initiate during a conflict, initate a [conflict-military] duel against a character your opponent controls of his or her choice - resolve the duel. If your character is the duel's winner, cancel those effects.",
+    "text": "<em>Keeper</em> role only.\n<b>Interrupt:</b> When the effects of an opponent's event would initiate during a conflict, initate a [conflict-military] duel against a character your opponent controls of his or her choice - resolve the duel. If your character is the duel's winner, cancel those effects.",
     "traits": [],
     "type": "event",
     "unique": false

@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> While this character is participating in a conflict, bow a <i>(friendly)<\/i> attachment on it. Choose a participating character without attachments – bow that character.",
+    "text": "<b>Action:</b> While this character is participating in a conflict, bow a <i>(friendly)</i> attachment on it. Choose a participating character without attachments – bow that character.",
     "traits": [
         "bushi"
     ],

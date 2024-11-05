@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a <em>Bushi<\/em> character. Restricted.\n<b>Reaction:<\/b> After attached character wins a [conflict-military] conflict, remove 1 fate from attached character. You opponent chooses a participating character he or she controls - discard that character.",
+    "text": "Attach to a <em>Bushi</em> character. Restricted.\n<b>Reaction:</b> After attached character wins a [conflict-military] conflict, remove 1 fate from attached character. You opponent chooses a participating character he or she controls - discard that character.",
     "traits": [
         "weapon"
     ],

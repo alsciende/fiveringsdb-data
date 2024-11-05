@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action: <\/b>During a conflict in which you control a participating honored <b>Courtier<\/b> character, choose an attacking character - move that character home.",
+    "text": "<b>Action: </b>During a conflict in which you control a participating honored <b>Courtier</b> character, choose an attacking character - move that character home.",
     "traits": [],
     "type": "event",
     "unique": false

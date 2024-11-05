@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "No attachments except <em>Monk<\/em> or <em>Tattoo<\/em>.\n<b>Action:<\/b> Detach an attachment from a character you control and turn it into a character. If that card has the printed attachment card type, its [conflict-military] and [conflict-political] skills are equal to its printed [conflict-military] and [conflict-political] modifiers and it has 0 glory.",
+    "text": "No attachments except <em>Monk</em> or <em>Tattoo</em>.\n<b>Action:</b> Detach an attachment from a character you control and turn it into a character. If that card has the printed attachment card type, its [conflict-military] and [conflict-political] skills are equal to its printed [conflict-military] and [conflict-political] modifiers and it has 0 glory.",
     "traits": [
         "monk",
         "creature",

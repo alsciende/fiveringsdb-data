@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "No attachments except <em>Weapon<\/em>.\n<b>Reaction:<\/b> After this character wins a conflict, if you have fewer cards in you hand than your opponent - put a non-unique <em>Bushi<\/em> character with printed cost 2 or less into play from your dynasty discard pile.",
+    "text": "No attachments except <em>Weapon</em>.\n<b>Reaction:</b> After this character wins a conflict, if you have fewer cards in you hand than your opponent - put a non-unique <em>Bushi</em> character with printed cost 2 or less into play from your dynasty discard pile.",
     "traits": [
         "bushi",
         "army"

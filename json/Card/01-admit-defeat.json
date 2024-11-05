@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Choose a character that is defending alone – bow that character.",
+    "text": "<b>Action:</b> Choose a character that is defending alone – bow that character.",
     "traits": [],
     "type": "event",
     "unique": false

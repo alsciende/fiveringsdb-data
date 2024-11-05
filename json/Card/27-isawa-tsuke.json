@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After you honor or dishonor a character by the effect of the [element-fire] ring - each other character with the same printed cost as the chosen character controlled by the same player receives the same ring effect as that character.",
+    "text": "<b>Reaction:</b> After you honor or dishonor a character by the effect of the [element-fire] ring - each other character with the same printed cost as the chosen character controlled by the same player receives the same ring effect as that character.",
     "traits": [
         "shugenja",
         "fire",

@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Choose a holding you control – you may trigger each of that holding's triggered abilities an additional time this round (or specified period).\n<i>Errata from RRG v1.1<\/i>",
+    "text": "<b>Action:</b> Choose a holding you control – you may trigger each of that holding's triggered abilities an additional time this round (or specified period).\n<i>Errata from RRG v1.1</i>",
     "traits": [
         "bushi",
         "engineer"

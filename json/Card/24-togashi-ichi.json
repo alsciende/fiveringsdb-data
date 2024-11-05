@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "Disguised <em>Monk<\/em>.\n<b>Action:<\/b> During a conflict in which this character is attacking, if 10 or more cards have been played during this conflict and if the attacked province is not a stronghold province - break that province.",
+    "text": "Disguised <em>Monk</em>.\n<b>Action:</b> During a conflict in which this character is attacking, if 10 or more cards have been played during this conflict and if the attacked province is not a stronghold province - break that province.",
     "traits": [
         "monk",
         "tattooed"

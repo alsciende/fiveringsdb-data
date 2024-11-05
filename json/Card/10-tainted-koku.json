@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Interrupt:<\/b> When attached character leaves play – move this attachment to another character controlled by the same player.",
+    "text": "<b>Interrupt:</b> When attached character leaves play – move this attachment to another character controlled by the same player.",
     "traits": [
         "poison"
     ],

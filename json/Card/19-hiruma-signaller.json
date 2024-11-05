@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict in which this character is defending, sacrifice this character and choose a character you control - ready that character and move it to the conflict.",
+    "text": "<b>Action:</b> During a conflict in which this character is defending, sacrifice this character and choose a character you control - ready that character and move it to the conflict.",
     "traits": [
         "bushi",
         "scout"

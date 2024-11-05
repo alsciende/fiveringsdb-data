@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "Sincerity. <i>(When this character leaves play, draw 1 card.)<\/i>",
+    "text": "Sincerity. <i>(When this character leaves play, draw 1 card.)</i>",
     "traits": [
         "courtier"
     ],

@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Air<\/em> role only.\nIf attached character is participating in a conflict with 1 or more other characters you control, discard this attachment.\n<b>Reaction:<\/b> After attached character wins a conflict – gain 1 honor.",
+    "text": "<em>Air</em> role only.\nIf attached character is participating in a conflict with 1 or more other characters you control, discard this attachment.\n<b>Reaction:</b> After attached character wins a conflict – gain 1 honor.",
     "traits": [],
     "type": "attachment",
     "unique": false

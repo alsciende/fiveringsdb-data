@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Play only if you control a <em>Shugenja<\/em> character.\n<b>Action:<\/b> During a conflict, choose a participating character - until the end of the conflict, that character gets +3 glory and cannot be chosen as the target of opponent's card abilities.",
+    "text": "Play only if you control a <em>Shugenja</em> character.\n<b>Action:</b> During a conflict, choose a participating character - until the end of the conflict, that character gets +3 glory and cannot be chosen as the target of opponent's card abilities.",
     "traits": [
         "spell",
         "air"

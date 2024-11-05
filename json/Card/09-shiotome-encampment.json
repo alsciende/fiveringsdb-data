@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+0",
-    "text": "<b>Action:<\/b> If you have a [conflict-military] ring in your claimed ring pool, choose a <em>Cavalry<\/em> character – ready that character.",
+    "text": "<b>Action:</b> If you have a [conflict-military] ring in your claimed ring pool, choose a <em>Cavalry</em> character – ready that character.",
     "traits": [
         "battlefield"
     ],

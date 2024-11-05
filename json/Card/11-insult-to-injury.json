@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After a <em>Duelist<\/em> character you control wins a duel – dishonor the losing character.",
+    "text": "<b>Reaction:</b> After a <em>Duelist</em> character you control wins a duel – dishonor the losing character.",
     "traits": [],
     "type": "event",
     "unique": false

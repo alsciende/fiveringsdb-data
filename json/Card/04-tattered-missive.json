@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a <em>Courtier<\/em> character you control.\n<b>Action:<\/b> Bow attached character – search the top 5 cards of your conflict deck for a card, reveal it, and add it to your hand. Shuffle.",
+    "text": "Attach to a <em>Courtier</em> character you control.\n<b>Action:</b> Bow attached character – search the top 5 cards of your conflict deck for a card, reveal it, and add it to your hand. Shuffle.",
     "traits": [
         "item"
     ],

@@ -28,7 +28,7 @@
     "side": "province",
     "strength": "4",
     "strength_bonus": null,
-    "text": "<em>Seeker<\/em> role only.\n<b>Action:<\/b> During a conflict at this province, choose a character you control and select one - either move that character to the conflict or move it home.",
+    "text": "<em>Seeker</em> role only.\n<b>Action:</b> During a conflict at this province, choose a character you control and select one - either move that character to the conflict or move it home.",
     "traits": [],
     "type": "province",
     "unique": false

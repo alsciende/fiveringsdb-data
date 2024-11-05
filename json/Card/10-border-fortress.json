@@ -22,7 +22,7 @@
     "side": "province",
     "strength": "4",
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict at this province, choose a facedown province – reveal that province.",
+    "text": "<b>Action:</b> During a conflict at this province, choose a facedown province – reveal that province.",
     "traits": [
         "fort"
     ],

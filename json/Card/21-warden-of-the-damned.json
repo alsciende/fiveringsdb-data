@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Forced Interrupt:<\/b> When the conflict phase ends - each player must sacrifice a dishonored character, if able.",
+    "text": "<b>Forced Interrupt:</b> When the conflict phase ends - each player must sacrifice a dishonored character, if able.",
     "traits": [
         "monk"
     ],

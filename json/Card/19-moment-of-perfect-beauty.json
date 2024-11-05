@@ -22,7 +22,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, if you control more honored participating characters than your opponent - after your opponent's next action opportunity, resolve the conflict as if both players passed consecutively.",
+    "text": "<b>Action:</b> During a conflict, if you control more honored participating characters than your opponent - after your opponent's next action opportunity, resolve the conflict as if both players passed consecutively.",
     "traits": [
         "philosophy"
     ],

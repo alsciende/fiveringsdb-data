@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After you play this character, choose a non-stronghold province - that province cannot be attacked this round.",
+    "text": "<b>Reaction:</b> After you play this character, choose a non-stronghold province - that province cannot be attacked this round.",
     "traits": [
         "bushi"
     ],

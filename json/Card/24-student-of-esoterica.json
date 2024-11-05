@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "You may spend fate from this character to pay for <em>Spell<\/em> cards.",
+    "text": "You may spend fate from this character to pay for <em>Spell</em> cards.",
     "traits": [
         "shugenja",
         "earth",

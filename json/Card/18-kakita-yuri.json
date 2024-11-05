@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, initiate a [conflict-political] duel against a character your opponent controls of his or her choice - resolve the duel. The controller of the duel's loser cannot declare [conflict-military] conflicts this phase.",
+    "text": "<b>Action:</b> During a conflict, initiate a [conflict-political] duel against a character your opponent controls of his or her choice - resolve the duel. The controller of the duel's loser cannot declare [conflict-military] conflicts this phase.",
     "traits": [
         "courtier",
         "duelist"

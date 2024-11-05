@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After this character wins a conflict, choose a card in a dynasty discard pile - put that card on the bottom of its owner's dynasty deck.",
+    "text": "<b>Reaction:</b> After this character wins a conflict, choose a card in a dynasty discard pile - put that card on the bottom of its owner's dynasty deck.",
     "traits": [
         "bushi"
     ],

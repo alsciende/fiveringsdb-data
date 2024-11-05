@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, if your honor bid is lower than your opponent's, choose a [clan-lion] character you control – move that character to the conflict. Then, honor it.",
+    "text": "<b>Action:</b> During a conflict, if your honor bid is lower than your opponent's, choose a [clan-lion] character you control – move that character to the conflict. Then, honor it.",
     "traits": [],
     "type": "event",
     "unique": false

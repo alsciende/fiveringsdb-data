@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict in which this character is participating - during each player's next action opportunity in this conflict, decrease the cost to play cards by 1.",
+    "text": "<b>Action:</b> During a conflict in which this character is participating - during each player's next action opportunity in this conflict, decrease the cost to play cards by 1.",
     "traits": [
         "courtier"
     ],

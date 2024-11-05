@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attached character gains the [clan-lion] clan symbol and the <em>Commander<\/em> trait.",
+    "text": "Attached character gains the [clan-lion] clan symbol and the <em>Commander</em> trait.",
     "traits": [
         "item",
         "seal"

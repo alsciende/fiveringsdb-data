@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Switch a ring in your claimed ring pool with an unclaimed ring and gain all fate on that ring. <i>(Retain the ring's conflict type.)<\/i>",
+    "text": "<b>Action:</b> Switch a ring in your claimed ring pool with an unclaimed ring and gain all fate on that ring. <i>(Retain the ring's conflict type.)</i>",
     "traits": [
         "spell",
         "void"

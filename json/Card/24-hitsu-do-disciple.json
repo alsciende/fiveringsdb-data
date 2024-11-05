@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a [conflict-military] conflict in which this character is participating, if you have played 3 or more cards during this conflict, choose another participating character - dishonor that character.",
+    "text": "<b>Action:</b> During a [conflict-military] conflict in which this character is participating, if you have played 3 or more cards during this conflict, choose another participating character - dishonor that character.",
     "traits": [
         "monk",
         "tattooed"

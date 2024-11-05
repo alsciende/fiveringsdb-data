@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, choose a <em>Shugenja<\/em> character you control and a <em>Shugenja<\/em> character controlled by an opponent – your character challenges your opponent's character to a glory duel. The winner of the duel's controller resolves a ring effect of his or her choice as if he or she was the attacking player.",
+    "text": "<b>Action:</b> During a conflict, choose a <em>Shugenja</em> character you control and a <em>Shugenja</em> character controlled by an opponent – your character challenges your opponent's character to a glory duel. The winner of the duel's controller resolves a ring effect of his or her choice as if he or she was the attacking player.",
     "traits": [],
     "type": "event",
     "unique": false

@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Interrupt:<\/b> When a ring in your claimed ring pool would be returned to the unclaimed ring pool – it remains claimed instead. (Max 1 per round.)",
+    "text": "<b>Interrupt:</b> When a ring in your claimed ring pool would be returned to the unclaimed ring pool – it remains claimed instead. (Max 1 per round.)",
     "traits": [
         "spell",
         "earth"

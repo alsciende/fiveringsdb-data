@@ -28,7 +28,7 @@
     "side": "province",
     "strength": "4",
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict at this province, choose an attacking character – remove 1 fate from that character.",
+    "text": "<b>Action:</b> During a conflict at this province, choose an attacking character – remove 1 fate from that character.",
     "traits": [],
     "type": "province",
     "unique": false

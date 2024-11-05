@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Interrupt:<\/b> When the effects of an event would initiate, if you control more honored characters than an opponent – cancel those effects.",
+    "text": "<b>Interrupt:</b> When the effects of an event would initiate, if you control more honored characters than an opponent – cancel those effects.",
     "traits": [],
     "type": "event",
     "unique": false

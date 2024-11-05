@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, if your honor bid is higher than you opponent's, choose a participating <em>Bushi<\/em> character you control and a participating character your opponent controls - until the end of the conflict, set your character's base [conflict-military] skill to the current [conflict-military] skill of your opponent's character.",
+    "text": "<b>Action:</b> During a conflict, if your honor bid is higher than you opponent's, choose a participating <em>Bushi</em> character you control and a participating character your opponent controls - until the end of the conflict, set your character's base [conflict-military] skill to the current [conflict-military] skill of your opponent's character.",
     "traits": [
         "tactic"
     ],

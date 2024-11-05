@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After an opponent's province is revealed during a conflict, choose a non-unique character - that character cannot be declared as a defender in this conflict. (Max 1 per conflict.)",
+    "text": "<b>Reaction:</b> After an opponent's province is revealed during a conflict, choose a non-unique character - that character cannot be declared as a defender in this conflict. (Max 1 per conflict.)",
     "traits": [
         "tactic"
     ],

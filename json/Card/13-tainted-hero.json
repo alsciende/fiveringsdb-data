@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "This character cannot be declared as an attacker or defender.\n<b>Action:<\/b> Sacrifice a <i>{friendly)<\/i> character – until the end of the phase, treat this character's printed text box as if it were blank (except for <em>Traits<\/em>).",
+    "text": "This character cannot be declared as an attacker or defender.\n<b>Action:</b> Sacrifice a <i>{friendly)</i> character – until the end of the phase, treat this character's printed text box as if it were blank (except for <em>Traits</em>).",
     "traits": [
         "bushi",
         "berserker",

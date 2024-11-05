@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+1",
-    "text": "<b>Action:<\/b> Return 1 or more rings from your claimed ring pool to the unclaimed ring pool - you gain 1 honor for each ring returned this way.",
+    "text": "<b>Action:</b> Return 1 or more rings from your claimed ring pool to the unclaimed ring pool - you gain 1 honor for each ring returned this way.",
     "traits": [
         "shrine"
     ],

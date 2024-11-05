@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+1",
-    "text": "<b>Action:<\/b> During the dynasty phase - play two characters from your provinces. Then, turn a card in your provinces faceup.",
+    "text": "<b>Action:</b> During the dynasty phase - play two characters from your provinces. Then, turn a card in your provinces faceup.",
     "traits": [],
     "type": "holding",
     "unique": false

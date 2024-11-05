@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After this character enters play - place 1 fate on each unclaimed ring.",
+    "text": "<b>Reaction:</b> After this character enters play - place 1 fate on each unclaimed ring.",
     "traits": [
         "bushi",
         "army"

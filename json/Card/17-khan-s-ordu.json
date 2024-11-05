@@ -22,7 +22,7 @@
     "side": "province",
     "strength": "4",
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After this province is revealed - if the current conflict is [conflict-political], switch the conflict type. Each conflict declared this phase is [conflict-military] instead of its normal type.",
+    "text": "<b>Reaction:</b> After this province is revealed - if the current conflict is [conflict-political], switch the conflict type. Each conflict declared this phase is [conflict-military] instead of its normal type.",
     "traits": [],
     "type": "province",
     "unique": true

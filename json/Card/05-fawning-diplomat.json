@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Interrupt:<\/b> When this character leaves play – claim the Imperial Favor.",
+    "text": "<b>Interrupt:</b> When this character leaves play – claim the Imperial Favor.",
     "traits": [
         "courtier"
     ],

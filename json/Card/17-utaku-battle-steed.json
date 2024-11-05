@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a [clan-unicorn] character.\nAttached character gains the <em>Cavalry<\/em> trait.\n<b>Reaction:<\/b> After attached character wins a [conflict-military] conflict - honor attached character.",
+    "text": "Attach to a [clan-unicorn] character.\nAttached character gains the <em>Cavalry</em> trait.\n<b>Reaction:</b> After attached character wins a [conflict-military] conflict - honor attached character.",
     "traits": [
         "mount"
     ],

@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Discard each status token.",
+    "text": "<b>Action:</b> Discard each status token.",
     "traits": [
         "philosophy"
     ],

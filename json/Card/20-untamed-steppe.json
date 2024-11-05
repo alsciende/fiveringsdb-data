@@ -22,7 +22,7 @@
     "side": "province",
     "strength": "6",
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict at this province, choose another unbroken province - turn that province facedown.",
+    "text": "<b>Action:</b> During a conflict at this province, choose another unbroken province - turn that province facedown.",
     "traits": [],
     "type": "province",
     "unique": false

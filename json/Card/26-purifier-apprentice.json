@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After you win a conflict as the defending player - your opponent loses 1 honor.",
+    "text": "<b>Reaction:</b> After you win a conflict as the defending player - your opponent loses 1 honor.",
     "traits": [
         "shugenja",
         "earth"

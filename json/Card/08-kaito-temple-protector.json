@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "While this character is defending, opponent's card effects cannot move it.\n<b>Action:<\/b> While this character is defending, choose another participating character - until the end of the conflict, set this character's base [conflict-military] and [conflict-political] skill to the chosen character's current skill values.",
+    "text": "While this character is defending, opponent's card effects cannot move it.\n<b>Action:</b> While this character is defending, choose another participating character - until the end of the conflict, set this character's base [conflict-military] and [conflict-political] skill to the chosen character's current skill values.",
     "traits": [
         "monk"
     ],

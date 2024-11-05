@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Restricted.\nAttached character gets +2[conflict-political] while it is involved in a duel.\n<b>Reaction:<\/b> After attached character wins a duel – gain 1 honor.",
+    "text": "Restricted.\nAttached character gets +2[conflict-political] while it is involved in a duel.\n<b>Reaction:</b> After attached character wins a duel – gain 1 honor.",
     "traits": [
         "weapon"
     ],

@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After you win a [conflict-military] as the attacker - draw 3 cards. Then, choose and discard 1 card from your hand. (Max 1 per conflict.)",
+    "text": "<b>Reaction:</b> After you win a [conflict-military] as the attacker - draw 3 cards. Then, choose and discard 1 card from your hand. (Max 1 per conflict.)",
     "traits": [],
     "type": "event",
     "unique": false

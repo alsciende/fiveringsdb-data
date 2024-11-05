@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After this character enters play, choose a deck - look at the top 3 cards of that deck and put them back in any order.",
+    "text": "<b>Reaction:</b> After this character enters play, choose a deck - look at the top 3 cards of that deck and put them back in any order.",
     "traits": [
         "courtier"
     ],

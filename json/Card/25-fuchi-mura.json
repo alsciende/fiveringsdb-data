@@ -22,7 +22,7 @@
     "side": "province",
     "strength": "3",
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After an attack is declared against this province – place 1 fate on each unclaimed ring.",
+    "text": "<b>Reaction:</b> After an attack is declared against this province – place 1 fate on each unclaimed ring.",
     "traits": [
         "village"
     ],

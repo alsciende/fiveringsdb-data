@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict in which this character is participating, choose an honored character - move that character to the conflict.",
+    "text": "<b>Action:</b> During a conflict in which this character is participating, choose an honored character - move that character to the conflict.",
     "traits": [
         "bushi",
         "cavalry",

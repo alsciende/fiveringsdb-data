@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After this character wins a conflict as the defender, choose an attachment - discard it.",
+    "text": "<b>Reaction:</b> After this character wins a conflict as the defender, choose an attachment - discard it.",
     "traits": [
         "bushi"
     ],

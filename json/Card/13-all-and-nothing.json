@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Interrupt:<\/b> When you would resolve the [element-void] ring effect, choose another ring – resolve that ring's effect instead. Draw 1 card.",
+    "text": "<b>Interrupt:</b> When you would resolve the [element-void] ring effect, choose another ring – resolve that ring's effect instead. Draw 1 card.",
     "traits": [
         "spell",
         "void"

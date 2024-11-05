@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> While this character is participating in a [conflict-military] conflict, choose a participating character with the highest glory in the conflict <i>(you choose in case of a tie)<\/i> – move that character home.",
+    "text": "<b>Action:</b> While this character is participating in a [conflict-military] conflict, choose a participating character with the highest glory in the conflict <i>(you choose in case of a tie)</i> – move that character home.",
     "traits": [
         "bushi",
         "cavalry"

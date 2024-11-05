@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+2",
-    "text": "Limit 1 per deck.\n<b>Reaction:<\/b> After you win a conflict as the defending player, if the attacked province has a <em>Kaiu Wall<\/em> holding - Resolve the ring effect of the contested ring as if you were the attacking player.",
+    "text": "Limit 1 per deck.\n<b>Reaction:</b> After you win a conflict as the defending player, if the attacked province has a <em>Kaiu Wall</em> holding - Resolve the ring effect of the contested ring as if you were the attacking player.",
     "traits": [
         "kaiu-wall"
     ],

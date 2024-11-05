@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attached character gains the [clan-phoenix] clan symbol and the <em>Scholar<\/em> trait.",
+    "text": "Attached character gains the [clan-phoenix] clan symbol and the <em>Scholar</em> trait.",
     "traits": [
         "item",
         "seal"

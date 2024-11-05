@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+2",
-    "text": "<b>Reaction:<\/b> After you win a conflict - your opponent discards the top card of his or her conflict deck. (Unlimited.)",
+    "text": "<b>Reaction:</b> After you win a conflict - your opponent discards the top card of his or her conflict deck. (Unlimited.)",
     "traits": [
         "city"
     ],

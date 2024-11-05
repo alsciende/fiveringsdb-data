@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+0",
-    "text": "<b>Interrupt:<\/b> When the holding's province would be broken, your opponent choose an attacking character - discard that character.",
+    "text": "<b>Interrupt:</b> When the holding's province would be broken, your opponent choose an attacking character - discard that character.",
     "traits": [
         "trap"
     ],

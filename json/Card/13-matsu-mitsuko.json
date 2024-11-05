@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a [conflict-military] conflict, if you are more honorable than your opponent, choose a character you control – move that character to the conflict.",
+    "text": "<b>Action:</b> During a [conflict-military] conflict, if you are more honorable than your opponent, choose a character you control – move that character to the conflict.",
     "traits": [
         "bushi",
         "cavalry",

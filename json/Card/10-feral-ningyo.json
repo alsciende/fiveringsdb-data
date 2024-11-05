@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a [element-water] conflict – put this character into play from your hand in the conflict. At the end of the conflict, shuffle it into your conflict deck.",
+    "text": "<b>Action:</b> During a [element-water] conflict – put this character into play from your hand in the conflict. At the end of the conflict, shuffle it into your conflict deck.",
     "traits": [
         "creature"
     ],

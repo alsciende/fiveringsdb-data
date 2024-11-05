@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a character you control.\n<b>Action:<\/b> During a conflict, if you have the [element-water] ring claimed - move attached character to the conflict or home from the conflict. (Limit twice per round.)",
+    "text": "Attach to a character you control.\n<b>Action:</b> During a conflict, if you have the [element-water] ring claimed - move attached character to the conflict or home from the conflict. (Limit twice per round.)",
     "traits": [
         "spell",
         "water"

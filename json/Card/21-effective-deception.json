@@ -22,7 +22,7 @@
     "side": "province",
     "strength": "4",
     "strength_bonus": null,
-    "text": "<b>Interrupt:<\/b> When the effects of a triggered ability would initiate during a conflict at this province - cancel those effects.",
+    "text": "<b>Interrupt:</b> When the effects of a triggered ability would initiate during a conflict at this province - cancel those effects.",
     "traits": [],
     "type": "province",
     "unique": false

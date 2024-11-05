@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, discard the Imperial Favor – set the base strength of the attacked province to 1 until the end of the conflict.\n<i>Errata from RRG v1.1<\/i>",
+    "text": "<b>Action:</b> During a conflict, discard the Imperial Favor – set the base strength of the attacked province to 1 until the end of the conflict.\n<i>Errata from RRG v1.1</i>",
     "traits": [],
     "type": "event",
     "unique": false

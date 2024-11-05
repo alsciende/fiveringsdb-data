@@ -28,7 +28,7 @@
     "side": "province",
     "strength": "4",
     "strength_bonus": null,
-    "text": "<em>Keeper<\/em> role only.\nDuring conflicts at this province, characters cannot have their skills increased by the effects of event cards.",
+    "text": "<em>Keeper</em> role only.\nDuring conflicts at this province, characters cannot have their skills increased by the effects of event cards.",
     "traits": [
         "festival"
     ],

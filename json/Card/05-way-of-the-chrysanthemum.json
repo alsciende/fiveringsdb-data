@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After 1 or more honor is given to you from an honor bid – gain that much honor. (Max 1 per round.)",
+    "text": "<b>Reaction:</b> After 1 or more honor is given to you from an honor bid – gain that much honor. (Max 1 per round.)",
     "traits": [
         "imperial",
         "philosophy"

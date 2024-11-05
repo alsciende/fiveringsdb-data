@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> While this character is participating in a conflict, if you are more honorable than your opponent – honor this character.",
+    "text": "<b>Action:</b> While this character is participating in a conflict, if you are more honorable than your opponent – honor this character.",
     "traits": [
         "courtier",
         "scholar"

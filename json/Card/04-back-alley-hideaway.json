@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+1",
-    "text": "<b>Interrupt:<\/b> When a [clan-scorpion] character you control leaves play – attach that character to this holding facedown instead of placing it in its owner's discard pile.\n<b>Action:<\/b> Play an attached facedown character from this holding as if it were in this province. Then, sacrifice this holding.",
+    "text": "<b>Interrupt:</b> When a [clan-scorpion] character you control leaves play – attach that character to this holding facedown instead of placing it in its owner's discard pile.\n<b>Action:</b> Play an attached facedown character from this holding as if it were in this province. Then, sacrifice this holding.",
     "traits": [
         "city"
     ],

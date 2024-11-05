@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict in which this character is attacking, if you are more honorable than your opponent – reduce the cost of the next card you play this conflict by 2.",
+    "text": "<b>Action:</b> During a conflict in which this character is attacking, if you are more honorable than your opponent – reduce the cost of the next card you play this conflict by 2.",
     "traits": [
         "bushi",
         "berserker",

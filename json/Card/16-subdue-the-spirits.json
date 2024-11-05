@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action: <\/b>During a conflict, if you are more honorable than your opponent - until the end of the conflict, each participating character you control adds its glory to each of its skills.  <i>(This applies in addition to any modifiers to the skills of those characters due to being honored or dishonored.)<\/i>",
+    "text": "<b>Action: </b>During a conflict, if you are more honorable than your opponent - until the end of the conflict, each participating character you control adds its glory to each of its skills.  <i>(This applies in addition to any modifiers to the skills of those characters due to being honored or dishonored.)</i>",
     "traits": [],
     "type": "event",
     "unique": false

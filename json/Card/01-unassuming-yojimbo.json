@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Covert. <i>(When this character attacks, choose one character without covert. That character cannot be declared as a defender.)<\/i>",
+    "text": "Covert. <i>(When this character attacks, choose one character without covert. That character cannot be declared as a defender.)</i>",
     "traits": [
         "bushi",
         "yojimbo"

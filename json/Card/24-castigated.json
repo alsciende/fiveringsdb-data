@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Play only during a [conflict-political] conflict, only on a participating character, and only if you control an <em>Imperial<\/em> character.\nIf attached character's [conflict-political] skill is 0, discard it. <i>(Do not discard if its skill is a dash.)<\/i>",
+    "text": "Play only during a [conflict-political] conflict, only on a participating character, and only if you control an <em>Imperial</em> character.\nIf attached character's [conflict-political] skill is 0, discard it. <i>(Do not discard if its skill is a dash.)</i>",
     "traits": [
         "condition",
         "imperial"

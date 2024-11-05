@@ -28,7 +28,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Forced Interrupt:<\/b> When this character leaves play – each player draws 2 cards.",
+    "text": "<b>Forced Interrupt:</b> When this character leaves play – each player draws 2 cards.",
     "traits": [
         "courtier",
         "imperial"

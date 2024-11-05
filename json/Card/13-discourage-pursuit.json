@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Earth<\/em> role only.\n<b>Action:<\/b> During a conflict, dishonor a <i>(friendly)<\/i> <em>Shinobi<\/em> character. Choose a participating character – until the end of the conflict, that character gets -4[conflict-military].",
+    "text": "<em>Earth</em> role only.\n<b>Action:</b> During a conflict, dishonor a <i>(friendly)</i> <em>Shinobi</em> character. Choose a participating character – until the end of the conflict, that character gets -4[conflict-military].",
     "traits": [],
     "type": "event",
     "unique": false

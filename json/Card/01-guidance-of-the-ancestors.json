@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Play this attachment from your conflict discard pile.",
+    "text": "<b>Action:</b> Play this attachment from your conflict discard pile.",
     "traits": [
         "condition"
     ],

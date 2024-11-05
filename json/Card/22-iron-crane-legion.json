@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "No attachments except <em>Weapon<\/em>.\nDuring conflicts in which you are the attacking or defending player, X is equal to the number of cards in your opponent's hand. <i>(Otherwise, X is zero.)<\/i>",
+    "text": "No attachments except <em>Weapon</em>.\nDuring conflicts in which you are the attacking or defending player, X is equal to the number of cards in your opponent's hand. <i>(Otherwise, X is zero.)</i>",
     "traits": [
         "bushi",
         "army"

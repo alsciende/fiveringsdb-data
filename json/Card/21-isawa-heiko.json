@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After you play a <em>Water<\/em> card, choose a character - switch that character's base [conflict-military] and [conflict-political] skill until the end of the phase.",
+    "text": "<b>Reaction:</b> After you play a <em>Water</em> card, choose a character - switch that character's base [conflict-military] and [conflict-political] skill until the end of the phase.",
     "traits": [
         "shugenja",
         "water"

@@ -22,7 +22,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Sacrifice a <i>(friendly)<\/i> [clan-crab] character. Choose an opponent – that player must sacrifice a character. (Max 1 per round.)",
+    "text": "<b>Action:</b> Sacrifice a <i>(friendly)</i> [clan-crab] character. Choose an opponent – that player must sacrifice a character. (Max 1 per round.)",
     "traits": [
         "philosophy"
     ],

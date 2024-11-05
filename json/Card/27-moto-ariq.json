@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict in which this character is participating, if your opponent is more honorable than you, he or she must choose a ready character he or she controls - move that character to the conflict.",
+    "text": "<b>Action:</b> During a conflict in which this character is participating, if your opponent is more honorable than you, he or she must choose a ready character he or she controls - move that character to the conflict.",
     "traits": [
         "bushi",
         "cavalry"

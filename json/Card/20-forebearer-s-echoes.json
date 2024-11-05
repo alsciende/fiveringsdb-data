@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Air<\/b> Role only.\n<b>Action:<\/b> During a [conflict-military] conflict, choose a character in your dynasty discard pile - put that character into play in the conflict. If that character is still in play at the end of the conflict, put it on the bottom of your dynasty deck.",
+    "text": "<b>Air</b> Role only.\n<b>Action:</b> During a [conflict-military] conflict, choose a character in your dynasty discard pile - put that character into play in the conflict. If that character is still in play at the end of the conflict, put it on the bottom of your dynasty deck.",
     "traits": [
         "spell",
         "air"

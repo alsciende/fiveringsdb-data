@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict, spend 1 fate. Choose a character you control – move that character to the conflict.",
+    "text": "<b>Action:</b> During a conflict, spend 1 fate. Choose a character you control – move that character to the conflict.",
     "traits": [
         "courtier"
     ],

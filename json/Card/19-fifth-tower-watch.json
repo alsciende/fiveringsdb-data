@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "No attachments except <em>Weapon<\/em>.\n<b>Interrupt:<\/b> When you sacrifice a character, choose an opponent. That opponent must choose a character he or she controls with lower [conflict-military] skill than the sacrificed character - bow that character.",
+    "text": "No attachments except <em>Weapon</em>.\n<b>Interrupt:</b> When you sacrifice a character, choose an opponent. That opponent must choose a character he or she controls with lower [conflict-military] skill than the sacrificed character - bow that character.",
     "traits": [
         "bushi",
         "army"

@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After the conflict phase begins, if an opponent controls more characters than you, choose a character you control - honor that character.",
+    "text": "<b>Reaction:</b> After the conflict phase begins, if an opponent controls more characters than you, choose a character you control - honor that character.",
     "traits": [
         "bushi",
         "daimyo",

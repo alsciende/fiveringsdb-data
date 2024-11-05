@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> Choose an unbroken province you control with a holding - look at the top 2 cards of your dynasty deck. You may put a character card from among them into the province faceup. <i>(Do not discard the other cards in the province.)<\/i>",
+    "text": "<b>Action:</b> Choose an unbroken province you control with a holding - look at the top 2 cards of your dynasty deck. You may put a character card from among them into the province faceup. <i>(Do not discard the other cards in the province.)</i>",
     "traits": [
         "bushi"
     ],

@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> While this character is participating in a conflict, if you count more current glory than your opponent among ready participating characters, choose an enemy character – move that character home.",
+    "text": "<b>Action:</b> While this character is participating in a conflict, if you count more current glory than your opponent among ready participating characters, choose an enemy character – move that character home.",
     "traits": [
         "courtier"
     ],

@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After you lose a [conflict-military] conflict – put this character into play from your hand.",
+    "text": "<b>Reaction:</b> After you lose a [conflict-military] conflict – put this character into play from your hand.",
     "traits": [
         "bushi"
     ],

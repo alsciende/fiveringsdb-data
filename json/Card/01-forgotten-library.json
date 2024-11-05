@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+0",
-    "text": "<b>Reaction:<\/b> After the draw phase begins – draw 1 card.",
+    "text": "<b>Reaction:</b> After the draw phase begins – draw 1 card.",
     "traits": [
         "library",
         "shrine"

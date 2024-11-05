@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During the dynasty phase, discard the Imperial Favor – gain 2 fate.",
+    "text": "<b>Action:</b> During the dynasty phase, discard the Imperial Favor – gain 2 fate.",
     "traits": [],
     "type": "event",
     "unique": false

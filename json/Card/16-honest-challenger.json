@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "Composure - This character gets +2[conflict-military]. <i>(You have composure if your honor bid is lower than an opponent's.)<\/i>\n<b>Action: <\/b>During a conflict, initiate a [conflict-military] duel - resolve the duel.  The controller of the duel's winner moves a character from his or her home area to the conflict.",
+    "text": "Composure - This character gets +2[conflict-military]. <i>(You have composure if your honor bid is lower than an opponent's.)</i>\n<b>Action: </b>During a conflict, initiate a [conflict-military] duel - resolve the duel.  The controller of the duel's winner moves a character from his or her home area to the conflict.",
     "traits": [
         "bushi",
         "cavalry",

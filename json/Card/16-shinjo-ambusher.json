@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After you play this character into a conflict - the attacked province cannot trigger its abilities this conflict.",
+    "text": "<b>Reaction:</b> After you play this character into a conflict - the attacked province cannot trigger its abilities this conflict.",
     "traits": [
         "bushi",
         "cavalry"

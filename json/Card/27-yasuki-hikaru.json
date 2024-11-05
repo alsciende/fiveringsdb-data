@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> During a conflict in which this character is defending, choose an attacking character with higher [conflict-military] skill than this character - move the chosen character home.",
+    "text": "<b>Action:</b> During a conflict in which this character is defending, choose an attacking character with higher [conflict-military] skill than this character - move the chosen character home.",
     "traits": [
         "bushi",
         "magistrate"

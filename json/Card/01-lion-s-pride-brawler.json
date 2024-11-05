@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Action:<\/b> While this character is attacking, choose a character with equal or lower [conflict-military] skill than this character – bow that character.",
+    "text": "<b>Action:</b> While this character is attacking, choose a character with equal or lower [conflict-military] skill than this character – bow that character.",
     "traits": [
         "bushi",
         "courtier"

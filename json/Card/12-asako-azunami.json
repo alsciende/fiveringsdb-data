@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Interrupt:<\/b> When you would resolve the [element-water] ring – instead of the normal ring effect, you may choose and bow any character and you may choose and ready a different character.",
+    "text": "<b>Interrupt:</b> When you would resolve the [element-water] ring – instead of the normal ring effect, you may choose and bow any character and you may choose and ready a different character.",
     "traits": [
         "shugenja",
         "water",

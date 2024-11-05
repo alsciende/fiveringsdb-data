@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": "+2",
-    "text": "<b>Reaction:<\/b> After you win a duel - place 1 honor token on this holding. Then, you may sacrifice this holding to gain honor equal to the number of honor tokens on this holding. (Limit 3 times per round.)",
+    "text": "<b>Reaction:</b> After you win a duel - place 1 honor token on this holding. Then, you may sacrifice this holding to gain honor equal to the number of honor tokens on this holding. (Limit 3 times per round.)",
     "traits": [
         "dojo"
     ],

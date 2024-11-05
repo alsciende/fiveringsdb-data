@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "While this character is defending, if you control a participating <em>Courtier<\/em> or <em>Shugenja<\/em> character, this character does not bow as a result of conflict resolution.",
+    "text": "While this character is defending, if you control a participating <em>Courtier</em> or <em>Shugenja</em> character, this character does not bow as a result of conflict resolution.",
     "traits": [
         "bushi",
         "yojimbo"

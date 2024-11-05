@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After an opponent's card ability or ring effect dishonors a character you control - take 2 honor from that opponent.",
+    "text": "<b>Reaction:</b> After an opponent's card ability or ring effect dishonors a character you control - take 2 honor from that opponent.",
     "traits": [
         "courtier"
     ],

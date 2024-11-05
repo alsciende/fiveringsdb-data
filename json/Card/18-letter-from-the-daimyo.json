@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "Attach to a character you control.\nRestricted.\n<b>Reaction:<\/b> After attached character wins a [conflict-political] conflict, sacrifice this attachment - your opponent chooses and discards 2 cards from his or her hand.",
+    "text": "Attach to a character you control.\nRestricted.\n<b>Reaction:</b> After attached character wins a [conflict-political] conflict, sacrifice this attachment - your opponent chooses and discards 2 cards from his or her hand.",
     "traits": [
         "item"
     ],

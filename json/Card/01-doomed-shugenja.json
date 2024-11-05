@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "Limited. <i>(No more than one limited card can be played by each player each round.)<\/i>\nYou cannot place fate on this character when it is played from one of your provinces.",
+    "text": "Limited. <i>(No more than one limited card can be played by each player each round.)</i>\nYou cannot place fate on this character when it is played from one of your provinces.",
     "traits": [
         "shugenja",
         "fire"

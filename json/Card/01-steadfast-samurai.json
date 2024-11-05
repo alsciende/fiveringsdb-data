@@ -22,7 +22,7 @@
     "side": "dynasty",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Forced Reaction:<\/b> After the fate phase begins, if you have at least 5 more honor than an opponent – this character cannot be discarded or lose fate this phase.",
+    "text": "<b>Forced Reaction:</b> After the fate phase begins, if you have at least 5 more honor than an opponent – this character cannot be discarded or lose fate this phase.",
     "traits": [
         "bushi"
     ],

@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<b>Reaction:<\/b> After your opponent declares a [element-water] conflict, choose a <em>Monk<\/em> character or a character with a <em>Monk<\/em> attachment – ready that character and draw 1 card.",
+    "text": "<b>Reaction:</b> After your opponent declares a [element-water] conflict, choose a <em>Monk</em> character or a character with a <em>Monk</em> attachment – ready that character and draw 1 card.",
     "traits": [
         "kiho",
         "water"

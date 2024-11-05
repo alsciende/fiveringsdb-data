@@ -28,7 +28,7 @@
     "side": "conflict",
     "strength": null,
     "strength_bonus": null,
-    "text": "<em>Air<\/em> role only.\n<b>Reaction<\/b>: After this character wins a conflict, lose 1 honor – gain 1 fate. (Unlimited.)",
+    "text": "<em>Air</em> role only.\n<b>Reaction</b>: After this character wins a conflict, lose 1 honor – gain 1 fate. (Unlimited.)",
     "traits": [
         "bushi",
         "mantis-clan"
