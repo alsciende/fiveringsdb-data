@@ -1,0 +1,31 @@
+{
+    "allowed_clans": [
+        "scorpion"
+    ],
+    "clan": "scorpion",
+    "cost": null,
+    "deck_limit": 1,
+    "element": null,
+    "fate": 7,
+    "glory": null,
+    "honor": 10,
+    "id": "01-city-of-the-open-hand",
+    "influence_cost": null,
+    "influence_pool": 10,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": null,
+    "name": "City of the Open Hand",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "province",
+    "strength": null,
+    "strength_bonus": "+1",
+    "text": "<b>Action:<\/b> If you are less honorable than an opponent, bow this stronghold and select one \u2013 either that opponent loses 1 honor, or you gain 1 honor.\n<i>Errata from RRG v9<\/i>",
+    "traits": [
+        "city"
+    ],
+    "type": "stronghold",
+    "unique": true
+}

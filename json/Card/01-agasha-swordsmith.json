@@ -1,0 +1,32 @@
+{
+    "allowed_clans": [
+        "dragon"
+    ],
+    "clan": "dragon",
+    "cost": 2,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 1,
+    "honor": null,
+    "id": "01-agasha-swordsmith",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "1",
+    "military_bonus": null,
+    "name": "Agasha Swordsmith",
+    "political": "2",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Action:<\/b> Search the top 5 cards of your conflict deck for an attachment, reveal it, and add it to your hand. Shuffle.",
+    "traits": [
+        "shugenja",
+        "fire"
+    ],
+    "type": "character",
+    "unique": false
+}

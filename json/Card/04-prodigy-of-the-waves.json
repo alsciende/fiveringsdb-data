@@ -1,0 +1,32 @@
+{
+    "allowed_clans": [
+        "phoenix"
+    ],
+    "clan": "phoenix",
+    "cost": 4,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 2,
+    "honor": null,
+    "id": "04-prodigy-of-the-waves",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "3",
+    "military_bonus": null,
+    "name": "Prodigy of the Waves",
+    "political": "3",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Action:<\/b> While the [element-water] ring is claimed \u2013 ready this character.",
+    "traits": [
+        "shugenja",
+        "water"
+    ],
+    "type": "character",
+    "unique": false
+}

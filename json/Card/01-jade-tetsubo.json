@@ -1,0 +1,38 @@
+{
+    "allowed_clans": [
+        "crab",
+        "crane",
+        "dragon",
+        "lion",
+        "phoenix",
+        "scorpion",
+        "unicorn"
+    ],
+    "clan": "crab",
+    "cost": 2,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "01-jade-tetsubo",
+    "influence_cost": 2,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": "+3",
+    "name": "Jade Tetsub\u014d",
+    "political": null,
+    "political_bonus": "+0",
+    "role_restriction": null,
+    "side": "conflict",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "Attach to a character you control. Restricted.\n<b>Action:<\/b> While attached character is participating in a conflict, bow this attachment. Choose a participating character with lower [conflict-military] skill than attached character \u2013 return all fate on that character to its owner's fate pool.",
+    "traits": [
+        "jade",
+        "weapon"
+    ],
+    "type": "attachment",
+    "unique": false
+}

@@ -1,0 +1,32 @@
+{
+    "allowed_clans": [
+        "crab"
+    ],
+    "clan": "crab",
+    "cost": 3,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 1,
+    "honor": null,
+    "id": "08-hida-amoro",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "4",
+    "military_bonus": null,
+    "name": "Hida Amoro",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Forced Reaction:<\/b> After a player passes on declaring a conflict \u2013 that player must sacrifice a character he or she controls. (Unlimited.)",
+    "traits": [
+        "bushi",
+        "berserker"
+    ],
+    "type": "character",
+    "unique": true
+}

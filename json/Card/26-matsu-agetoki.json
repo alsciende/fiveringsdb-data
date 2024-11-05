@@ -1,0 +1,33 @@
+{
+    "allowed_clans": [
+        "lion"
+    ],
+    "clan": "lion",
+    "cost": 3,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 2,
+    "honor": null,
+    "id": "26-matsu-agetoki",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "4",
+    "military_bonus": null,
+    "name": "Matsu Agetoki",
+    "political": "2",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Action:<\/b> During a conflict in which this character is attacking, if you are more honorable than your opponent - move the contested ring to another eligible province and reveal that province, if able. It is now the attacked province.",
+    "traits": [
+        "bushi",
+        "cavalry",
+        "commander"
+    ],
+    "type": "character",
+    "unique": true
+}

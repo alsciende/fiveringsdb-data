@@ -1,0 +1,37 @@
+{
+    "allowed_clans": [
+        "crab",
+        "crane",
+        "dragon",
+        "lion",
+        "phoenix",
+        "scorpion",
+        "unicorn"
+    ],
+    "clan": "crab",
+    "cost": 3,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 1,
+    "honor": null,
+    "id": "21-warden-of-the-damned",
+    "influence_cost": 3,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "2",
+    "military_bonus": null,
+    "name": "Warden of the Damned",
+    "political": "2",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "conflict",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Forced Interrupt:<\/b> When the conflict phase ends - each player must sacrifice a dishonored character, if able.",
+    "traits": [
+        "monk"
+    ],
+    "type": "character",
+    "unique": false
+}

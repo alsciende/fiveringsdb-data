@@ -1,0 +1,31 @@
+{
+    "allowed_clans": [
+        "scorpion"
+    ],
+    "clan": "scorpion",
+    "cost": 5,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 1,
+    "honor": null,
+    "id": "15-ignoble-enforcers",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "4",
+    "military_bonus": null,
+    "name": "Ignoble Enforcers",
+    "political": "4",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Reaction:<\/b> After you play this character, you may lose up to 3 honor \u2013 for each honor you lost by this ability, put 1 fate on this character.",
+    "traits": [
+        "bushi"
+    ],
+    "type": "character",
+    "unique": false
+}

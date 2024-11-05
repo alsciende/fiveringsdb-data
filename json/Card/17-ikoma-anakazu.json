@@ -1,0 +1,38 @@
+{
+    "allowed_clans": [
+        "crab",
+        "crane",
+        "dragon",
+        "lion",
+        "phoenix",
+        "scorpion",
+        "unicorn"
+    ],
+    "clan": "lion",
+    "cost": 4,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 2,
+    "honor": null,
+    "id": "17-ikoma-anakazu",
+    "influence_cost": 4,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "3",
+    "military_bonus": null,
+    "name": "Ikoma Anakazu",
+    "political": "3",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "conflict",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "During each conflict in which this character is participating, it gets +3[conflict-military] and +3[conflict-political] if your opponent has broken one or more of your provinces this phase.",
+    "traits": [
+        "bushi",
+        "daimyo"
+    ],
+    "type": "character",
+    "unique": true
+}

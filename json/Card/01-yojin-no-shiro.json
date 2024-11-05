@@ -1,0 +1,31 @@
+{
+    "allowed_clans": [
+        "lion"
+    ],
+    "clan": "lion",
+    "cost": null,
+    "deck_limit": 1,
+    "element": null,
+    "fate": 7,
+    "glory": null,
+    "honor": 12,
+    "id": "01-yojin-no-shiro",
+    "influence_cost": null,
+    "influence_pool": 10,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": null,
+    "name": "Y\u014djin no Shiro",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "province",
+    "strength": null,
+    "strength_bonus": "+2",
+    "text": "<b>Action:<\/b> During a conflict, bow this stronghold \u2013 each attacking character you control gets +1[conflict-military] until the end of the conflict.",
+    "traits": [
+        "castle"
+    ],
+    "type": "stronghold",
+    "unique": true
+}

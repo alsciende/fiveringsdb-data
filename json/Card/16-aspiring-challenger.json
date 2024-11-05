@@ -1,0 +1,39 @@
+{
+    "allowed_clans": [
+        "crab",
+        "crane",
+        "dragon",
+        "lion",
+        "phoenix",
+        "scorpion",
+        "unicorn"
+    ],
+    "clan": "neutral",
+    "cost": 2,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 1,
+    "honor": null,
+    "id": "16-aspiring-challenger",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "2",
+    "military_bonus": null,
+    "name": "Aspiring Challenger",
+    "political": "2",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "Composure - This character gets +2 glory. <i>(You have composure if your honor bid is lower than an opponent's.)<\/i>\n<b>Action: <\/b>During a conflict, initiate a [conflict-military] duel - resolve the duel.  Honor the duel's winner.",
+    "traits": [
+        "bushi",
+        "duelist",
+        "mantis-clan"
+    ],
+    "type": "character",
+    "unique": false
+}

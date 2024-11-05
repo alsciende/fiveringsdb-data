@@ -1,0 +1,32 @@
+{
+    "allowed_clans": [
+        "phoenix"
+    ],
+    "clan": "phoenix",
+    "cost": 4,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 4,
+    "honor": null,
+    "id": "24-inferno-guard-invoker",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "3",
+    "military_bonus": null,
+    "name": "Inferno Guard Invoker",
+    "political": "2",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Action:<\/b> During a [conflict-military] conflict, choose a participating character you control - honor that character. If a province is broken during this conflict, sacrifice that character at the end of the conflict.",
+    "traits": [
+        "shugenja",
+        "fire"
+    ],
+    "type": "character",
+    "unique": false
+}

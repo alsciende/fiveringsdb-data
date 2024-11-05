@@ -1,0 +1,32 @@
+{
+    "allowed_clans": [
+        "unicorn"
+    ],
+    "clan": "unicorn",
+    "cost": 3,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 1,
+    "honor": null,
+    "id": "22-ide-ryoma",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "0",
+    "military_bonus": null,
+    "name": "Ide Ry\u014dma",
+    "political": "4",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Action:<\/b> During a conflict in which this character is participating, choose a [clan-unicorn] character and a non-[clan-unicorn] character controlled by the same player - bow one of those characters. Then, ready the other.",
+    "traits": [
+        "courtier",
+        "cavalry"
+    ],
+    "type": "character",
+    "unique": true
+}

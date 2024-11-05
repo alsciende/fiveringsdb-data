@@ -1,0 +1,31 @@
+{
+    "allowed_clans": [
+        "dragon"
+    ],
+    "clan": "dragon",
+    "cost": 3,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 1,
+    "honor": null,
+    "id": "01-enlightened-warrior",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "2",
+    "military_bonus": null,
+    "name": "Enlightened Warrior",
+    "political": "2",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Reaction:<\/b> After an opponent selects a ring with fate on it \u2013 place 1 fate on this character.",
+    "traits": [
+        "bushi"
+    ],
+    "type": "character",
+    "unique": false
+}

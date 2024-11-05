@@ -1,0 +1,32 @@
+{
+    "allowed_clans": [
+        "crab"
+    ],
+    "clan": "crab",
+    "cost": 4,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 0,
+    "honor": null,
+    "id": "23-frontline-engineer",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "4",
+    "military_bonus": null,
+    "name": "Frontline Engineer",
+    "political": "2",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "This character gets +1 glory for each holding in play.\n<b>Action:<\/b> During a conflict in which this character is defending - search the top 5 cards of your dynasty deck for a holding and put it into play in the attacked province, discarding each other card in that province. Shuffle.",
+    "traits": [
+        "bushi",
+        "engineer"
+    ],
+    "type": "character",
+    "unique": false
+}

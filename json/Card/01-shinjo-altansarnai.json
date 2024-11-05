@@ -1,0 +1,33 @@
+{
+    "allowed_clans": [
+        "unicorn"
+    ],
+    "clan": "unicorn",
+    "cost": 5,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 2,
+    "honor": null,
+    "id": "01-shinjo-altansarnai",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "5",
+    "military_bonus": null,
+    "name": "Shinjo Altansarnai",
+    "political": "4",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Reaction:<\/b> After you break a province during a [conflict-military] conflict in which this character is participating, your opponent chooses a character he or she controls \u2013 discard that character.",
+    "traits": [
+        "bushi",
+        "cavalry",
+        "champion"
+    ],
+    "type": "character",
+    "unique": true
+}

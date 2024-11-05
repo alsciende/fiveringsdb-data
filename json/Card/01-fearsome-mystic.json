@@ -1,0 +1,32 @@
+{
+    "allowed_clans": [
+        "phoenix"
+    ],
+    "clan": "phoenix",
+    "cost": 4,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 1,
+    "honor": null,
+    "id": "01-fearsome-mystic",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "2",
+    "military_bonus": null,
+    "name": "Fearsome Mystic",
+    "political": "4",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "This character gets +2 glory during [element-air] conflicts.\n<b>Action:<\/b> While this character is participating in a conflict \u2013 remove 1 fate from each participating character your opponent controls with lower glory than this character.",
+    "traits": [
+        "shugenja",
+        "air"
+    ],
+    "type": "character",
+    "unique": false
+}

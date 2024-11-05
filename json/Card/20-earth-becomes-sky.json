@@ -1,0 +1,38 @@
+{
+    "allowed_clans": [
+        "crab",
+        "crane",
+        "dragon",
+        "lion",
+        "phoenix",
+        "scorpion",
+        "unicorn"
+    ],
+    "clan": "phoenix",
+    "cost": 1,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "20-earth-becomes-sky",
+    "influence_cost": 1,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": null,
+    "name": "Earth Becomes Sky",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": "earth",
+    "side": "conflict",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<em>Earth<\/em> role only.\n<b>Reaction:<\/b> After a character an opponent controls is readied - bow that character.",
+    "traits": [
+        "spell",
+        "earth"
+    ],
+    "type": "event",
+    "unique": false
+}

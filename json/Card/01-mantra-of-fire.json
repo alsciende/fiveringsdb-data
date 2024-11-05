@@ -1,0 +1,38 @@
+{
+    "allowed_clans": [
+        "crab",
+        "crane",
+        "dragon",
+        "lion",
+        "phoenix",
+        "scorpion",
+        "unicorn"
+    ],
+    "clan": "dragon",
+    "cost": 0,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "01-mantra-of-fire",
+    "influence_cost": 2,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": null,
+    "name": "Mantra of Fire",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "conflict",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Reaction:<\/b> After an opponent declares a [element-fire] conflict, choose a <em>Monk<\/em> character or a character with a <em>Monk<\/em> attachment \u2013 place 1 fate on that character and draw 1 card.",
+    "traits": [
+        "kiho",
+        "fire"
+    ],
+    "type": "event",
+    "unique": false
+}

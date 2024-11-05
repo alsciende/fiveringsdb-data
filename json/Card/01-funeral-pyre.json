@@ -1,0 +1,31 @@
+{
+    "allowed_clans": [
+        "crab"
+    ],
+    "clan": "crab",
+    "cost": null,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "01-funeral-pyre",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": null,
+    "name": "Funeral Pyre",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": "+0",
+    "text": "<b>Action:<\/b> Sacrifice a <i>(friendly)<\/i> character \u2013 draw 1 card.",
+    "traits": [
+        "ritual"
+    ],
+    "type": "holding",
+    "unique": false
+}

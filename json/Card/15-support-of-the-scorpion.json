@@ -1,0 +1,37 @@
+{
+    "allowed_clans": [
+        "crab",
+        "crane",
+        "dragon",
+        "lion",
+        "phoenix",
+        "scorpion",
+        "unicorn"
+    ],
+    "clan": "neutral",
+    "cost": null,
+    "deck_limit": 1,
+    "element": null,
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "15-support-of-the-scorpion",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": null,
+    "name": "Support of the Scorpion",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "role",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "Increase your deckbuilding influence value by 8. You may only spend influence on [clan-scorpion] clan cards.",
+    "traits": [
+        "scorpion"
+    ],
+    "type": "role",
+    "unique": false
+}

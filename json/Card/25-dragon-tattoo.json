@@ -1,0 +1,37 @@
+{
+    "allowed_clans": [
+        "crab",
+        "crane",
+        "dragon",
+        "lion",
+        "phoenix",
+        "scorpion",
+        "unicorn"
+    ],
+    "clan": "dragon",
+    "cost": 2,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "25-dragon-tattoo",
+    "influence_cost": 3,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": "+2",
+    "name": "Dragon Tattoo",
+    "political": null,
+    "political_bonus": "+0",
+    "role_restriction": null,
+    "side": "conflict",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "Attach to a character you control. Attached character gains the <em>Tattooed<\/em> trait.\nRestricted.\n<b>Reaction:<\/b> After you play an event that chooses attached character as a target - play that event again <i>(paying all costs)<\/i>. You may choose new targets. Remove that event from the game.",
+    "traits": [
+        "tattoo"
+    ],
+    "type": "attachment",
+    "unique": false
+}

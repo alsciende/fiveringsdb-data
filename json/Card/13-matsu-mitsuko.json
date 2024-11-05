@@ -1,0 +1,33 @@
+{
+    "allowed_clans": [
+        "lion"
+    ],
+    "clan": "lion",
+    "cost": 4,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 2,
+    "honor": null,
+    "id": "13-matsu-mitsuko",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "4",
+    "military_bonus": null,
+    "name": "Matsu Mitsuko",
+    "political": "2",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Action:<\/b> During a [conflict-military] conflict, if you are more honorable than your opponent, choose a character you control \u2013 move that character to the conflict.",
+    "traits": [
+        "bushi",
+        "cavalry",
+        "commander"
+    ],
+    "type": "character",
+    "unique": true
+}

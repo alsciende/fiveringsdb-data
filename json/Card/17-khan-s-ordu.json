@@ -1,0 +1,29 @@
+{
+    "allowed_clans": [
+        "unicorn"
+    ],
+    "clan": "unicorn",
+    "cost": null,
+    "deck_limit": 1,
+    "element": "fire",
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "17-khan-s-ordu",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": null,
+    "name": "Khan's Ordu",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "province",
+    "strength": "4",
+    "strength_bonus": null,
+    "text": "<b>Reaction:<\/b> After this province is revealed - if the current conflict is [conflict-political], switch the conflict type. Each conflict declared this phase is [conflict-military] instead of its normal type.",
+    "traits": [],
+    "type": "province",
+    "unique": true
+}

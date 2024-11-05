@@ -1,0 +1,31 @@
+{
+    "allowed_clans": [
+        "phoenix"
+    ],
+    "clan": "phoenix",
+    "cost": 2,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 1,
+    "honor": null,
+    "id": "08-pacifist-philosopher",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": null,
+    "name": "Pacifist Philosopher",
+    "political": "1",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Reaction:<\/b> After a player passes on declaring a conflict - gain 1 fate. (Limit twice per round.)",
+    "traits": [
+        "courtier"
+    ],
+    "type": "character",
+    "unique": false
+}

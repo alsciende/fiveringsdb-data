@@ -1,0 +1,32 @@
+{
+    "allowed_clans": [
+        "crane"
+    ],
+    "clan": "crane",
+    "cost": 5,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 3,
+    "honor": null,
+    "id": "21-doji-kuwanan",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "5",
+    "military_bonus": null,
+    "name": "Doji Kuwanan",
+    "political": "4",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "If you control Doji Hotaru, discard her.\n<b>Action:<\/b> During a [conflict-military] conflict in which this character is participating, choose a participating character with lower [conflict-military] skill than this character - bow that character.",
+    "traits": [
+        "bushi",
+        "champion"
+    ],
+    "type": "character",
+    "unique": true
+}

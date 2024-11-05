@@ -1,0 +1,31 @@
+{
+    "allowed_clans": [
+        "crane"
+    ],
+    "clan": "crane",
+    "cost": null,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "18-distinguished-dojo",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": null,
+    "name": "Distinguished D\u014dj\u014d",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": "+2",
+    "text": "<b>Reaction:<\/b> After you win a duel - place 1 honor token on this holding. Then, you may sacrifice this holding to gain honor equal to the number of honor tokens on this holding. (Limit 3 times per round.)",
+    "traits": [
+        "dojo"
+    ],
+    "type": "holding",
+    "unique": false
+}

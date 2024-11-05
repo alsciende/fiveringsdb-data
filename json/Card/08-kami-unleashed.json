@@ -1,0 +1,37 @@
+{
+    "allowed_clans": [
+        "crab",
+        "crane",
+        "dragon",
+        "lion",
+        "phoenix",
+        "scorpion",
+        "unicorn"
+    ],
+    "clan": "neutral",
+    "cost": 2,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 0,
+    "honor": null,
+    "id": "08-kami-unleashed",
+    "influence_cost": 0,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "1",
+    "military_bonus": null,
+    "name": "Kami Unleashed",
+    "political": "1",
+    "political_bonus": null,
+    "role_restriction": "seeker",
+    "side": "conflict",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Seeker<\/b> role only.\n<b>Action:<\/b> While this character is attacking, sacrifice it \u2013 resolve the ring effect of the contested ring as if you won the conflict as the attacking player. (Max 1 per conflict.)",
+    "traits": [
+        "spirit"
+    ],
+    "type": "character",
+    "unique": false
+}

@@ -1,0 +1,32 @@
+{
+    "allowed_clans": [
+        "dragon"
+    ],
+    "clan": "dragon",
+    "cost": 4,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 1,
+    "honor": null,
+    "id": "19-magistrate-of-reason",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "2",
+    "military_bonus": null,
+    "name": "Magistrate of Reason",
+    "political": "4",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "As an additional cost for your opponent to trigger a character ability during a conflict in which this character is attacking, that opponent must spend 1 fate to an unclaimed ring.",
+    "traits": [
+        "courtier",
+        "magistrate"
+    ],
+    "type": "character",
+    "unique": false
+}

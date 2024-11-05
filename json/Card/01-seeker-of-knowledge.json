@@ -1,0 +1,39 @@
+{
+    "allowed_clans": [
+        "crab",
+        "crane",
+        "dragon",
+        "lion",
+        "phoenix",
+        "scorpion",
+        "unicorn"
+    ],
+    "clan": "phoenix",
+    "cost": 2,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 1,
+    "honor": null,
+    "id": "01-seeker-of-knowledge",
+    "influence_cost": 1,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "0",
+    "military_bonus": null,
+    "name": "Seeker of Knowledge",
+    "political": "2",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "conflict",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "While this character is attacking, the contested ring gains the [element-air] element. If this character wins the conflict as an attacker, you may choose which of its ring effects to resolve.",
+    "traits": [
+        "courtier",
+        "shugenja",
+        "air"
+    ],
+    "type": "character",
+    "unique": false
+}

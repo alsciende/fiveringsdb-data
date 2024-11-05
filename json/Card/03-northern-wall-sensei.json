@@ -1,0 +1,31 @@
+{
+    "allowed_clans": [
+        "dragon"
+    ],
+    "clan": "dragon",
+    "cost": 3,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 1,
+    "honor": null,
+    "id": "03-northern-wall-sensei",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "2",
+    "military_bonus": null,
+    "name": "Northern Wall Sensei",
+    "political": "2",
+    "political_bonus": null,
+    "role_restriction": "keeper",
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<em>Keeper<\/em> role only.\n<b>Action:<\/b> While this character is participating in a conflict, choose a participating character you control with 1 or more attachments \u2013 until the end of the conflict, that character is immune to events.",
+    "traits": [
+        "bushi"
+    ],
+    "type": "character",
+    "unique": false
+}

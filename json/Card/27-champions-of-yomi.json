@@ -1,0 +1,32 @@
+{
+    "allowed_clans": [
+        "lion"
+    ],
+    "clan": "lion",
+    "cost": 6,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 2,
+    "honor": null,
+    "id": "27-champions-of-yomi",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "6",
+    "military_bonus": null,
+    "name": "Champions of Yomi",
+    "political": "6",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "No attachments except <em>Spirit<\/em>.\n<b>Reaction:<\/b> After a character you control loses a conflict as the attacker, bow your stronghold - put this character into play from your dynasty discard pile. If it is in play at the end of the phase, remove it from the game.",
+    "traits": [
+        "spirit",
+        "army"
+    ],
+    "type": "character",
+    "unique": true
+}

@@ -1,0 +1,38 @@
+{
+    "allowed_clans": [
+        "crab",
+        "crane",
+        "dragon",
+        "lion",
+        "phoenix",
+        "scorpion",
+        "unicorn"
+    ],
+    "clan": "scorpion",
+    "cost": 0,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "24-castigated",
+    "influence_cost": 2,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": "+0",
+    "name": "Castigated",
+    "political": null,
+    "political_bonus": "+0",
+    "role_restriction": null,
+    "side": "conflict",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "Play only during a [conflict-political] conflict, only on a participating character, and only if you control an <em>Imperial<\/em> character.\nIf attached character's [conflict-political] skill is 0, discard it. <i>(Do not discard if its skill is a dash.)<\/i>",
+    "traits": [
+        "condition",
+        "imperial"
+    ],
+    "type": "attachment",
+    "unique": false
+}

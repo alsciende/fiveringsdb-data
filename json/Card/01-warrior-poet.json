@@ -1,0 +1,32 @@
+{
+    "allowed_clans": [
+        "unicorn"
+    ],
+    "clan": "unicorn",
+    "cost": 3,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 2,
+    "honor": null,
+    "id": "01-warrior-poet",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "2",
+    "military_bonus": null,
+    "name": "Warrior Poet",
+    "political": "2",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Action:<\/b> While this character is participating in a conflict \u2013 each participating character controlled by your opponent gets \u20131[conflict-military] and \u20131[conflict-political] until the end of the conflict.",
+    "traits": [
+        "bushi",
+        "cavalry"
+    ],
+    "type": "character",
+    "unique": false
+}

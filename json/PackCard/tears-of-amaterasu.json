@@ -1,161 +1,161 @@
 [
     {
-        "card_id": "blood-of-onnotangu",
+        "card_id": "02-blood-of-onnotangu",
         "flavor": null,
         "illustrator": "Kevin Zamir Goeke",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C02_1.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C02_1.jpg",
         "position": "1",
         "quantity": 3
     },
     {
-        "card_id": "disdainful-remark",
+        "card_id": "02-disdainful-remark",
         "flavor": null,
         "illustrator": "Tropa Entertainment",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C02_13.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C02_13.jpg",
         "position": "13",
         "quantity": 3
     },
     {
-        "card_id": "doji-representative",
+        "card_id": "02-doji-representative",
         "flavor": "\"I regret that I must decline your gracious invitation.\"",
         "illustrator": "Eli Ring",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C02_5.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C02_5.jpg",
         "position": "5",
         "quantity": 3
     },
     {
-        "card_id": "embrace-the-void",
+        "card_id": "02-embrace-the-void",
         "flavor": null,
         "illustrator": "Pavel Kolomeyets",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C02_16.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C02_16.jpg",
         "position": "16",
         "quantity": 3
     },
     {
-        "card_id": "finger-of-jade",
+        "card_id": "02-finger-of-jade",
         "flavor": null,
         "illustrator": "Ray Greaves",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C02_20.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C02_20.jpg",
         "position": "20",
         "quantity": 3
     },
     {
-        "card_id": "gifted-tactician",
+        "card_id": "02-gifted-tactician",
         "flavor": "\"If you are fighting only the present battle, you have already lost the war.\" - Kitsu Motso",
         "illustrator": "Niten",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C02_7.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C02_7.jpg",
         "position": "7",
         "quantity": 3
     },
     {
-        "card_id": "goblin-sneak",
+        "card_id": "02-goblin-sneak",
         "flavor": "\"Goblins? Impossible. Goblins have never been spotted this far from the Wall.\"",
-        "illustrator": "Oscar Römer",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C02_19.jpg",
+        "illustrator": "Oscar R\u00f6mer",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C02_19.jpg",
         "position": "19",
         "quantity": 3
     },
     {
-        "card_id": "hito-district",
+        "card_id": "02-hito-district",
         "flavor": null,
         "illustrator": "Chris Ostrowski",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C02_8.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C02_8.jpg",
         "position": "8",
         "quantity": 3
     },
     {
-        "card_id": "isawa-kaede",
+        "card_id": "02-isawa-kaede",
         "flavor": "\"All fates are one.\"",
         "illustrator": "Le Vuong",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C02_9.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C02_9.jpg",
         "position": "9",
         "quantity": 3
     },
     {
-        "card_id": "jade-masterpiece",
+        "card_id": "02-jade-masterpiece",
         "flavor": "\"Beauty? Enlightenment? A tragic waste of jade?\nWhat do you see?\" - Kitsuku Yaruma",
         "illustrator": "Eli Ring",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C02_14.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C02_14.jpg",
         "position": "14",
         "quantity": 3
     },
     {
-        "card_id": "karada-district",
+        "card_id": "02-karada-district",
         "flavor": null,
         "illustrator": "Chris Ostrowski",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C02_4.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C02_4.jpg",
         "position": "4",
         "quantity": 3
     },
     {
-        "card_id": "kitsuki-yaruma",
+        "card_id": "02-kitsuki-yaruma",
         "flavor": "\"One cannot send the mountains to the Emperor, but one can send an artist.\"",
         "illustrator": "Polar Engine",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C02_6.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C02_6.jpg",
         "position": "6",
         "quantity": 3
     },
     {
-        "card_id": "meek-informant",
+        "card_id": "02-meek-informant",
         "flavor": "Samurai seld notice peasants.\nPeasants always notice samurai.",
         "illustrator": "Jorge Matar",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C02_17.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C02_17.jpg",
         "position": "17",
         "quantity": 3
     },
     {
-        "card_id": "seal-of-the-crane",
-        "flavor": "In the name of Her Elegance, Lady Doji Hotaru,\nTrusted Left Hand of the Emperor,\nBeautiful Mistriss of the Arts,\nSkillfull Daimyō of the Doji, and\nIndomitable Champion of the Crane Clan",
+        "card_id": "02-seal-of-the-crane",
+        "flavor": "In the name of Her Elegance, Lady Doji Hotaru,\nTrusted Left Hand of the Emperor,\nBeautiful Mistriss of the Arts,\nSkillfull Daimy\u014d of the Doji, and\nIndomitable Champion of the Crane Clan",
         "illustrator": "Mauro Dal Bo",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C02_12.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C02_12.jpg",
         "position": "12",
         "quantity": 3
     },
     {
-        "card_id": "smoke-and-mirrors",
+        "card_id": "02-smoke-and-mirrors",
         "flavor": "\"What was that!?\"",
         "illustrator": "Nasrul Hakim",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C02_18.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C02_18.jpg",
         "position": "18",
         "quantity": 3
     },
     {
-        "card_id": "staunch-hida",
+        "card_id": "02-staunch-hida",
         "flavor": null,
         "illustrator": "Tropa Entertainment",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C02_3.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C02_3.jpg",
         "position": "3",
         "quantity": 3
     },
     {
-        "card_id": "swift-magistrate",
+        "card_id": "02-swift-magistrate",
         "flavor": "\"It is our duty to temper the law with compassion.\"",
         "illustrator": "Felipe Gaona",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C02_10.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C02_10.jpg",
         "position": "10",
         "quantity": 3
     },
     {
-        "card_id": "tears-of-amaterasu",
+        "card_id": "02-tears-of-amaterasu",
         "flavor": null,
         "illustrator": "Hai Hoang",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C02_2.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C02_2.jpg",
         "position": "2",
         "quantity": 3
     },
     {
-        "card_id": "time-for-war",
+        "card_id": "02-time-for-war",
         "flavor": null,
         "illustrator": "Piotr Arendzikowski",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C02_15.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C02_15.jpg",
         "position": "15",
         "quantity": 3
     },
     {
-        "card_id": "windswept-yurt",
+        "card_id": "02-windswept-yurt",
         "flavor": "\"After a week in the saddle, it felt like the Imperial Palace.\" - Shinjo Yasamura",
         "illustrator": "Leanna Crossan",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C02_11.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C02_11.jpg",
         "position": "11",
         "quantity": 3
     }

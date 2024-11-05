@@ -1,0 +1,38 @@
+{
+    "allowed_clans": [
+        "crab",
+        "crane",
+        "dragon",
+        "lion",
+        "phoenix",
+        "scorpion",
+        "unicorn"
+    ],
+    "clan": "phoenix",
+    "cost": 0,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "02-embrace-the-void",
+    "influence_cost": 2,
+    "influence_pool": null,
+    "is_restricted": true,
+    "military": null,
+    "military_bonus": "+0",
+    "name": "Embrace the Void",
+    "political": null,
+    "political_bonus": "+0",
+    "role_restriction": null,
+    "side": "conflict",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "Play only if you control a <em>Shugenja<\/em> character.\n<b>Interrupt:<\/b> When 1 or more fate would be removed from attached character \u2013 instead, move that fate to your fate pool.",
+    "traits": [
+        "spell",
+        "void"
+    ],
+    "type": "attachment",
+    "unique": false
+}

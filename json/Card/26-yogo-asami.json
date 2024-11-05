@@ -1,0 +1,31 @@
+{
+    "allowed_clans": [
+        "scorpion"
+    ],
+    "clan": "scorpion",
+    "cost": 2,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 2,
+    "honor": null,
+    "id": "26-yogo-asami",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "0",
+    "military_bonus": null,
+    "name": "Yogo Asami",
+    "political": "3",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "Bayushi Kachiko cannot be chosen as the target of abilities triggered by an opponent.\n<b>Action:<\/b> During a conflict in which this character is participating, bow it and choose a participating character \u2013 That character gets -2[conflict-military] until the end of the conflict.",
+    "traits": [
+        "courtier"
+    ],
+    "type": "character",
+    "unique": true
+}

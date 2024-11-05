@@ -1,0 +1,32 @@
+{
+    "allowed_clans": [
+        "crab"
+    ],
+    "clan": "crab",
+    "cost": 0,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 0,
+    "honor": null,
+    "id": "01-eager-scout",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "0",
+    "military_bonus": null,
+    "name": "Eager Scout",
+    "political": "0",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": null,
+    "traits": [
+        "bushi",
+        "scout"
+    ],
+    "type": "character",
+    "unique": false
+}

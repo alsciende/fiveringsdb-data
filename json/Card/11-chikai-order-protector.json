@@ -1,0 +1,32 @@
+{
+    "allowed_clans": [
+        "phoenix"
+    ],
+    "clan": "phoenix",
+    "cost": 4,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 1,
+    "honor": null,
+    "id": "11-chikai-order-protector",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "4",
+    "military_bonus": null,
+    "name": "Chikai Order Protector",
+    "political": "3",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "While this character is defending, if you control a participating <em>Courtier<\/em> or <em>Shugenja<\/em> character, this character does not bow as a result of conflict resolution.",
+    "traits": [
+        "bushi",
+        "yojimbo"
+    ],
+    "type": "character",
+    "unique": false
+}

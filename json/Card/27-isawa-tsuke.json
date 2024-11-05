@@ -1,0 +1,33 @@
+{
+    "allowed_clans": [
+        "phoenix"
+    ],
+    "clan": "phoenix",
+    "cost": 4,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 2,
+    "honor": null,
+    "id": "27-isawa-tsuke",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": true,
+    "military": "3",
+    "military_bonus": null,
+    "name": "Isawa Tsuke",
+    "political": "3",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Reaction:<\/b> After you honor or dishonor a character by the effect of the [element-fire] ring - each other character with the same printed cost as the chosen character controlled by the same player receives the same ring effect as that character.",
+    "traits": [
+        "shugenja",
+        "fire",
+        "elemental-master"
+    ],
+    "type": "character",
+    "unique": true
+}

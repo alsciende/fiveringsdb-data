@@ -1,0 +1,33 @@
+{
+    "allowed_clans": [
+        "phoenix"
+    ],
+    "clan": "phoenix",
+    "cost": 4,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 2,
+    "honor": null,
+    "id": "08-fire-elemental-guard",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "4",
+    "military_bonus": null,
+    "name": "Fire Elemental Guard",
+    "political": "2",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "No attachments except <em>Spell<\/em>.\n<b>Action:<\/b> During a conflict in which you have played 3 or more <em>Spell<\/em> cards, choose an attachment \u2013 discard that attachment.",
+    "traits": [
+        "shugenja",
+        "fire",
+        "army"
+    ],
+    "type": "character",
+    "unique": false
+}

@@ -1,0 +1,33 @@
+{
+    "allowed_clans": [
+        "scorpion"
+    ],
+    "clan": "scorpion",
+    "cost": 5,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 4,
+    "honor": null,
+    "id": "24-bayushi-shoju",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": null,
+    "name": "Bayushi Shoju",
+    "political": "7",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "Your opponents cannot have the Imperial Favor.\n<b>Forced Reaction:<\/b> After the conflict phase begins - each player draws 2 cards and loses 1 honor.",
+    "traits": [
+        "courtier",
+        "champion",
+        "imperial"
+    ],
+    "type": "character",
+    "unique": true
+}

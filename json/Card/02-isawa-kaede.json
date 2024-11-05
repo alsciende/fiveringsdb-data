@@ -1,0 +1,32 @@
+{
+    "allowed_clans": [
+        "phoenix"
+    ],
+    "clan": "phoenix",
+    "cost": 5,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 3,
+    "honor": null,
+    "id": "02-isawa-kaede",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "3",
+    "military_bonus": null,
+    "name": "Isawa Kaede",
+    "political": "4",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "Immune to opponent's ring effects.\nWhile this character is attacking, the contested ring gains the [element-void] element. If this character wins the conflict as an attacker, instead of choosing an element to resolve, resolve each of that ring's effects.",
+    "traits": [
+        "shugenja",
+        "void"
+    ],
+    "type": "character",
+    "unique": true
+}

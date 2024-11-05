@@ -1,0 +1,38 @@
+{
+    "allowed_clans": [
+        "crab",
+        "crane",
+        "dragon",
+        "lion",
+        "phoenix",
+        "scorpion",
+        "unicorn"
+    ],
+    "clan": "neutral",
+    "cost": 2,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "25-four-temples-advisor",
+    "influence_cost": 0,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": "+0",
+    "name": "Four Temples Advisor",
+    "political": null,
+    "political_bonus": "+2",
+    "role_restriction": null,
+    "side": "conflict",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "Restricted.\n<b>Reaction:<\/b> After you gain fate from a ring - draw 1 card. (Unlimited.)",
+    "traits": [
+        "brotherhood",
+        "follower"
+    ],
+    "type": "attachment",
+    "unique": false
+}

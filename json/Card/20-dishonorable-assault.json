@@ -1,0 +1,31 @@
+{
+    "allowed_clans": [
+        "lion"
+    ],
+    "clan": "lion",
+    "cost": null,
+    "deck_limit": 1,
+    "element": "fire",
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "20-dishonorable-assault",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": null,
+    "name": "Dishonorable Assault",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "province",
+    "strength": "4",
+    "strength_bonus": null,
+    "text": "<b>Action:<\/b> During a conflict at this province, discard one or more cards from your hand. Choose an equal number of attacking characters - dishonor each of those characters.",
+    "traits": [
+        "battlefield"
+    ],
+    "type": "province",
+    "unique": false
+}

@@ -1,0 +1,33 @@
+{
+    "allowed_clans": [
+        "unicorn"
+    ],
+    "clan": "unicorn",
+    "cost": 3,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 1,
+    "honor": null,
+    "id": "12-master-of-the-swift-waves",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "3",
+    "military_bonus": null,
+    "name": "Master of the Swift Waves",
+    "political": "2",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Action:<\/b> During a conflict, choose a participating character you control and a character in your home \u2013 switch the chosen characters' location.",
+    "traits": [
+        "shugenja",
+        "water",
+        "cavalry"
+    ],
+    "type": "character",
+    "unique": false
+}

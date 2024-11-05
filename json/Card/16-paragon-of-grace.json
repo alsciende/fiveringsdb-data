@@ -1,0 +1,32 @@
+{
+    "allowed_clans": [
+        "crane"
+    ],
+    "clan": "crane",
+    "cost": 3,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 1,
+    "honor": null,
+    "id": "16-paragon-of-grace",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "2",
+    "military_bonus": null,
+    "name": "Paragon of Grace",
+    "political": "3",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Action:<\/b> During a conflict in which this character is participating on your side alone - your opponent chooses and discards 1 card from his or her hand. If this character is honored, that card is chosen at random instead.\n<i>Errata from RRG v9<\/i>",
+    "traits": [
+        "bushi",
+        "courtier"
+    ],
+    "type": "character",
+    "unique": false
+}

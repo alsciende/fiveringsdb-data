@@ -1,0 +1,38 @@
+{
+    "allowed_clans": [
+        "crab",
+        "crane",
+        "dragon",
+        "lion",
+        "phoenix",
+        "scorpion",
+        "unicorn"
+    ],
+    "clan": "crab",
+    "cost": 1,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 0,
+    "honor": null,
+    "id": "12-nezumi-infiltrator",
+    "influence_cost": 2,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "1",
+    "military_bonus": null,
+    "name": "Nezumi Infiltrator",
+    "political": "1",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "conflict",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "Immune to <em>Shadowlands<\/em> and <em>Mah\u014d<\/em> card effects.\n<b>Reaction:<\/b> After this character enters play during a conflict \u2013 until the end of the conflict, raise or lower the strength of the attacked province by 1 (to a minimum of 1). (Max 1 per conflict.)",
+    "traits": [
+        "creature",
+        "scout"
+    ],
+    "type": "character",
+    "unique": false
+}

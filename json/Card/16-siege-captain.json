@@ -1,0 +1,33 @@
+{
+    "allowed_clans": [
+        "crab"
+    ],
+    "clan": "crab",
+    "cost": 3,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 2,
+    "honor": null,
+    "id": "16-siege-captain",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "5",
+    "military_bonus": null,
+    "name": "Siege Captain",
+    "political": "1",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "",
+    "traits": [
+        "bushi",
+        "commander",
+        "engineer"
+    ],
+    "type": "character",
+    "unique": false
+}

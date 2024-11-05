@@ -1,0 +1,33 @@
+{
+    "allowed_clans": [
+        "lion"
+    ],
+    "clan": "lion",
+    "cost": 5,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 2,
+    "honor": null,
+    "id": "09-matsu-seventh-legion",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "7",
+    "military_bonus": null,
+    "name": "Matsu Seventh Legion",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "No attachments except <em>Weapon<\/em>.\nWhile this character is attacking, each <em>Courtier<\/em> character cannot be declared as a defender.",
+    "traits": [
+        "bushi",
+        "army",
+        "cavalry"
+    ],
+    "type": "character",
+    "unique": false
+}

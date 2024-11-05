@@ -1,0 +1,31 @@
+{
+    "allowed_clans": [
+        "dragon"
+    ],
+    "clan": "dragon",
+    "cost": null,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "16-mirumoto-dojo",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": null,
+    "name": "Mirumoto D\u014dj\u014d",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": "+1",
+    "text": "<b>Action:<\/b> During a conflict, initiate a [conflict-military] duel \u2013 resolve the duel. Move 1 fate from the duel's loser to its owner's fate pool. If the duel's winner is a <em>Duelist<\/em>, discard that fate instead.",
+    "traits": [
+        "dojo"
+    ],
+    "type": "holding",
+    "unique": false
+}

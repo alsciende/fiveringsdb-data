@@ -1,0 +1,31 @@
+{
+    "allowed_clans": [
+        "phoenix"
+    ],
+    "clan": "phoenix",
+    "cost": null,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "03-magnificent-lighthouse",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": null,
+    "name": "Magnificent Lighthouse",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": "+2",
+    "text": "<b>Action:<\/b> Look at the top 3 cards of an opponent's deck. Discard 1 of those cards, place another on top of that deck, and the other on the bottom of that deck.",
+    "traits": [
+        "landmark"
+    ],
+    "type": "holding",
+    "unique": false
+}

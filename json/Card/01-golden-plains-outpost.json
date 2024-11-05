@@ -1,0 +1,31 @@
+{
+    "allowed_clans": [
+        "unicorn"
+    ],
+    "clan": "unicorn",
+    "cost": null,
+    "deck_limit": 1,
+    "element": null,
+    "fate": 7,
+    "glory": null,
+    "honor": 10,
+    "id": "01-golden-plains-outpost",
+    "influence_cost": null,
+    "influence_pool": 10,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": null,
+    "name": "Golden Plains Outpost",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "province",
+    "strength": null,
+    "strength_bonus": "+0",
+    "text": "<b>Action:<\/b> During a [conflict-military] conflict, bow this stronghold. Choose a <em>Cavalry<\/em> character you control \u2013 move it to that conflict.",
+    "traits": [
+        "outpost"
+    ],
+    "type": "stronghold",
+    "unique": true
+}

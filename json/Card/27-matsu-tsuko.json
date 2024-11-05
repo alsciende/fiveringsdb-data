@@ -1,0 +1,33 @@
+{
+    "allowed_clans": [
+        "lion"
+    ],
+    "clan": "lion",
+    "cost": 5,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 3,
+    "honor": null,
+    "id": "27-matsu-tsuko",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "5",
+    "military_bonus": null,
+    "name": "Matsu Tsuko",
+    "political": "4",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Reaction:<\/b> After this character wins a conflict as the attacker against a non-stronghold province, if you are more honorable than your opponent \u2013 break the attacked province.",
+    "traits": [
+        "bushi",
+        "champion",
+        "commander"
+    ],
+    "type": "character",
+    "unique": true
+}

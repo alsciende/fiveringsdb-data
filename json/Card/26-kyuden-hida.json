@@ -1,0 +1,31 @@
+{
+    "allowed_clans": [
+        "crab"
+    ],
+    "clan": "crab",
+    "cost": null,
+    "deck_limit": 1,
+    "element": null,
+    "fate": 7,
+    "glory": null,
+    "honor": 11,
+    "id": "26-kyuden-hida",
+    "influence_cost": null,
+    "influence_pool": 10,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": null,
+    "name": "Ky\u016bden Hida",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "province",
+    "strength": null,
+    "strength_bonus": "+2",
+    "text": "<b>Action:<\/b> During the dynasty phase, bow this stronghold - look at the top 3 cards of your dynasty deck. You may play a character from among those cards as if it were in your provinces. Discard the rest.",
+    "traits": [
+        "castle"
+    ],
+    "type": "stronghold",
+    "unique": true
+}

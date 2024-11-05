@@ -1,0 +1,39 @@
+{
+    "allowed_clans": [
+        "crab",
+        "crane",
+        "dragon",
+        "lion",
+        "phoenix",
+        "scorpion",
+        "unicorn"
+    ],
+    "clan": "neutral",
+    "cost": 3,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 2,
+    "honor": null,
+    "id": "16-humble-magistrate",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "2",
+    "military_bonus": null,
+    "name": "Humble Magistrate",
+    "political": "2",
+    "political_bonus": null,
+    "role_restriction": "seeker",
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<em>Seeker<\/em> role only.\nWhile this character is attacking, each character with printed cost 4 or higher does not count its skill towards the resolution of this conflict.",
+    "traits": [
+        "courtier",
+        "imperial",
+        "magistrate"
+    ],
+    "type": "character",
+    "unique": false
+}

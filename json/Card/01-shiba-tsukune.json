@@ -1,0 +1,32 @@
+{
+    "allowed_clans": [
+        "phoenix"
+    ],
+    "clan": "phoenix",
+    "cost": 5,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 4,
+    "honor": null,
+    "id": "01-shiba-tsukune",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "4",
+    "military_bonus": null,
+    "name": "Shiba Tsukune",
+    "political": "4",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Interrupt:<\/b> When the conflict phase ends \u2013 resolve the ring effects of up to 2 unclaimed rings as if you were the attacking player.",
+    "traits": [
+        "bushi",
+        "champion"
+    ],
+    "type": "character",
+    "unique": true
+}

@@ -1,0 +1,31 @@
+{
+    "allowed_clans": [
+        "phoenix"
+    ],
+    "clan": "phoenix",
+    "cost": 3,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 2,
+    "honor": null,
+    "id": "01-radiant-orator",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "1",
+    "military_bonus": null,
+    "name": "Radiant Orator",
+    "political": "2",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Action:<\/b> While this character is participating in a conflict, if you count more current glory than your opponent among ready participating characters, choose an enemy character \u2013 move that character home.",
+    "traits": [
+        "courtier"
+    ],
+    "type": "character",
+    "unique": false
+}

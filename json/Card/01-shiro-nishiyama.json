@@ -1,0 +1,31 @@
+{
+    "allowed_clans": [
+        "crab"
+    ],
+    "clan": "crab",
+    "cost": null,
+    "deck_limit": 1,
+    "element": null,
+    "fate": 7,
+    "glory": null,
+    "honor": 10,
+    "id": "01-shiro-nishiyama",
+    "influence_cost": null,
+    "influence_pool": 10,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": null,
+    "name": "Shiro Nishiyama",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "province",
+    "strength": null,
+    "strength_bonus": "+3",
+    "text": "<b>Action:<\/b> During a conflict, bow this stronghold \u2013 each defending character you control gets +1[conflict-military] and +1[conflict-political] until the end of the conflict.",
+    "traits": [
+        "castle"
+    ],
+    "type": "stronghold",
+    "unique": true
+}

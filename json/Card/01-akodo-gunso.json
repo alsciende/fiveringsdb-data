@@ -1,0 +1,31 @@
+{
+    "allowed_clans": [
+        "lion"
+    ],
+    "clan": "lion",
+    "cost": 2,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 2,
+    "honor": null,
+    "id": "01-akodo-gunso",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "2",
+    "military_bonus": null,
+    "name": "Akodo Guns\u014d",
+    "political": "1",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "Pride. <i>(After this character wins a conflict, honor it. After this character loses a conflict, dishonor it.)<\/i>\n<b>Reaction:<\/b> After this character enters play from a province \u2013 refill that province faceup.",
+    "traits": [
+        "bushi"
+    ],
+    "type": "character",
+    "unique": false
+}

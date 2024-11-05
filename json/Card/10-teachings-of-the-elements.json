@@ -1,0 +1,29 @@
+{
+    "allowed_clans": [
+        "phoenix"
+    ],
+    "clan": "phoenix",
+    "cost": null,
+    "deck_limit": 1,
+    "element": "earth",
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "10-teachings-of-the-elements",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": null,
+    "name": "Teachings of the Elements",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "province",
+    "strength": "5",
+    "strength_bonus": null,
+    "text": "This province gets +1 strength for each claimed ring.",
+    "traits": [],
+    "type": "province",
+    "unique": false
+}

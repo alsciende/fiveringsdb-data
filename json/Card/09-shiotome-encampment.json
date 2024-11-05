@@ -1,0 +1,31 @@
+{
+    "allowed_clans": [
+        "unicorn"
+    ],
+    "clan": "unicorn",
+    "cost": null,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "09-shiotome-encampment",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": null,
+    "name": "Shiotome Encampment",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": "+0",
+    "text": "<b>Action:<\/b> If you have a [conflict-military] ring in your claimed ring pool, choose a <em>Cavalry<\/em> character \u2013 ready that character.",
+    "traits": [
+        "battlefield"
+    ],
+    "type": "holding",
+    "unique": false
+}

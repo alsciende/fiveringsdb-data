@@ -1,0 +1,31 @@
+{
+    "allowed_clans": [
+        "dragon"
+    ],
+    "clan": "dragon",
+    "cost": null,
+    "deck_limit": 1,
+    "element": null,
+    "fate": 7,
+    "glory": null,
+    "honor": 10,
+    "id": "23-shiro-kitsuki",
+    "influence_cost": null,
+    "influence_pool": 11,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": null,
+    "name": "Shiro Kitsuki",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "province",
+    "strength": null,
+    "strength_bonus": "+2",
+    "text": "<b>Reaction:<\/b> After a conflict is declared, name a card - after each time your opponent plays that card during this conflict, choose an unclaimed ring and claim it as a [conflict-political] ring, gaining all fate from it. (Unlimited.)",
+    "traits": [
+        "castle"
+    ],
+    "type": "stronghold",
+    "unique": true
+}

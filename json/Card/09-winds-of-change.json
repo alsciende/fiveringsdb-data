@@ -1,0 +1,38 @@
+{
+    "allowed_clans": [
+        "crab",
+        "crane",
+        "dragon",
+        "lion",
+        "phoenix",
+        "scorpion",
+        "unicorn"
+    ],
+    "clan": "phoenix",
+    "cost": 0,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "09-winds-of-change",
+    "influence_cost": 1,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": null,
+    "name": "Winds of Change",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": "air",
+    "side": "conflict",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<em>Air<\/em> role only.\n<b>Action:<\/b> Return the [element-air] ring from a claimed ring pool to the unclaimed ring pool.",
+    "traits": [
+        "spell",
+        "air"
+    ],
+    "type": "event",
+    "unique": false
+}

@@ -1,0 +1,33 @@
+{
+    "allowed_clans": [
+        "phoenix"
+    ],
+    "clan": "phoenix",
+    "cost": 4,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 2,
+    "honor": null,
+    "id": "16-isawa-ujina",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "2",
+    "military_bonus": null,
+    "name": "Isawa Ujina",
+    "political": "4",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Forced Reaction:<\/b> After the [element-void] ring is claimed, choose a character with no fate - remove that character from the game. (Unlimited.)",
+    "traits": [
+        "shugenja",
+        "void",
+        "elemental-master"
+    ],
+    "type": "character",
+    "unique": true
+}

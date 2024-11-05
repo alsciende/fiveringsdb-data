@@ -1,0 +1,32 @@
+{
+    "allowed_clans": [
+        "unicorn"
+    ],
+    "clan": "unicorn",
+    "cost": 5,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 2,
+    "honor": null,
+    "id": "06-moto-juro",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "5",
+    "military_bonus": null,
+    "name": "Moto Juro",
+    "political": "2",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Action:<\/b> Select one \u2013 move this character into a conflict or move this character home from a conflict. (Limit twice per round.)",
+    "traits": [
+        "bushi",
+        "cavalry"
+    ],
+    "type": "character",
+    "unique": true
+}

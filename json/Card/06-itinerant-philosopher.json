@@ -1,0 +1,31 @@
+{
+    "allowed_clans": [
+        "dragon"
+    ],
+    "clan": "dragon",
+    "cost": 2,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 2,
+    "honor": null,
+    "id": "06-itinerant-philosopher",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "1",
+    "military_bonus": null,
+    "name": "Itinerant Philosopher",
+    "political": "1",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Action:<\/b> While this character is participating in a conflict, discard the Imperial Favor. Choose an opponent's participating character with 1 or more attachments \u2013 bow that character.",
+    "traits": [
+        "monk"
+    ],
+    "type": "character",
+    "unique": false
+}

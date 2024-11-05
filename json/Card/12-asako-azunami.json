@@ -1,0 +1,33 @@
+{
+    "allowed_clans": [
+        "phoenix"
+    ],
+    "clan": "phoenix",
+    "cost": 5,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 3,
+    "honor": null,
+    "id": "12-asako-azunami",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "4",
+    "military_bonus": null,
+    "name": "Asako Azunami",
+    "political": "4",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Interrupt:<\/b> When you would resolve the [element-water] ring \u2013 instead of the normal ring effect, you may choose and bow any character and you may choose and ready a different character.",
+    "traits": [
+        "shugenja",
+        "water",
+        "elemental-master"
+    ],
+    "type": "character",
+    "unique": true
+}

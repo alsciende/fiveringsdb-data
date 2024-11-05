@@ -1,0 +1,32 @@
+{
+    "allowed_clans": [
+        "lion"
+    ],
+    "clan": "lion",
+    "cost": 5,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 2,
+    "honor": null,
+    "id": "23-unified-company",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "6",
+    "military_bonus": null,
+    "name": "Unified Company",
+    "political": "2",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "No attachments except <em>Weapon<\/em>.\n<b>Reaction:<\/b> After this character wins a conflict, if you have fewer cards in you hand than your opponent - put a non-unique <em>Bushi<\/em> character with printed cost 2 or less into play from your dynasty discard pile.",
+    "traits": [
+        "bushi",
+        "army"
+    ],
+    "type": "character",
+    "unique": false
+}

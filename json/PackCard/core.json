@@ -1,1785 +1,1785 @@
 [
     {
-        "card_id": "above-question",
+        "card_id": "01-above-question",
         "flavor": "\"Excuse me, samurai-san, but you must be mistaken! It could not possibly have been her.\"",
         "illustrator": "Stu Barnes",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_141.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_141.jpg",
         "position": "141",
         "quantity": 1
     },
     {
-        "card_id": "adept-of-shadows",
+        "card_id": "01-adept-of-shadows",
         "flavor": "There are dozens of ways to hide, and only one way to be seen.",
         "illustrator": "Felipe Gaona",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_180.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_180.jpg",
         "position": "180",
         "quantity": 1
     },
     {
-        "card_id": "adept-of-the-waves",
+        "card_id": "01-adept-of-the-waves",
         "flavor": "\"Water is flexible and yielding, yet none can withstand the crashing waves.\"",
         "illustrator": "Jason Engle",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_84.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_84.jpg",
         "position": "84",
         "quantity": 1
     },
     {
-        "card_id": "admit-defeat",
+        "card_id": "01-admit-defeat",
         "flavor": "It is not only a question of defeating one's opponents, but defeating them in such a manner that they know they have been beaten.",
         "illustrator": "David Horne",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_147.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_147.jpg",
         "position": "147",
         "quantity": 1
     },
     {
-        "card_id": "against-the-waves",
+        "card_id": "01-against-the-waves",
         "flavor": "Water is ever changing. A gentle wave one moment and a torrent of force the next.",
         "illustrator": "Calvin Chua",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_177.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_177.jpg",
         "position": "177",
         "quantity": 1
     },
     {
-        "card_id": "agasha-swordsmith",
+        "card_id": "01-agasha-swordsmith",
         "flavor": null,
         "illustrator": "Stanislav Dikolenko",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_56.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_56.jpg",
         "position": "56",
         "quantity": 1
     },
     {
-        "card_id": "aggressive-moto",
+        "card_id": "01-aggressive-moto",
         "flavor": "Moto can die but cannot yield.",
         "illustrator": "Polar Engine",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_111.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_111.jpg",
         "position": "111",
         "quantity": 1
     },
     {
-        "card_id": "akodo-gunso",
+        "card_id": "01-akodo-gunso",
         "flavor": null,
         "illustrator": "Polar Engine",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_71.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_71.jpg",
         "position": "71",
         "quantity": 1
     },
     {
-        "card_id": "akodo-toturi",
+        "card_id": "01-akodo-toturi",
         "flavor": "A lion is more than his roar, his mane, his teeth, his heart. A lion is all of these.",
         "illustrator": "Shawn Ignatius Tan",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_79.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_79.jpg",
         "position": "79",
         "quantity": 1
     },
     {
-        "card_id": "ambush",
+        "card_id": "01-ambush",
         "flavor": null,
         "illustrator": "Calvin Chua",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_188.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_188.jpg",
         "position": "188",
         "quantity": 1
     },
     {
-        "card_id": "ancestral-daisho",
+        "card_id": "01-ancestral-daisho",
         "flavor": null,
         "illustrator": "Jason Juta",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_151.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_151.jpg",
         "position": "151",
         "quantity": 1
     },
     {
-        "card_id": "ancestral-lands",
+        "card_id": "01-ancestral-lands",
         "flavor": "\"Our claim on these lands stretches back to the dawn of the Empire.\"",
         "illustrator": "Nele Diel",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_15.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_15.jpg",
         "position": "15",
         "quantity": 2
     },
     {
-        "card_id": "artisan-academy",
+        "card_id": "01-artisan-academy",
         "flavor": null,
         "illustrator": "Conceptopolis",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_53.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_53.jpg",
         "position": "53",
         "quantity": 1
     },
     {
-        "card_id": "asahina-artisan",
+        "card_id": "01-asahina-artisan",
         "flavor": null,
         "illustrator": "Alayna Lemmer",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_40.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_40.jpg",
         "position": "40",
         "quantity": 1
     },
     {
-        "card_id": "asahina-storyteller",
+        "card_id": "01-asahina-storyteller",
         "flavor": null,
         "illustrator": "Caravan Studio",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_50.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_50.jpg",
         "position": "50",
         "quantity": 1
     },
     {
-        "card_id": "asako-diplomat",
+        "card_id": "01-asako-diplomat",
         "flavor": null,
         "illustrator": "Tony Foti",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_85.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_85.jpg",
         "position": "85",
         "quantity": 1
     },
     {
-        "card_id": "ascetic-visionary",
+        "card_id": "01-ascetic-visionary",
         "flavor": null,
         "illustrator": "Conceptopolis",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_63.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_63.jpg",
         "position": "63",
         "quantity": 1
     },
     {
-        "card_id": "assassination",
+        "card_id": "01-assassination",
         "flavor": null,
         "illustrator": "Greg Lambrakis",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_203.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_203.jpg",
         "position": "203",
         "quantity": 2
     },
     {
-        "card_id": "banzai",
+        "card_id": "01-banzai",
         "flavor": null,
         "illustrator": "Troy Graham",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_204.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_204.jpg",
         "position": "204",
         "quantity": 2
     },
     {
-        "card_id": "bayushi-liar",
+        "card_id": "01-bayushi-liar",
         "flavor": "\"I sincerely doubt that asking you to trust me will change your mind, and yet, I ask anyway.\"",
         "illustrator": "Diego Gisbert Llorens",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_95.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_95.jpg",
         "position": "95",
         "quantity": 1
     },
     {
-        "card_id": "bayushi-manipulator",
+        "card_id": "01-bayushi-manipulator",
         "flavor": "\"Victory does not always go to the strongest of two opponents.\" - Bayushi's Lies",
         "illustrator": "Polar Engine",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_96.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_96.jpg",
         "position": "96",
         "quantity": 1
     },
     {
-        "card_id": "bayushi-shoju",
+        "card_id": "01-bayushi-shoju",
         "flavor": "\"Believing what is true is only sensible.\"",
         "illustrator": "Shawn Ignatius Tan and Le Vuong",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_107.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_107.jpg",
         "position": "107",
         "quantity": 1
     },
     {
-        "card_id": "bayushi-yunako",
+        "card_id": "01-bayushi-yunako",
         "flavor": null,
         "illustrator": "Adam Schumpert",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_105.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_105.jpg",
         "position": "105",
         "quantity": 1
     },
     {
-        "card_id": "blackmail",
+        "card_id": "01-blackmail",
         "flavor": null,
         "illustrator": "Charles Urbach",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_189.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_189.jpg",
         "position": "189",
         "quantity": 1
     },
     {
-        "card_id": "blackmail-artist",
+        "card_id": "01-blackmail-artist",
         "flavor": "\"The real art lies in convincing your mark that you are bound, by duty and honor, to expose him. At which point, buying you off becomes his idea.\"",
         "illustrator": "Erich Schreiner",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_98.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_98.jpg",
         "position": "98",
         "quantity": 1
     },
     {
-        "card_id": "border-rider",
+        "card_id": "01-border-rider",
         "flavor": "Ride to the horizon and back again. Only then can you begin to comprehend the Unicorn.",
         "illustrator": "Charles Urbach",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_112.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_112.jpg",
         "position": "112",
         "quantity": 1
     },
     {
-        "card_id": "borderlands-defender",
+        "card_id": "01-borderlands-defender",
         "flavor": "Even when faced with such hardship, the Crab Clan has never wavered, standing steadfast in its duty to protect the southern border of the Empire.",
         "illustrator": "Le Vuong",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_31.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_31.jpg",
         "position": "31",
         "quantity": 1
     },
     {
-        "card_id": "borderlands-fortifications",
+        "card_id": "01-borderlands-fortifications",
         "flavor": null,
         "illustrator": "Noah Bradley",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_38.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_38.jpg",
         "position": "38",
         "quantity": 1
     },
     {
-        "card_id": "born-in-war",
+        "card_id": "01-born-in-war",
         "flavor": null,
         "illustrator": "Kevin Zamir Goeke",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_194.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_194.jpg",
         "position": "194",
         "quantity": 1
     },
     {
-        "card_id": "brash-samurai",
+        "card_id": "01-brash-samurai",
         "flavor": "A samurai lives at all times three feet from death.",
         "illustrator": "Calvin Chua",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_42.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_42.jpg",
         "position": "42",
         "quantity": 1
     },
     {
-        "card_id": "breakthrough",
+        "card_id": "01-breakthrough",
         "flavor": null,
         "illustrator": "Sergio Camarena",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_195.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_195.jpg",
         "position": "195",
         "quantity": 1
     },
     {
-        "card_id": "calling-in-favors",
+        "card_id": "01-calling-in-favors",
         "flavor": null,
         "illustrator": "Carlos Palma Cruchaga",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_186.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_186.jpg",
         "position": "186",
         "quantity": 1
     },
     {
-        "card_id": "captive-audience",
+        "card_id": "01-captive-audience",
         "flavor": "\"Now you must heed our demands!\"",
         "illustrator": "Calvin Chua",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_196.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_196.jpg",
         "position": "196",
         "quantity": 1
     },
     {
-        "card_id": "cautious-scout",
+        "card_id": "01-cautious-scout",
         "flavor": "They told him to be careful, but there was only one way to know for sure.",
         "illustrator": "Sergio Camarena",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_43.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_43.jpg",
         "position": "43",
         "quantity": 1
     },
     {
-        "card_id": "cavalry-reserves",
+        "card_id": "01-cavalry-reserves",
         "flavor": null,
         "illustrator": "Andy Hepworth",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_199.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_199.jpg",
         "position": "199",
         "quantity": 1
     },
     {
-        "card_id": "charge",
+        "card_id": "01-charge",
         "flavor": "A samurai must always be ready. Ready to fight. And ready, if need be, to die.",
         "illustrator": "Niten",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_210.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_210.jpg",
         "position": "210",
         "quantity": 2
     },
     {
-        "card_id": "city-of-lies",
+        "card_id": "01-city-of-lies",
         "flavor": "In Ryok&#333; Owari Toshi, koku could pave any road.",
         "illustrator": "Chris Ostrowski",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_108.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_108.jpg",
         "position": "108",
         "quantity": 1
     },
     {
-        "card_id": "city-of-the-open-hand",
+        "card_id": "01-city-of-the-open-hand",
         "flavor": null,
         "illustrator": "Chris Ostrowski",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_6.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_6.jpg",
         "position": "6",
         "quantity": 1
     },
     {
-        "card_id": "cloud-the-mind",
+        "card_id": "01-cloud-the-mind",
         "flavor": null,
         "illustrator": "Veronica V. Jones",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_202.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_202.jpg",
         "position": "202",
         "quantity": 2
     },
     {
-        "card_id": "contingency-plan",
+        "card_id": "01-contingency-plan",
         "flavor": "\"The only thing that is certain is that something will go wrong.\" - Bayushi's Lies",
         "illustrator": "Filip Storch",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_205.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_205.jpg",
         "position": "205",
         "quantity": 2
     },
     {
-        "card_id": "court-games",
+        "card_id": "01-court-games",
         "flavor": null,
         "illustrator": "Shen Fei",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_206.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_206.jpg",
         "position": "206",
         "quantity": 2
     },
     {
-        "card_id": "court-mask",
+        "card_id": "01-court-mask",
         "flavor": null,
         "illustrator": "Diego Gisbert Llorens",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_182.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_182.jpg",
         "position": "182",
         "quantity": 1
     },
     {
-        "card_id": "daidoji-nerishma",
+        "card_id": "01-daidoji-nerishma",
         "flavor": "\"It's an ambush! Be ready!\"",
         "illustrator": "Polar Engine",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_46.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_46.jpg",
         "position": "46",
         "quantity": 1
     },
     {
-        "card_id": "daimyo-s-favor",
+        "card_id": "01-daimyo-s-favor",
         "flavor": null,
         "illustrator": "Lukas Banas",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_152.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_152.jpg",
         "position": "152",
         "quantity": 1
     },
     {
-        "card_id": "deathseeker",
+        "card_id": "01-deathseeker",
         "flavor": "\"I shall redeem my name in service to my clan!\"",
         "illustrator": "Conceptopolis",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_72.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_72.jpg",
         "position": "72",
         "quantity": 1
     },
     {
-        "card_id": "defend-the-wall",
+        "card_id": "01-defend-the-wall",
         "flavor": null,
         "illustrator": "Chris Ostrowski",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_8.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_8.jpg",
         "position": "8",
         "quantity": 1
     },
     {
-        "card_id": "display-of-power",
+        "card_id": "01-display-of-power",
         "flavor": null,
         "illustrator": "Shen Fei",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_179.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_179.jpg",
         "position": "179",
         "quantity": 1
     },
     {
-        "card_id": "doji-challenger",
+        "card_id": "01-doji-challenger",
         "flavor": "\"I hope you are prepared to defend your words with steel!\"",
         "illustrator": "Zezhou Chen",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_47.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_47.jpg",
         "position": "47",
         "quantity": 1
     },
     {
-        "card_id": "doji-gift-giver",
+        "card_id": "01-doji-gift-giver",
         "flavor": null,
         "illustrator": "Lukas Banas",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_44.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_44.jpg",
         "position": "44",
         "quantity": 1
     },
     {
-        "card_id": "doji-hotaru",
+        "card_id": "01-doji-hotaru",
         "flavor": "\"Were it not for the rule of k&#333;, we would be trapped in this game for eternity. We are nearly perfectly matched.\"",
         "illustrator": "Shawn Ignatius Tan",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_52.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_52.jpg",
         "position": "52",
         "quantity": 1
     },
     {
-        "card_id": "doji-whisperer",
+        "card_id": "01-doji-whisperer",
         "flavor": "\"Lean closer, that I might tell you something only the willows should hear...\"",
         "illustrator": "Kathryn Steele",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_41.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_41.jpg",
         "position": "41",
         "quantity": 1
     },
     {
-        "card_id": "doomed-shugenja",
+        "card_id": "01-doomed-shugenja",
         "flavor": null,
         "illustrator": "Smirtouille",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_54.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_54.jpg",
         "position": "54",
         "quantity": 1
     },
     {
-        "card_id": "duelist-training",
+        "card_id": "01-duelist-training",
         "flavor": null,
         "illustrator": "Charles Urbach",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_142.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_142.jpg",
         "position": "142",
         "quantity": 1
     },
     {
-        "card_id": "eager-scout",
+        "card_id": "01-eager-scout",
         "flavor": "The first to fight, the first to die.",
         "illustrator": "Diego Gisbert Llorens",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_25.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_25.jpg",
         "position": "25",
         "quantity": 1
     },
     {
-        "card_id": "elemental-fury",
+        "card_id": "01-elemental-fury",
         "flavor": null,
         "illustrator": "Calvin Chua",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_16.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_16.jpg",
         "position": "16",
         "quantity": 2
     },
     {
-        "card_id": "endless-plains",
+        "card_id": "01-endless-plains",
         "flavor": null,
         "illustrator": "Alayna Lemmer",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_14.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_14.jpg",
         "position": "14",
         "quantity": 1
     },
     {
-        "card_id": "enlightened-warrior",
+        "card_id": "01-enlightened-warrior",
         "flavor": "In heart, air.\nIn spirit, earth.\nIn sword, fire.\nIn body, water.\nIn mind, void.",
-        "illustrator": "Carlos Nuñez de Castro Torres",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_60.jpg",
+        "illustrator": "Carlos Nu\u00f1ez de Castro Torres",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_60.jpg",
         "position": "60",
         "quantity": 1
     },
     {
-        "card_id": "entrenched-position",
+        "card_id": "01-entrenched-position",
         "flavor": "\"It would take an entire Moto horde to break through here.\"",
         "illustrator": "Stanislav Dikolenko",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_17.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_17.jpg",
         "position": "17",
         "quantity": 2
     },
     {
-        "card_id": "fallen-in-battle",
+        "card_id": "01-fallen-in-battle",
         "flavor": null,
         "illustrator": "Chris Pritchard",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_211.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_211.jpg",
         "position": "211",
         "quantity": 2
     },
     {
-        "card_id": "favorable-ground",
+        "card_id": "01-favorable-ground",
         "flavor": null,
         "illustrator": "Jon Hodgson",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_128.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_128.jpg",
         "position": "128",
         "quantity": 2
     },
     {
-        "card_id": "favored-mount",
+        "card_id": "01-favored-mount",
         "flavor": null,
         "illustrator": "Lin Hsiang",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_192.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_192.jpg",
         "position": "192",
         "quantity": 1
     },
     {
-        "card_id": "favored-niece",
+        "card_id": "01-favored-niece",
         "flavor": "Not once in her life had she needed to ask twice.",
         "illustrator": "Wen Juinn",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_102.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_102.jpg",
         "position": "102",
         "quantity": 1
     },
     {
-        "card_id": "fearsome-mystic",
+        "card_id": "01-fearsome-mystic",
         "flavor": null,
         "illustrator": "Shawn Ignatius Tan",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_91.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_91.jpg",
         "position": "91",
         "quantity": 1
     },
     {
-        "card_id": "fertile-fields",
+        "card_id": "01-fertile-fields",
         "flavor": "\"Inari-no-Kami smiles upon these lands.\" - Aiko, priestess of Inari",
         "illustrator": "Gong Studios",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_18.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_18.jpg",
         "position": "18",
         "quantity": 2
     },
     {
-        "card_id": "fiery-madness",
+        "card_id": "01-fiery-madness",
         "flavor": "They had considered every possible vulnerability, save one.",
         "illustrator": "Jorge Matar",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_183.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_183.jpg",
         "position": "183",
         "quantity": 1
     },
     {
-        "card_id": "fine-katana",
+        "card_id": "01-fine-katana",
         "flavor": "Immortal steel waits\nVenerated divine blade\nThe fires of the soul",
         "illustrator": "Brent Chumley",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_200.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_200.jpg",
         "position": "200",
         "quantity": 2
     },
     {
-        "card_id": "for-greater-glory",
+        "card_id": "01-for-greater-glory",
         "flavor": "\"Our names shall never be forgotten!\"",
         "illustrator": "Niten",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_168.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_168.jpg",
         "position": "168",
         "quantity": 1
     },
     {
-        "card_id": "for-shame",
+        "card_id": "01-for-shame",
         "flavor": null,
         "illustrator": "Shen Fei",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_207.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_207.jpg",
         "position": "207",
         "quantity": 2
     },
     {
-        "card_id": "forged-edict",
+        "card_id": "01-forged-edict",
         "flavor": null,
         "illustrator": "Llyn Hunter",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_184.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_184.jpg",
         "position": "184",
         "quantity": 1
     },
     {
-        "card_id": "forgotten-library",
+        "card_id": "01-forgotten-library",
         "flavor": "Truth cannot be lost, only forgotten.",
         "illustrator": "Lino Drieghe",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_94.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_94.jpg",
         "position": "94",
         "quantity": 1
     },
     {
-        "card_id": "funeral-pyre",
+        "card_id": "01-funeral-pyre",
         "flavor": "\"We speed our fallen to Meido, that they do not rise again.\"",
         "illustrator": "Kevin Zamir Goeke",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_39.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_39.jpg",
         "position": "39",
         "quantity": 1
     },
     {
-        "card_id": "giver-of-gifts",
+        "card_id": "01-giver-of-gifts",
         "flavor": null,
         "illustrator": "Smirtouille",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_115.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_115.jpg",
         "position": "115",
         "quantity": 1
     },
     {
-        "card_id": "golden-plains-outpost",
+        "card_id": "01-golden-plains-outpost",
         "flavor": null,
         "illustrator": "Alayna Lemmer",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_7.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_7.jpg",
         "position": "7",
         "quantity": 1
     },
     {
-        "card_id": "good-omen",
+        "card_id": "01-good-omen",
         "flavor": null,
         "illustrator": "Eli Ring",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_208.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_208.jpg",
         "position": "208",
         "quantity": 2
     },
     {
-        "card_id": "grasp-of-earth",
+        "card_id": "01-grasp-of-earth",
         "flavor": null,
         "illustrator": "Jonathan Hunt",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_173.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_173.jpg",
         "position": "173",
         "quantity": 1
     },
     {
-        "card_id": "guest-of-honor",
+        "card_id": "01-guest-of-honor",
         "flavor": "\"You wouldn't want to disgrace yourself in front of our distinguished guest, would you?\"",
         "illustrator": "Wen Juinn",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_51.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_51.jpg",
         "position": "51",
         "quantity": 1
     },
     {
-        "card_id": "guidance-of-the-ancestors",
+        "card_id": "01-guidance-of-the-ancestors",
         "flavor": "\"Oh blessed ancestors, hear my prayer! May the strength of your honor guide my steps and lead me to righteousness!\"",
         "illustrator": "Matt Zeilinger",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_162.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_162.jpg",
         "position": "162",
         "quantity": 1
     },
     {
-        "card_id": "height-of-fashion",
+        "card_id": "01-height-of-fashion",
         "flavor": "The tides of fashion ebb and flow. Stay ahead of them, or sink beneath the waves of obscurity.",
         "illustrator": "Gemma Tegelaers",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_143.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_143.jpg",
         "position": "143",
         "quantity": 1
     },
     {
-        "card_id": "hida-guardian",
+        "card_id": "01-hida-guardian",
         "flavor": null,
         "illustrator": "Drew Baker",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_26.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_26.jpg",
         "position": "26",
         "quantity": 1
     },
     {
-        "card_id": "hida-kisada",
+        "card_id": "01-hida-kisada",
         "flavor": "\"What need have I of glory to defend this Wall?\"",
         "illustrator": "Shawn Ignatius Tan",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_37.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_37.jpg",
         "position": "37",
         "quantity": 1
     },
     {
-        "card_id": "hida-tomonatsu",
+        "card_id": "01-hida-tomonatsu",
         "flavor": null,
         "illustrator": "MuYoung Kim",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_34.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_34.jpg",
         "position": "34",
         "quantity": 1
     },
     {
-        "card_id": "hiruma-ambusher",
+        "card_id": "01-hiruma-ambusher",
         "flavor": null,
         "illustrator": "Brandon Leach",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_130.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_130.jpg",
         "position": "130",
         "quantity": 1
     },
     {
-        "card_id": "hiruma-yojimbo",
+        "card_id": "01-hiruma-yojimbo",
         "flavor": "Enemies learned quickly: it was never wise to give her reason to draw that awful blade.",
         "illustrator": "Shen Fei",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_28.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_28.jpg",
         "position": "28",
         "quantity": 1
     },
     {
-        "card_id": "honored-blade",
+        "card_id": "01-honored-blade",
         "flavor": null,
         "illustrator": "Conceptopolis",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_163.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_163.jpg",
         "position": "163",
         "quantity": 1
     },
     {
-        "card_id": "honored-general",
+        "card_id": "01-honored-general",
         "flavor": null,
         "illustrator": "Diego Gisbert Llorens",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_77.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_77.jpg",
         "position": "77",
         "quantity": 1
     },
     {
-        "card_id": "i-am-ready",
+        "card_id": "01-i-am-ready",
         "flavor": null,
         "illustrator": "Drew Baker",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_197.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_197.jpg",
         "position": "197",
         "quantity": 1
     },
     {
-        "card_id": "i-can-swim",
+        "card_id": "01-i-can-swim",
         "flavor": "\"But scorpion! Now we will both die!\"",
         "illustrator": "Scott Wade",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_187.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_187.jpg",
         "position": "187",
         "quantity": 1
     },
     {
-        "card_id": "ide-messenger",
+        "card_id": "01-ide-messenger",
         "flavor": null,
         "illustrator": "Lin Hsiang",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_191.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_191.jpg",
         "position": "191",
         "quantity": 1
     },
     {
-        "card_id": "ide-trader",
+        "card_id": "01-ide-trader",
         "flavor": null,
         "illustrator": "Caravan Studio",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_116.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_116.jpg",
         "position": "116",
         "quantity": 1
     },
     {
-        "card_id": "ikoma-eiji",
+        "card_id": "01-ikoma-eiji",
         "flavor": null,
         "illustrator": "Carlos Palma Cruchaga",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_78.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_78.jpg",
         "position": "78",
         "quantity": 1
     },
     {
-        "card_id": "ikoma-prodigy",
+        "card_id": "01-ikoma-prodigy",
         "flavor": "She was destined to follow the path of her ancestors, the path of the true Go sage.",
         "illustrator": "Mario Wibisono",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_68.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_68.jpg",
         "position": "68",
         "quantity": 1
     },
     {
-        "card_id": "imperial-storehouse",
+        "card_id": "01-imperial-storehouse",
         "flavor": null,
         "illustrator": "Charles Urbach",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_129.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_129.jpg",
         "position": "129",
         "quantity": 2
     },
     {
-        "card_id": "indomitable-will",
+        "card_id": "01-indomitable-will",
         "flavor": null,
         "illustrator": "Tony Foti",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_158.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_158.jpg",
         "position": "158",
         "quantity": 1
     },
     {
-        "card_id": "intimidating-hida",
+        "card_id": "01-intimidating-hida",
         "flavor": "\"Is that all you've got?\"",
         "illustrator": "Sergio Camarena",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_32.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_32.jpg",
         "position": "32",
         "quantity": 1
     },
     {
-        "card_id": "isawa-atsuko",
+        "card_id": "01-isawa-atsuko",
         "flavor": null,
         "illustrator": "Le Vuong",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_92.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_92.jpg",
         "position": "92",
         "quantity": 1
     },
     {
-        "card_id": "isawa-masahiro",
+        "card_id": "01-isawa-masahiro",
         "flavor": "\"The kami are my allies. How can you hope to stand against me?\"",
         "illustrator": "Polar Engine",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_90.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_90.jpg",
         "position": "90",
         "quantity": 1
     },
     {
-        "card_id": "isawa-mori-seido",
+        "card_id": "01-isawa-mori-seido",
         "flavor": null,
         "illustrator": "Alayna Lemmer",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_5.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_5.jpg",
         "position": "5",
         "quantity": 1
     },
     {
-        "card_id": "ishiken-initiate",
+        "card_id": "01-ishiken-initiate",
         "flavor": "The void is nothing. The void is everything.",
         "illustrator": "Shen Fei",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_170.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_170.jpg",
         "position": "170",
         "quantity": 1
     },
     {
-        "card_id": "iuchi-wayfinder",
+        "card_id": "01-iuchi-wayfinder",
         "flavor": "Chase the sun. Discover the world.",
         "illustrator": "Calvin Chua",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_190.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_190.jpg",
         "position": "190",
         "quantity": 1
     },
     {
-        "card_id": "jade-tetsubo",
+        "card_id": "01-jade-tetsubo",
         "flavor": null,
         "illustrator": "Lukas Banas",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_134.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_134.jpg",
         "position": "134",
         "quantity": 1
     },
     {
-        "card_id": "kaiu-envoy",
+        "card_id": "01-kaiu-envoy",
         "flavor": null,
         "illustrator": "Drew Baker",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_27.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_27.jpg",
         "position": "27",
         "quantity": 1
     },
     {
-        "card_id": "kaiu-shuichi",
+        "card_id": "01-kaiu-shuichi",
         "flavor": null,
-        "illustrator": "Antonio José Manzanedo",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_36.jpg",
+        "illustrator": "Antonio Jos\u00e9 Manzanedo",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_36.jpg",
         "position": "36",
         "quantity": 1
     },
     {
-        "card_id": "kakita-asami",
+        "card_id": "01-kakita-asami",
         "flavor": null,
         "illustrator": "Mario Wibisono",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_48.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_48.jpg",
         "position": "48",
         "quantity": 1
     },
     {
-        "card_id": "kakita-kaezin",
+        "card_id": "01-kakita-kaezin",
         "flavor": "\"For the coward, there is no life.\nFor the hero, there is no death.\"",
         "illustrator": "Diego Gisbert Llorens",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_49.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_49.jpg",
         "position": "49",
         "quantity": 1
     },
     {
-        "card_id": "keeper-initiate",
+        "card_id": "01-keeper-initiate",
         "flavor": null,
         "illustrator": "Sergio Camarena",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_124.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_124.jpg",
         "position": "124",
         "quantity": 2
     },
     {
-        "card_id": "keeper-of-air",
+        "card_id": "01-keeper-of-air",
         "flavor": null,
-        "illustrator": "–",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_214A.jpg",
+        "illustrator": "\u2013",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_214A.jpg",
         "position": "214A",
         "quantity": 1
     },
     {
-        "card_id": "keeper-of-earth",
+        "card_id": "01-keeper-of-earth",
         "flavor": null,
-        "illustrator": "–",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_215A.jpg",
+        "illustrator": "\u2013",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_215A.jpg",
         "position": "215A",
         "quantity": 1
     },
     {
-        "card_id": "keeper-of-fire",
+        "card_id": "01-keeper-of-fire",
         "flavor": null,
-        "illustrator": "–",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_216A.jpg",
+        "illustrator": "\u2013",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_216A.jpg",
         "position": "216A",
         "quantity": 1
     },
     {
-        "card_id": "keeper-of-void",
+        "card_id": "01-keeper-of-void",
         "flavor": null,
-        "illustrator": "–",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_218A.jpg",
+        "illustrator": "\u2013",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_218A.jpg",
         "position": "218A",
         "quantity": 1
     },
     {
-        "card_id": "keeper-of-water",
+        "card_id": "01-keeper-of-water",
         "flavor": null,
-        "illustrator": "–",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_217A.jpg",
+        "illustrator": "\u2013",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_217A.jpg",
         "position": "217A",
         "quantity": 1
     },
     {
-        "card_id": "kitsu-spiritcaller",
+        "card_id": "01-kitsu-spiritcaller",
         "flavor": null,
         "illustrator": "Jessica Cox",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_74.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_74.jpg",
         "position": "74",
         "quantity": 1
     },
     {
-        "card_id": "kitsuki-investigator",
+        "card_id": "01-kitsuki-investigator",
         "flavor": null,
         "illustrator": "Lin Hsiang",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_61.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_61.jpg",
         "position": "61",
         "quantity": 1
     },
     {
-        "card_id": "kitsuki-s-method",
+        "card_id": "01-kitsuki-s-method",
         "flavor": "Every detail, no matter how small, carries its own implications of the truth.",
         "illustrator": "Stu Barnes",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_153.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_153.jpg",
         "position": "153",
         "quantity": 1
     },
     {
-        "card_id": "know-the-world",
+        "card_id": "01-know-the-world",
         "flavor": null,
         "illustrator": "Anna Christenson",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_178.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_178.jpg",
         "position": "178",
         "quantity": 1
     },
     {
-        "card_id": "kuroi-mori",
+        "card_id": "01-kuroi-mori",
         "flavor": null,
         "illustrator": "Oliver Specht",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_12.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_12.jpg",
         "position": "12",
         "quantity": 1
     },
     {
-        "card_id": "let-go",
+        "card_id": "01-let-go",
         "flavor": "The material world is but a distraction.",
         "illustrator": "Felipe Gaona",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_155.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_155.jpg",
         "position": "155",
         "quantity": 1
     },
     {
-        "card_id": "levy",
+        "card_id": "01-levy",
         "flavor": "\"Every clan must aid in the defense of Rokugan.\"",
         "illustrator": "Caravan Studio",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_135.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_135.jpg",
         "position": "135",
         "quantity": 1
     },
     {
-        "card_id": "lion-s-pride-brawler",
+        "card_id": "01-lion-s-pride-brawler",
         "flavor": "\"Let me put it another way.\"",
         "illustrator": "Polar Engine",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_75.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_75.jpg",
         "position": "75",
         "quantity": 1
     },
     {
-        "card_id": "magnificent-kimono",
+        "card_id": "01-magnificent-kimono",
         "flavor": null,
         "illustrator": "Heather V. Kreiter",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_172.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_172.jpg",
         "position": "172",
         "quantity": 1
     },
     {
-        "card_id": "manicured-garden",
+        "card_id": "01-manicured-garden",
         "flavor": "The perfect garden maintains all five elements in harmony.",
         "illustrator": "Stefano Baldo",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_19.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_19.jpg",
         "position": "19",
         "quantity": 2
     },
     {
-        "card_id": "mantra-of-fire",
+        "card_id": "01-mantra-of-fire",
         "flavor": null,
         "illustrator": "Dan Martin",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_156.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_156.jpg",
         "position": "156",
         "quantity": 1
     },
     {
-        "card_id": "master-of-the-spear",
+        "card_id": "01-master-of-the-spear",
         "flavor": null,
         "illustrator": "Mario Wibisono",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_161.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_161.jpg",
         "position": "161",
         "quantity": 1
     },
     {
-        "card_id": "matsu-beiona",
+        "card_id": "01-matsu-beiona",
         "flavor": null,
         "illustrator": "Cassandre Bolan",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_76.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_76.jpg",
         "position": "76",
         "quantity": 1
     },
     {
-        "card_id": "matsu-berserker",
+        "card_id": "01-matsu-berserker",
         "flavor": "When the rage surged forth, none could stand against them.",
         "illustrator": "Hector Herrera",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_69.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_69.jpg",
         "position": "69",
         "quantity": 1
     },
     {
-        "card_id": "meddling-mediator",
+        "card_id": "01-meddling-mediator",
         "flavor": null,
         "illustrator": "Drew Baker",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_86.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_86.jpg",
         "position": "86",
         "quantity": 1
     },
     {
-        "card_id": "meditations-on-the-tao",
+        "card_id": "01-meditations-on-the-tao",
         "flavor": "\"Appreciation of beauty is the beginning of wisdom.\" - Tao of Shinsei",
         "illustrator": "Eli Ring",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_20.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_20.jpg",
         "position": "20",
         "quantity": 2
     },
     {
-        "card_id": "meishodo-wielder",
+        "card_id": "01-meishodo-wielder",
         "flavor": "\"I know the kami's Name. I can bend it to my will.\"",
         "illustrator": "Felipe Gaona",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_113.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_113.jpg",
         "position": "113",
         "quantity": 1
     },
     {
-        "card_id": "mirumoto-prodigy",
+        "card_id": "01-mirumoto-prodigy",
         "flavor": "Each new opponent showed her more of herself.",
         "illustrator": "Polar Engine",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_57.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_57.jpg",
         "position": "57",
         "quantity": 1
     },
     {
-        "card_id": "mirumoto-raitsugu",
+        "card_id": "01-mirumoto-raitsugu",
         "flavor": null,
         "illustrator": "Brock Grossman",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_62.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_62.jpg",
         "position": "62",
         "quantity": 1
     },
     {
-        "card_id": "mirumoto-s-fury",
+        "card_id": "01-mirumoto-s-fury",
         "flavor": null,
         "illustrator": "Polar Engine",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_159.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_159.jpg",
         "position": "159",
         "quantity": 1
     },
     {
-        "card_id": "miya-mystic",
+        "card_id": "01-miya-mystic",
         "flavor": "\"Most of my family speak to the citizens of the Empire. I speak to the kami of the land itself.\"",
         "illustrator": "Mike Capprotti",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_125.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_125.jpg",
         "position": "125",
         "quantity": 3
     },
     {
-        "card_id": "moto-horde",
+        "card_id": "01-moto-horde",
         "flavor": "Felled by swords or trampled by hooves: to face them was to face death.",
         "illustrator": "Calvin Chua",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_119.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_119.jpg",
         "position": "119",
         "quantity": 1
     },
     {
-        "card_id": "moto-youth",
+        "card_id": "01-moto-youth",
         "flavor": "Strike your enemies with such speed they cannot think to strike back.",
         "illustrator": "Polar Engine",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_109.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_109.jpg",
         "position": "109",
         "quantity": 1
     },
     {
-        "card_id": "mountain-s-anvil-castle",
+        "card_id": "01-mountain-s-anvil-castle",
         "flavor": null,
         "illustrator": "Alayna Lemmer",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_3.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_3.jpg",
         "position": "3",
         "quantity": 1
     },
     {
-        "card_id": "naive-student",
+        "card_id": "01-naive-student",
         "flavor": "\"Your first lesson is to realize that facts alone cannot sway the soul.\" - Asako Hayate",
         "illustrator": "Matt Hansen",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_81.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_81.jpg",
         "position": "81",
         "quantity": 1
     },
     {
-        "card_id": "night-raid",
+        "card_id": "01-night-raid",
         "flavor": null,
         "illustrator": "Niten",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_21.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_21.jpg",
         "position": "21",
         "quantity": 2
     },
     {
-        "card_id": "niten-adept",
+        "card_id": "01-niten-adept",
         "flavor": null,
         "illustrator": "Niten",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_58.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_58.jpg",
         "position": "58",
         "quantity": 1
     },
     {
-        "card_id": "niten-master",
+        "card_id": "01-niten-master",
         "flavor": null,
         "illustrator": "Drew Baker",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_64.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_64.jpg",
         "position": "64",
         "quantity": 1
     },
     {
-        "card_id": "noble-sacrifice",
+        "card_id": "01-noble-sacrifice",
         "flavor": "There was no greater honor.",
         "illustrator": "Eli Ring",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_148.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_148.jpg",
         "position": "148",
         "quantity": 1
     },
     {
-        "card_id": "obstinate-recruit",
+        "card_id": "01-obstinate-recruit",
         "flavor": "Others might question his pride, assuming it would be his downfall. For him, it was a source of strength.",
         "illustrator": "Leonardo Borazio",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_67.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_67.jpg",
         "position": "67",
         "quantity": 1
     },
     {
-        "card_id": "ornate-fan",
+        "card_id": "01-ornate-fan",
         "flavor": "At times, the ornamentation is the point. At others, it is merely a distraction.",
         "illustrator": "Ancor Gil Hernandez",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_201.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_201.jpg",
         "position": "201",
         "quantity": 2
     },
     {
-        "card_id": "otomo-courtier",
+        "card_id": "01-otomo-courtier",
         "flavor": "\"I speak with the voice of the Son of Heaven.\"",
         "illustrator": "Jake Murray",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_122.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_122.jpg",
         "position": "122",
         "quantity": 3
     },
     {
-        "card_id": "outwit",
+        "card_id": "01-outwit",
         "flavor": null,
         "illustrator": "Anna Christenson",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_212.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_212.jpg",
         "position": "212",
         "quantity": 2
     },
     {
-        "card_id": "pacifism",
+        "card_id": "01-pacifism",
         "flavor": "A peaceful environment leads to a peaceful mind.",
         "illustrator": "Carlos Palma Cruchaga",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_174.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_174.jpg",
         "position": "174",
         "quantity": 1
     },
     {
-        "card_id": "pilgrimage",
+        "card_id": "01-pilgrimage",
         "flavor": null,
         "illustrator": "Nele Diel",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_22.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_22.jpg",
         "position": "22",
         "quantity": 2
     },
     {
-        "card_id": "political-rival",
+        "card_id": "01-political-rival",
         "flavor": null,
         "illustrator": "Caravan Studio",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_140.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_140.jpg",
         "position": "140",
         "quantity": 1
     },
     {
-        "card_id": "radiant-orator",
+        "card_id": "01-radiant-orator",
         "flavor": null,
         "illustrator": "Polar Engine",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_87.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_87.jpg",
         "position": "87",
         "quantity": 1
     },
     {
-        "card_id": "rally-to-the-cause",
+        "card_id": "01-rally-to-the-cause",
         "flavor": null,
         "illustrator": "Carlos Palma Cruchaga",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_23.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_23.jpg",
         "position": "23",
         "quantity": 2
     },
     {
-        "card_id": "ready-for-battle",
+        "card_id": "01-ready-for-battle",
         "flavor": "\"We are prepared to pay any price.\"",
         "illustrator": "Gemma Tegelaers",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_165.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_165.jpg",
         "position": "165",
         "quantity": 1
     },
     {
-        "card_id": "rebuild",
+        "card_id": "01-rebuild",
         "flavor": null,
         "illustrator": "Filip Storch",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_136.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_136.jpg",
         "position": "136",
         "quantity": 1
     },
     {
-        "card_id": "reprieve",
+        "card_id": "01-reprieve",
         "flavor": "There is one more thing that must be done.",
         "illustrator": "Steve Argyle",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_132.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_132.jpg",
         "position": "132",
         "quantity": 1
     },
     {
-        "card_id": "restoration-of-balance",
+        "card_id": "01-restoration-of-balance",
         "flavor": null,
         "illustrator": "Anna Christenson",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_10.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_10.jpg",
         "position": "10",
         "quantity": 1
     },
     {
-        "card_id": "rout",
+        "card_id": "01-rout",
         "flavor": null,
         "illustrator": "Calvin Chua",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_213.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_213.jpg",
         "position": "213",
         "quantity": 2
     },
     {
-        "card_id": "sashimono",
+        "card_id": "01-sashimono",
         "flavor": null,
         "illustrator": "Immar Palomera",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_164.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_164.jpg",
         "position": "164",
         "quantity": 1
     },
     {
-        "card_id": "savvy-politician",
+        "card_id": "01-savvy-politician",
         "flavor": "For each of her accomplishments, she deferred the praise to those around her, and in this manner their loyalty was secured.",
         "illustrator": "Polar Engine",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_45.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_45.jpg",
         "position": "45",
         "quantity": 1
     },
     {
-        "card_id": "secluded-temple",
+        "card_id": "01-secluded-temple",
         "flavor": null,
         "illustrator": "Chris Ostrowski",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_66.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_66.jpg",
         "position": "66",
         "quantity": 1
     },
     {
-        "card_id": "secret-cache",
+        "card_id": "01-secret-cache",
         "flavor": null,
         "illustrator": "Carlos Palma Cruchaga",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_13.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_13.jpg",
         "position": "13",
         "quantity": 1
     },
     {
-        "card_id": "seeker-initiate",
+        "card_id": "01-seeker-initiate",
         "flavor": null,
         "illustrator": "MuYoung Kim",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_126.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_126.jpg",
         "position": "126",
         "quantity": 2
     },
     {
-        "card_id": "seeker-of-air",
+        "card_id": "01-seeker-of-air",
         "flavor": null,
-        "illustrator": "–",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_214B.jpg",
+        "illustrator": "\u2013",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_214B.jpg",
         "position": "214B",
         "quantity": 1
     },
     {
-        "card_id": "seeker-of-earth",
+        "card_id": "01-seeker-of-earth",
         "flavor": null,
-        "illustrator": "–",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_215B.jpg",
+        "illustrator": "\u2013",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_215B.jpg",
         "position": "215B",
         "quantity": 1
     },
     {
-        "card_id": "seeker-of-enlightenment",
-        "flavor": "“What is not wisdom?”",
+        "card_id": "01-seeker-of-enlightenment",
+        "flavor": "\u201cWhat is not wisdom?\u201d",
         "illustrator": "Eli Ring",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_59.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_59.jpg",
         "position": "59",
         "quantity": 1
     },
     {
-        "card_id": "seeker-of-fire",
+        "card_id": "01-seeker-of-fire",
         "flavor": null,
-        "illustrator": "–",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_216B.jpg",
+        "illustrator": "\u2013",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_216B.jpg",
         "position": "216B",
         "quantity": 1
     },
     {
-        "card_id": "seeker-of-knowledge",
+        "card_id": "01-seeker-of-knowledge",
         "flavor": null,
         "illustrator": "Jim Pavelec",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_171.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_171.jpg",
         "position": "171",
         "quantity": 1
     },
     {
-        "card_id": "seeker-of-void",
+        "card_id": "01-seeker-of-void",
         "flavor": null,
-        "illustrator": "–",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_218B.jpg",
+        "illustrator": "\u2013",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_218B.jpg",
         "position": "218B",
         "quantity": 1
     },
     {
-        "card_id": "seeker-of-water",
+        "card_id": "01-seeker-of-water",
         "flavor": null,
-        "illustrator": "–",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_217B.jpg",
+        "illustrator": "\u2013",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_217B.jpg",
         "position": "217B",
         "quantity": 1
     },
     {
-        "card_id": "seppun-guardsman",
+        "card_id": "01-seppun-guardsman",
         "flavor": "\"Our cousins, the Otomo, secure the Empire. We secure the Emperor.\"",
         "illustrator": "Shen Fei",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_123.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_123.jpg",
         "position": "123",
         "quantity": 3
     },
     {
-        "card_id": "serene-warrior",
+        "card_id": "01-serene-warrior",
         "flavor": "The real battle is fought against one's self.",
         "illustrator": "Shawn Ignatius Tan",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_88.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_88.jpg",
         "position": "88",
         "quantity": 1
     },
     {
-        "card_id": "shameful-display",
+        "card_id": "01-shameful-display",
         "flavor": null,
         "illustrator": "Polar Engine",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_24.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_24.jpg",
         "position": "24",
         "quantity": 2
     },
     {
-        "card_id": "shiba-peacemaker",
+        "card_id": "01-shiba-peacemaker",
         "flavor": "A lifetime of peace is worth a moment of war.",
         "illustrator": "Eli Ring",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_82.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_82.jpg",
         "position": "82",
         "quantity": 1
     },
     {
-        "card_id": "shiba-tsukune",
+        "card_id": "01-shiba-tsukune",
         "flavor": "\"I will do my best.\"",
         "illustrator": "Shawn Ignatius Tan",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_93.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_93.jpg",
         "position": "93",
         "quantity": 1
     },
     {
-        "card_id": "shiba-yojimbo",
+        "card_id": "01-shiba-yojimbo",
         "flavor": null,
         "illustrator": "Mario Wibisono",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_89.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_89.jpg",
         "position": "89",
         "quantity": 1
     },
     {
-        "card_id": "shinjo-altansarnai",
+        "card_id": "01-shinjo-altansarnai",
         "flavor": "\"This steed will not be broken to rein and saddle, nor will I compromise my clan in the name of peace.\"",
         "illustrator": "Shawn Ignatius Tan and Le Vuong",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_121.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_121.jpg",
         "position": "121",
         "quantity": 1
     },
     {
-        "card_id": "shinjo-outrider",
+        "card_id": "01-shinjo-outrider",
         "flavor": "\"I'm on my way.\"",
         "illustrator": "Kevin Zamir Goeke",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_114.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_114.jpg",
         "position": "114",
         "quantity": 1
     },
     {
-        "card_id": "shinjo-tatsuo",
+        "card_id": "01-shinjo-tatsuo",
         "flavor": null,
         "illustrator": "Sergio Camarena",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_120.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_120.jpg",
         "position": "120",
         "quantity": 1
     },
     {
-        "card_id": "shiro-nishiyama",
+        "card_id": "01-shiro-nishiyama",
         "flavor": null,
         "illustrator": "Alayna Lemmer",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_1.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_1.jpg",
         "position": "1",
         "quantity": 1
     },
     {
-        "card_id": "shizuka-toshi",
+        "card_id": "01-shizuka-toshi",
         "flavor": null,
         "illustrator": "Alayna Lemmer",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_2.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_2.jpg",
         "position": "2",
         "quantity": 1
     },
     {
-        "card_id": "shosuro-actress",
+        "card_id": "01-shosuro-actress",
         "flavor": null,
         "illustrator": "Jake Murray",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_103.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_103.jpg",
         "position": "103",
         "quantity": 1
     },
     {
-        "card_id": "shosuro-miyako",
+        "card_id": "01-shosuro-miyako",
         "flavor": null,
         "illustrator": "Steve Argyle",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_104.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_104.jpg",
         "position": "104",
         "quantity": 1
     },
     {
-        "card_id": "shrewd-yasuki",
+        "card_id": "01-shrewd-yasuki",
         "flavor": null,
         "illustrator": "Carlos Palma Cruchaga",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_29.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_29.jpg",
         "position": "29",
         "quantity": 1
     },
     {
-        "card_id": "sinister-soshi",
+        "card_id": "01-sinister-soshi",
         "flavor": null,
         "illustrator": "Le Vuong",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_97.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_97.jpg",
         "position": "97",
         "quantity": 1
     },
     {
-        "card_id": "solemn-scholar",
+        "card_id": "01-solemn-scholar",
         "flavor": null,
         "illustrator": "Aaron Miller",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_83.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_83.jpg",
         "position": "83",
         "quantity": 1
     },
     {
-        "card_id": "soshi-illusionist",
+        "card_id": "01-soshi-illusionist",
         "flavor": "\"People see only what they hope to see.\"",
-        "illustrator": "Antonio José Manzanedo",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_99.jpg",
+        "illustrator": "Antonio Jos\u00e9 Manzanedo",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_99.jpg",
         "position": "99",
         "quantity": 1
     },
     {
-        "card_id": "spies-at-court",
+        "card_id": "01-spies-at-court",
         "flavor": null,
         "illustrator": "Mike Capprotti",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_209.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_209.jpg",
         "position": "209",
         "quantity": 2
     },
     {
-        "card_id": "spyglass",
+        "card_id": "01-spyglass",
         "flavor": null,
         "illustrator": "Aaron Miller",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_193.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_193.jpg",
         "position": "193",
         "quantity": 1
     },
     {
-        "card_id": "staging-ground",
+        "card_id": "01-staging-ground",
         "flavor": null,
         "illustrator": "Shen Fei",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_80.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_80.jpg",
         "position": "80",
         "quantity": 1
     },
     {
-        "card_id": "stand-your-ground",
+        "card_id": "01-stand-your-ground",
         "flavor": null,
         "illustrator": "Jeff Hill",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_166.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_166.jpg",
         "position": "166",
         "quantity": 1
     },
     {
-        "card_id": "steadfast-samurai",
+        "card_id": "01-steadfast-samurai",
         "flavor": null,
         "illustrator": "Bob Stevlic",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_70.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_70.jpg",
         "position": "70",
         "quantity": 1
     },
     {
-        "card_id": "steadfast-witch-hunter",
+        "card_id": "01-steadfast-witch-hunter",
         "flavor": "\"The Shadowlands Taint can poison any soul. It is my duty to cleanse it from our ranks.\"",
         "illustrator": "Le Vuong",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_35.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_35.jpg",
         "position": "35",
         "quantity": 1
     },
     {
-        "card_id": "steward-of-law",
+        "card_id": "01-steward-of-law",
         "flavor": "\"There is no better armor than the edicts of Hantei-no-Kami.\"",
         "illustrator": "Alayna Lemmer",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_139.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_139.jpg",
         "position": "139",
         "quantity": 1
     },
     {
-        "card_id": "stoic-gunso",
+        "card_id": "01-stoic-gunso",
         "flavor": "\"We are the Wall.\"",
         "illustrator": "Matt Zeilinger",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_131.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_131.jpg",
         "position": "131",
         "quantity": 1
     },
     {
-        "card_id": "strength-in-numbers",
+        "card_id": "01-strength-in-numbers",
         "flavor": null,
         "illustrator": "Kevin Zamir Goeke",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_169.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_169.jpg",
         "position": "169",
         "quantity": 1
     },
     {
-        "card_id": "supernatural-storm",
+        "card_id": "01-supernatural-storm",
         "flavor": null,
         "illustrator": "Stephanie Law",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_175.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_175.jpg",
         "position": "175",
         "quantity": 1
     },
     {
-        "card_id": "tattooed-wanderer",
+        "card_id": "01-tattooed-wanderer",
         "flavor": "It is said that Dragon shugenja and courtiers are warriors, their warriors are monks, and their monks are inexplicable.",
         "illustrator": "Kevin Zamir Goeke",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_149.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_149.jpg",
         "position": "149",
         "quantity": 1
     },
     {
-        "card_id": "the-art-of-peace",
+        "card_id": "01-the-art-of-peace",
         "flavor": "\"One does not always need to kill to be victorious.\" - Kakita's The Sword",
         "illustrator": "Eli Ring",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_9.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_9.jpg",
         "position": "9",
         "quantity": 1
     },
     {
-        "card_id": "the-art-of-war",
+        "card_id": "01-the-art-of-war",
         "flavor": "\"Let your enemy see what he wishes to see, so that he will underestimate you.\" - Akodo's Leadership",
         "illustrator": "Eli Ring",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_11.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_11.jpg",
         "position": "11",
         "quantity": 1
     },
     {
-        "card_id": "the-mountain-does-not-fall",
+        "card_id": "01-the-mountain-does-not-fall",
         "flavor": null,
-        "illustrator": "Antonio José Manzanedo",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_138.jpg",
+        "illustrator": "Antonio Jos\u00e9 Manzanedo",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_138.jpg",
         "position": "138",
         "quantity": 1
     },
     {
-        "card_id": "the-perfect-gift",
+        "card_id": "01-the-perfect-gift",
         "flavor": "He had refused twice, but could not bring himself to refuse a third time.",
         "illustrator": "Albert Tavira",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_144.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_144.jpg",
         "position": "144",
         "quantity": 1
     },
     {
-        "card_id": "togashi-initiate",
+        "card_id": "01-togashi-initiate",
         "flavor": "\"What is wisdom?\"",
         "illustrator": "Darren Tan",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_55.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_55.jpg",
         "position": "55",
         "quantity": 1
     },
     {
-        "card_id": "togashi-kazue",
+        "card_id": "01-togashi-kazue",
         "flavor": null,
         "illustrator": "Le Vuong",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_150.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_150.jpg",
         "position": "150",
         "quantity": 1
     },
     {
-        "card_id": "togashi-yokuni",
+        "card_id": "01-togashi-yokuni",
         "flavor": "\"What transpires in our mountains is a mere pebble against the avalanche that is coming.\"",
         "illustrator": "Shawn Ignatius Tan and Le Vuong",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_65.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_65.jpg",
         "position": "65",
         "quantity": 1
     },
     {
-        "card_id": "tranquility",
+        "card_id": "01-tranquility",
         "flavor": "You have entered a state in which nothing can harm you.",
         "illustrator": "Conceptopolis",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_157.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_157.jpg",
         "position": "157",
         "quantity": 1
     },
     {
-        "card_id": "unassuming-yojimbo",
+        "card_id": "01-unassuming-yojimbo",
         "flavor": null,
         "illustrator": "Shen Fei",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_181.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_181.jpg",
         "position": "181",
         "quantity": 1
     },
     {
-        "card_id": "utaku-infantry",
+        "card_id": "01-utaku-infantry",
         "flavor": null,
         "illustrator": "Bob Stevlic",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_110.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_110.jpg",
         "position": "110",
         "quantity": 1
     },
     {
-        "card_id": "utaku-yumino",
+        "card_id": "01-utaku-yumino",
         "flavor": null,
         "illustrator": "Jazz Siy",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_118.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_118.jpg",
         "position": "118",
         "quantity": 1
     },
     {
-        "card_id": "vanguard-warrior",
+        "card_id": "01-vanguard-warrior",
         "flavor": "\"You will have the time you need. Use it wisely.\"",
         "illustrator": "Erich Schreiner",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_30.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_30.jpg",
         "position": "30",
         "quantity": 1
     },
     {
-        "card_id": "venerable-historian",
+        "card_id": "01-venerable-historian",
         "flavor": "\"Only by looking to the past can we hope to conquer the future.\"",
         "illustrator": "Kathryn Steele",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_73.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_73.jpg",
         "position": "73",
         "quantity": 1
     },
     {
-        "card_id": "vengeful-berserker",
+        "card_id": "01-vengeful-berserker",
         "flavor": null,
         "illustrator": "Edwin David",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_33.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_33.jpg",
         "position": "33",
         "quantity": 1
     },
     {
-        "card_id": "vengeful-oathkeeper",
+        "card_id": "01-vengeful-oathkeeper",
         "flavor": "\"When a samurai has said he will perform an action, it is as good as done.\" - Akodo's Leadership",
         "illustrator": "Darren Tan",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_160.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_160.jpg",
         "position": "160",
         "quantity": 1
     },
     {
-        "card_id": "voice-of-honor",
+        "card_id": "01-voice-of-honor",
         "flavor": null,
         "illustrator": "Polar Engine",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_145.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_145.jpg",
         "position": "145",
         "quantity": 1
     },
     {
-        "card_id": "wandering-ronin",
+        "card_id": "01-wandering-ronin",
         "flavor": null,
         "illustrator": "Kim Sokol",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_127.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_127.jpg",
         "position": "127",
         "quantity": 3
     },
     {
-        "card_id": "warrior-poet",
+        "card_id": "01-warrior-poet",
         "flavor": null,
         "illustrator": "Le Vuong",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_117.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_117.jpg",
         "position": "117",
         "quantity": 1
     },
     {
-        "card_id": "watch-commander",
+        "card_id": "01-watch-commander",
         "flavor": null,
         "illustrator": "Niten",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_133.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_133.jpg",
         "position": "133",
         "quantity": 1
     },
     {
-        "card_id": "way-of-the-crab",
+        "card_id": "01-way-of-the-crab",
         "flavor": "Courage. Duty. Sacrifice.",
         "illustrator": "Scott Wade",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_137.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_137.jpg",
         "position": "137",
         "quantity": 1
     },
     {
-        "card_id": "way-of-the-crane",
+        "card_id": "01-way-of-the-crane",
         "flavor": "There is a proper technique for all things.",
         "illustrator": "Scott Wade",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_146.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_146.jpg",
         "position": "146",
         "quantity": 1
     },
     {
-        "card_id": "way-of-the-dragon",
+        "card_id": "01-way-of-the-dragon",
         "flavor": "Find your own path.",
         "illustrator": "Scott Wade",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_154.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_154.jpg",
         "position": "154",
         "quantity": 1
     },
     {
-        "card_id": "way-of-the-lion",
+        "card_id": "01-way-of-the-lion",
         "flavor": "\"War is the most noble pursuit of a samurai. It gives him purpose and brings honor to his ancestors.\" - Akodo's Leadership",
         "illustrator": "Scott Wade",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_167.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_167.jpg",
         "position": "167",
         "quantity": 1
     },
     {
-        "card_id": "way-of-the-phoenix",
+        "card_id": "01-way-of-the-phoenix",
         "flavor": "Master the elements and be reborn.",
         "illustrator": "Scott Wade",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_176.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_176.jpg",
         "position": "176",
         "quantity": 1
     },
     {
-        "card_id": "way-of-the-scorpion",
+        "card_id": "01-way-of-the-scorpion",
         "flavor": "To combat the liars, the thieves, and the traitors within the Great Clans, Bayushi's followers would have to lie, steal, and cheat in turn.",
         "illustrator": "Scott Wade",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_185.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_185.jpg",
         "position": "185",
         "quantity": 1
     },
     {
-        "card_id": "way-of-the-unicorn",
+        "card_id": "01-way-of-the-unicorn",
         "flavor": "One cannot capture the wind.",
         "illustrator": "Scott Wade",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_198.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_198.jpg",
         "position": "198",
         "quantity": 1
     },
     {
-        "card_id": "yogo-hiroue",
+        "card_id": "01-yogo-hiroue",
         "flavor": null,
         "illustrator": "Magali Villeneuve",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_106.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_106.jpg",
         "position": "106",
         "quantity": 1
     },
     {
-        "card_id": "yogo-outcast",
+        "card_id": "01-yogo-outcast",
         "flavor": "Long ago, the Dark Kami himself cursed those carrying the Yogo bloodline to inevitably betray the one they love most.",
         "illustrator": "Drew Baker",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_100.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_100.jpg",
         "position": "100",
         "quantity": 1
     },
     {
-        "card_id": "yojin-no-shiro",
+        "card_id": "01-yojin-no-shiro",
         "flavor": null,
         "illustrator": "Chris Ostrowski",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_4.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_4.jpg",
         "position": "4",
         "quantity": 1
     },
     {
-        "card_id": "young-rumormonger",
+        "card_id": "01-young-rumormonger",
         "flavor": null,
         "illustrator": "Leonardo Borazio",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C01_101.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C01_101.jpg",
         "position": "101",
         "quantity": 1
     }

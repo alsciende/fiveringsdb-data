@@ -1,0 +1,33 @@
+{
+    "allowed_clans": [
+        "crab"
+    ],
+    "clan": "crab",
+    "cost": 5,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 1,
+    "honor": null,
+    "id": "10-kuni-yori",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "4",
+    "military_bonus": null,
+    "name": "Kuni Yori",
+    "political": "4",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "During [element-earth] conflicts, each character you control gets +1[conflict-military] and +1[conflict-political].\n<b>Action:<\/b> During a conflict, lose 1 honor. Choose a player \u2013 that player discards 1 card at random from his or her hand.",
+    "traits": [
+        "shugenja",
+        "earth",
+        "daimyo"
+    ],
+    "type": "character",
+    "unique": true
+}

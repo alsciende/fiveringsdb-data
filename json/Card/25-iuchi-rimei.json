@@ -1,0 +1,32 @@
+{
+    "allowed_clans": [
+        "unicorn"
+    ],
+    "clan": "unicorn",
+    "cost": 2,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 1,
+    "honor": null,
+    "id": "25-iuchi-rimei",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "1",
+    "military_bonus": null,
+    "name": "Iuchi Rimei",
+    "political": "1",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Action:<\/b> Choose an attachment an opponent controls with printed cost 1 or less - move it from the character it is on to another character controlled by the same player.",
+    "traits": [
+        "shugenja",
+        "water"
+    ],
+    "type": "character",
+    "unique": true
+}

@@ -1,0 +1,38 @@
+{
+    "allowed_clans": [
+        "crab",
+        "crane",
+        "dragon",
+        "lion",
+        "phoenix",
+        "scorpion",
+        "unicorn"
+    ],
+    "clan": "neutral",
+    "cost": 3,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 0,
+    "honor": null,
+    "id": "17-ivory-kingdoms-unicorn",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "4",
+    "military_bonus": null,
+    "name": "Ivory Kingdoms Unicorn",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "No attachments.\n<b>Reaction:<\/b> After the resolution of a conflict in which this character was attacking, if a province was broken in the conflict - immediately declare your next conflict for the phase. That conflict is [conflict-military] instead of its normal type.",
+    "traits": [
+        "creature",
+        "gaijin"
+    ],
+    "type": "character",
+    "unique": false
+}

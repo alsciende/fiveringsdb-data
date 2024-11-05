@@ -1,0 +1,31 @@
+{
+    "allowed_clans": [
+        "crane"
+    ],
+    "clan": "crane",
+    "cost": 2,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 1,
+    "honor": null,
+    "id": "01-doji-gift-giver",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "0",
+    "military_bonus": null,
+    "name": "Doji Gift Giver",
+    "political": "2",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Action:<\/b> While this character is participating in a conflict, give your opponent 1 fate. That opponent must choose a ready participating character he or she controls \u2013 bow that character.",
+    "traits": [
+        "courtier"
+    ],
+    "type": "character",
+    "unique": false
+}

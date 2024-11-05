@@ -1,257 +1,257 @@
 [
     {
-        "card_id": "kyuden-hida",
+        "card_id": "26-kyuden-hida",
         "flavor": "",
         "illustrator": "Juan Carlos Barquet",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_1.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_1.jpg",
         "position": "1",
         "quantity": 1
     },
     {
-        "card_id": "kuni-wastelands",
+        "card_id": "26-kuni-wastelands",
         "flavor": "",
         "illustrator": "Daniel Alekow",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_2.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_2.jpg",
         "position": "2",
         "quantity": 1
     },
     {
-        "card_id": "support-of-the-crab",
+        "card_id": "26-support-of-the-crab",
         "flavor": "",
         "illustrator": "",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_3.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_3.jpg",
         "position": "3",
         "quantity": 1
     },
     {
-        "card_id": "purifier-apprentice",
+        "card_id": "26-purifier-apprentice",
         "flavor": "\"When you face the darkness of the Shadowlands, you must be unflinching, lest you become the subject you wish to study.\" - Kuni Ritsuko",
         "illustrator": "Greg Lambrakis",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_4.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_4.jpg",
         "position": "4",
         "quantity": 3
     },
     {
-        "card_id": "hida-sukune",
+        "card_id": "26-hida-sukune",
         "flavor": "\"Few can claim to know the defences of the Wall as well as the Champion's youngest son. Yet who will follow such a child into battle?\" - Hida Sanae",
         "illustrator": "Joyce Maureira",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_5.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_5.jpg",
         "position": "5",
         "quantity": 3
     },
     {
-        "card_id": "shadowlands-hunter",
+        "card_id": "26-shadowlands-hunter",
         "flavor": "\"Anyone willing to take on the Shadowlands in their own domain is either a paragon of courage or foolishly reckless. I have yet to meet any paragons.\" - Toritaka Taguchi",
         "illustrator": "Paul (Prof.) Herbert",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_6.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_6.jpg",
         "position": "6",
         "quantity": 3
     },
     {
-        "card_id": "hida-o-ushi",
+        "card_id": "26-hida-o-ushi",
         "flavor": "\"Empty words are the coward's way.\"",
-        "illustrator": "Amélie Hutt",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_7.jpg",
+        "illustrator": "Am\u00e9lie Hutt",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_7.jpg",
         "position": "7",
         "quantity": 3
     },
     {
-        "card_id": "unyielding-sensei",
+        "card_id": "26-unyielding-sensei",
         "flavor": "",
         "illustrator": "Jason Engle",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_8.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_8.jpg",
         "position": "8",
         "quantity": 3
     },
     {
-        "card_id": "favorable-dealbroker",
+        "card_id": "26-favorable-dealbroker",
         "flavor": "\"A tea set this fine would go anywhere else for 2 koku. But for only you, I will make an exception.\"",
         "illustrator": "Erich Schreiner",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_9.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_9.jpg",
         "position": "9",
         "quantity": 3
     },
     {
-        "card_id": "kaiu-shihobu",
+        "card_id": "26-kaiu-shihobu",
         "flavor": "",
         "illustrator": "Polar Engine",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_10.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_10.jpg",
         "position": "10",
         "quantity": 3
     },
     {
-        "card_id": "kaiu-siege-force",
+        "card_id": "26-kaiu-siege-force",
         "flavor": "Where the work of Kaiu minds falls short, Kaiu hands must follow through.",
         "illustrator": "Felipe Gaona",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_11.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_11.jpg",
         "position": "11",
         "quantity": 3
     },
     {
-        "card_id": "kaiu-forges",
+        "card_id": "26-kaiu-forges",
         "flavor": "",
         "illustrator": "Hai Hoang",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_12.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_12.jpg",
         "position": "12",
         "quantity": 1
     },
     {
-        "card_id": "northern-curtain-wall",
+        "card_id": "26-northern-curtain-wall",
         "flavor": "",
         "illustrator": "Tomas Muir",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_13.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_13.jpg",
         "position": "13",
         "quantity": 1
     },
     {
-        "card_id": "river-of-the-last-stand",
+        "card_id": "26-river-of-the-last-stand",
         "flavor": "",
         "illustrator": "Leanna Crossan",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_14.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_14.jpg",
         "position": "14",
         "quantity": 1
     },
     {
-        "card_id": "seventh-tower",
+        "card_id": "26-seventh-tower",
         "flavor": "",
         "illustrator": "Leanna Crossan",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_15.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_15.jpg",
         "position": "15",
         "quantity": 1
     },
     {
-        "card_id": "third-whisker-warrens",
+        "card_id": "26-third-whisker-warrens",
         "flavor": "",
         "illustrator": "Mocaran",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_16.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_16.jpg",
         "position": "16",
         "quantity": 1
     },
     {
-        "card_id": "watchtower-of-valor",
+        "card_id": "26-watchtower-of-valor",
         "flavor": "",
         "illustrator": "Tomas Muir",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_17.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_17.jpg",
         "position": "17",
         "quantity": 1
     },
     {
-        "card_id": "daidoji-netsu",
+        "card_id": "26-daidoji-netsu",
         "flavor": "\"I am unworthy of the trust you place in me, my lady. I shall endeavor to earn it.\"",
         "illustrator": "Doug Shuler",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_18.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_18.jpg",
         "position": "18",
         "quantity": 3
     },
     {
-        "card_id": "agasha-hiyori",
+        "card_id": "26-agasha-hiyori",
         "flavor": "",
         "illustrator": "Joyce Maureira",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_19.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_19.jpg",
         "position": "19",
         "quantity": 3
     },
     {
-        "card_id": "matsu-agetoki",
+        "card_id": "26-matsu-agetoki",
         "flavor": "",
         "illustrator": "Quintin Gleim",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_20.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_20.jpg",
         "position": "20",
         "quantity": 3
     },
     {
-        "card_id": "yogo-asami",
+        "card_id": "26-yogo-asami",
         "flavor": "",
         "illustrator": "Joyce Maureira",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_21.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_21.jpg",
         "position": "21",
         "quantity": 3
     },
     {
-        "card_id": "shinjo-yasamura",
+        "card_id": "26-shinjo-yasamura",
         "flavor": "",
         "illustrator": "Diego Gisbert Llorens",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_22.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_22.jpg",
         "position": "22",
         "quantity": 3
     },
     {
-        "card_id": "moto-eviscerator",
+        "card_id": "26-moto-eviscerator",
         "flavor": "\"Do not be so quick to put yourself above the Shinjo, nephew. Do you ignore or forget the lesson Moto Tsume taught our family of pride?\" - Moto Rurame, to Moto Chagatai",
         "illustrator": "Jason Engle",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_23.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_23.jpg",
         "position": "23",
         "quantity": 3
     },
     {
-        "card_id": "kansen-haunt",
+        "card_id": "26-kansen-haunt",
         "flavor": "",
         "illustrator": "Max Bedulenko",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_24.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_24.jpg",
         "position": "24",
         "quantity": 3
     },
     {
-        "card_id": "reinforced-plate",
+        "card_id": "26-reinforced-plate",
         "flavor": "\"It is a wonder that anyone can fight in that thing.\" - Kakita Kaezin",
         "illustrator": "Guillaume Ducos",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_25.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_25.jpg",
         "position": "25",
         "quantity": 3
     },
     {
-        "card_id": "subterranean-guile",
+        "card_id": "26-subterranean-guile",
         "flavor": "\"You'll get used to the smell\" - Yasuki Fuzake",
         "illustrator": "Paolo Puggioni",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_26.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_26.jpg",
         "position": "26",
         "quantity": 3
     },
     {
-        "card_id": "fruitful-respite",
+        "card_id": "26-fruitful-respite",
         "flavor": "Kaiu engineers are never idle.",
         "illustrator": "Albert Tavira",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_27.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_27.jpg",
         "position": "27",
         "quantity": 3
     },
     {
-        "card_id": "siege-warfare",
+        "card_id": "26-siege-warfare",
         "flavor": "",
         "illustrator": "William O'Connor",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_28.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_28.jpg",
         "position": "28",
         "quantity": 3
     },
     {
-        "card_id": "desolation",
+        "card_id": "26-desolation",
         "flavor": "",
         "illustrator": "Stanislav Dikolenko",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_29.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_29.jpg",
         "position": "29",
         "quantity": 3
     },
     {
-        "card_id": "the-strength-of-the-mountain",
+        "card_id": "26-the-strength-of-the-mountain",
         "flavor": "",
         "illustrator": "Preston Stone",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_30.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_30.jpg",
         "position": "30",
         "quantity": 3
     },
     {
-        "card_id": "isawa-eju",
+        "card_id": "26-isawa-eju",
         "flavor": "\"This council...could serve...to learn much...from our young...champion.\"",
         "illustrator": "Mocaran",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_31.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_31.jpg",
         "position": "31",
         "quantity": 3
     },
     {
-        "card_id": "slovenly-scavenger",
+        "card_id": "26-slovenly-scavenger",
         "flavor": "\"No wonder they're always so weak and scrawny.\" - Hiruma Izumi",
         "illustrator": "Luis Nunez de Castro Torres",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C26_32.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C26_32.jpg",
         "position": "32",
         "quantity": 3
     }

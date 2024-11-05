@@ -1,0 +1,32 @@
+{
+    "allowed_clans": [
+        "scorpion"
+    ],
+    "clan": "scorpion",
+    "cost": 3,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 1,
+    "honor": null,
+    "id": "01-shosuro-miyako",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "3",
+    "military_bonus": null,
+    "name": "Shosuro Miyako",
+    "political": "2",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Reaction:<\/b> After you play a character from your hand, your opponent must select one \u2013 discard 1 card at random from his or her hand or choose and dishonor a character he or she controls.",
+    "traits": [
+        "bushi",
+        "shinobi"
+    ],
+    "type": "character",
+    "unique": true
+}

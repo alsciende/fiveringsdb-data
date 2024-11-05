@@ -1,225 +1,225 @@
 [
     {
-        "card_id": "kyuden-bayushi",
+        "card_id": "15-kyuden-bayushi",
         "flavor": "",
         "illustrator": "Chris Ostrowski",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_1.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_1.jpg",
         "position": "1",
         "quantity": 3
     },
     {
-        "card_id": "brother-s-gift-dojo",
+        "card_id": "15-brother-s-gift-dojo",
         "flavor": "",
         "illustrator": "Noah Bradley",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_2.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_2.jpg",
         "position": "2",
         "quantity": 3
     },
     {
-        "card_id": "support-of-the-scorpion",
+        "card_id": "15-support-of-the-scorpion",
         "flavor": "",
         "illustrator": "",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_3.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_3.jpg",
         "position": "3",
         "quantity": 1
     },
     {
-        "card_id": "alibi-artist",
-        "flavor": "\"No, noble Kitsuki-sama. I was having tea with the daimyō’s son at that time.\"",
+        "card_id": "15-alibi-artist",
+        "flavor": "\"No, noble Kitsuki-sama. I was having tea with the daimy\u014d\u2019s son at that time.\"",
         "illustrator": "Jake Murray",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_4.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_4.jpg",
         "position": "4",
         "quantity": 3
     },
-   {
-        "card_id": "shosuro-takao",
+    {
+        "card_id": "15-shosuro-takao",
         "flavor": "Yojiro paused, unsure of how to read the next word. The characters read \"shadow\" and \"form,\" but introduced a paradox. Shadows had no form.",
         "illustrator": "Asep Ariyanto",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_5.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_5.jpg",
         "position": "5",
         "quantity": 3
     },
     {
-        "card_id": "insolent-rival",
+        "card_id": "15-insolent-rival",
         "flavor": "",
         "illustrator": "Greg Lambrakis",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_6.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_6.jpg",
         "position": "6",
         "quantity": 3
     },
     {
-        "card_id": "soshi-aoi",
+        "card_id": "15-soshi-aoi",
         "flavor": "\"Are you volunteering to show me how to better portray an old man, Yojiro-san?\"",
         "illustrator": "Asep Ariyanto",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_7.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_7.jpg",
         "position": "7",
         "quantity": 3
     },
     {
-        "card_id": "bayushi-aramoro",
+        "card_id": "15-bayushi-aramoro",
         "flavor": "\"This is for you, Kachiko\"",
-        "illustrator": "Amélie Hutt",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_8.jpg",
+        "illustrator": "Am\u00e9lie Hutt",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_8.jpg",
         "position": "8",
         "quantity": 3
     },
     {
-        "card_id": "ignoble-enforcers",
+        "card_id": "15-ignoble-enforcers",
         "flavor": "\"I would trust them with my life. I would not trust them with yours.\"",
         "illustrator": "Shen Fei",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_9.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_9.jpg",
         "position": "9",
         "quantity": 3
     },
     {
-        "card_id": "bayushi-s-whisperers",
+        "card_id": "15-bayushi-s-whisperers",
         "flavor": "Word traveled fast from city to city: the Emerald Champion was coming to visit.",
         "illustrator": "Nele Diel",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_10.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_10.jpg",
         "position": "10",
         "quantity": 3
     },
     {
-        "card_id": "court-of-deception",
+        "card_id": "15-court-of-deception",
         "flavor": "Where the truth lies.",
         "illustrator": "Derek D Edgell",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_11.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_11.jpg",
         "position": "11",
         "quantity": 3
     },
     {
-        "card_id": "yasuki-oguri",
+        "card_id": "15-yasuki-oguri",
         "flavor": "",
         "illustrator": "Borja Pindado",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_12.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_12.jpg",
         "position": "12",
         "quantity": 3
     },
     {
-        "card_id": "kitsuki-shomon",
+        "card_id": "15-kitsuki-shomon",
         "flavor": "\"Governor Hyobu, on my honor, I shall share the fate of any student who uses my teachings to transgress.\"",
         "illustrator": "Drew Baker",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_13.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_13.jpg",
         "position": "13",
         "quantity": 3
     },
     {
-        "card_id": "akodo-kage",
+        "card_id": "15-akodo-kage",
         "flavor": "\"Thank you, sensei. Your wisdom has again guided me to the right path.\" - Akodo Toturi",
         "illustrator": "Agri Karuniawan",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_14.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_14.jpg",
         "position": "14",
         "quantity": 3
     },
     {
-        "card_id": "asako-maezawa",
+        "card_id": "15-asako-maezawa",
         "flavor": "\"We all have our roles to play, Tsukune-sama.\"",
         "illustrator": "Lin Hsiang",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_15.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_15.jpg",
         "position": "15",
         "quantity": 3
     },
     {
-        "card_id": "utaku-tetsuko",
+        "card_id": "15-utaku-tetsuko",
         "flavor": "Not even her own sons were immune to her judgment. Morito and Tokei now wander Rokugan as mercenaries for daring to break Utaku law.",
         "illustrator": "Andreia Ugrai",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_16.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_16.jpg",
         "position": "16",
         "quantity": 3
     },
     {
-        "card_id": "seppun-truthseeker",
-        "flavor": "\"The number of Scorpions in our Emperor’s counsel concerns me. I am certain they do not operate without an agenda.\"",
+        "card_id": "15-seppun-truthseeker",
+        "flavor": "\"The number of Scorpions in our Emperor\u2019s counsel concerns me. I am certain they do not operate without an agenda.\"",
         "illustrator": "Shen Fei",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_17.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_17.jpg",
         "position": "17",
         "quantity": 3
     },
     {
-        "card_id": "opium-wastrel",
+        "card_id": "15-opium-wastrel",
         "flavor": "",
         "illustrator": "Borja Pindado",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_18.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_18.jpg",
         "position": "18",
         "quantity": 3
     },
     {
-        "card_id": "bayushi-collector",
+        "card_id": "15-bayushi-collector",
         "flavor": "\"Your gift to my family is most appreciated.\"",
         "illustrator": "Felipe Gaona",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_19.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_19.jpg",
         "position": "19",
         "quantity": 3
     },
     {
-        "card_id": "liar-s-mask",
-        "flavor": "\"The face is the first traitor.\" – Bayushi’s Lies",
+        "card_id": "15-liar-s-mask",
+        "flavor": "\"The face is the first traitor.\" \u2013 Bayushi\u2019s Lies",
         "illustrator": "IFS",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_20.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_20.jpg",
         "position": "20",
         "quantity": 3
     },
     {
-        "card_id": "stolen-breath",
+        "card_id": "15-stolen-breath",
         "flavor": "\"You truly have nothing to say on the matter?\"",
         "illustrator": "Felipe Gaona",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_21.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_21.jpg",
         "position": "21",
         "quantity": 3
     },
     {
-        "card_id": "duty",
+        "card_id": "15-duty",
         "flavor": "\"I will be your villain, Hantei.\" - Bayushi",
         "illustrator": "B.D. Judkins",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_22.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_22.jpg",
         "position": "22",
         "quantity": 3
     },
     {
-        "card_id": "from-the-shadows",
+        "card_id": "15-from-the-shadows",
         "flavor": "",
         "illustrator": "Pavel Kolomeyets",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_23.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_23.jpg",
         "position": "23",
         "quantity": 3
     },
     {
-        "card_id": "make-an-opening",
+        "card_id": "15-make-an-opening",
         "flavor": "",
         "illustrator": "Adam Schumpert",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_24.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_24.jpg",
         "position": "24",
         "quantity": 3
     },
     {
-        "card_id": "stolen-secrets",
+        "card_id": "15-stolen-secrets",
         "flavor": "",
         "illustrator": "Tony Foti",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_25.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_25.jpg",
         "position": "25",
         "quantity": 3
     },
     {
-        "card_id": "doji-fumiki",
+        "card_id": "15-doji-fumiki",
         "flavor": "She would not even deign to look upon her lessers.",
         "illustrator": "Felipe Gaona",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_26.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_26.jpg",
         "position": "26",
         "quantity": 3
     },
     {
-        "card_id": "offer-testimony",
+        "card_id": "15-offer-testimony",
         "flavor": "",
         "illustrator": "Lin Hsiang",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_27.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_27.jpg",
         "position": "27",
         "quantity": 3
     },
     {
-        "card_id": "peasant-s-advice",
+        "card_id": "15-peasant-s-advice",
         "flavor": "",
         "illustrator": "Derek D Edgell",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C15_28.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C15_28.jpg",
         "position": "28",
         "quantity": 3
     }

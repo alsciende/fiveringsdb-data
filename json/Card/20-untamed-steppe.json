@@ -1,0 +1,29 @@
+{
+    "allowed_clans": [
+        "unicorn"
+    ],
+    "clan": "unicorn",
+    "cost": null,
+    "deck_limit": 1,
+    "element": "earth",
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "20-untamed-steppe",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": null,
+    "name": "Untamed Steppe",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "province",
+    "strength": "6",
+    "strength_bonus": null,
+    "text": "<b>Action:<\/b> During a conflict at this province, choose another unbroken province - turn that province facedown.",
+    "traits": [],
+    "type": "province",
+    "unique": false
+}

@@ -1,0 +1,37 @@
+{
+    "allowed_clans": [
+        "crab",
+        "crane",
+        "dragon",
+        "lion",
+        "phoenix",
+        "scorpion",
+        "unicorn"
+    ],
+    "clan": "lion",
+    "cost": 1,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "16-true-strike-kenjutsu",
+    "influence_cost": 2,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": "+0",
+    "name": "True Strike Kenjutsu",
+    "political": null,
+    "political_bonus": "+0",
+    "role_restriction": null,
+    "side": "conflict",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "Attached character gains: \"<b>Action:<\/b> During a conflict, initiate a [conflict-military] duel - resolve the duel, using each character's base [conflict-military] instead of their total [conflict-military] skill for this duel. Bow the duel's loser.\"",
+    "traits": [
+        "technique"
+    ],
+    "type": "attachment",
+    "unique": false
+}

@@ -1,0 +1,39 @@
+{
+    "allowed_clans": [
+        "crab",
+        "crane",
+        "dragon",
+        "lion",
+        "phoenix",
+        "scorpion",
+        "unicorn"
+    ],
+    "clan": "unicorn",
+    "cost": 1,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "11-invocation-of-ash",
+    "influence_cost": 3,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": "+2",
+    "name": "Invocation of Ash",
+    "political": null,
+    "political_bonus": "+2",
+    "role_restriction": null,
+    "side": "conflict",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Action:<\/b> Lose 1 honor. Choose a character you control \u2013 move this attachment to that character. Then, remove 1 fate from that character.",
+    "traits": [
+        "spell",
+        "fire",
+        "meishodo"
+    ],
+    "type": "attachment",
+    "unique": false
+}

@@ -1,0 +1,31 @@
+{
+    "allowed_clans": [
+        "lion"
+    ],
+    "clan": "lion",
+    "cost": 2,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 2,
+    "honor": null,
+    "id": "05-akodo-toshiro",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "2",
+    "military_bonus": null,
+    "name": "Akodo Toshiro",
+    "political": "1",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Action:<\/b> While this character is attacking \u2013 it gets +5[conflict-military] until the end of the conflict. Provinces cannot be broken during this conflict. At the end of the conflict, if you do not control a <em>Commander<\/em> character, discard this character.",
+    "traits": [
+        "bushi"
+    ],
+    "type": "character",
+    "unique": true
+}

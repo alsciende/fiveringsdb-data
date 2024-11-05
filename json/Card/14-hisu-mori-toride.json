@@ -1,0 +1,31 @@
+{
+    "allowed_clans": [
+        "unicorn"
+    ],
+    "clan": "unicorn",
+    "cost": null,
+    "deck_limit": 1,
+    "element": null,
+    "fate": 7,
+    "glory": null,
+    "honor": 11,
+    "id": "14-hisu-mori-toride",
+    "influence_cost": null,
+    "influence_pool": 10,
+    "is_restricted": false,
+    "military": null,
+    "military_bonus": null,
+    "name": "Hisu Mori Toride",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "province",
+    "strength": null,
+    "strength_bonus": "+1",
+    "text": "<b>Reaction:<\/b> After you win a [conflict-military] conflict with more participating characters than your opponent, bow this stronghold and sacrifice a <i>(friendly)<\/i> <em>Cavalry<\/em> character \u2013 you may declare an additional [conflict-military] conflict this phase.",
+    "traits": [
+        "fort"
+    ],
+    "type": "stronghold",
+    "unique": false
+}

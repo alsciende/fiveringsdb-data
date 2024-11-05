@@ -1,0 +1,32 @@
+{
+    "allowed_clans": [
+        "crab"
+    ],
+    "clan": "crab",
+    "cost": 4,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 0,
+    "honor": null,
+    "id": "01-steadfast-witch-hunter",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "4",
+    "military_bonus": null,
+    "name": "Steadfast Witch Hunter",
+    "political": "2",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Action:<\/b> Sacrifice a <i>(friendly)<\/i> character. Choose a character \u2013 ready that character.",
+    "traits": [
+        "shugenja",
+        "earth"
+    ],
+    "type": "character",
+    "unique": false
+}

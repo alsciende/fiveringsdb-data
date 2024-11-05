@@ -1,0 +1,38 @@
+{
+    "allowed_clans": [
+        "crab",
+        "crane",
+        "dragon",
+        "lion",
+        "phoenix",
+        "scorpion",
+        "unicorn"
+    ],
+    "clan": "neutral",
+    "cost": 2,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 0,
+    "honor": null,
+    "id": "10-marauding-oni",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "4",
+    "military_bonus": null,
+    "name": "Marauding Oni",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "This character cannot be honored or dishonored.\n<b>Forced Reaction:<\/b> After this character is declared as an attacked or defender \u2013 lose 1 honor. (Unlimited.)",
+    "traits": [
+        "oni",
+        "shadowlands"
+    ],
+    "type": "character",
+    "unique": false
+}

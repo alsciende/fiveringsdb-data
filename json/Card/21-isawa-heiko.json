@@ -1,0 +1,32 @@
+{
+    "allowed_clans": [
+        "phoenix"
+    ],
+    "clan": "phoenix",
+    "cost": 4,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 2,
+    "honor": null,
+    "id": "21-isawa-heiko",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "0",
+    "military_bonus": null,
+    "name": "Isawa Heiko",
+    "political": "5",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Reaction:<\/b> After you play a <em>Water<\/em> card, choose a character - switch that character's base [conflict-military] and [conflict-political] skill until the end of the phase.",
+    "traits": [
+        "shugenja",
+        "water"
+    ],
+    "type": "character",
+    "unique": true
+}

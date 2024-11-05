@@ -1,0 +1,33 @@
+{
+    "allowed_clans": [
+        "scorpion"
+    ],
+    "clan": "scorpion",
+    "cost": 4,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 1,
+    "honor": null,
+    "id": "12-disguised-protector",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "3",
+    "military_bonus": null,
+    "name": "Disguised Protector",
+    "political": "3",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "<b>Action:<\/b> During a conflict in which this character is participating \u2013 each player adds the bid on his or her honor dial to his or her skill during this conflict's resolution.",
+    "traits": [
+        "bushi",
+        "shinobi",
+        "yojimbo"
+    ],
+    "type": "character",
+    "unique": false
+}

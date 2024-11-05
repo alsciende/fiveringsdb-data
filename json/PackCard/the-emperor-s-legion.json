@@ -1,225 +1,225 @@
 [
     {
-        "card_id": "kyuden-ikoma",
+        "card_id": "27-kyuden-ikoma",
         "flavor": "",
         "illustrator": "Daniel Alekow",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_1.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_1.jpg",
         "position": "1",
         "quantity": 1
     },
     {
-        "card_id": "kenson-no-gakka",
+        "card_id": "27-kenson-no-gakka",
         "flavor": "It stands as a testament to the limits of Scorpion ambition.",
         "illustrator": "Noah Bradley",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_2.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_2.jpg",
         "position": "2",
         "quantity": 1
     },
     {
-        "card_id": "support-of-the-lion",
+        "card_id": "27-support-of-the-lion",
         "flavor": "",
         "illustrator": "",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_3.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_3.jpg",
         "position": "3",
         "quantity": 1
     },
     {
-        "card_id": "ashigaru-levy",
+        "card_id": "27-ashigaru-levy",
         "flavor": "Ashigaru of the Lion Clan benefit from better training, better equipment, and greater numbers than those of any other clan.",
         "illustrator": "Felipe Gaona",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_4.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_4.jpg",
         "position": "4",
         "quantity": 3
     },
     {
-        "card_id": "samurai-of-integrity",
+        "card_id": "27-samurai-of-integrity",
         "flavor": "\"Your soldiers will follow you into the darkest valley, and fight in the blackest night, if they are illuminated by your honor.\" - Akodo's Leadership",
         "illustrator": "Drew Baker",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_5.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_5.jpg",
         "position": "5",
         "quantity": 3
     },
     {
-        "card_id": "matsu-gohei",
+        "card_id": "27-matsu-gohei",
         "flavor": "\"Why'd you want to fight me when you'd do such a bad job of it.\"",
         "illustrator": "Stanislav Dikolenko",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_6.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_6.jpg",
         "position": "6",
         "quantity": 3
     },
     {
-        "card_id": "ardent-omoidasu",
+        "card_id": "27-ardent-omoidasu",
         "flavor": "\"You expect Akodo-san to care about an insult conceived by a novice, when he has singlehandedly repelled eight different Unicorn assaults on Juntou no Shiro?\"",
         "illustrator": "Greg Burrowski",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_7.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_7.jpg",
         "position": "7",
         "quantity": 3
     },
     {
-        "card_id": "kitsu-motso",
+        "card_id": "27-kitsu-motso",
         "flavor": "\"The time is now\"",
         "illustrator": "Felipe Gaona",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_8.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_8.jpg",
         "position": "8",
         "quantity": 3
     },
     {
-        "card_id": "akodo-motivator",
+        "card_id": "27-akodo-motivator",
         "flavor": "\"You may find that honor carries a different meaning in this battlefield.\"",
         "illustrator": "Kevin Zamir Golke",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_9.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_9.jpg",
         "position": "9",
         "quantity": 3
     },
     {
-        "card_id": "voice-of-the-ancestors",
+        "card_id": "27-voice-of-the-ancestors",
         "flavor": "",
         "illustrator": "Bram Sels",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_10.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_10.jpg",
         "position": "10",
         "quantity": 3
     },
     {
-        "card_id": "matsu-tsuko-2",
+        "card_id": "27-matsu-tsuko",
         "flavor": "\"We will make them cower for their insults, and Arasou will be avenged.\"",
-        "illustrator": "Amélie Hutt",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_11.jpg",
+        "illustrator": "Am\u00e9lie Hutt",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_11.jpg",
         "position": "11",
         "quantity": 3
     },
     {
-        "card_id": "champions-of-yomi",
+        "card_id": "27-champions-of-yomi",
         "flavor": "",
         "illustrator": "Polar Engine",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_12.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_12.jpg",
         "position": "12",
         "quantity": 3
     },
     {
-        "card_id": "hall-of-victories",
+        "card_id": "27-hall-of-victories",
         "flavor": "\"In these records, you will be remembered for the next thousand years.\"",
         "illustrator": "Hai Hoang",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_13.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_13.jpg",
         "position": "13",
         "quantity": 3
     },
     {
-        "card_id": "yasuki-hikaru",
+        "card_id": "27-yasuki-hikaru",
         "flavor": "\"As a samurai in service to my clan, I cannot allow you to spread the Taint any further.\"",
         "illustrator": "Stanislav Dikolenko",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_14.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_14.jpg",
         "position": "14",
         "quantity": 3
     },
     {
-        "card_id": "doji-kuzunobu",
+        "card_id": "27-doji-kuzunobu",
         "flavor": "Each poem spun discloses a trace of the wondrous forest home to which he hopes to one day return.",
         "illustrator": "Polar Engine",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_15.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_15.jpg",
         "position": "15",
         "quantity": 3
     },
     {
-        "card_id": "isawa-tsuke",
+        "card_id": "27-isawa-tsuke",
         "flavor": "",
         "illustrator": "Pavel Kolomeyets",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_16.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_16.jpg",
         "position": "16",
         "quantity": 3
     },
     {
-        "card_id": "shosuro-denmaru",
+        "card_id": "27-shosuro-denmaru",
         "flavor": "\"I fear I can offer nothing of value for your investigation. I generally leave matters of murder in Denmaru's hands.\" - Shosuro Hyobu",
         "illustrator": "Conceptopolis",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_17.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_17.jpg",
         "position": "17",
         "quantity": 3
     },
     {
-        "card_id": "moto-ariq",
+        "card_id": "27-moto-ariq",
         "flavor": "",
         "illustrator": "Jorge Matar",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_18.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_18.jpg",
         "position": "18",
         "quantity": 3
     },
     {
-        "card_id": "caravan-guard",
+        "card_id": "27-caravan-guard",
         "flavor": "",
         "illustrator": "Kevin Zamir Golke",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_19.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_19.jpg",
         "position": "19",
         "quantity": 3
     },
     {
-        "card_id": "insolent-outcast",
+        "card_id": "27-insolent-outcast",
         "flavor": "\"I could defeat any samurai who thinks themselves great just because of which clan they serve.\"",
         "illustrator": "Ben Peck",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_20.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_20.jpg",
         "position": "20",
         "quantity": 3
     },
     {
-        "card_id": "tactical-ingenuity",
+        "card_id": "27-tactical-ingenuity",
         "flavor": "",
         "illustrator": "Greg Lambrakis",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_21.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_21.jpg",
         "position": "21",
         "quantity": 3
     },
     {
-        "card_id": "total-warfare",
+        "card_id": "27-total-warfare",
         "flavor": "",
         "illustrator": "Evan Shipard",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_22.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_22.jpg",
         "position": "22",
         "quantity": 3
     },
     {
-        "card_id": "embrace-death",
+        "card_id": "27-embrace-death",
         "flavor": "",
         "illustrator": "Michael Matsumoto",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_23.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_23.jpg",
         "position": "23",
         "quantity": 3
     },
     {
-        "card_id": "honor-in-battle",
+        "card_id": "27-honor-in-battle",
         "flavor": "\"With victory, your foe is set back. With honor, your foe is vanquished.\" - Akodo's Leadership",
         "illustrator": "Diego Gisbert Llorens",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_24.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_24.jpg",
         "position": "24",
         "quantity": 3
     },
     {
-        "card_id": "prepare-for-war",
+        "card_id": "27-prepare-for-war",
         "flavor": "",
         "illustrator": "Le Vuong",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_25.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_25.jpg",
         "position": "25",
         "quantity": 3
     },
     {
-        "card_id": "right-hand-of-the-emperor",
+        "card_id": "27-right-hand-of-the-emperor",
         "flavor": "",
         "illustrator": "Marius Bota",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_26.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_26.jpg",
         "position": "26",
         "quantity": 3
     },
     {
-        "card_id": "kitsuki-kagi",
+        "card_id": "27-kitsuki-kagi",
         "flavor": "\"If only Doji-sama's recordings were not as frustratingly secretive as he was when he was alive...\"",
         "illustrator": "Lin Hsiang",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_27.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_27.jpg",
         "position": "27",
         "quantity": 3
     },
     {
-        "card_id": "those-who-serve",
+        "card_id": "27-those-who-serve",
         "flavor": "",
         "illustrator": "B. D. Judkins",
-        "image_url": "https://lcg-cdn.fantasyflightgames.com/l5r/L5C27_28.jpg",
+        "image_url": "https:\/\/lcg-cdn.fantasyflightgames.com\/l5r\/L5C27_28.jpg",
         "position": "28",
         "quantity": 3
     }

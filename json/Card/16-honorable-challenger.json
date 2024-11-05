@@ -1,0 +1,32 @@
+{
+    "allowed_clans": [
+        "lion"
+    ],
+    "clan": "lion",
+    "cost": 2,
+    "deck_limit": 3,
+    "element": null,
+    "fate": null,
+    "glory": 2,
+    "honor": null,
+    "id": "16-honorable-challenger",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_restricted": false,
+    "military": "2",
+    "military_bonus": null,
+    "name": "Honorable Challenger",
+    "political": "1",
+    "political_bonus": null,
+    "role_restriction": null,
+    "side": "dynasty",
+    "strength": null,
+    "strength_bonus": null,
+    "text": "Pride.\n<b>Action:<\/b> During a conflict, initiate a [conflict-military] duel - resolve the duel. The duel's winner does not bow as a result of this conflict's resolution.",
+    "traits": [
+        "bushi",
+        "duelist"
+    ],
+    "type": "character",
+    "unique": false
+}
