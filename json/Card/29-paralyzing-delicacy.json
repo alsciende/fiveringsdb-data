@@ -1,0 +1,27 @@
+{
+    "id": "29-paralyzing-delicacy",
+    "name": "Paralyzing Delicacy",
+    "cost": 0,
+    "text": "<b>Action:</b> During a conflict, choose a participating character – that character gets -1 [conflict-military] until the end of the conflict for each facedown card in its controller's provinces.",
+    "type": "event",
+    "clan": "scorpion",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "poison"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 2,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

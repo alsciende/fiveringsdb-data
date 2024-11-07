@@ -246,7 +246,7 @@
         "id": "rokugan-at-war",
         "name": "Rokugan at War",
         "position": 1,
-        "size": 20,
+        "size": 24,
         "released_at": "2020-03-06",
         "ffg_id": "L5C29",
         "cycle_id": "dominion"
@@ -255,7 +255,7 @@
         "id": "spreading-shadows",
         "name": "Spreading Shadows",
         "position": 2,
-        "size": 20,
+        "size": 24,
         "released_at": "2020-05-03",
         "ffg_id": "L5C30",
         "cycle_id": "dominion"
@@ -264,7 +264,7 @@
         "id": "in-pursuit-of-truth",
         "name": "In Pursuit of Truth",
         "position": 3,
-        "size": 20,
+        "size": 24,
         "released_at": "2020-07-03",
         "ffg_id": "L5C31",
         "cycle_id": "dominion"
@@ -273,7 +273,7 @@
         "id": "campaigns-of-conquest",
         "name": "Campaigns of Conquest",
         "position": 4,
-        "size": 20,
+        "size": 24,
         "released_at": "2020-08-07",
         "ffg_id": "L5C32",
         "cycle_id": "dominion"
@@ -282,7 +282,7 @@
         "id": "as-honor-demands",
         "name": "As Honor Demands",
         "position": 5,
-        "size": 20,
+        "size": 24,
         "released_at": "2020-09-04",
         "ffg_id": "L5C33",
         "cycle_id": "dominion"
@@ -291,7 +291,7 @@
         "id": "atonement",
         "name": "Atonement",
         "position": 6,
-        "size": 20,
+        "size": 24,
         "released_at": "2020-10-02",
         "ffg_id": "L5C34",
         "cycle_id": "dominion"

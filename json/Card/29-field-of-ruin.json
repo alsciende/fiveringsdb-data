@@ -1,0 +1,27 @@
+{
+    "id": "29-field-of-ruin",
+    "name": "Field of Ruin",
+    "cost": 1,
+    "text": "Reduce the cost to play this card by 1 if it is played on a broken province.<br>Attach to a province. Limit 1 <em>Battlefield</em> attachment per province.<br><b>Reaction:</b> After the conflict phase begins - discard each card in attached province.",
+    "type": "attachment",
+    "clan": "neutral",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "battlefield"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 0,
+    "deckLimit": 3,
+    "roleRestriction": null
+}
