@@ -265,6 +265,29 @@ class GenerateCardCommand extends Command
 
         $io->success("Card created at $filepath");
 
+        $flavor = $helper->ask($input, $output, new Question('Flavor text: '));
+        $illustrator = $helper->ask($input, $output, new Question('Illustrator: '));
+        $imageUrl = $helper->ask($input, $output, new Question('Image URL: '));
+        $position = (int) $helper->ask($input, $output, new Question('Image URL: '));
+        $quantity = 3;
+        if ($card->getType() === Type::PROVINCE->value
+        || $card->getType() === Type::ROLE->value
+        || $card->getType() === Type::STRONGHOLD->value) {
+            $quantity = 1;
+        }
+        $data = [
+            "card_id" => $card->getId(),
+            "flavor" => $flavor,
+            "illustrator" => $illustrator,
+            "image_url" => $imageUrl,
+            "position" => $position,
+            "quantity" => $quantity
+        ];
+        $filename = './json/PackCard/' . $pack['id'] . '.json';
+        $cards = $this->getFileJsonContent($filename);
+        $cards[] = $data;
+        $this->putFileJsonContent($filename, $cards);
+
         return Command::SUCCESS;
     }
 
