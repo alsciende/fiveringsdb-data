@@ -1,0 +1,28 @@
+{
+    "id": "29-akodo-reserve-company",
+    "name": "Akodo Reserve Company",
+    "cost": 4,
+    "text": "No attachments except <em>Weapon</em>. Rally.<br><b>Action:</b> During a conflict, if there is a <em>Battlefield</em> in play, choose a participating character you control - move this character to the conflict. If you do, move the chosen character home.",
+    "type": "character",
+    "clan": "lion",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "bushi",
+        "army"
+    ],
+    "military": "5",
+    "political": "1",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 2,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

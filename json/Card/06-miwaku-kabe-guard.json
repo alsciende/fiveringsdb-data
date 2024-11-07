@@ -5,7 +5,9 @@
     "clan": "lion",
     "cost": 1,
     "deck_limit": 3,
-    "element": null,
+    "elements": [
+        null
+    ],
     "fate": null,
     "glory": 2,
     "honor": null,

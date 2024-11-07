@@ -1,0 +1,27 @@
+{
+    "id": "29-garanto-guardian",
+    "name": "Garanto Guardian",
+    "cost": 4,
+    "text": "<b>Reaction:</b> After this character wins a conflict as the defender - resolve a ring effect that matches the attacked province's element as if you were the attacking player.",
+    "type": "character",
+    "clan": "phoenix",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "bushi"
+    ],
+    "military": "4",
+    "political": "3",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 3,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

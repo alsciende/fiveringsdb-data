@@ -5,7 +5,9 @@
     "clan": "phoenix",
     "cost": null,
     "deck_limit": 1,
-    "element": "fire",
+    "elements": [
+        "fire"
+    ],
     "fate": null,
     "glory": null,
     "honor": null,

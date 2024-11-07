@@ -1,0 +1,30 @@
+{
+    "clan": "lion",
+    "cost": null,
+    "deckLimit": 1,
+    "elements": [
+        "earth",
+        "water"
+    ],
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "29-ninkatoshi",
+    "influenceCost": null,
+    "influencePool": null,
+    "military": null,
+    "militaryBonus": null,
+    "name": "Ninkatoshi",
+    "political": null,
+    "politicalBonus": null,
+    "roleRestriction": null,
+    "side": "province",
+    "strength": "4",
+    "strengthBonus": null,
+    "text": "Eminent. <i>(This province starts the game faceup and cannot be turned facedown. It cannot be a stronghold province.)</i><br>Each other province gets -1 strength if controlled by an opponent and +1 strength if controlled by you or a teammate.",
+    "traits": [
+        "city"
+    ],
+    "type": "province",
+    "unique": true
+}

@@ -1,0 +1,27 @@
+{
+    "clan": "crab",
+    "cost": null,
+    "deckLimit": 1,
+    "elements": [
+        "void"
+    ],
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "29-shrug-off-despair",
+    "influenceCost": null,
+    "influencePool": null,
+    "military": null,
+    "militaryBonus": null,
+    "name": "Shrug Off Despair",
+    "political": null,
+    "politicalBonus": null,
+    "roleRestriction": null,
+    "side": "province",
+    "strength": "6",
+    "strengthBonus": null,
+    "text": "Cannot be a stronghold province.<br><b>Action:</b> During a conflict at another province you control - move the contested ring to this province. It is now the attacked province.",
+    "traits": [],
+    "type": "province",
+    "unique": false
+}

@@ -5,7 +5,9 @@
     "clan": "crane",
     "cost": 0,
     "deck_limit": 3,
-    "element": null,
+    "elements": [
+        null
+    ],
     "fate": null,
     "glory": null,
     "honor": null,

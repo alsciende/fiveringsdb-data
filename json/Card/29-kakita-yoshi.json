@@ -1,0 +1,29 @@
+{
+    "id": "29-kakita-yoshi",
+    "name": "Kakita Yoshi",
+    "cost": 5,
+    "text": "<b>Reaction:</b> After this character wins a [conflict-political] conflict as the attacker, choose up to X characters, where X is the number of faceup provinces you control - dishonor each of those characters.",
+    "type": "character",
+    "clan": "crane",
+    "elements": [],
+    "isUnique": true,
+    "side": "dynasty",
+    "traits": [
+        "courtier",
+        "daimyo",
+        "imperial"
+    ],
+    "military": "2",
+    "political": "6",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 3,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

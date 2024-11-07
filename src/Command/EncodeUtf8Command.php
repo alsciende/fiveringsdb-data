@@ -37,6 +37,7 @@ class EncodeUtf8Command extends Command
             $filename = $file->getRealPath();
             $data = $this->getFileJsonContent($filename);
             $data['text'] = $data['text'] ? str_replace("\n", "<br>", $data['text']) : null;
+            ksort($data);
             $this->putFileJsonContent($filename, $data);
         }
 

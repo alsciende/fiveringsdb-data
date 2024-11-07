@@ -1,0 +1,27 @@
+{
+    "clan": "crane",
+    "cost": null,
+    "deckLimit": 1,
+    "elements": [
+        "earth"
+    ],
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "29-pledge-of-loyalty",
+    "influenceCost": null,
+    "influencePool": null,
+    "military": null,
+    "militaryBonus": null,
+    "name": "Pledge of Loyalty",
+    "political": null,
+    "politicalBonus": null,
+    "roleRestriction": null,
+    "side": "province",
+    "strength": "3",
+    "strengthBonus": null,
+    "text": "<b>Interrupt:</b> When an honored character you control would leave play - discard its honored status token instead.",
+    "traits": [],
+    "type": "province",
+    "unique": false
+}

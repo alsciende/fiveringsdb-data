@@ -1,0 +1,27 @@
+{
+    "id": "29-educated-heimin",
+    "name": "Educated Heimin",
+    "cost": 0,
+    "text": "Attach to an unbroken province you control.<br>Each time you would refill attached province with a card, instead look at the top 2 cards of your dynasty deck (4 cards instead if attached province is facedown), refill the province with 1 of those cards and discard the rest.",
+    "type": "attachment",
+    "clan": "dragon",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "follower"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 3,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

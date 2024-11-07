@@ -5,7 +5,9 @@
     "clan": "unicorn",
     "cost": null,
     "deck_limit": 1,
-    "element": null,
+    "elements": [
+        null
+    ],
     "fate": 6,
     "glory": null,
     "honor": 10,

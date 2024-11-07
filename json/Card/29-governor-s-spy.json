@@ -1,0 +1,27 @@
+{
+    "id": "29-governor-s-spy",
+    "name": "Governor's Spy",
+    "cost": 3,
+    "text": "<b>Action:</b> During a conflict in which this character is participating, choose a player - turn each card in that player's provinces facedown. Then, look at them and put each of those cards into one of that player's provinces, such that each province ends up with at least one card.",
+    "type": "character",
+    "clan": "scorpion",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "courtier"
+    ],
+    "military": "1",
+    "political": "4",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

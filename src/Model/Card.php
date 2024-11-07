@@ -4,39 +4,6 @@ namespace App\Model;
 
 class Card
 {
-    const array TYPES = ['attachment', 'character', 'event', 'holding', 'province', 'role', 'stronghold'];
-    const string TYPE_ATTACHMENT = 'attachment';
-    const string TYPE_CHARACTER = 'character';
-    const string TYPE_EVENT = 'event';
-    const string TYPE_HOLDING = 'holding';
-    const string TYPE_PROVINCE = 'province';
-    const string TYPE_ROLE = 'role';
-    const string TYPE_STRONGHOLD = 'stronghold';
-
-    const array ELEMENTS = ['air', 'earth', 'fire', 'void', 'water', 'all'];
-    const string ELEMENT_AIR = 'air';
-    const string ELEMENT_EARTH = 'earth';
-    const string ELEMENT_FIRE = 'fire';
-    const string ELEMENT_VOID = 'void';
-    const string ELEMENT_WATER = 'water';
-    const string ELEMENT_ALL = 'all';
-
-    const array SIDES = ['conflict', 'dynasty', 'province', 'role'];
-    const string SIDE_CONFLICT = 'conflict';
-    const string SIDE_DYNASTY = 'dynasty';
-    const string SIDE_PROVINCE = 'province';
-    const string SIDE_ROLE = 'role';
-
-    const array CLANS = ['crab', 'crane', 'dragon', 'lion', 'phoenix', 'scorpion', 'unicorn'];
-    const string CLAN_CRAB = 'crab';
-    const string CLAN_CRANE = 'crane';
-    const string CLAN_DRAGON = 'dragon';
-    const string CLAN_LION = 'lion';
-    const string CLAN_NEUTRAL = 'neutral';
-    const string CLAN_PHOENIX = 'phoenix';
-    const string CLAN_SCORPION = 'scorpion';
-    const string CLAN_UNICORN = 'unicorn';
-
     private string $id;
 
     private string $name;
@@ -49,9 +16,12 @@ class Card
 
     private string $clan;
 
-    private ?string $element = null;
+    /**
+     * @var string[]
+     */
+    private array $elements;
 
-    private bool $unicity;
+    private bool $isUnique;
 
     private string $side;
 
@@ -86,23 +56,17 @@ class Card
 
     private ?string $roleRestriction = null;
 
-    private ?string $nameExtra = null;
-
     function __construct()
     {
         $this->deckLimit = 3;
+        $this->elements = [];
         $this->traits = [];
-        $this->unicity = false;
+        $this->isUnique = false;
     }
 
     public function hasTrait(string $trait): bool
     {
         return in_array($trait, $this->traits);
-    }
-
-    public function getFullName(): string
-    {
-        return $this->name . ($this->nameExtra ? ' ' . $this->nameExtra : '');
     }
 
     public function getId(): string
@@ -177,26 +141,30 @@ class Card
         return $this;
     }
 
-    public function getElement(): ?string
+    /**
+     * @return string[]
+     */
+    public function getElements(): array
     {
-        return $this->element;
+        return $this->elements;
     }
 
-    public function setElement(?string $element): self
+    /**
+     * @param string[] $elements
+     */
+    public function setElements(array $elements): void
     {
-        $this->element = $element;
-
-        return $this;
+        $this->elements = $elements;
     }
 
-    public function isUnicity(): bool
+    public function getIsUnique(): bool
     {
-        return $this->unicity;
+        return $this->isUnique;
     }
 
-    public function setUnicity(bool $unicity): self
+    public function setIsUnique(bool $isUnique): self
     {
-        $this->unicity = $unicity;
+        $this->isUnique = $isUnique;
 
         return $this;
     }
@@ -383,18 +351,6 @@ class Card
     public function setRoleRestriction(?string $roleRestriction): self
     {
         $this->roleRestriction = $roleRestriction;
-
-        return $this;
-    }
-
-    public function getNameExtra(): ?string
-    {
-        return $this->nameExtra;
-    }
-
-    public function setNameExtra(?string $nameExtra): self
-    {
-        $this->nameExtra = $nameExtra;
 
         return $this;
     }

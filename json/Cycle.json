@@ -34,5 +34,11 @@
         "name": "Inheritance Cycle",
         "position": 6,
         "size": 6
+    },
+    {
+        "id": "dominion",
+        "name": "Dominion Cycle",
+        "position": 7,
+        "size": 6
     }
 ]

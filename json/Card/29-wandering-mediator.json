@@ -1,0 +1,27 @@
+{
+    "id": "29-wandering-mediator",
+    "name": "Wandering Mediator",
+    "cost": 1,
+    "text": "<em>Air</em> role only.<br><b>Action:</b> During a conflict at an [element-air] province, select one - either move this character to the conflict, or move it home.",
+    "type": "character",
+    "clan": "phoenix",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "courtier"
+    ],
+    "military": "0",
+    "political": "2",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 1,
+    "deckLimit": 3,
+    "roleRestriction": "air"
+}

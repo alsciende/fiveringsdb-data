@@ -1,0 +1,27 @@
+{
+    "clan": "dragon",
+    "cost": null,
+    "deckLimit": 1,
+    "elements": [
+        "water"
+    ],
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "29-sharing-shinsei-s-wisdom",
+    "influenceCost": null,
+    "influencePool": null,
+    "military": null,
+    "militaryBonus": null,
+    "name": "Sharing Shinsei's Wisdom",
+    "political": null,
+    "politicalBonus": null,
+    "roleRestriction": null,
+    "side": "province",
+    "strength": "4",
+    "strengthBonus": null,
+    "text": "<b>Reaction:</b> After this province is revealed, choose a character – move 1 fate from that character to another character controlled by the same player.",
+    "traits": [],
+    "type": "province",
+    "unique": false
+}
