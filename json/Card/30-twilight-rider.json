@@ -1,0 +1,29 @@
+{
+    "id": "30-twilight-rider",
+    "name": "Twilight Rider",
+    "cost": 3,
+    "text": "Rally. <i>(After this card is revealed in a province, add the top card of your dynasty deck to the province, faceup.)</i><br><b>Reaction:</b> After this character moves to a conflict, choose a character – ready that character.",
+    "type": "character",
+    "clan": "unicorn",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "bushi",
+        "cavalry",
+        "scout"
+    ],
+    "military": "3",
+    "political": "1",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

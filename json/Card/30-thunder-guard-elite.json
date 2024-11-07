@@ -1,0 +1,27 @@
+{
+    "id": "30-thunder-guard-elite",
+    "name": "Thunder Guard Elite",
+    "cost": 4,
+    "text": "Pride.<br><b>Action:</b> During a conflict in which this character is participating, lose 1 honor - your opponent discards 1 random card from their hand.",
+    "type": "character",
+    "clan": "scorpion",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "bushi"
+    ],
+    "military": "4",
+    "political": "2",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 0,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

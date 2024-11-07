@@ -1,0 +1,28 @@
+{
+    "id": "30-ethereal-alignment",
+    "name": "Ethereal Alignment",
+    "cost": 5,
+    "text": "<b>Interrupt:</b> When the conflict phase ends, choose a broken province that shares an element with a ring in your claimed ring pool - restore that province. Remove this card from the game.",
+    "type": "event",
+    "clan": "phoenix",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "spell",
+        "void"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 4,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

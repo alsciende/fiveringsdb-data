@@ -1,0 +1,27 @@
+{
+    "id": "30-seven-stings-keep",
+    "name": "Seven Stings Keep",
+    "cost": null,
+    "text": "<b>Interrupt:</b> When you declare a conflict, choose a number greater than 0 and bow this stronghold – your opponent declares defenders for this conflict. Then declare the conflict <i>(choosing attackers, ring, conflict type, and province)</i>. You must declare a number of attackers equal to the number you chose.",
+    "type": "stronghold",
+    "clan": "scorpion",
+    "elements": [],
+    "isUnique": false,
+    "side": "province",
+    "traits": [
+        "castle"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": "+2",
+    "glory": null,
+    "honor": 10,
+    "fate": 7,
+    "influencePool": 10,
+    "influenceCost": null,
+    "deckLimit": 1,
+    "roleRestriction": null
+}

@@ -1,0 +1,27 @@
+{
+    "id": "30-never-yield",
+    "name": "Never Yield",
+    "cost": 0,
+    "text": "<b>Reaction:</b> After you declare an attack - until the end of the conflict, each character you control cannot be bowed or moved home by opponents' card effects.",
+    "type": "event",
+    "clan": "unicorn",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "philosophy"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 4,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

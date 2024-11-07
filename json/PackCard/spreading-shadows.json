@@ -1,0 +1,186 @@
+[
+    {
+        "card_id": "30-seven-stings-keep",
+        "flavor": null,
+        "illustrator": "Imad Awan",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C30_25.jpg",
+        "position": 25,
+        "quantity": 1
+    },
+    {
+        "card_id": "30-shinsei-s-last-hope",
+        "flavor": null,
+        "illustrator": "Frej Agelii",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C30_26.jpg",
+        "position": 26,
+        "quantity": 1
+    },
+    {
+        "card_id": "30-spectral-visitation",
+        "flavor": null,
+        "illustrator": "Apterus",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C30_27.jpg",
+        "position": 27,
+        "quantity": 3
+    },
+    {
+        "card_id": "30-retire-to-the-brotherhood",
+        "flavor": null,
+        "illustrator": "Lukas Banas",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C30_28.jpg",
+        "position": 28,
+        "quantity": 3
+    },
+    {
+        "card_id": "30-wind-s-path",
+        "flavor": null,
+        "illustrator": "Nele Diel",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C30_29.jpg",
+        "position": 29,
+        "quantity": 1
+    },
+    {
+        "card_id": "30-driven-by-courage",
+        "flavor": null,
+        "illustrator": "John Anthony Di Giovanni",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C30_30.jpg",
+        "position": 30,
+        "quantity": 3
+    },
+    {
+        "card_id": "30-butcher-of-the-fallen",
+        "flavor": null,
+        "illustrator": "Carlos Dias",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C30_31.jpg",
+        "position": 31,
+        "quantity": 3
+    },
+    {
+        "card_id": "30-cunning-negotiator",
+        "flavor": null,
+        "illustrator": "Jake Murray",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C30_32.jpg",
+        "position": 32,
+        "quantity": 3
+    },
+    {
+        "card_id": "30-daidoji-marketplace",
+        "flavor": null,
+        "illustrator": "Charles Urbach",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C30_33.jpg",
+        "position": 33,
+        "quantity": 3
+    },
+    {
+        "card_id": "30-traveling-philosopher",
+        "flavor": "\"In another lifetime, her untrod path shall be a road.\" – Togashi Mitsu",
+        "illustrator": "Leanna Crossan",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C30_34.jpg",
+        "position": 34,
+        "quantity": 3
+    },
+    {
+        "card_id": "30-chronicler-of-conquests",
+        "flavor": "\"I have seen the flames of war rage across the plain, consuming palace and city and monastery alike. It is a sight I will never forget.\"",
+        "illustrator": "Matt Bulahao",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C30_35.jpg",
+        "position": 35,
+        "quantity": 3
+    },
+    {
+        "card_id": "30-inspired-visionary",
+        "flavor": "\"What need have we for weapons and armor when we have the Kami at our side?\"",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C30_36.jpg",
+        "position": 36,
+        "quantity": 3
+    },
+    {
+        "card_id": "30-thunder-guard-elite",
+        "flavor": "\"The Kami only know how many cells these Thunder Guard fill, how many bodies they leave behind...\" - Crime Lord Ikku",
+        "illustrator": "Guillaume Ducos",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C30_37.jpg",
+        "position": 37,
+        "quantity": 3
+    },
+    {
+        "card_id": "30-dispatch-to-nowhere",
+        "flavor": "\"Your loyalty has been recognized, and you may take up your new assignment in Kinbō Province at once.\" – Soshi Shiori",
+        "illustrator": "Leanna Crossan",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C30_38.jpg",
+        "position": 38,
+        "quantity": 3
+    },
+    {
+        "card_id": "30-twilight-rider",
+        "flavor": null,
+        "illustrator": "Imad Awan",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C30_39.jpg",
+        "position": 39,
+        "quantity": 3
+    },
+    {
+        "card_id": "30-moto-stables",
+        "flavor": null,
+        "illustrator": "Leanna Crossan",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C30_40.jpg",
+        "position": 40,
+        "quantity": 3
+    },
+    {
+        "card_id": "30-disciple-of-shinsei",
+        "flavor": "\"Did this power not also come from the heavens?\"",
+        "illustrator": "Carlos Palma Cruchaga",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C30_42.jpg",
+        "position": 42,
+        "quantity": 3
+    },
+    {
+        "card_id": "30-highlight-the-flaws",
+        "flavor": "\"Do not make the mistake of inviting a master artisan into your home.\" - Kitsuki Chiari",
+        "illustrator": "Felipe Gaona",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C30_43.jpg",
+        "position": 43,
+        "quantity": 3
+    },
+    {
+        "card_id": "30-mountaintop-vigil",
+        "flavor": "None knew what had brought them together, yet is was agreed that none could find their answers alone.",
+        "illustrator": "Leanna Crossan",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C30_44.jpg",
+        "position": 44,
+        "quantity": 3
+    },
+    {
+        "card_id": "30-logistics",
+        "flavor": null,
+        "illustrator": "Joyce Maureira",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C30_45.jpg",
+        "position": 45,
+        "quantity": 3
+    },
+    {
+        "card_id": "30-ethereal-alignment",
+        "flavor": "\"This was never your fate.\"",
+        "illustrator": "Calvin Chua",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C30_46.jpg",
+        "position": 46,
+        "quantity": 3
+    },
+    {
+        "card_id": "30-suffer-the-consequences",
+        "flavor": null,
+        "illustrator": "Felipe Gaona",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C30_47.jpg",
+        "position": 47,
+        "quantity": 3
+    },
+    {
+        "card_id": "30-never-yield",
+        "flavor": null,
+        "illustrator": "Francesca Baerald",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C30_48.jpg",
+        "position": 48,
+        "quantity": 3
+    }
+]

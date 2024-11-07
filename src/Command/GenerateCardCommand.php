@@ -263,14 +263,14 @@ class GenerateCardCommand extends Command
 
         file_put_contents($filepath, $data);
 
-        $io->success("Card created at $filepath");
+        $io->note("Card created at $filepath");
 
         $flavor = $helper->ask($input, $output, new Question('Flavor text: '));
         $illustrator = $helper->ask($input, $output, new Question('Illustrator: '));
         $imageUrl = $helper->ask($input, $output, new Question('Image URL: '));
-        $position = (int) $helper->ask($input, $output, new Question('Image URL: '));
+        $position = (int) $helper->ask($input, $output, new Question('Position: '));
         $quantity = 3;
-        if ($card->getType() === Type::PROVINCE->value
+        if (($card->getType() === Type::PROVINCE->value && $card->getIsUnique())
         || $card->getType() === Type::ROLE->value
         || $card->getType() === Type::STRONGHOLD->value) {
             $quantity = 1;

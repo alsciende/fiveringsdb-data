@@ -1,0 +1,27 @@
+{
+    "id": "30-chronicler-of-conquests",
+    "name": "Chronicler of Conquests",
+    "cost": 1,
+    "text": "<b>Action:</b> During a conflict in which this character is participating, if there is a <em>Battlefield</em> in play - gain 1 honor.",
+    "type": "character",
+    "clan": "lion",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "courtier"
+    ],
+    "military": "0",
+    "political": "2",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

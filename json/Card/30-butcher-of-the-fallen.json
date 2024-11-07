@@ -1,0 +1,28 @@
+{
+    "id": "30-butcher-of-the-fallen",
+    "name": "Butcher of the Fallen",
+    "cost": 4,
+    "text": "Rally. <i>(After this card is revealed in a province, add the top card of your dynasty deck to the province, faceup.)</i><br>While this character is attacking, characters with less [conflict-military] skill than the number of unbroken provinces you control cannot be declared as defenders.",
+    "type": "character",
+    "clan": "crab",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "bushi",
+        "berserker"
+    ],
+    "military": "6",
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 0,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

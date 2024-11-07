@@ -1,0 +1,27 @@
+{
+    "id": "30-retire-to-the-brotherhood",
+    "name": "Retire to the Brotherhood",
+    "cost": null,
+    "text": "<b>Reaction:</b> After this province is revealed - each player discards each character they control with no fate, reveals cards from the top of their dynasty deck until an equal number of characters are revealed, and puts those characters into play. Shuffle.",
+    "type": "province",
+    "clan": "phoenix",
+    "elements": [
+        "water"
+    ],
+    "isUnique": false,
+    "side": "province",
+    "traits": [],
+    "military": null,
+    "political": null,
+    "strength": "4",
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 1,
+    "roleRestriction": null
+}

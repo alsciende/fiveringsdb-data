@@ -1,0 +1,28 @@
+{
+    "id": "30-disciple-of-shinsei",
+    "name": "Disciple of Shinsei",
+    "cost": 0,
+    "text": "<em>Void</em> role only.<br><b>Action:</b> Lose 1 honor - discard a status token from attached character. (Unlimited.)",
+    "type": "attachment",
+    "clan": "crab",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "item",
+        "shadowlands"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": "+1",
+    "politicalBonus": "+0",
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 1,
+    "deckLimit": 3,
+    "roleRestriction": "void"
+}

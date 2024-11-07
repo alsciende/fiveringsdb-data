@@ -1,0 +1,28 @@
+{
+    "id": "30-inspired-visionary",
+    "name": "Inspired Visionary",
+    "cost": 1,
+    "text": "<b>Reaction:</b> After the fate phase begins, bow this character and choose an attachment – shuffle that attachment into its owner's conflict deck. That player draws 1 card.",
+    "type": "character",
+    "clan": "phoenix",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "shugenja",
+        "air"
+    ],
+    "military": "1",
+    "political": "1",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

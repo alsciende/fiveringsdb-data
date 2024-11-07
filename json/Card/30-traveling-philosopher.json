@@ -1,0 +1,27 @@
+{
+    "id": "30-traveling-philosopher",
+    "name": "Traveling Philosopher",
+    "cost": 3,
+    "text": "<b>Interrupt:</b> When this character leaves play, choose an unbroken province you control – turn that province facedown.",
+    "type": "character",
+    "clan": "dragon",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "monk"
+    ],
+    "military": "2",
+    "political": "3",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 2,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}
