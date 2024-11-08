@@ -1,0 +1,27 @@
+{
+    "id": "32-hayaken-no-shiro",
+    "name": "Hayaken no Shiro",
+    "cost": null,
+    "text": "<b>Action:</b> Bow this stronghold. Choose a <em>Bushi</em> character with printed cost 2 or lower - ready that character.",
+    "type": "stronghold",
+    "clan": "lion",
+    "elements": [],
+    "isUnique": false,
+    "side": "province",
+    "traits": [
+        "castle"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": "+2",
+    "glory": null,
+    "honor": 12,
+    "fate": 7,
+    "influencePool": 10,
+    "influenceCost": null,
+    "deckLimit": 1,
+    "roleRestriction": null
+}

@@ -1,0 +1,28 @@
+{
+    "id": "31-cursecatcher",
+    "name": "Cursecatcher",
+    "cost": 2,
+    "text": "<em>Seeker</em> role only.<br><b>Interrupt:</b> When the effects of a province's triggered ability would initiate, if that province has any facedown cards in it - cancel those effects.",
+    "type": "character",
+    "clan": "scorpion",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "shugenja",
+        "air"
+    ],
+    "military": "2",
+    "political": "2",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": "seeker"
+}

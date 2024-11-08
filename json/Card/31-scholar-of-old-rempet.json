@@ -1,0 +1,29 @@
+{
+    "id": "31-scholar-of-old-rempet",
+    "name": "Scholar of Old Rempet",
+    "cost": 1,
+    "text": "Rally. <i>(After this card is revealed in a province, add the top card of your dynasty deck to the province, faceup.)</i><br><b>Action:</b> During a conflict, lose 1 honor. Choose a non-unique character - that character is immune to events until the end of the conflict.",
+    "type": "character",
+    "clan": "unicorn",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "shugenja",
+        "water",
+        "scholar"
+    ],
+    "military": "1",
+    "political": "0",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

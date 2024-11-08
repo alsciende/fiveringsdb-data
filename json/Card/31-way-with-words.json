@@ -1,0 +1,27 @@
+{
+    "id": "31-way-with-words",
+    "name": "Way With Words",
+    "cost": 1,
+    "text": "<em>Water</em> role only.<br>Attached character gains: \"<b>Reaction:</b> After this character wins a [conflict-political] conflict - take 1 honor from your opponent.\"",
+    "type": "attachment",
+    "clan": "scorpion",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "technique"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": "+0",
+    "politicalBonus": "+1",
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 2,
+    "deckLimit": 3,
+    "roleRestriction": "water"
+}

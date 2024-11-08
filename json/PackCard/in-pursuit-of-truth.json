@@ -1,0 +1,178 @@
+[
+    {
+        "card_id": "31-tsuma",
+        "flavor": null,
+        "illustrator": "Daniel Alekow",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C31_49.jpg",
+        "position": 49,
+        "quantity": 1
+    },
+    {
+        "card_id": "31-silent-ones-monastery",
+        "flavor": null,
+        "illustrator": null,
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C31_50.jpg",
+        "position": 50,
+        "quantity": 1
+    },
+    {
+        "card_id": "31-courteous-greeting",
+        "flavor": null,
+        "illustrator": "Andreia Ugrai",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C31_51.jpg",
+        "position": 51,
+        "quantity": 3
+    },
+    {
+        "card_id": "31-blatant-swindler",
+        "flavor": null,
+        "illustrator": "Lucas Banas",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C31_52.jpg",
+        "position": 52,
+        "quantity": 3
+    },
+    {
+        "card_id": "31-third-whisker-sneak",
+        "flavor": null,
+        "illustrator": "Apterus",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C31_53.jpg",
+        "position": 53,
+        "quantity": 3
+    },
+    {
+        "card_id": "31-asahina-augur",
+        "flavor": "This is the only bird I have seen in days. War comes for us, whether we wish for it or not.\"",
+        "illustrator": "Lin Hsiang",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C31_54.jpg",
+        "position": 54,
+        "quantity": 3
+    },
+    {
+        "card_id": "31-shrewd-investigator",
+        "flavor": "\"I know of every possible hiding place in a palace such as this\"",
+        "illustrator": "Derek D. Edgell",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C31_55.jpg",
+        "position": 55,
+        "quantity": 3
+    },
+    {
+        "card_id": "31-kitsuki-chiari",
+        "flavor": "\"This changes everything.\"",
+        "illustrator": "Nino Vecia",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C31_56.jpg",
+        "position": 56,
+        "quantity": 3
+    },
+    {
+        "card_id": "31-master-tactician",
+        "flavor": "\"It's neither war nor peace: only order and chaos.\" - Akodo's Leadership",
+        "illustrator": "Jason Engle",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C31_57.jpg",
+        "position": 57,
+        "quantity": 3
+    },
+    {
+        "card_id": "31-student-of-the-tao",
+        "flavor": null,
+        "illustrator": "Le Vuong",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C31_58.jpg",
+        "position": 58,
+        "quantity": 3
+    },
+    {
+        "card_id": "31-cursecatcher",
+        "flavor": "\"If you leave now, I cannot protect you.\"",
+        "illustrator": "Le Vuong",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C31_59.jpg",
+        "position": 59,
+        "quantity": 3
+    },
+    {
+        "card_id": "31-scholar-of-old-rempet",
+        "flavor": null,
+        "illustrator": "Marius Bota",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C31_60.jpg",
+        "position": 60,
+        "quantity": 3
+    },
+    {
+        "card_id": "31-lost-papers",
+        "flavor": null,
+        "illustrator": "Felipe Gaona",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C31_61.jpg",
+        "position": 61,
+        "quantity": 3
+    },
+    {
+        "card_id": "31-return-from-shadows",
+        "flavor": null,
+        "illustrator": "Carlos Dias",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C31_62.jpg",
+        "position": 62,
+        "quantity": 3
+    },
+    {
+        "card_id": "31-the-wealth-of-the-crane",
+        "flavor": null,
+        "illustrator": "Carlos Palma Cruchaga",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C31_63.jpg",
+        "position": 63,
+        "quantity": 3
+    },
+    {
+        "card_id": "31-mantra-of-void",
+        "flavor": null,
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C31_64.jpg",
+        "position": 64,
+        "quantity": 3
+    },
+    {
+        "card_id": "31-makeshift-war-camp",
+        "flavor": null,
+        "illustrator": "Marius Bota",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C31_65.jpg",
+        "position": 65,
+        "quantity": 3
+    },
+    {
+        "card_id": "31-shori",
+        "flavor": null,
+        "illustrator": "Nino Vecia",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C31_66.jpg",
+        "position": 66,
+        "quantity": 3
+    },
+    {
+        "card_id": "31-studious",
+        "flavor": null,
+        "illustrator": "Hai Hoang",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C31_67.jpg",
+        "position": 67,
+        "quantity": 3
+    },
+    {
+        "card_id": "31-study-the-natural-world",
+        "flavor": null,
+        "illustrator": "Guillaume Ducor",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C31_68.jpg",
+        "position": 68,
+        "quantity": 3
+    },
+    {
+        "card_id": "31-way-with-words",
+        "flavor": null,
+        "illustrator": "Monztre",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C31_69.jpg",
+        "position": 69,
+        "quantity": 3
+    },
+    {
+        "card_id": "31-hunting-falcon",
+        "flavor": "\"If she returns without prey, we should be wary.\"",
+        "illustrator": "Borja Pindado",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C31_70.jpg",
+        "position": 70,
+        "quantity": 3
+    }
+]

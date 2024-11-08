@@ -40,5 +40,11 @@
         "name": "Dominion Cycle",
         "position": 7,
         "size": 6
+    },
+    {
+        "id": "temptations",
+        "name": "Temptations Cycle",
+        "position": 8,
+        "size": 6
     }
 ]

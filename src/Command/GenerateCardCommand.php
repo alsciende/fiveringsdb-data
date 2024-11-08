@@ -53,6 +53,10 @@ class GenerateCardCommand extends Command
         $io = new SymfonyStyle($input, $output);
         /** @var string $packId */
         $packId = $input->getArgument('pack');
+        $filename = "./json/PackCard/{$packId}.json";
+        if (!$this->fs->exists($filename)) {
+            throw new \RuntimeException("File for pack {$packId} does not exist.");
+        }
 
         /** @var QuestionHelper $helper */
         $helper = $this->getHelper('question');

@@ -1,0 +1,27 @@
+{
+    "id": "31-studious",
+    "name": "Studious",
+    "cost": 0,
+    "text": "Attach to a <em>Scholar</em> character.<br>Attached character gains sincerity and \"<b>Reaction:</b> After this character wins a conflict - draw 1 card.\"",
+    "type": "attachment",
+    "clan": "phoenix",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "condition"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": "+0",
+    "politicalBonus": "+1",
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 1,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

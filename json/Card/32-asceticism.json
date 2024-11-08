@@ -1,0 +1,27 @@
+{
+    "id": "32-asceticism",
+    "name": "Asceticism",
+    "cost": 1,
+    "text": "<em>Earth</em> role only.<br>While 2 or more of your non-stronghold provinces are facedown, attached character cannot be chosen as a target of an opponent's triggered abilities.",
+    "type": "attachment",
+    "clan": "dragon",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "condition"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": "+1",
+    "politicalBonus": "+1",
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 2,
+    "deckLimit": 3,
+    "roleRestriction": "earth"
+}

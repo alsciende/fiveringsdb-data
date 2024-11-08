@@ -1,0 +1,28 @@
+{
+    "id": "31-blatant-swindler",
+    "name": "Blatant Swindler",
+    "cost": 1,
+    "text": "<em>Seeker</em> role only.<br><b>Action:</b> During a conflict in which this character is particpating, give your opponent 1 honor. That player chooses a participating character they control - move that character home.",
+    "type": "character",
+    "clan": "crab",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "courtier",
+        "merchant"
+    ],
+    "military": "1",
+    "political": "1",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": "seeker"
+}

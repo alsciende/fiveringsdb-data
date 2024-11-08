@@ -1,0 +1,28 @@
+{
+    "id": "32-stoic-rival",
+    "name": "Stoic Rival",
+    "cost": 2,
+    "text": "Rally. <i>(After this card is revealed in a province, add the top card of your dynasty deck to the province, faceup.)</i><br><b>Action:</b> During a conflict in which this character is participating, choose another participating character with fewer attachments than this character - dishonor that character.",
+    "type": "character",
+    "clan": "dragon",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "bushi",
+        "duelist"
+    ],
+    "military": "2",
+    "political": "1",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

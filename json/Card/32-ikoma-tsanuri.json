@@ -1,0 +1,28 @@
+{
+    "id": "32-ikoma-tsanuri",
+    "name": "Ikoma Tsanuri",
+    "cost": 2,
+    "text": "Rally. <i>(After this card is revealed in a province, add the top card of your dynasty deck to the province, faceup.)</i><br>During conflicts in which this character is participating, your opponent cannot trigger abilities on the attacked province.",
+    "type": "character",
+    "clan": "lion",
+    "elements": [],
+    "isUnique": true,
+    "side": "dynasty",
+    "traits": [
+        "bushi",
+        "commander"
+    ],
+    "military": "2",
+    "political": "1",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 2,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

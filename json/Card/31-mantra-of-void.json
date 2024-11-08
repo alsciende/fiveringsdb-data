@@ -1,0 +1,28 @@
+{
+    "id": "31-mantra-of-void",
+    "name": "Mantra of Void",
+    "cost": 0,
+    "text": "<b>Reaction:</b> After an opponent declares a [element-void] conflict, choose a <em>Monk</em> character or a character with a <em>Monk</em> attachment – until the end of the conflict, reduce the cost to play attachments on that character by 1. Draw 1 card.",
+    "type": "event",
+    "clan": "dragon",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "kiho",
+        "void"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 2,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

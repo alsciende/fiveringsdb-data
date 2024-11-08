@@ -1,0 +1,27 @@
+{
+    "id": "31-shrewd-investigator",
+    "name": "Shrewd Investigator",
+    "cost": 1,
+    "text": "<b>Action:</b> During a conflict in which this character is participating - look at X random cards in your opponent's hand. X is equal to the number of facedown provinces you control.",
+    "type": "character",
+    "clan": "dragon",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "courtier"
+    ],
+    "military": "0",
+    "political": "1",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 2,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

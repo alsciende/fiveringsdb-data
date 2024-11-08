@@ -1,0 +1,29 @@
+{
+    "id": "31-third-whisker-sneak",
+    "name": "Third Whisker Sneak",
+    "cost": 2,
+    "text": "Immune to <em>Shadowlands</em> and <em>Mahō</em> card effects.<br><b>Reaction:</b> After this character wins an unopposed conflict - search the top X cards of your conflict deck for a card and add it to your hand. X is equal to the number of unbroken provinces you control. Shuffle.",
+    "type": "character",
+    "clan": "crab",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "creature",
+        "nezumi",
+        "scout"
+    ],
+    "military": "2",
+    "political": "1",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 0,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

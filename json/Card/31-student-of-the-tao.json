@@ -1,0 +1,29 @@
+{
+    "id": "31-student-of-the-tao",
+    "name": "Student of the Tao",
+    "cost": 3,
+    "text": "Rally. <i>(After this card is revealed in a province, add the top card of your dynasty deck to the province, faceup.)</i><br><b>Action:</b> During a conflict at a [element-void] province, choose a character you do not control - move that character home.",
+    "type": "character",
+    "clan": "phoenix",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "shugenja",
+        "void",
+        "scholar"
+    ],
+    "military": "1",
+    "political": "2",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 3,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

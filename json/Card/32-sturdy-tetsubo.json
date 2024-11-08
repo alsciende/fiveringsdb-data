@@ -1,0 +1,27 @@
+{
+    "id": "32-sturdy-tetsubo",
+    "name": "Sturdy Tetsubō",
+    "cost": 2,
+    "text": "Restricted. <i>(No more than two restricted attachments per character.)</i><br>Attached character gains: \"<b>Reaction:</b> After attached character wins a conflict - your opponent discards 1 card from their hand. (Limit twice per round.)\"",
+    "type": "attachment",
+    "clan": "crab",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "weapon"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": "+3",
+    "politicalBonus": "+0",
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 2,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

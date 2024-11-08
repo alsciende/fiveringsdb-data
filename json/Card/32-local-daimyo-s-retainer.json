@@ -1,0 +1,28 @@
+{
+    "id": "32-local-daimyo-s-retainer",
+    "name": "Local Daimyō's Retainer",
+    "cost": 1,
+    "text": "You can only play this card if you control at least 3 faceup provinces.",
+    "type": "character",
+    "clan": "crane",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "bushi",
+        "ronin"
+    ],
+    "military": "2",
+    "political": "2",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 1,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

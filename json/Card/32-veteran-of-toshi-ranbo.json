@@ -1,0 +1,27 @@
+{
+    "id": "32-veteran-of-toshi-ranbo",
+    "name": "Veteran of Toshi Ranbo",
+    "cost": 3,
+    "text": "Rally. <i>(After this card is revealed in a province, add the top card of your dynasty deck to the province, faceup.)</i><br>This character gets +1 glory for each faceup province you control.",
+    "type": "character",
+    "clan": "crane",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "bushi"
+    ],
+    "military": "3",
+    "political": "1",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 0,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

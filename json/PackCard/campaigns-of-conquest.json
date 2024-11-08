@@ -1,0 +1,178 @@
+[
+    {
+        "card_id": "32-hayaken-no-shiro",
+        "flavor": null,
+        "illustrator": "Daniel Alekow",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C31_71.jpg",
+        "position": 71,
+        "quantity": 1
+    },
+    {
+        "card_id": "32-breaking-in",
+        "flavor": null,
+        "illustrator": "Joshua Cairos",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C32_72.jpg",
+        "position": 72,
+        "quantity": 3
+    },
+    {
+        "card_id": "32-the-pursuit-of-justice",
+        "flavor": null,
+        "illustrator": "Kevin Zamir Golke",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C32_73.jpg",
+        "position": 73,
+        "quantity": 3
+    },
+    {
+        "card_id": "32-kuni-purifier",
+        "flavor": "\"As long as the Taint clings to you, there is nowhere for you to hide.\"",
+        "illustrator": "Apterus",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C32_74.jpg",
+        "position": 74,
+        "quantity": 3
+    },
+    {
+        "card_id": "32-veteran-of-toshi-ranbo",
+        "flavor": null,
+        "illustrator": "Marius Bota",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C32_75.jpg",
+        "position": 75,
+        "quantity": 3
+    },
+    {
+        "card_id": "32-crippling-taxes",
+        "flavor": "Without the vast reserves of wealth once boasted by the Crane Clan, if falls upon its servants to ensure the clan does not starve.",
+        "illustrator": "Guillaume Ducos",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C32_76.jpg",
+        "position": 76,
+        "quantity": 3
+    },
+    {
+        "card_id": "32-stoic-rival",
+        "flavor": null,
+        "illustrator": "Marius Bota",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C32_77.jpg",
+        "position": 77,
+        "quantity": 3
+    },
+    {
+        "card_id": "32-hidden-mountain-pass",
+        "flavor": null,
+        "illustrator": "Daniel Alekov",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C32_78.jpg",
+        "position": 78,
+        "quantity": 3
+    },
+    {
+        "card_id": "32-ikoma-tsanuri",
+        "flavor": null,
+        "illustrator": "Conceptopolis",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C32_79.jpg",
+        "position": 79,
+        "quantity": 3
+    },
+    {
+        "card_id": "32-isawa-tsuke",
+        "flavor": null,
+        "illustrator": "Calvin Chua",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C32_80.jpg",
+        "position": 80,
+        "quantity": 3
+    },
+    {
+        "card_id": "32-celebrated-renown",
+        "flavor": null,
+        "illustrator": "Charles Urbach",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C32_81.jpg",
+        "position": 81,
+        "quantity": 3
+    },
+    {
+        "card_id": "32-shadow-stalker",
+        "flavor": null,
+        "illustrator": "Apterus",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C32_82.jpg",
+        "position": 82,
+        "quantity": 3
+    },
+    {
+        "card_id": "32-open-window",
+        "flavor": null,
+        "illustrator": "Joyce Maureira",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C32_83.jpg",
+        "position": 83,
+        "quantity": 3
+    },
+    {
+        "card_id": "32-ride-at-dawn",
+        "flavor": null,
+        "illustrator": "Calvin Chua",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C32_84.jpg",
+        "position": 84,
+        "quantity": 3
+    },
+    {
+        "card_id": "32-mercenary-company",
+        "flavor": null,
+        "illustrator": "Borja Pindado",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C32_85.jpg",
+        "position": 85,
+        "quantity": 3
+    },
+    {
+        "card_id": "32-sturdy-tetsubo",
+        "flavor": null,
+        "illustrator": "Carlos Palma Cruchaga",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C32_86.jpg",
+        "position": 86,
+        "quantity": 3
+    },
+    {
+        "card_id": "32-local-daimyo-s-retainer",
+        "flavor": "\"My lord, is it wise to bring such lowly rōnin into your service? Surely there is a Doji or Kakita pupil who would serve better than... her.\"",
+        "illustrator": "Lukas Banas",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C32_87.jpg",
+        "position": 87,
+        "quantity": 3
+    },
+    {
+        "card_id": "32-asceticism",
+        "flavor": null,
+        "illustrator": "Felipe Gaona",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C32_88.jpg",
+        "position": 88,
+        "quantity": 3
+    },
+    {
+        "card_id": "32-under-siege",
+        "flavor": null,
+        "illustrator": "Guillaume Ducos",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C32_89.jpg",
+        "position": 89,
+        "quantity": 3
+    },
+    {
+        "card_id": "32-kyofuki-s-hammer",
+        "flavor": "\"I have made the appropriate offerings to keep my home safe. Have you?\" - Rujo the rōnin",
+        "illustrator": "Calvin Chua",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C32_90.jpg",
+        "position": 90,
+        "quantity": 3
+    },
+    {
+        "card_id": "32-forgery",
+        "flavor": "\"Who could refuse an order from the most honorable Elemental Masters?\" - Shosuro Hametsu",
+        "illustrator": "Carlos Palma Cruchaga",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C32_91.jpg",
+        "position": 91,
+        "quantity": 3
+    },
+    {
+        "card_id": "32-steed-of-the-steppes",
+        "flavor": "Together, they will one day see the world.",
+        "illustrator": "Amélie Hutt",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C32_92.jpg",
+        "position": 92,
+        "quantity": 3
+    }
+]
