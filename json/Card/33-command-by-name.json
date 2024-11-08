@@ -1,0 +1,29 @@
+{
+    "id": "33-command-by-name",
+    "name": "Command By Name",
+    "cost": 1,
+    "text": "<em>Water</em> role only.<br><b>Action:</b> During a conflict, lose 1 honor and discard a card from your hand - set the attacked province's base strength to 0 until the end of the conflict.",
+    "type": "event",
+    "clan": "unicorn",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "spell",
+        "water",
+        "meishodo"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 1,
+    "deckLimit": 3,
+    "roleRestriction": "water"
+}

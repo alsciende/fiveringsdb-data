@@ -1,0 +1,28 @@
+{
+    "id": "33-hida-etsuji",
+    "name": "Hida Etsuji",
+    "cost": 4,
+    "text": "This character cannot be evaded by the covert keyword.<br>You can trigger each ability on a province you control an additional time each round (or specified period).",
+    "type": "character",
+    "clan": "crab",
+    "elements": [],
+    "isUnique": true,
+    "side": "dynasty",
+    "traits": [
+        "bushi",
+        "commander"
+    ],
+    "military": "4",
+    "political": "2",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 2,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

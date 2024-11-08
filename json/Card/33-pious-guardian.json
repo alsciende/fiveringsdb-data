@@ -1,0 +1,27 @@
+{
+    "id": "33-pious-guardian",
+    "name": "Pious Guardian",
+    "cost": 2,
+    "text": "Rally. <i>(After this card is revealed in a province, add the top card of your dynasty deck to the province, faceup.)</i><br><b>Interrupt:</b> When the conflict phase ends, if you control 1 or fewer broken provinces - gain 1 honor.",
+    "type": "character",
+    "clan": "crab",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "bushi"
+    ],
+    "military": "3",
+    "political": "1",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

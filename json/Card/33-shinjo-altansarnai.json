@@ -1,0 +1,29 @@
+{
+    "id": "33-shinjo-altansarnai",
+    "name": "Shinjo Altansarnai",
+    "cost": 5,
+    "text": "<b>Action:</b> During a [conflict-military] conflict in which this character is participating - search the top 8 cards of your dynasty deck for a non-unique character with printed cost 3 or lower and put that character into play in the conflict. Shuffle.",
+    "type": "character",
+    "clan": "unicorn",
+    "elements": [],
+    "isUnique": true,
+    "side": "dynasty",
+    "traits": [
+        "bushi",
+        "cavalry",
+        "champion"
+    ],
+    "military": "5",
+    "political": "4",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 2,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

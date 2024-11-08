@@ -1,0 +1,27 @@
+{
+    "id": "33-endless-archives",
+    "name": "Endless Archives",
+    "cost": null,
+    "text": "<b>Reaction:</b> After you pass on declaring a conflict - put an honor token on this holding. Then, put X cards from your hand on the bottom of your conflict deck and draw that many cards, where X is the number of honor tokens on this holding. Any player may trigger this ability. (Unlimited.)",
+    "type": "holding",
+    "clan": "phoenix",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "library"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": "+1",
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

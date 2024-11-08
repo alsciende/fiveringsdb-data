@@ -1,0 +1,28 @@
+{
+    "id": "33-master-of-many-lifetimes",
+    "name": "Master of Many Lifetimes",
+    "cost": 5,
+    "text": "<em>Seeker</em> role only.<br>Rally.<br><b>Interrupt:</b> When a character you control would leave play, choose a facedown province you control - put that character into that province instead, adding each attachment on it to its owner's hand.",
+    "type": "character",
+    "clan": "dragon",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "monk",
+        "tattooed"
+    ],
+    "military": "4",
+    "political": "4",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": "seeker"
+}

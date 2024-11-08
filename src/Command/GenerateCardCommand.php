@@ -93,12 +93,12 @@ class GenerateCardCommand extends Command
         $card->setTraits($this->askArray($input, $output, $helper, new Question('Traits: ')));
         $io->listing($card->getTraits());
 
-        $question = new Question('Text: ');
-        $question->setMultiline(true);
-        $text = $helper->ask($input, $output, $question);
-        $text = str_replace("\n", "<br>", $text);
+        $text = implode("<br>", $this->askArray($input, $output, $helper, new Question('Text: ')));
         $text = str_replace("<em><b>", "<em>", $text);
         $text = str_replace("</b></em>", "</em>", $text);
+        $text = str_replace('<span class="icon icon-', '[', $text);
+        $text = str_replace('"></span>', ']', $text);
+
         $card->setText($text);
         $io->comment($card->getText() ?? '');
 

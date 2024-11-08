@@ -1,0 +1,28 @@
+{
+    "id": "33-soshi-diviner",
+    "name": "Soshi Diviner",
+    "cost": 2,
+    "text": "<b>Action:</b> During a conflict, choose a card in a non-stronghold province - move that card to another non-stronghold province controlled by the same player.",
+    "type": "character",
+    "clan": "scorpion",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "shugenja",
+        "air"
+    ],
+    "military": "1",
+    "political": "2",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 1,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

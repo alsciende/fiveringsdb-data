@@ -1,0 +1,28 @@
+{
+    "id": "33-the-receding-tide",
+    "name": "The Receding Tide",
+    "cost": 0,
+    "text": "<em>Water</em> role only.<br><b>Action:</b> Choose a non-<em>Mythic</em> character you own - put that character into a non-stronghold province you control. <i>(It is now out of play.)</i>",
+    "type": "event",
+    "clan": "phoenix",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "spell",
+        "water"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 1,
+    "deckLimit": 3,
+    "roleRestriction": "water"
+}

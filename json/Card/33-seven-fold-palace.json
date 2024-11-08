@@ -1,0 +1,27 @@
+{
+    "id": "33-seven-fold-palace",
+    "name": "Seven Fold Palace",
+    "cost": null,
+    "text": "<b>Reaction:</b> After an honored character you control wins a conflict as the attacker, bow this stronghold - gain 2 honor.",
+    "type": "stronghold",
+    "clan": "crane",
+    "elements": [],
+    "isUnique": false,
+    "side": "province",
+    "traits": [
+        "palace"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": "+1",
+    "glory": null,
+    "honor": 10,
+    "fate": 7,
+    "influencePool": 10,
+    "influenceCost": null,
+    "deckLimit": 1,
+    "roleRestriction": null
+}

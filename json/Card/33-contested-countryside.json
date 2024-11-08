@@ -1,0 +1,28 @@
+{
+    "id": "33-contested-countryside",
+    "name": "Contested Countryside",
+    "cost": null,
+    "text": "<em>Keeper</em> role only.<br>Rally.<br>During conflicts in which you are the attacking player, you may trigger the attacked province's ability as if you controlled that province.",
+    "type": "holding",
+    "clan": "neutral",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "battlefield",
+        "village"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": "+0",
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": "keeper"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "33-asako-lawmaster",
+    "name": "Asako Lawmaster",
+    "cost": 3,
+    "text": "<b>Reaction:</b> After you pass on declaring a conflict - gain 1 honor.",
+    "type": "character",
+    "clan": "phoenix",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "courtier"
+    ],
+    "military": "2",
+    "political": "4",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 2,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}
