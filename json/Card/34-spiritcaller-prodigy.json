@@ -1,0 +1,28 @@
+{
+    "id": "34-spiritcaller-prodigy",
+    "name": "Spiritcaller Prodigy",
+    "cost": 3,
+    "text": "<b>Action:</b> Sacrifice this character. Choose a [clan-lion] character with printed cost 3 or lower in your dynasty discard pile - put that character into play.",
+    "type": "character",
+    "clan": "lion",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "shugenja",
+        "water"
+    ],
+    "military": "1",
+    "political": "3",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 2,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 1,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

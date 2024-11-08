@@ -1,0 +1,28 @@
+{
+    "id": "34-bayushi-kachiko",
+    "name": "Bayushi Kachiko",
+    "cost": 5,
+    "text": "During [conflict-political] conflicts in which this character is participating, you may play each event in your opponent's discard pile as if it were in your hand. After you play a card in this way, remove if from the game. You cannot play more than 3 cards per round this way.",
+    "type": "character",
+    "clan": "scorpion",
+    "elements": [],
+    "isUnique": true,
+    "side": "dynasty",
+    "traits": [
+        "courtier",
+        "imperial"
+    ],
+    "military": "3",
+    "political": "6",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 3,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

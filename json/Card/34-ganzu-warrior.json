@@ -1,0 +1,28 @@
+{
+    "id": "34-ganzu-warrior",
+    "name": "Ganzu Warrior",
+    "cost": 2,
+    "text": "<em>Seeker</em> role only.<br><b>Reaction:</b> After a province is revealed during a conflict in which this character is participating - resolve a ring effect that matches the revealed province's element. (Max 1 per conflict.)",
+    "type": "character",
+    "clan": "unicorn",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "bushi",
+        "gaijin"
+    ],
+    "military": "2",
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 0,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": "seeker"
+}

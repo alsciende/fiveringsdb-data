@@ -1,0 +1,29 @@
+{
+    "id": "34-worldly-shiotome",
+    "name": "Worldly Shiotome",
+    "cost": 2,
+    "text": "<b>Reaction:</b> After you play a <em>Gaijin</em> card - honor this character.",
+    "type": "character",
+    "clan": "unicorn",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "bushi",
+        "cavalry",
+        "battle-maiden"
+    ],
+    "military": "2",
+    "political": "2",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 2,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

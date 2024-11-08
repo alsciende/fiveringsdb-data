@@ -1,0 +1,27 @@
+{
+    "id": "34-fire-and-oil",
+    "name": "Fire and Oil",
+    "cost": null,
+    "text": "While this holding is in an unbroken province, it gains:\"<b>Action: </b>During a conflict, lose 1 honor. Choose a character that is attacking a province you control - dishonor that character.\"",
+    "type": "holding",
+    "clan": "crab",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "siege-weapon"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": "+0",
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

@@ -1,0 +1,27 @@
+{
+    "id": "34-righteous-samurai",
+    "name": "Righteous Samurai",
+    "cost": 3,
+    "text": "<b>Reaction:</b> After an opponent's card or ring effect causes you to lose 1 or more honor, choose a character - honor that character.",
+    "type": "character",
+    "clan": "lion",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "bushi"
+    ],
+    "military": "4",
+    "political": "2",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 2,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

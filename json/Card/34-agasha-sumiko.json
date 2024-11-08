@@ -1,0 +1,29 @@
+{
+    "id": "34-agasha-sumiko",
+    "name": "Agasha Sumiko",
+    "cost": 4,
+    "text": "<b>Interrupt:</b> When this character leaves play, choose an opponent - if that player is more honorable than you, they lose 2 honor. If that player has more fate than you, they lose 2 fate. If that players has more cards in hand than you, they discard 2 cards from their hand.",
+    "type": "character",
+    "clan": "dragon",
+    "elements": [],
+    "isUnique": true,
+    "side": "dynasty",
+    "traits": [
+        "bushi",
+        "champion",
+        "imperial"
+    ],
+    "military": "4",
+    "political": "4",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 2,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

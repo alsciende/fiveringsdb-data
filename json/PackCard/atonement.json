@@ -1,0 +1,178 @@
+[
+    {
+        "card_id": "34-iron-mountain-castle",
+        "flavor": null,
+        "illustrator": "Nele Diel",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C34_115.jpg",
+        "position": 115,
+        "quantity": 1
+    },
+    {
+        "card_id": "34-unbridled-ambition",
+        "flavor": null,
+        "illustrator": "Leo Avero",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C34_116.jpg",
+        "position": 116,
+        "quantity": 3
+    },
+    {
+        "card_id": "34-weight-of-duty",
+        "flavor": null,
+        "illustrator": "Asep Ariyanto",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C34_117.jpg",
+        "position": 117,
+        "quantity": 3
+    },
+    {
+        "card_id": "34-fire-and-oil",
+        "flavor": null,
+        "illustrator": "Apterus",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C34_118.jpg",
+        "position": 118,
+        "quantity": 3
+    },
+    {
+        "card_id": "34-doji-diplomat",
+        "flavor": "\"Our clan needs strength of arms now, more than ever, and I think you can help my gain the allies we need.\" - Kakita Yoshi",
+        "illustrator": "Derek D. Edgell",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C34_119.jpg",
+        "position": 119,
+        "quantity": 3
+    },
+    {
+        "card_id": "34-agasha-sumiko",
+        "flavor": null,
+        "illustrator": "Asep Ariyanto",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C34_120.jpg",
+        "position": 120,
+        "quantity": 3
+    },
+    {
+        "card_id": "34-righteous-samurai",
+        "flavor": "\"Unlike you, my actions are above reproach.\"",
+        "illustrator": "Andreia Ugrai",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C34_121.jpg",
+        "position": 121,
+        "quantity": 3
+    },
+    {
+        "card_id": "34-exposed-courtyard",
+        "flavor": null,
+        "illustrator": "Nele Diel",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C34_122.jpg",
+        "position": 122,
+        "quantity": 3
+    },
+    {
+        "card_id": "34-shiba-pureheart",
+        "flavor": null,
+        "illustrator": "Guillaume Ducos",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C34_123.jpg",
+        "position": 123,
+        "quantity": 3
+    },
+    {
+        "card_id": "34-bayushi-kachiko",
+        "flavor": null,
+        "illustrator": "Drazenka Kimpel",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C34_124.jpg",
+        "position": 124,
+        "quantity": 3
+    },
+    {
+        "card_id": "34-ganzu-warrior",
+        "flavor": null,
+        "illustrator": "Lin Hsiang",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C34_125.jpg",
+        "position": 125,
+        "quantity": 3
+    },
+    {
+        "card_id": "34-worldly-shiotome",
+        "flavor": "Card design by Legend of the Five Rings community.",
+        "illustrator": "Mario Wibisono",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C34_126.jpg",
+        "position": 126,
+        "quantity": 3
+    },
+    {
+        "card_id": "34-sudden-tempest",
+        "flavor": null,
+        "illustrator": "Nele Diel",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C34_127.jpg",
+        "position": 127,
+        "quantity": 3
+    },
+    {
+        "card_id": "34-apprentice-engineer",
+        "flavor": null,
+        "illustrator": "Lin Hsiang",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C34_128.jpg",
+        "position": 128,
+        "quantity": 3
+    },
+    {
+        "card_id": "34-inventive-buttressing",
+        "flavor": "\"It would take several oni to break these gates.\" - Kaiu Shuichi",
+        "illustrator": "Hai Hoang",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C34_129.jpg",
+        "position": 129,
+        "quantity": 3
+    },
+    {
+        "card_id": "34-treasured-gift",
+        "flavor": "\"What could I ever do to repay such kindness?\"",
+        "illustrator": "Carlos Palma Cruchage",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C34_130.jpg",
+        "position": 130,
+        "quantity": 3
+    },
+    {
+        "card_id": "34-daidoji-yari",
+        "flavor": "Card design by 2018 World Champion Erik Baalhuis.",
+        "illustrator": "Carlos Palma Cruchaga",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C34_131.jpg",
+        "position": 131,
+        "quantity": 3
+    },
+    {
+        "card_id": "34-in-search-of-self",
+        "flavor": "Many pilgrims set our to discover the world. Those who find wisdom discover themselves.",
+        "illustrator": "Andreia Ugrai",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C34_132.jpg",
+        "position": 132,
+        "quantity": 3
+    },
+    {
+        "card_id": "34-spiritcaller-prodigy",
+        "flavor": "\"The souls of the last kitsu remain within each of us, that they might one day return in glory.\" - Kitsu Takeko",
+        "illustrator": "Andreia Ugrai",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C34_133.jpg",
+        "position": 133,
+        "quantity": 3
+    },
+    {
+        "card_id": "34-magistrate-s-intervention",
+        "flavor": null,
+        "illustrator": "Carlos Palma Cruchaga",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C34_134.jpg",
+        "position": 134,
+        "quantity": 3
+    },
+    {
+        "card_id": "34-compromised-secrets",
+        "flavor": null,
+        "illustrator": "Felipe Gaona",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C34_135.jpg",
+        "position": 135,
+        "quantity": 3
+    },
+    {
+        "card_id": "34-flank-the-enemy",
+        "flavor": null,
+        "illustrator": "Imad Awan",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C34_136.jpg",
+        "position": 136,
+        "quantity": 3
+    }
+]

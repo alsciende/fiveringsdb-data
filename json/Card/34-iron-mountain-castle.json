@@ -1,0 +1,27 @@
+{
+    "id": "34-iron-mountain-castle",
+    "name": "Iron Mountain Castle",
+    "cost": null,
+    "text": "Each [clan-dragon] character you control can have an additional restricted attachment.<br><b>Interrupt:</b> When you play an attachment on a character you control, bow this stronghold - reduce the cost to play that attachment by 1.",
+    "type": "stronghold",
+    "clan": "dragon",
+    "elements": [],
+    "isUnique": false,
+    "side": "province",
+    "traits": [
+        "castle"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": "+2",
+    "glory": null,
+    "honor": 10,
+    "fate": 7,
+    "influencePool": 10,
+    "influenceCost": null,
+    "deckLimit": 1,
+    "roleRestriction": null
+}

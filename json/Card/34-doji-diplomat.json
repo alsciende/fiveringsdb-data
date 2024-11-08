@@ -1,0 +1,27 @@
+{
+    "id": "34-doji-diplomat",
+    "name": "Doji Diplomat",
+    "cost": 0,
+    "text": "<b>Reaction:</b> After this character enters play, each player chooses a facedown province they do not control - reveal each chosen province.",
+    "type": "character",
+    "clan": "crane",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "courtier"
+    ],
+    "military": "0",
+    "political": "1",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

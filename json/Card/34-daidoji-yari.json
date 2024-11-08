@@ -1,0 +1,27 @@
+{
+    "id": "34-daidoji-yari",
+    "name": "Daidoji Yari",
+    "cost": 1,
+    "text": "Restricted.<br>While your honor bid is lower than an opponent's, each character that opponent controls loses covert.",
+    "type": "attachment",
+    "clan": "crane",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "weapon"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": "+2",
+    "politicalBonus": "+0",
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 2,
+    "deckLimit": 3,
+    "roleRestriction": null
+}
