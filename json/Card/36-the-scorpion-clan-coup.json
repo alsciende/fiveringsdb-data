@@ -1,0 +1,29 @@
+{
+    "id": "36-the-scorpion-clan-coup",
+    "name": "The Scorpion Clan Coup",
+    "cost": null,
+    "text": "While you control an <em>Imperial</em> character, each character attacking one of your provinces gets -1[conflict-military] and -1[conflict-political].",
+    "type": "province",
+    "clan": "scorpion",
+    "elements": [
+        "air"
+    ],
+    "isUnique": false,
+    "side": "province",
+    "traits": [
+        "imperial"
+    ],
+    "military": null,
+    "political": null,
+    "strength": "5",
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 1,
+    "roleRestriction": null
+}

@@ -1,0 +1,27 @@
+{
+    "id": "36-keen-warrior",
+    "name": "Keen Warrior",
+    "cost": 2,
+    "text": "Sincerity.<br><b>Reaction:</b> After you look at 1 or more cards in an opponent's hand (or those are revealed) - draw 2 cards, then place 1 card from your hand on the bottom of your conflict deck.",
+    "type": "character",
+    "clan": "dragon",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "bushi"
+    ],
+    "military": "2",
+    "political": "1",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

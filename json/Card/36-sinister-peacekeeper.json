@@ -1,0 +1,28 @@
+{
+    "id": "36-sinister-peacekeeper",
+    "name": "Sinister Peacekeeper",
+    "cost": 1,
+    "text": "<em>Keeper</em> role only.<br><b>Reaction:</b> After an opponent gains 1 or more honor - that player loses 1 honor.",
+    "type": "character",
+    "clan": "scorpion",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "courtier",
+        "imperial"
+    ],
+    "military": "0",
+    "political": "2",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 2,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": "keeper"
+}

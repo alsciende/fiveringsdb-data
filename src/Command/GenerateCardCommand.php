@@ -58,6 +58,15 @@ class GenerateCardCommand extends Command
             throw new \RuntimeException("File for pack {$packId} does not exist.");
         }
 
+        $labels = $this->getFileJsonContent('./json/Label/en.json');
+        $traits = array_map(
+            fn ($data) => substr($data['id'], 6),
+            array_values(array_filter(
+                $labels,
+                fn ($data) => substr($data['id'], 0, 5) === 'trait'
+            ))
+        );
+
         /** @var QuestionHelper $helper */
         $helper = $this->getHelper('question');
 
@@ -90,7 +99,7 @@ class GenerateCardCommand extends Command
         $card->setType($helper->ask($input, $output, new ChoiceQuestion('Type: ', Type::values())));
         $io->comment($card->getType() ?? '');
 
-        $card->setTraits($this->askArray($input, $output, $helper, new Question('Traits: ')));
+        $card->setTraits($this->askArray($input, $output, $helper, new Question('Traits: '), $traits));
         $io->listing($card->getTraits());
 
         $text = implode("<br>", $this->askArray($input, $output, $helper, new Question('Text: ')));
@@ -298,10 +307,14 @@ class GenerateCardCommand extends Command
     /**
      * @return string[]
      */
-    private function askArray(InputInterface $input, OutputInterface $output, QuestionHelper $helper, Question $question): array
+    private function askArray(InputInterface $input, OutputInterface $output, QuestionHelper $helper, Question $question, ?array $validationList = null): array
     {
         $answers = [];
         while ($answer = $helper->ask($input, $output, $question)) {
+            if (is_array($validationList) && !in_array($answer, $validationList)) {
+                $output->writeln("<error>Invalid value</error>");
+                continue;
+            }
             $answers[] = $answer;
         }
 

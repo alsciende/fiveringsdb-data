@@ -1,0 +1,27 @@
+{
+    "id": "36-overlooked-community",
+    "name": "Overlooked Community",
+    "cost": null,
+    "text": "<b>Action:</b> Return a ring from your claimed ring pool to the unclaimed ring pool. Choose a status token on a character - discard it.",
+    "type": "holding",
+    "clan": "dragon",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "village"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": "+2",
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

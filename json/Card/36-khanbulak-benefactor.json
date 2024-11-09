@@ -1,0 +1,28 @@
+{
+    "id": "36-khanbulak-benefactor",
+    "name": "Khanbulak Benefactor",
+    "cost": 4,
+    "text": "Dire - While this character is participating in a conflict, reduce the cost to play each card in your hand by 1 <i>(to a minimum of 0)</i>.<i>(This character is dire when it has no fate on it.)</i><br><b>Reaction:</b> After this character enters play - draw 2 cards.",
+    "type": "character",
+    "clan": "unicorn",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "courtier",
+        "merchant"
+    ],
+    "military": "2",
+    "political": "4",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 2,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

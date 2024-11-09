@@ -1,0 +1,27 @@
+{
+    "id": "36-diplomatic-gift-giver",
+    "name": "Diplomatic Gift-Giver",
+    "cost": 4,
+    "text": "<b>Action:</b> During a conflict in which this character is participating, each player chooses a character controlled by one of their opponents - each player moves 1 fate from their fate pool to the character they chose.",
+    "type": "character",
+    "clan": "crane",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "courtier"
+    ],
+    "military": "3",
+    "political": "4",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

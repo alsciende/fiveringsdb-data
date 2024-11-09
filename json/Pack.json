@@ -295,5 +295,59 @@
         "released_at": "2020-10-02",
         "ffg_id": "L5C34",
         "cycle_id": "dominion"
+    },
+    {
+        "id": "twisted-loyalties",
+        "name": "Twisted Loyalties",
+        "position": 1,
+        "size": 22,
+        "released_at": "2020-11-06",
+        "ffg_id": "L5C36",
+        "cycle_id": "temptations"
+    },
+    {
+        "id": "honor-in-flames",
+        "name": "Honor in Flames",
+        "position": 2,
+        "size": 24,
+        "released_at": "2020-12-04",
+        "ffg_id": "L5C37",
+        "cycle_id": "temptations"
+    },
+    {
+        "id": "a-crimson-offering",
+        "name": "A Crimson Offering",
+        "position": 3,
+        "size": 24,
+        "released_at": "2021-01-22",
+        "ffg_id": "L5C38",
+        "cycle_id": "temptations"
+    },
+    {
+        "id": "the-temptation-of-the-scorpion",
+        "name": "The Temptation of the Scorpion",
+        "position": 4,
+        "size": 24,
+        "released_at": "2021-02-19",
+        "ffg_id": "L5C39",
+        "cycle_id": "temptations"
+    },
+    {
+        "id": "coils-of-power",
+        "name": "Coils of Power",
+        "position": 5,
+        "size": 24,
+        "released_at": "2021-03-19",
+        "ffg_id": "L5C40",
+        "cycle_id": "temptations"
+    },
+    {
+        "id": "peace-at-any-cost",
+        "name": "Peace at Any Cost",
+        "position": 6,
+        "size": 24,
+        "released_at": "2021-04-16",
+        "ffg_id": "L5C41",
+        "cycle_id": "temptations"
     }
 ]

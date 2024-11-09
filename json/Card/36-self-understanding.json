@@ -1,0 +1,27 @@
+{
+    "id": "36-self-understanding",
+    "name": "Self-Understanding",
+    "cost": 3,
+    "text": "Restricted.<br>This attachment cannot be chosen as the target of an opponent's event.<br>Attached character gains: \"<b>Reaction:</b> After this character wins a conflict - resolve the effect of each ring in your claimed ring pool.\"",
+    "type": "attachment",
+    "clan": "dragon",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "condition"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": "+0",
+    "politicalBonus": "+3",
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 3,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

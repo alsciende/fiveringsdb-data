@@ -1,0 +1,27 @@
+{
+    "id": "36-asako-maezawa",
+    "name": "Asako Maezawa",
+    "cost": 3,
+    "text": "<b>Reaction:</b> After this character wins a conflict, choose a character with no fate on it - bow that character. If that character is a [clan-phoenix] character, also dishonor it.",
+    "type": "character",
+    "clan": "phoenix",
+    "elements": [],
+    "isUnique": true,
+    "side": "dynasty",
+    "traits": [
+        "courtier"
+    ],
+    "military": "2",
+    "political": "3",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 2,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

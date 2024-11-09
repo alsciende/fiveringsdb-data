@@ -1,0 +1,178 @@
+[
+    {
+        "card_id": "36-the-scorpion-clan-coup",
+        "flavor": "\"A Scorpion on the throne, even with an edict behind him, cannot be trusted.\" - Asako Togama",
+        "illustrator": "Tommy Suhartono",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_1.jpg",
+        "position": 1,
+        "quantity": 3
+    },
+    {
+        "card_id": "36-brushfires",
+        "flavor": "\"This is no time for glory!\"",
+        "illustrator": "Eli Ring",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_2.jpg",
+        "position": 2,
+        "quantity": 3
+    },
+    {
+        "card_id": "36-yasuki-oguri",
+        "flavor": "\"Take this as a symbol of our goodwill.\"",
+        "illustrator": "Guillaume Ducos",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_3.jpg",
+        "position": 3,
+        "quantity": 3
+    },
+    {
+        "card_id": "36-watchtower-of-sun-s-shadow",
+        "flavor": null,
+        "illustrator": "Nele Diel",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_4.jpg",
+        "position": 4,
+        "quantity": 3
+    },
+    {
+        "card_id": "36-diplomatic-gift-giver",
+        "flavor": "Each gift forms the foundation of future favor.",
+        "illustrator": "Joshua Cairos",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_5.jpg",
+        "position": 5,
+        "quantity": 3
+    },
+    {
+        "card_id": "36-keen-warrior",
+        "flavor": null,
+        "illustrator": "Immar Palomera",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_6.jpg",
+        "position": 6,
+        "quantity": 3
+    },
+    {
+        "card_id": "36-overlooked-community",
+        "flavor": "\"Only one who relinquishes fear is truly free.\" - Tao of Shinsei",
+        "illustrator": "Logan Filiciano",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_7.jpg",
+        "position": 7,
+        "quantity": 3
+    },
+    {
+        "card_id": "36-revered-ikoma",
+        "flavor": null,
+        "illustrator": "Hai Hoang",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_8.jpg",
+        "position": 8,
+        "quantity": 3
+    },
+    {
+        "card_id": "36-procedural-interference",
+        "flavor": "The interruption was unorthodox, but none present could gainsay her.",
+        "illustrator": "Lukas Banas",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_9.jpg",
+        "position": 9,
+        "quantity": 3
+    },
+    {
+        "card_id": "36-asako-maezawa",
+        "flavor": "\"We can only relate to pain that is our own.\"",
+        "illustrator": "Lin Hsiang",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_10.jpg",
+        "position": 10,
+        "quantity": 3
+    },
+    {
+        "card_id": "36-sinister-peacekeeper",
+        "flavor": "\"Do you truly wish for open war between our clans?\"",
+        "illustrator": "Isuardi Therianto",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_11.jpg",
+        "position": 11,
+        "quantity": 3
+    },
+    {
+        "card_id": "36-khanbulak-benefactor",
+        "flavor": null,
+        "illustrator": "Marius Bota",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_12.jpg",
+        "position": 12,
+        "quantity": 3
+    },
+    {
+        "card_id": "36-chikara",
+        "flavor": null,
+        "illustrator": "Carlos Palma Cruchaga",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_13.jpg",
+        "position": 13,
+        "quantity": 3
+    },
+    {
+        "card_id": "36-guardians-of-rokugan",
+        "flavor": null,
+        "illustrator": "Imad Awan",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_14.jpg",
+        "position": 14,
+        "quantity": 3
+    },
+    {
+        "card_id": "36-exemplary-etiquette",
+        "flavor": "His gentle courtesy eased the hearts of his guests, until they found themselves unwilling to confront him over his vassal's undue aggression.",
+        "illustrator": "Lin Hsiang",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_15.jpg",
+        "position": 15,
+        "quantity": 3
+    },
+    {
+        "card_id": "36-superior-authority",
+        "flavor": "\"Doji Kayo-san, you are not dismissed. Our tea is not yet finished.\"",
+        "illustrator": "Lin Hsiang",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_16.jpg",
+        "position": 16,
+        "quantity": 3
+    },
+    {
+        "card_id": "36-self-understanding",
+        "flavor": null,
+        "illustrator": "Guillaume Ducos",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_17.jpg",
+        "position": 17,
+        "quantity": 3
+    },
+    {
+        "card_id": "36-renowned-singer",
+        "flavor": null,
+        "illustrator": "Drazenka Kimpel",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_18.jpg",
+        "position": 18,
+        "quantity": 3
+    },
+    {
+        "card_id": "36-heresy",
+        "flavor": null,
+        "illustrator": "Guillaume Ducos",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_19.jpg",
+        "position": 19,
+        "quantity": 3
+    },
+    {
+        "card_id": "36-kunshu",
+        "flavor": null,
+        "illustrator": "Carlos Palma Cruchaga",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_20.jpg",
+        "position": 20,
+        "quantity": 3
+    },
+    {
+        "card_id": "36-daughter-of-war",
+        "flavor": null,
+        "illustrator": "Borja Pindado",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_21.jpg",
+        "position": 21,
+        "quantity": 3
+    },
+    {
+        "card_id": "36-make-your-case",
+        "flavor": null,
+        "illustrator": "Joshua Cairos",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C36_22.jpg",
+        "position": 22,
+        "quantity": 3
+    }
+]

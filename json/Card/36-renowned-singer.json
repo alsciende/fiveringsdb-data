@@ -1,0 +1,28 @@
+{
+    "id": "36-renowned-singer",
+    "name": "Renowned Singer",
+    "cost": 1,
+    "text": "<em>Water</em> role only.<br><b>Action:</b> If you have gained 2 or more honor this phase, choose an opponent and 2 cards in your conflict discard pile. That opponent chooses 1 of those cards - add the chosen card to your hand and place the other on the bottom of your conflict deck.",
+    "type": "character",
+    "clan": "lion",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "courtier",
+        "storyteller"
+    ],
+    "military": "0",
+    "political": "1",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 2,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 2,
+    "deckLimit": 3,
+    "roleRestriction": "water"
+}

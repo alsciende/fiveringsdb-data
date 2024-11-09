@@ -1,0 +1,27 @@
+{
+    "id": "36-chikara",
+    "name": "Chikara",
+    "cost": 2,
+    "text": "Attach to a unique [clan-crab] character.<br>Ancestral. Restricted.<br>If attached character has the <em>Champion</em> trait, it gains \"<b>Reaction:</b> After this character wins a conflict, choose a participating character - that character's controller moves all fate from it to their fate pool, then sacrifices it.\"",
+    "type": "attachment",
+    "clan": "crab",
+    "elements": [],
+    "isUnique": true,
+    "side": "conflict",
+    "traits": [
+        "weapon"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": "+4",
+    "politicalBonus": "+1",
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

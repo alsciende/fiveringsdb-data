@@ -1,0 +1,28 @@
+{
+    "id": "36-kunshu",
+    "name": "Kunshu",
+    "cost": 2,
+    "text": "Attach to a unique character you control.<br>Ancestral. Restricted.<br>Attached character gains: \"<b>Action:</b> During a conflict in which this character is participating, discard the Imperial Favor. Choose an event or attachment in your opponent's conflict discard pile – play that card without paying its fate cost.\"",
+    "type": "attachment",
+    "clan": "scorpion",
+    "elements": [],
+    "isUnique": true,
+    "side": "conflict",
+    "traits": [
+        "imperial",
+        "weapon"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": "+2",
+    "politicalBonus": "+2",
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}
