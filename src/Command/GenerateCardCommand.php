@@ -195,7 +195,7 @@ class GenerateCardCommand extends Command
             case 'province':
                 $elements = [];
                 $elementChoices = Element::values();
-                array_push($elementChoices, '');
+                array_unshift($elementChoices, '');
                 while ($answer = $helper->ask($input, $output, new ChoiceQuestion('Element: ', $elementChoices))) {
                     $elements[] = $answer;
                 }

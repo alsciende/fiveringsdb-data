@@ -1,0 +1,27 @@
+{
+    "id": "40-fu-sui-temple",
+    "name": "Fū Sui Temple",
+    "cost": null,
+    "text": "During [conflict-political] conflicts, each participating character gains pride.",
+    "type": "holding",
+    "clan": "crane",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "temple"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": "+2",
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

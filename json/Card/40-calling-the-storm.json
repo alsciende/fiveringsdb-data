@@ -1,0 +1,28 @@
+{
+    "id": "40-calling-the-storm",
+    "name": "Calling the Storm",
+    "cost": 0,
+    "text": "<b>Action:</b> Discard your hand - until the end of the phase, you may look at and play the top card of your conflict deck as if it were in your hand.",
+    "type": "event",
+    "clan": "phoenix",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "spell",
+        "water"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 3,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

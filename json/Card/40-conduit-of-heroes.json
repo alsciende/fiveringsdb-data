@@ -1,0 +1,28 @@
+{
+    "id": "40-conduit-of-heroes",
+    "name": "Conduit of Heroes",
+    "cost": 2,
+    "text": "<b>Action:</b> During a conflict, bow this character unless you have at least 5 more honor than an opponent. Choose another character - until the end of the conflict, that character gets +3[conflict-military], +1[conflict-political] and +1 glory.",
+    "type": "character",
+    "clan": "lion",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "shugenja",
+        "water"
+    ],
+    "military": "3",
+    "political": "1",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

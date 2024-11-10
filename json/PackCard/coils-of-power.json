@@ -1,0 +1,178 @@
+[
+    {
+        "card_id": "40-castle-of-the-forgotten",
+        "flavor": null,
+        "illustrator": "Nele Diel",
+        "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/9a/59/9a59e3b5-fab0-40b3-85d0-8ab4d418dcb2/l5c40_castle-of-the-forgotten.png",
+        "position": 87,
+        "quantity": 1
+    },
+    {
+        "card_id": "40-offerings-to-the-kami",
+        "flavor": null,
+        "illustrator": "Carlos Palma Cruchaga",
+        "image_url": "https://i.imgur.com/GxXGreL.png",
+        "position": 88,
+        "quantity": 3
+    },
+    {
+        "card_id": "40-deserted-shrine",
+        "flavor": "\"In emptiness, despair lurks.\" - Tao of Shinsei",
+        "illustrator": "Logan Feliciano",
+        "image_url": "https://i.imgur.com/1kFBxLl.png",
+        "position": 89,
+        "quantity": 3
+    },
+    {
+        "card_id": "40-repentant-legion",
+        "flavor": null,
+        "illustrator": "Aurelien Hubert",
+        "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/36/43/364366f7-405b-423a-b0f8-4160a6b1f981/l5c40_repentant-legion.png",
+        "position": 90,
+        "quantity": 3
+    },
+    {
+        "card_id": "40-asahina-peacekeeper",
+        "flavor": null,
+        "illustrator": "Guillaume Ducos",
+        "image_url": "https://i.imgur.com/iWWiA5n.png",
+        "position": 91,
+        "quantity": 3
+    },
+    {
+        "card_id": "40-fu-sui-temple",
+        "flavor": "\"With temperance and grace, you can achieve greatness.\" - Asahina Takako",
+        "illustrator": "Nele Diel",
+        "image_url": "https://i.imgur.com/im3RoYp.png",
+        "position": 92,
+        "quantity": 3
+    },
+    {
+        "card_id": "40-militant-faithful",
+        "flavor": null,
+        "illustrator": "Piotr Arendzikowski",
+        "image_url": "https://i.imgur.com/q02rvai.png",
+        "position": 93,
+        "quantity": 3
+    },
+    {
+        "card_id": "40-conduit-of-heroes",
+        "flavor": null,
+        "illustrator": "Stormbrush",
+        "image_url": "https://i.imgur.com/7MweTw4.png",
+        "position": 94,
+        "quantity": 3
+    },
+    {
+        "card_id": "40-kami-of-ancient-wisdom",
+        "flavor": null,
+        "illustrator": "Carlos Barquet",
+        "image_url": "https://i.imgur.com/bWeuiH2.png",
+        "position": 95,
+        "quantity": 3
+    },
+    {
+        "card_id": "40-shosuro-deceiver",
+        "flavor": "\"When you are but one face in a crowd of many, you are everywhere.\"",
+        "illustrator": "Drazenka Kimpel",
+        "image_url": "https://i.imgur.com/oXHXyKy.png",
+        "position": 96,
+        "quantity": 3
+    },
+    {
+        "card_id": "40-display-of-loyalty",
+        "flavor": "\"You shall suffer no dishonor, my lord.\"",
+        "illustrator": "Isuardi Therianto",
+        "image_url": "https://i.imgur.com/W0cZ3X8.png",
+        "position": 97,
+        "quantity": 3
+    },
+    {
+        "card_id": "40-open-field-skirmisher",
+        "flavor": null,
+        "illustrator": "Conceptopolis",
+        "image_url": "https://i.imgur.com/aoH8QG1.png",
+        "position": 98,
+        "quantity": 3
+    },
+    {
+        "card_id": "40-higashi-kaze-company",
+        "flavor": null,
+        "illustrator": "Imad Awan",
+        "image_url": "https://i.imgur.com/THVIS1Z.png",
+        "position": 99,
+        "quantity": 3
+    },
+    {
+        "card_id": "40-battle-meditation",
+        "flavor": "\"In the destruction of your enemies, may you find peace.\" - Hida Kiyomasa",
+        "illustrator": "Carlos Diaz",
+        "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/21/1c/211c950a-4200-4e74-a467-655bf7c9299a/l5c40_battle-meditation.png",
+        "position": 100,
+        "quantity": 3
+    },
+    {
+        "card_id": "40-tsangusuri-ward",
+        "flavor": "The spirits awoken in Asahina art mirror the artisan's harmonious intent.",
+        "illustrator": "Eli Ring",
+        "image_url": "https://i.imgur.com/2RlVbk9.png",
+        "position": 101,
+        "quantity": 3
+    },
+    {
+        "card_id": "40-phoenix-tattoo",
+        "flavor": null,
+        "illustrator": "Borja Pindado",
+        "image_url": "https://i.imgur.com/knWVoAM.png",
+        "position": 102,
+        "quantity": 3
+    },
+    {
+        "card_id": "40-betrayal-of-truth",
+        "flavor": "\"What have you done, my son...\" - Mirumoto Masashige",
+        "illustrator": "Joshua Cairos",
+        "image_url": "https://i.imgur.com/Sm5VNCC.png",
+        "position": 103,
+        "quantity": 3
+    },
+    {
+        "card_id": "40-ancestral-sight",
+        "flavor": null,
+        "illustrator": "Lukas Banas",
+        "image_url": "https://i.imgur.com/KsmZUH0.png",
+        "position": 104,
+        "quantity": 3
+    },
+    {
+        "card_id": "40-battlefield-orders",
+        "flavor": null,
+        "illustrator": "Calvin Chua",
+        "image_url": "https://i.imgur.com/k8nXquo.png",
+        "position": 105,
+        "quantity": 3
+    },
+    {
+        "card_id": "40-calling-the-storm",
+        "flavor": "\"You would be a fool to ignore the limitless wisdom of the kami.\"",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "https://i.imgur.com/YQZpfjZ.png",
+        "position": 106,
+        "quantity": 3
+    },
+    {
+        "card_id": "40-final-whisper",
+        "flavor": null,
+        "illustrator": "Logan Feliciano",
+        "image_url": "https://i.imgur.com/50Idgdc.png",
+        "position": 107,
+        "quantity": 3
+    },
+    {
+        "card_id": "40-overrun",
+        "flavor": null,
+        "illustrator": "Aurelien Hubert",
+        "image_url": "https://i.imgur.com/fgHS2Rw.png",
+        "position": 108,
+        "quantity": 3
+    }
+]

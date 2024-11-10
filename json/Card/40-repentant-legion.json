@@ -1,0 +1,29 @@
+{
+    "id": "40-repentant-legion",
+    "name": "Repentant Legion",
+    "cost": 5,
+    "text": "No attachments except <em>Weapon</em>.<br><b>Reaction:</b> After you break a province during a conflict in which this character is participating - fill each of your non-stronghold provinces with 1 facedown dynasty card.",
+    "type": "character",
+    "clan": "crab",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "bushi",
+        "army",
+        "berserker"
+    ],
+    "military": "9",
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

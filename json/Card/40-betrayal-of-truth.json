@@ -1,0 +1,27 @@
+{
+    "id": "40-betrayal-of-truth",
+    "name": "Betrayal of Truth",
+    "cost": 2,
+    "text": "<b>Action:</b> During a conflict - bow each participating honored or dishonored character.",
+    "type": "event",
+    "clan": "dragon",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "heresy"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 2,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

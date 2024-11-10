@@ -1,0 +1,29 @@
+{
+    "id": "40-militant-faithful",
+    "name": "Militant Faithful",
+    "cost": 5,
+    "text": "No attachments except <em>Heresy</em> or <em>Weapon</em>.<br>This character does not bow as the result of conflict resolution during conflicts in which an opponent controls a participating honored or dishonored character.",
+    "type": "character",
+    "clan": "dragon",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "peasant",
+        "army",
+        "heretic"
+    ],
+    "military": "5",
+    "political": "5",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 0,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

@@ -1,0 +1,27 @@
+{
+    "id": "40-phoenix-tattoo",
+    "name": "Phoenix Tattoo",
+    "cost": 1,
+    "text": "<em>Fire</em> role only.<br>Attach to a character you control. Attached character gains the <em>Tattooed</em> trait.<br>Restricted.<br>While attached character is participating in a conflict, each other participating character gains pride.",
+    "type": "attachment",
+    "clan": "dragon",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "tattoo"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": "+2",
+    "politicalBonus": "+2",
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 2,
+    "deckLimit": 3,
+    "roleRestriction": "fire"
+}

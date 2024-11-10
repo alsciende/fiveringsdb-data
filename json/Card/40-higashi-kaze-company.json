@@ -1,0 +1,29 @@
+{
+    "id": "40-higashi-kaze-company",
+    "name": "Higashi Kaze Company",
+    "cost": 5,
+    "text": "No attachments except <em>Weapon</em>.<br><b>Reaction:</b> After this character wins a conflict, choose another participating character with no fate on it - that character does not bow as the result of this conflict's resolution.",
+    "type": "character",
+    "clan": "unicorn",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "bushi",
+        "cavalry",
+        "army"
+    ],
+    "military": "6",
+    "political": "3",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 2,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

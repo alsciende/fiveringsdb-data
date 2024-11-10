@@ -1,0 +1,28 @@
+{
+    "id": "40-shosuro-deceiver",
+    "name": "Shosuro Deceiver",
+    "cost": 4,
+    "text": "While this character is participating in a conflict it gains each triggered ability on each other participating dishonored character except for abilities granted by instances of this ability.",
+    "type": "character",
+    "clan": "scorpion",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "courtier",
+        "shinobi"
+    ],
+    "military": "2",
+    "political": "4",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

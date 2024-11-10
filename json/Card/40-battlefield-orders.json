@@ -1,0 +1,27 @@
+{
+    "id": "40-battlefield-orders",
+    "name": "Battlefield Orders",
+    "cost": 1,
+    "text": "If you have at least 5 more honor than an opponent, reduce the cost to play this card by 1.<br><b>Action:</b> During a [conflict-military] conflict, choose an action ability on a participating character - that character's controller resolves that ability.",
+    "type": "event",
+    "clan": "lion",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "tactic"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 1,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

@@ -1,0 +1,29 @@
+{
+    "id": "40-offerings-to-the-kami",
+    "name": "Offerings to the Kami",
+    "cost": null,
+    "text": "<b>Reaction:</b> After this province is revealed, choose a ring in the unclaimed ring pool - resolve that ring's effects and claim it as a [conflict-political] ring, gaining all fate on it.",
+    "type": "province",
+    "clan": "phoenix",
+    "elements": [
+        "void"
+    ],
+    "isUnique": false,
+    "side": "province",
+    "traits": [
+        "shrine"
+    ],
+    "military": null,
+    "political": null,
+    "strength": "4",
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 1,
+    "roleRestriction": null
+}

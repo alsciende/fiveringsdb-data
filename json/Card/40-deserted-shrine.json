@@ -1,0 +1,29 @@
+{
+    "id": "40-deserted-shrine",
+    "name": "Deserted Shrine",
+    "cost": null,
+    "text": "<b>Reaction:</b> After this province is revealed, choose a deck - discard the top 10 cards of that deck.",
+    "type": "province",
+    "clan": "neutral",
+    "elements": [
+        "earth"
+    ],
+    "isUnique": false,
+    "side": "province",
+    "traits": [
+        "shrine"
+    ],
+    "military": null,
+    "political": null,
+    "strength": "4",
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 1,
+    "roleRestriction": null
+}

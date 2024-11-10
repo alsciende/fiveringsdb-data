@@ -1,0 +1,29 @@
+{
+    "id": "40-tsangusuri-ward",
+    "name": "Tsangusuri Ward",
+    "cost": 0,
+    "text": "Play only on a character you control, and only if your control a <em>Shugenja</em> character.<br>Opponents cannot play attachments on attached character.",
+    "type": "attachment",
+    "clan": "crane",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "item",
+        "spell",
+        "air"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": "+0",
+    "politicalBonus": "+0",
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 1,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

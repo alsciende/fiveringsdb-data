@@ -1,0 +1,27 @@
+{
+    "id": "40-castle-of-the-forgotten",
+    "name": "Castle of the Forgotten",
+    "cost": null,
+    "text": "<b>Reaction:</b>  After you break a province, bow this stronghold - each conflict declared this round is [conflict-military] instead of its normal type.",
+    "type": "stronghold",
+    "clan": "crab",
+    "elements": [],
+    "isUnique": false,
+    "side": "province",
+    "traits": [
+        "castle"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": "+2",
+    "glory": null,
+    "honor": 10,
+    "fate": 7,
+    "influencePool": 9,
+    "influenceCost": null,
+    "deckLimit": 1,
+    "roleRestriction": null
+}

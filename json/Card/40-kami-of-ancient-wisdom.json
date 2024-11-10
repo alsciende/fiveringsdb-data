@@ -1,0 +1,27 @@
+{
+    "id": "40-kami-of-ancient-wisdom",
+    "name": "Kami of Ancient Wisdom",
+    "cost": 5,
+    "text": "No attachments except <em>Spell</em> or <em>Spirit</em>.<br><b>Reaction:</b> After 1 or more fate is removed from a character outside the fate phase, choose a character and select one - either place 1 fate on the chosen character or remove 1 fate from it.",
+    "type": "character",
+    "clan": "phoenix",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "spirit"
+    ],
+    "military": "2",
+    "political": "6",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 0,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

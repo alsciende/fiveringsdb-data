@@ -1,0 +1,28 @@
+{
+    "id": "40-final-whisper",
+    "name": "Final Whisper",
+    "cost": 0,
+    "text": "<em>Air</em> role only.<br><b>Reaction:</b> After an opponent's character receives a status token, that opponent chooses another character they control - the chosen character receives the same status token as well.",
+    "type": "event",
+    "clan": "scorpion",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "poison",
+        "shadowlands"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 2,
+    "deckLimit": 3,
+    "roleRestriction": "air"
+}
