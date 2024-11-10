@@ -1,0 +1,30 @@
+{
+    "id": "38-tetsubo-of-blood",
+    "name": "Tetsubō of Blood",
+    "cost": 1,
+    "text": "This card's fate cost can only be paid for with fate on characters you control.<br>Limited. Restricted.<br>Attached character cannot be honored.",
+    "type": "attachment",
+    "clan": "crab",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "maho",
+        "spell",
+        "earth",
+        "weapon"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": "+4",
+    "politicalBonus": "+0",
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 1,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

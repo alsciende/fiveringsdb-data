@@ -1,0 +1,28 @@
+{
+    "id": "38-iuchi-shahai",
+    "name": "Iuchi Shahai",
+    "cost": 4,
+    "text": "While you are the first player, this character gains covert.<br><b>Reaction:</b> After you play a <em>Meishōdō</em> or <em>Mahō</em> card, lose 1 honor - place 1 fate on this character",
+    "type": "character",
+    "clan": "unicorn",
+    "elements": [],
+    "isUnique": true,
+    "side": "dynasty",
+    "traits": [
+        "shugenja",
+        "water"
+    ],
+    "military": "2",
+    "political": "4",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

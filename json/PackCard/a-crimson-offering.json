@@ -1,0 +1,178 @@
+[
+    {
+        "card_id": "38-the-eternal-watch",
+        "flavor": null,
+        "illustrator": "Piotr Arendzikowski",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_45.jpg",
+        "position": 45,
+        "quantity": 3
+    },
+    {
+        "card_id": "38-seeking-enlightenment",
+        "flavor": "\"The path to enlightenment is one that must be walked alone.\" - Togashi Hassuno",
+        "illustrator": "Imad Awan",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_46.jpg",
+        "position": 46,
+        "quantity": 3
+    },
+    {
+        "card_id": "38-by-onnotangu-s-light",
+        "flavor": "A single night can change the course of history",
+        "illustrator": "Borja Pindado",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_47.jpg",
+        "position": 47,
+        "quantity": 3
+    },
+    {
+        "card_id": "38-damned-hida",
+        "flavor": "\"While my honor cannot be redeemed, my service can still be fulfilled\"",
+        "illustrator": "Carlos Diaz",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_48.jpg",
+        "position": 48,
+        "quantity": 3
+    },
+    {
+        "card_id": "38-desperate-negotiator",
+        "flavor": "With the capital in chaos, any hope that the violence throughout Rokugan could be brought to an end faded into memory.",
+        "illustrator": "Guillaume Ducos",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_49.jpg",
+        "position": 49,
+        "quantity": 3
+    },
+    {
+        "card_id": "38-togashi-kazue",
+        "flavor": "The Empire is fast approaching a time where both madness and enlightenment will be needed.",
+        "illustrator": "Borja Pindado",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_50.jpg",
+        "position": 50,
+        "quantity": 3
+    },
+    {
+        "card_id": "38-lion-s-pride-paragon",
+        "flavor": "\"I shall not stop fighting until the honor of the Lion has been avenged.\"",
+        "illustrator": "Stormbrush",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_51.jpg",
+        "position": 51,
+        "quantity": 3
+    },
+    {
+        "card_id": "38-forward-garrison",
+        "flavor": null,
+        "illustrator": null,
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_52.jpg",
+        "position": 52,
+        "quantity": 3
+    },
+    {
+        "card_id": "38-kaito-mai",
+        "flavor": "\"I cannot abandon even a kansen to endless suffering.\"",
+        "illustrator": "Marius Bota",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_53.jpg",
+        "position": 53,
+        "quantity": 3
+    },
+    {
+        "card_id": "38-yogo-paramour",
+        "flavor": null,
+        "illustrator": "Drazenka Kimpel",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_54.jpg",
+        "position": 54,
+        "quantity": 3
+    },
+    {
+        "card_id": "38-shadowed-village",
+        "flavor": null,
+        "illustrator": "Daria Khlebnikova",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_55.jpg",
+        "position": 55,
+        "quantity": 3
+    },
+    {
+        "card_id": "38-iuchi-shahai",
+        "flavor": "\"I can help you, my prince, if you will allow me.\"",
+        "illustrator": "Apterus",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_56.jpg",
+        "position": 56,
+        "quantity": 3
+    },
+    {
+        "card_id": "38-resourceful-maho-tsukai",
+        "flavor": null,
+        "illustrator": "Peter Polach",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_57.jpg",
+        "position": 57,
+        "quantity": 3
+    },
+    {
+        "card_id": "38-tetsubo-of-blood",
+        "flavor": null,
+        "illustrator": "Piotr Arendzikowski",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_58.jpg",
+        "position": 58,
+        "quantity": 3
+    },
+    {
+        "card_id": "38-disparaging-challenge",
+        "flavor": null,
+        "illustrator": "Andreia Ugrai",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_59.jpg",
+        "position": 59,
+        "quantity": 3
+    },
+    {
+        "card_id": "38-ki-alignment",
+        "flavor": null,
+        "illustrator": "Joshua Cairos",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_60.jpg",
+        "position": 60,
+        "quantity": 3
+    },
+    {
+        "card_id": "38-feeding-an-army",
+        "flavor": null,
+        "illustrator": "Carlos Palma Cruchaga",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_61.jpg",
+        "position": 61,
+        "quantity": 3
+    },
+    {
+        "card_id": "38-in-harmony",
+        "flavor": null,
+        "illustrator": "Mauro Dal Bo",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_62.jpg",
+        "position": 62,
+        "quantity": 3
+    },
+    {
+        "card_id": "38-sanguine-mastery",
+        "flavor": null,
+        "illustrator": "Carlos Diaz",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_63.jpg",
+        "position": 63,
+        "quantity": 3
+    },
+    {
+        "card_id": "38-seize-the-mind",
+        "flavor": null,
+        "illustrator": "Jorge Matar",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_64.jpg",
+        "position": 64,
+        "quantity": 3
+    },
+    {
+        "card_id": "38-command-the-tributary",
+        "flavor": "\"Should you invoke the spirit's Name, you shall divert the path of its destiny.\" Iuchi Daiyu",
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_65.jpg",
+        "position": 65,
+        "quantity": 3
+    },
+    {
+        "card_id": "38-bonds-of-blood",
+        "flavor": null,
+        "illustrator": "Pavel Kolomeyets",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C38_66.jpg",
+        "position": 66,
+        "quantity": 3
+    }
+]

@@ -1,0 +1,27 @@
+{
+    "id": "38-forward-garrison",
+    "name": "Forward Garrison",
+    "cost": null,
+    "text": "While there is a <em>Battlefield</em> in play, fate cannot be removed from characters you control by opponents' card or ring effects.",
+    "type": "holding",
+    "clan": "lion",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "castle"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": "+1",
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

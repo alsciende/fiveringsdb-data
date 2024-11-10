@@ -1,0 +1,27 @@
+{
+    "id": "38-desperate-negotiator",
+    "name": "Desperate Negotiator",
+    "cost": 2,
+    "text": "Dire - This character gets +2[conflict-military] and +2[conflict-political]. <i>(This character is dire when it has no fate on it.)</i>",
+    "type": "character",
+    "clan": "crane",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "courtier"
+    ],
+    "military": "0",
+    "political": "2",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

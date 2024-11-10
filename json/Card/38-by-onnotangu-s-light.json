@@ -1,0 +1,29 @@
+{
+    "id": "38-by-onnotangu-s-light",
+    "name": "By Onnotangu's Light",
+    "cost": null,
+    "text": "During conflicts at this province, each character in play is considered to have no fate on it, and fate tokens cannot be moved or removed from those characters.",
+    "type": "province",
+    "clan": "neutral",
+    "elements": [
+        "water"
+    ],
+    "isUnique": false,
+    "side": "province",
+    "traits": [
+        "city"
+    ],
+    "military": null,
+    "political": null,
+    "strength": "4",
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 1,
+    "roleRestriction": null
+}

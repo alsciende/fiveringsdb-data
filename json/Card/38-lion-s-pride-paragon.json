@@ -1,0 +1,27 @@
+{
+    "id": "38-lion-s-pride-paragon",
+    "name": "Lion's Pride Paragon",
+    "cost": 3,
+    "text": "Dire - This character does not bow as the result of conflict resolution. <i>(This character is dire when it has no fate on it.)</i>",
+    "type": "character",
+    "clan": "lion",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "bushi"
+    ],
+    "military": "3",
+    "political": "1",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 3,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

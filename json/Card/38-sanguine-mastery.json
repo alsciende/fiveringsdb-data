@@ -1,0 +1,29 @@
+{
+    "id": "38-sanguine-mastery",
+    "name": "Sanguine Mastery",
+    "cost": 1,
+    "text": "<em>Fire</em> role only.<br>This card's fate cost can only be paid for with fate on characters you control.<br><b>Action:</b> Dishonor a <i>(friendly)</i> character. Choose up to X attachments, where X is the dishonored character's glory - discard each of those attachments.",
+    "type": "event",
+    "clan": "phoenix",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "maho",
+        "spell",
+        "fire"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 2,
+    "deckLimit": 3,
+    "roleRestriction": "fire"
+}

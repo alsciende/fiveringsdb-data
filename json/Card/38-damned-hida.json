@@ -1,0 +1,29 @@
+{
+    "id": "38-damned-hida",
+    "name": "Damned Hida",
+    "cost": 3,
+    "text": "Dire - This character gets +3[conflict-military]. <i>(This character is dire when it has no fate on it.)</i>",
+    "type": "character",
+    "clan": "crab",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "bushi",
+        "berserker",
+        "shadowlands"
+    ],
+    "military": "3",
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 0,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

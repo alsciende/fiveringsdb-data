@@ -1,0 +1,27 @@
+{
+    "id": "38-in-harmony",
+    "name": "In Harmony",
+    "cost": 0,
+    "text": "Play only if you have at least 1 ring in your claimed ring pool.<br>Ancestral.<br>Fate on attached character cannot be removed by card or ring effects.",
+    "type": "attachment",
+    "clan": "phoenix",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "condition"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": "+0",
+    "politicalBonus": "+1",
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 2,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

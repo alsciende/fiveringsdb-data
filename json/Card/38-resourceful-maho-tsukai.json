@@ -1,0 +1,28 @@
+{
+    "id": "38-resourceful-maho-tsukai",
+    "name": "Resourceful Mahō-Tsukai",
+    "cost": 2,
+    "text": "No attachments except <em>Shadowlands</em> or <em>Spell</em>.<br>While this character is dishonored, reduce the cost to play each <em>Mahō</em> card you play by 1 <i>(to a minimum of 0)</i>.",
+    "type": "character",
+    "clan": "neutral",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "shugenja",
+        "shadowlands"
+    ],
+    "military": "2",
+    "political": "1",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 0,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

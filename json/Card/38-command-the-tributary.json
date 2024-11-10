@@ -1,0 +1,29 @@
+{
+    "id": "38-command-the-tributary",
+    "name": "Command the Tributary",
+    "cost": 0,
+    "text": "Attached character gains \"<b>Action:</b> Choose another character - move 1 fate from this character to the chosen character.\"",
+    "type": "attachment",
+    "clan": "unicorn",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "spell",
+        "water",
+        "meishodo"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": "+0",
+    "politicalBonus": "+1",
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 3,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

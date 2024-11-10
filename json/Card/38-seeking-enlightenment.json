@@ -1,0 +1,27 @@
+{
+    "id": "38-seeking-enlightenment",
+    "name": "Seeking Enlightenment",
+    "cost": null,
+    "text": "<b>Reaction:</b> After this province is revealed – your opponent loses X fate, where X is the number of attacking characters.",
+    "type": "province",
+    "clan": "dragon",
+    "elements": [
+        "fire"
+    ],
+    "isUnique": false,
+    "side": "province",
+    "traits": [],
+    "military": null,
+    "political": null,
+    "strength": "5",
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 1,
+    "roleRestriction": null
+}

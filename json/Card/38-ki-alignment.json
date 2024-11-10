@@ -1,0 +1,28 @@
+{
+    "id": "38-ki-alignment",
+    "name": "Ki Alignment",
+    "cost": 0,
+    "text": "<b>Reaction:</b> After you declare a <em>Monk</em> character as an attacker or defender - search the top 8 cards of your conflict deck for up to 2 <em>Kihō</em> cards with different names, reveal them, and add them to your hand. Shuffle.",
+    "type": "event",
+    "clan": "dragon",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "kiho",
+        "void"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 1,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

@@ -1,0 +1,28 @@
+{
+    "id": "38-togashi-kazue",
+    "name": "Togashi Kazue",
+    "cost": 2,
+    "text": "Each character you control gains: \"Dire - You may trigger each of this character's triggered abilities an additional time each round (or specified period).\"",
+    "type": "character",
+    "clan": "dragon",
+    "elements": [],
+    "isUnique": true,
+    "side": "dynasty",
+    "traits": [
+        "monk",
+        "tattooed"
+    ],
+    "military": "2",
+    "political": "2",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

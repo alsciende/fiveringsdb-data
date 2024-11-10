@@ -1,0 +1,27 @@
+{
+    "id": "38-the-eternal-watch",
+    "name": "The Eternal Watch",
+    "cost": null,
+    "text": "<b>Action:</b> During a conflict at this province, choose an attacking character. Your opponent selects one - either bow that character or they give you 1 honor.",
+    "type": "province",
+    "clan": "crab",
+    "elements": [
+        "earth"
+    ],
+    "isUnique": false,
+    "side": "province",
+    "traits": [],
+    "military": null,
+    "political": null,
+    "strength": "5",
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 1,
+    "roleRestriction": null
+}

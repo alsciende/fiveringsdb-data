@@ -1,0 +1,29 @@
+{
+    "id": "38-seize-the-mind",
+    "name": "Seize the Mind",
+    "cost": 3,
+    "text": "This card's fate cost can only be paid for with fate on characters you control.<br><b>Action:</b> During a conflict, choose a non-unique character - take control of that character until the end of the conflict. You lose honor equal to the amount of fate on that character.",
+    "type": "event",
+    "clan": "scorpion",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "maho",
+        "spell",
+        "air"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 2,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

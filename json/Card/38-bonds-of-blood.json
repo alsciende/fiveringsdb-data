@@ -1,0 +1,29 @@
+{
+    "id": "38-bonds-of-blood",
+    "name": "Bonds of Blood",
+    "cost": 1,
+    "text": "This card's fate cost can only be paid for with fate on characters you control.<br><b>Action:</b> During a conflict dishonor a <i>(friendly)</i> participating character. Choose a character - move both the dishonored character and the chosen character home.",
+    "type": "event",
+    "clan": "unicorn",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "maho",
+        "spell",
+        "water"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 3,
+    "deckLimit": 3,
+    "roleRestriction": null
+}
