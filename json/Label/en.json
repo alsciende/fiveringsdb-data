@@ -424,6 +424,10 @@
         "value": "Shrine"
     },
     {
+        "id": "trait.siege-weapon",
+        "value": "Siege Weapon"
+    },
+    {
         "id": "trait.shugenja",
         "value": "Shugenja"
     },

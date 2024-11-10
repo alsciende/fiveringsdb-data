@@ -1,0 +1,27 @@
+{
+    "id": "41-ujiaki-s-offer",
+    "name": "Ujiaki's Offer",
+    "cost": 1,
+    "text": "<b>Action:</b> During a [conflict-political] conflict, choose a participating character with printed cost equal to or lower than that of another participating character you control - place 1 fate on the chosen character. If you do, bow it, move it home, and dishonor it.",
+    "type": "event",
+    "clan": "lion",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "tactic"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 3,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

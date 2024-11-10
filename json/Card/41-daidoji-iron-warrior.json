@@ -1,0 +1,27 @@
+{
+    "id": "41-daidoji-iron-warrior",
+    "name": "Daidoji Iron Warrior",
+    "cost": 3,
+    "text": "<b>Reaction:</b> After this character wins a conflict - each player discards cards from their hand until they have 4 or fewer cards in hand.",
+    "type": "character",
+    "clan": "crane",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "bushi"
+    ],
+    "military": "3",
+    "political": "3",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

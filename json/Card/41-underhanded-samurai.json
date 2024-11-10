@@ -1,0 +1,27 @@
+{
+    "id": "41-underhanded-samurai",
+    "name": "Underhanded Samurai",
+    "cost": 2,
+    "text": "Covert. <i>(When this character attacks, choose one character without covert. That character cannot be declared as a defender.)</i>",
+    "type": "character",
+    "clan": "scorpion",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "bushi"
+    ],
+    "military": "2",
+    "political": "1",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 0,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

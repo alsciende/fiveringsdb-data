@@ -1,0 +1,27 @@
+{
+    "id": "41-relentless-inquisitor",
+    "name": "Relentless Inquisitor",
+    "cost": 4,
+    "text": "<em>Seeker</em> role only.<br><b>Action:</b> During a conflict in which this character is participating, choose a participating character your opponent controls. They must select one - either remove 1 fate from that character or bow it.",
+    "type": "character",
+    "clan": "phoenix",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "courtier"
+    ],
+    "military": "2",
+    "political": "4",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 2,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": "seeker"
+}

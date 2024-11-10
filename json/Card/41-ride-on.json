@@ -1,0 +1,27 @@
+{
+    "id": "41-ride-on",
+    "name": "Ride On",
+    "cost": 0,
+    "text": "<b>Action:</b> During a conflict, choose a <em>Cavalry</em> character you control. Select one - either move that character to the conflict or move it home.",
+    "type": "event",
+    "clan": "unicorn",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "tactic"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 1,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

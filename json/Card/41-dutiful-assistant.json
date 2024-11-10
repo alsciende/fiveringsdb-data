@@ -1,0 +1,27 @@
+{
+    "id": "41-dutiful-assistant",
+    "name": "Dutiful Assistant",
+    "cost": 1,
+    "text": "Ancestral. <i>(When attached card leaves play, return this card to your hand.)</i><br>While attached character is honored, it gets +2 glory.",
+    "type": "attachment",
+    "clan": "crane",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "follower"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": "+0",
+    "politicalBonus": "+0",
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 2,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

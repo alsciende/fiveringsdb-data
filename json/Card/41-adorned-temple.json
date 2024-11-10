@@ -1,0 +1,27 @@
+{
+    "id": "41-adorned-temple",
+    "name": "Adorned Temple",
+    "cost": null,
+    "text": "<b>Reaction:</b> After 1 or more fate is placed on a character you control by a card effect - draw 1 card (draw 2 cards instead if that character is ordinary).",
+    "type": "holding",
+    "clan": "dragon",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "temple"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": "+0",
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

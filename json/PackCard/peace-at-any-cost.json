@@ -1,0 +1,178 @@
+[
+    {
+        "card_id": "41-shiro-gisu",
+        "flavor": null,
+        "illustrator": "Daria Khlebnikova",
+        "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/43/83/43835d14-705f-4d4d-9bb7-875d387219a0/l5c41_shiro-gisu.png",
+        "position": 109,
+        "quantity": 1
+    },
+    {
+        "card_id": "41-golden-plains",
+        "flavor": null,
+        "illustrator": "Carlos Palma Cruchaga",
+        "image_url": "https://i.imgur.com/oPcl2ms.png",
+        "position": 110,
+        "quantity": 3
+    },
+    {
+        "card_id": "41-lord-s-ascendancy",
+        "flavor": null,
+        "illustrator": "Borja Pindado",
+        "image_url": "https://i.imgur.com/Mh6ndKu.png",
+        "position": 111,
+        "quantity": 3
+    },
+    {
+        "card_id": "41-midnight-builder",
+        "flavor": null,
+        "illustrator": "Andreia Ugrai",
+        "image_url": "https://i.imgur.com/CmAiHfv.png",
+        "position": 112,
+        "quantity": 3
+    },
+    {
+        "card_id": "41-doom-thrower",
+        "flavor": null,
+        "illustrator": "Hai Hoang",
+        "image_url": "https://i.imgur.com/aaPhIyB.png",
+        "position": 113,
+        "quantity": 3
+    },
+    {
+        "card_id": "41-daidoji-iron-warrior",
+        "flavor": "\"We may be outnumbered, but we will never be outmatched.\"",
+        "illustrator": "Imad Awan",
+        "image_url": "https://i.imgur.com/lO29GRh.png",
+        "position": 114,
+        "quantity": 3
+    },
+    {
+        "card_id": "41-furtive-sympathizer",
+        "flavor": null,
+        "illustrator": "Guillaume Ducos",
+        "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/a7/39/a7390df6-d0ed-4820-82e5-2802e016edbf/l5c41_furtive-sympathizer.png",
+        "position": 115,
+        "quantity": 3
+    },
+    {
+        "card_id": "41-adorned-temple",
+        "flavor": null,
+        "illustrator": "Nele Diel",
+        "image_url": "https://i.imgur.com/bovZ00F.png",
+        "position": 116,
+        "quantity": 3
+    },
+    {
+        "card_id": "41-ikoma-ujiaki",
+        "flavor": "\"Our service to the throne has never wavered.\"",
+        "illustrator": "Surya Prasetya",
+        "image_url": "https://i.imgur.com/AST9gnN.png",
+        "position": 117,
+        "quantity": 3
+    },
+    {
+        "card_id": "41-inquisitorial-initiate",
+        "flavor": null,
+        "illustrator": "Isuardi Therianto",
+        "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/02/2a/022a5e37-fa80-4118-b226-3a1c776c8474/l5c41_inquisitorial-initiate.png",
+        "position": 118,
+        "quantity": 3
+    },
+    {
+        "card_id": "41-relentless-inquisitor",
+        "flavor": null,
+        "illustrator": "Marius Bota",
+        "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/be/fa/befa7977-785c-4d4f-b644-108187b54911/l5c41_relentless-inquisitor.png",
+        "position": 119,
+        "quantity": 3
+    },
+    {
+        "card_id": "41-underhanded-samurai",
+        "flavor": "\"Confront only your enemy's weaknesses, never their strengths.\" - Bayushi's Lies",
+        "illustrator": "Drew Baker",
+        "image_url": "https://i.imgur.com/d2ZHxdw.png",
+        "position": 120,
+        "quantity": 3
+    },
+    {
+        "card_id": "41-moto-conqueror",
+        "flavor": "On the distant Plain of Wind and Stone, Shinjo's followers learned new gaijin ways to ride, to hunt and to fight from horseback.",
+        "illustrator": "Imad Awan",
+        "image_url": "https://i.imgur.com/zYC4zZl.png",
+        "position": 121,
+        "quantity": 3
+    },
+    {
+        "card_id": "41-at-any-cost",
+        "flavor": "\"Kuni did not hesitate when he turned the spirits of Jigoku against Hajimeno Tatakai no Oni. Why should I?\" - Kuni Yori",
+        "illustrator": "Francesca Baerald",
+        "image_url": "https://i.imgur.com/Nj2K3KV.png",
+        "position": 122,
+        "quantity": 3
+    },
+    {
+        "card_id": "41-dutiful-assistant",
+        "flavor": null,
+        "illustrator": "IFS",
+        "image_url": "https://i.imgur.com/R4ABawS.png",
+        "position": 123,
+        "quantity": 3
+    },
+    {
+        "card_id": "41-setting-the-standard",
+        "flavor": null,
+        "illustrator": "Isuardi Therianto",
+        "image_url": "https://i.imgur.com/ImfmVLy.png",
+        "position": 124,
+        "quantity": 3
+    },
+    {
+        "card_id": "41-belief-in-the-little-teacher",
+        "flavor": "\"The kie was given to us by Shinsei to finally be free of karma and reincarnation.\"",
+        "illustrator": "Guillaume Ducos",
+        "image_url": "https://images-cdn.fantasyflightgames.com/filer_public/4a/49/4a495a62-082d-4a70-af8c-5f0bedf19040/l5c41_belief-in-the-little-teacher.png",
+        "position": 125,
+        "quantity": 3
+    },
+    {
+        "card_id": "41-ujiaki-s-offer",
+        "flavor": null,
+        "illustrator": "Kanadekana",
+        "image_url": "https://i.imgur.com/pRyIIbt.png",
+        "position": 126,
+        "quantity": 3
+    },
+    {
+        "card_id": "41-a-war-on-two-fronts",
+        "flavor": null,
+        "illustrator": "Francesca Baerald",
+        "image_url": "https://i.imgur.com/wMoZ0QG.png",
+        "position": 127,
+        "quantity": 3
+    },
+    {
+        "card_id": "41-cleanse-the-empire",
+        "flavor": null,
+        "illustrator": "Imad Awan",
+        "image_url": "https://i.imgur.com/CIVwvuS.png",
+        "position": 128,
+        "quantity": 3
+    },
+    {
+        "card_id": "41-subterfuge",
+        "flavor": null,
+        "illustrator": "Drazenka Kimpel",
+        "image_url": "https://i.imgur.com/FI7F7k0.png",
+        "position": 129,
+        "quantity": 3
+    },
+    {
+        "card_id": "41-ride-on",
+        "flavor": "\"Why would we settle down like some indulgent Bayushi, when we draw strength from our unique freedom?\" - Moto Rurame",
+        "illustrator": "Carlos Palma Cruchaga",
+        "image_url": "https://i.imgur.com/Ngom9EZ.png",
+        "position": 130,
+        "quantity": 3
+    }
+]

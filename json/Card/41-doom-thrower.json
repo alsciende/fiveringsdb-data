@@ -1,0 +1,27 @@
+{
+    "id": "41-doom-thrower",
+    "name": "Doom Thrower",
+    "cost": null,
+    "text": "<b>Action</b> During a conflict, sacrifice a character - the attacked province gets -2 strength until the end of the conflict (-5 strength instead if the sacrificed character had 1 or more fate on it).",
+    "type": "holding",
+    "clan": "crab",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "siege-weapon"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": "+1",
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

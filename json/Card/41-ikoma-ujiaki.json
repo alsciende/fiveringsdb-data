@@ -1,0 +1,28 @@
+{
+    "id": "41-ikoma-ujiaki",
+    "name": "Ikoma Ujiaki",
+    "cost": 5,
+    "text": "<b>Action:</b> During a conflict in which this character is participating, lose 2 honor - switch the conflict type <i>(The conflict retains its element)</i>.",
+    "type": "character",
+    "clan": "lion",
+    "elements": [],
+    "isUnique": true,
+    "side": "dynasty",
+    "traits": [
+        "bushi",
+        "courtier"
+    ],
+    "military": "3",
+    "political": "5",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 2,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

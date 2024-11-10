@@ -1,0 +1,28 @@
+{
+    "id": "41-midnight-builder",
+    "name": "Midnight Builder",
+    "cost": 4,
+    "text": "Dire - you may trigger the ability on each holding you control an additional time each round (or specified period). <i>(This character is dire when it has no fate on it.)</i><br>Each holding you control gets +2 bonus strength.",
+    "type": "character",
+    "clan": "crab",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "bushi",
+        "engineer"
+    ],
+    "military": "4",
+    "political": "3",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

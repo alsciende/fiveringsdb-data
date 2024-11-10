@@ -1,0 +1,27 @@
+{
+    "id": "41-at-any-cost",
+    "name": "At Any Cost",
+    "cost": 0,
+    "text": "Limited.<br><b>Action:</b> Lose 3 honor. Choose a character - place 2 fate on that character.",
+    "type": "event",
+    "clan": "crab",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "philosophy"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 4,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

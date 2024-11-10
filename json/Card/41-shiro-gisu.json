@@ -1,0 +1,27 @@
+{
+    "id": "41-shiro-gisu",
+    "name": "Shiro Gisu",
+    "cost": null,
+    "text": "<b>Action:</b> Bow this stronghold - look at the top X cards of you conflict deck, where X is the number of characters an opponent controls with no fate on them. Add 1 of those cards to your hand and put the rest on the bottom of your conflict deck in a random order.",
+    "type": "stronghold",
+    "clan": "phoenix",
+    "elements": [],
+    "isUnique": false,
+    "side": "province",
+    "traits": [
+        "castle"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": "+2",
+    "glory": null,
+    "honor": 10,
+    "fate": 7,
+    "influencePool": 11,
+    "influenceCost": null,
+    "deckLimit": 1,
+    "roleRestriction": null
+}
