@@ -1,0 +1,27 @@
+{
+    "id": "37-cycle-of-vengeance",
+    "name": "Cycle of Vengeance",
+    "cost": null,
+    "text": "<b>Interrupt:</b> When this province is broken, choose a character – place 1 fate on that character and honor it.",
+    "type": "province",
+    "clan": "neutral",
+    "elements": [
+        "air"
+    ],
+    "isUnique": false,
+    "side": "province",
+    "traits": [],
+    "military": null,
+    "political": null,
+    "strength": "4",
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 1,
+    "roleRestriction": null
+}

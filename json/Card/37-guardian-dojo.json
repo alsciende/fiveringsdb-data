@@ -1,0 +1,27 @@
+{
+    "id": "37-guardian-dojo",
+    "name": "Guardian Dōjō",
+    "cost": null,
+    "text": "Characters played from adjacent provinces enter play honored and you cannot place fate on them when they are played.",
+    "type": "holding",
+    "clan": "phoenix",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "dojo"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": "+1",
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

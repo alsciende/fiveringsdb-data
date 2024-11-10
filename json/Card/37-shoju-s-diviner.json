@@ -1,0 +1,29 @@
+{
+    "id": "37-shoju-s-diviner",
+    "name": "Shoju's Diviner",
+    "cost": 3,
+    "text": "Dire - this character gains: \"<b>Action:</b> Look at the top 8 cards of your conflict deck. Then, discard any number of those cards and put the rest back on top in any order.\" <i>(This character is dire when it has no fate on it.)</i>",
+    "type": "character",
+    "clan": "scorpion",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "shugenja",
+        "air",
+        "imperial"
+    ],
+    "military": "3",
+    "political": "3",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

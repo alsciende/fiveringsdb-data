@@ -1,0 +1,27 @@
+{
+    "id": "37-reserve-tents",
+    "name": "Reserve Tents",
+    "cost": null,
+    "text": "<b>Action:</b> During a conflict, choose a character you control - move that character to the conflict. (Limit twice per round.)",
+    "type": "holding",
+    "clan": "unicorn",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "battlefield"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": "+2",
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

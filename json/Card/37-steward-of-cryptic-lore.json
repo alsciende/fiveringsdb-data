@@ -1,0 +1,29 @@
+{
+    "id": "37-steward-of-cryptic-lore",
+    "name": "Steward of Cryptic Lore",
+    "cost": 4,
+    "text": "Dire - This character gets +3[conflict-political]. <i>(This character is dire when it has no fate on it.)</i><br><b>Action:</b> During a [element-earth] conflict, select one - the attacked province gets either +3 strength or -3 strength until the end of the conflict.",
+    "type": "character",
+    "clan": "phoenix",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "shugenja",
+        "earth",
+        "scholar"
+    ],
+    "military": "3",
+    "political": "3",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 2,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

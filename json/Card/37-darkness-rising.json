@@ -1,0 +1,29 @@
+{
+    "id": "37-darkness-rising",
+    "name": "Darkness Rising",
+    "cost": 2,
+    "text": "<em>Water</em> role only.<br>This card's fate cost can only be paid for with fate on characters you control.<br><b>Action:</b> During a conflict, dishonor a <i>(friendly)</i> participating character - bow each participating character with lower [conflict-military] skill than that of the dishonored character.",
+    "type": "event",
+    "clan": "crab",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "maho",
+        "spell",
+        "water"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 2,
+    "deckLimit": 3,
+    "roleRestriction": "water"
+}

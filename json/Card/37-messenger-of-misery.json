@@ -1,0 +1,27 @@
+{
+    "id": "37-messenger-of-misery",
+    "name": "Messenger of Misery",
+    "cost": 1,
+    "text": "Courtesy. <i>(When this character leaves play, gain 1 fate)</i>",
+    "type": "character",
+    "clan": "scorpion",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "courtier"
+    ],
+    "military": "0",
+    "political": "1",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 0,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 1,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

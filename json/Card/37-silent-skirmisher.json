@@ -1,0 +1,28 @@
+{
+    "id": "37-silent-skirmisher",
+    "name": "Silent Skirmisher",
+    "cost": 0,
+    "text": "<b>Action:</b> During a conflict, sacrifice another character - this characters gets +2[conflict-military] until the end of the conflict.",
+    "type": "character",
+    "clan": "crab",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "bushi",
+        "berserker"
+    ],
+    "military": "1",
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

@@ -1,0 +1,28 @@
+{
+    "id": "37-curse-of-misfortune",
+    "name": "Curse of Misfortune",
+    "cost": 1,
+    "text": "Each other attachment on attached character gains restricted.",
+    "type": "attachment",
+    "clan": "neutral",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "condition",
+        "curse"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": "+0",
+    "politicalBonus": "+0",
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 0,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

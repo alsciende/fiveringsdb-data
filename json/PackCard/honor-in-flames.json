@@ -1,0 +1,178 @@
+[
+    {
+        "card_id": "37-the-way-of-peace",
+        "flavor": "\"Let them see the beauty you have created and they shall bear witness to their shame.\"",
+        "illustrator": "Eli Ring",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C37_23.jpg",
+        "position": 23,
+        "quantity": 3
+    },
+    {
+        "card_id": "37-the-roar-of-the-lioness",
+        "flavor": "\"I am a samurai of the Lion Clan, and I can no longer bear to see it kept low.\" - Matsu Tsuko",
+        "illustrator": "Stormbrush",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C37_24.jpg",
+        "position": 24,
+        "quantity": 3
+    },
+    {
+        "card_id": "37-cycle-of-vengeance",
+        "flavor": "\"I will never forget the sound of my brother's lifeless body striking the ground at his hand.\" - Mirumoto Hitomi",
+        "illustrator": "Ilham Habib Zakaria",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C37_25.jpg",
+        "position": 25,
+        "quantity": 3
+    },
+    {
+        "card_id": "37-silent-skirmisher",
+        "flavor": "Even the warriors of the Crab whisper fearfully of the uncanny efficiency illustrated by Forgotten samurai.",
+        "illustrator": "Jason Juta",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C37_26.jpg",
+        "position": 26,
+        "quantity": 3
+    },
+    {
+        "card_id": "37-master-of-jade",
+        "flavor": "\"I will not allow the Taint to take you.\"",
+        "illustrator": "Reiko Murakami",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C37_27.jpg",
+        "position": 27,
+        "quantity": 3
+    },
+    {
+        "card_id": "37-daidoji-uji",
+        "flavor": null,
+        "illustrator": "Joshua Cairos",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C37_28.jpg",
+        "position": 28,
+        "quantity": 3
+    },
+    {
+        "card_id": "37-perfect-land-believer",
+        "flavor": "\"If they think to deny us Shinsei's salvation, we will take our fate into our own hands.\"",
+        "illustrator": "Isuardi Therianto",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C37_29.jpg",
+        "position": 29,
+        "quantity": 3
+    },
+    {
+        "card_id": "37-commander-of-the-legions",
+        "flavor": null,
+        "illustrator": "Stormbrush",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C37_30.jpg",
+        "position": 30,
+        "quantity": 3
+    },
+    {
+        "card_id": "37-steward-of-cryptic-lore",
+        "flavor": null,
+        "illustrator": "Lukas Banas",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C37_31.jpg",
+        "position": 31,
+        "quantity": 3
+    },
+    {
+        "card_id": "37-guardian-dojo",
+        "flavor": "Any who wish to train in the defense of others is welcome among the Shiba.",
+        "illustrator": "Logan Feliciano",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C37_32.jpg",
+        "position": 32,
+        "quantity": 3
+    },
+    {
+        "card_id": "37-shoju-s-diviner",
+        "flavor": null,
+        "illustrator": "Marius Bota",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C37_33.jpg",
+        "position": 33,
+        "quantity": 3
+    },
+    {
+        "card_id": "37-nimble-noyan",
+        "flavor": null,
+        "illustrator": "Stormbrush",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C37_34.jpg",
+        "position": 34,
+        "quantity": 3
+    },
+    {
+        "card_id": "37-reserve-tents",
+        "flavor": null,
+        "illustrator": "Nele Diel",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C37_35.jpg",
+        "position": 35,
+        "quantity": 3
+    },
+    {
+        "card_id": "37-darkness-rising",
+        "flavor": null,
+        "illustrator": "Apterus",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C37_36.jpg",
+        "position": 36,
+        "quantity": 3
+    },
+    {
+        "card_id": "37-raze-to-the-ground",
+        "flavor": null,
+        "illustrator": "Leo Avero",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C37_37.jpg",
+        "position": 37,
+        "quantity": 3
+    },
+    {
+        "card_id": "37-shoshi-ni-kie",
+        "flavor": "\"If it gets me through the day, it is enough.\"",
+        "illustrator": "Eli Ring",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C37_38.jpg",
+        "position": 38,
+        "quantity": 3
+    },
+    {
+        "card_id": "37-under-amaterasu-s-gaze",
+        "flavor": null,
+        "illustrator": "Imad Awan",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C37_39.jpg",
+        "position": 39,
+        "quantity": 3
+    },
+    {
+        "card_id": "37-unhallow",
+        "flavor": null,
+        "illustrator": "Imad Awan",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C37_40.jpg",
+        "position": 40,
+        "quantity": 3
+    },
+    {
+        "card_id": "37-messenger-of-misery",
+        "flavor": "Dread drove him faster than his own heartbeat. If his lord could not prevail, what could even the regent do against such demonic power? Yet, if he failed to reach Shoju in time, what hope remained?",
+        "illustrator": "Guillaume Ducos",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C37_41.jpg",
+        "position": 41,
+        "quantity": 3
+    },
+    {
+        "card_id": "37-shape-the-flesh",
+        "flavor": null,
+        "illustrator": "Apterus",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C37_42.jpg",
+        "position": 42,
+        "quantity": 3
+    },
+    {
+        "card_id": "37-shadow-steed",
+        "flavor": null,
+        "illustrator": "Stormbrush",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C37_43.jpg",
+        "position": 43,
+        "quantity": 3
+    },
+    {
+        "card_id": "37-curse-of-misfortune",
+        "flavor": "\"Do you think to mock me, little spider? I will not let you ruin the first profitable job I've seen in weeks with your boldness.\"",
+        "illustrator": "Borja Pindado",
+        "image_url": "http://lcg-cdn.fantasyflightgames.com/l5r/L5C37_44.jpg",
+        "position": 44,
+        "quantity": 3
+    }
+]

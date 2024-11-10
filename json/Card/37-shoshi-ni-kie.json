@@ -1,0 +1,27 @@
+{
+    "id": "37-shoshi-ni-kie",
+    "name": "Shoshi ni Kie",
+    "cost": 0,
+    "text": "<em>Water</em> role only.<br><b>Action:</b> Reveal a <i>(friendly)</i> facedown province. Choose an ordinary character - ready that character.",
+    "type": "event",
+    "clan": "dragon",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "heresy"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 2,
+    "deckLimit": 3,
+    "roleRestriction": "water"
+}

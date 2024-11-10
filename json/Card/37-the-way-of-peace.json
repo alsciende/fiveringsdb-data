@@ -1,0 +1,27 @@
+{
+    "id": "37-the-way-of-peace",
+    "name": "The Way of Peace",
+    "cost": null,
+    "text": "<b>Interrupt:</b> When this province is broken, choose up to 3 characters – honor each of those character.",
+    "type": "province",
+    "clan": "crane",
+    "elements": [
+        "air"
+    ],
+    "isUnique": false,
+    "side": "province",
+    "traits": [],
+    "military": null,
+    "political": null,
+    "strength": "3",
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 1,
+    "roleRestriction": null
+}
