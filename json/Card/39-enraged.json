@@ -1,0 +1,27 @@
+{
+    "id": "39-enraged",
+    "name": "Enraged",
+    "cost": 0,
+    "text": "<em>Fire</em> role only.",
+    "type": "attachment",
+    "clan": "crab",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "condition"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": "+2",
+    "politicalBonus": "-2",
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 2,
+    "deckLimit": 3,
+    "roleRestriction": "fire"
+}

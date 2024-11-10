@@ -1,0 +1,28 @@
+{
+    "id": "39-arrogant-kakita",
+    "name": "Arrogant Kakita",
+    "cost": 2,
+    "text": "Pride.<br><b>Forced Reaction:</b> After defenders are declared during a conflict in which this character is participating, initiate a [conflict-military] duel - resolve the duel. If this character is the duel's loser, move it home. (Unlimited.)",
+    "type": "character",
+    "clan": "crane",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "bushi",
+        "duelist"
+    ],
+    "military": "3",
+    "political": "2",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 2,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

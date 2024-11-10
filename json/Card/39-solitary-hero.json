@@ -1,0 +1,28 @@
+{
+    "id": "39-solitary-hero",
+    "name": "Solitary Hero",
+    "cost": 3,
+    "text": "This character cannot be evaded by the covert keyword.<br><b>Action:</b> During a conflict in which this character is participating on your side alone - remove 1 fate from each other participating character with equal or lower [conflict-military] skill.",
+    "type": "character",
+    "clan": "dragon",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "bushi",
+        "duelist"
+    ],
+    "military": "3",
+    "political": "1",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

@@ -116,6 +116,10 @@
         "value": "Berserker"
     },
     {
+        "id": "trait.black-scroll",
+        "value": "Black Scroll"
+    },
+    {
         "id": "trait.brotherhood",
         "value": "Brotherhood"
     },

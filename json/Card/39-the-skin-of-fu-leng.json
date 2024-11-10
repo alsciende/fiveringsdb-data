@@ -1,0 +1,28 @@
+{
+    "id": "39-the-skin-of-fu-leng",
+    "name": "The Skin of Fu Leng",
+    "cost": 3,
+    "text": "Attach to a unique character you control.<br>Restricted.<br>You may trigger each ability on each character with no fate as if you controlled that character. Each opponent cannot trigger those abilities.",
+    "type": "attachment",
+    "clan": "scorpion",
+    "elements": [],
+    "isUnique": true,
+    "side": "conflict",
+    "traits": [
+        "black-scroll",
+        "item"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": "+0",
+    "politicalBonus": "+3",
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

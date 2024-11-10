@@ -1,0 +1,28 @@
+{
+    "id": "39-unleashed-experiment",
+    "name": "Unleashed Experiment",
+    "cost": 2,
+    "text": "Dire - this character loses each other non-keyword ability. <i>(This character is dire when it has no fate on it.)</i><br>As an additional cost to declare this character as an attacker or defender, you lose 2 honor.",
+    "type": "character",
+    "clan": "crab",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "creature",
+        "shadowlands"
+    ],
+    "military": "4",
+    "political": "3",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 0,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

@@ -1,0 +1,27 @@
+{
+    "id": "39-untainted",
+    "name": "Untainted",
+    "cost": 1,
+    "text": "Attach to an unbroken province.<br><b>Reaction:</b> After you win a conflict at attached province, choose a status token on a participating character or on attached province - discard the chosen status token and gain 1 honor.",
+    "type": "attachment",
+    "clan": "crab",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "condition"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 2,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

@@ -1,0 +1,28 @@
+{
+    "id": "39-meticulous-scout",
+    "name": "Meticulous Scout",
+    "cost": 1,
+    "text": "<em>Seeker</em> role only.<br><b>Action:</b>  If you have gained 2 or more honor this phase, choose a province an opponent controls - place a dishonored status token on that province and reveal it, if able. While a province has a dishonored status token, treat its printed text box as if it were blank (except for <em>Traits</em>).",
+    "type": "character",
+    "clan": "lion",
+    "elements": [],
+    "isUnique": false,
+    "side": "dynasty",
+    "traits": [
+        "bushi",
+        "scout"
+    ],
+    "military": "2",
+    "political": "0",
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": 1,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": null,
+    "deckLimit": 3,
+    "roleRestriction": "seeker"
+}

@@ -1,0 +1,29 @@
+{
+    "id": "39-whispers-of-power",
+    "name": "Whispers of Power",
+    "cost": 1,
+    "text": "This card's fate cost can only be paid for with fate on characters you control.<br><b>Action:</b> During a conflict, lose 1 honor. Choose a character - until the end of the conflict, that character gets +3[conflict-political] for each character with no fate your opponent controls.",
+    "type": "event",
+    "clan": "phoenix",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "maho",
+        "spell",
+        "air"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 2,
+    "deckLimit": 3,
+    "roleRestriction": null
+}

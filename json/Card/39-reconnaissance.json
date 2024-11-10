@@ -1,0 +1,27 @@
+{
+    "id": "39-reconnaissance",
+    "name": "Reconnaissance",
+    "cost": 1,
+    "text": "<b>Reaction:</b> After the conflict phase begins, choose 3 provinces - look at each of those provinces <i>(if it is facedown)</i>. If you have at least 5 more honor than an ooponent, you may also discard any number of cards from those provinces.",
+    "type": "event",
+    "clan": "lion",
+    "elements": [],
+    "isUnique": false,
+    "side": "conflict",
+    "traits": [
+        "tactic"
+    ],
+    "military": null,
+    "political": null,
+    "strength": null,
+    "militaryBonus": null,
+    "politicalBonus": null,
+    "strengthBonus": null,
+    "glory": null,
+    "honor": null,
+    "fate": null,
+    "influencePool": null,
+    "influenceCost": 2,
+    "deckLimit": 3,
+    "roleRestriction": null
+}
