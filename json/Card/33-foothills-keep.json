@@ -1,30 +1,33 @@
 {
-    "id": "33-foothills-keep",
-    "name": "Foothills Keep",
-    "cost": null,
-    "text": "Eminent. <i>(This province starts the game faceup and cannot be turned facedown. It cannot be a stronghold province.)</i><br>As an additional cost to attack another province you control, your opponent must spend 1 fate to an unclaimed ring.",
-    "type": "province",
+    "allowed_clans": [
+        "dragon"
+    ],
     "clan": "dragon",
+    "cost": null,
+    "deck_limit": 1,
     "elements": [
         "fire",
         "void"
     ],
-    "isUnique": true,
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "33-foothills-keep",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_unique": true,
+    "military": null,
+    "military_bonus": null,
+    "name": "Foothills Keep",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": null,
     "side": "province",
+    "strength": "3",
+    "strength_bonus": null,
+    "text": "Eminent. <i>(This province starts the game faceup and cannot be turned facedown. It cannot be a stronghold province.)</i><br>As an additional cost to attack another province you control, your opponent must spend 1 fate to an unclaimed ring.",
     "traits": [
         "castle"
     ],
-    "military": null,
-    "political": null,
-    "strength": "3",
-    "militaryBonus": null,
-    "politicalBonus": null,
-    "strengthBonus": null,
-    "glory": null,
-    "honor": null,
-    "fate": null,
-    "influencePool": null,
-    "influenceCost": null,
-    "deckLimit": 1,
-    "roleRestriction": null
+    "type": "province"
 }

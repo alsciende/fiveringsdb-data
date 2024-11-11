@@ -1,30 +1,33 @@
 {
-    "id": "30-wind-s-path",
-    "name": "Wind's Path",
-    "cost": null,
-    "text": "Eminent.<br>During conflicts, you may play each character in this province as if it were in your hand. Each character played this way must enter play in the conflict.",
-    "type": "province",
+    "allowed_clans": [
+        "unicorn"
+    ],
     "clan": "unicorn",
+    "cost": null,
+    "deck_limit": 1,
     "elements": [
         "fire",
         "water"
     ],
-    "isUnique": true,
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "30-wind-s-path",
+    "influence_cost": null,
+    "influence_pool": null,
+    "is_unique": true,
+    "military": null,
+    "military_bonus": null,
+    "name": "Wind's Path",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": null,
     "side": "province",
+    "strength": "5",
+    "strength_bonus": null,
+    "text": "Eminent.<br>During conflicts, you may play each character in this province as if it were in your hand. Each character played this way must enter play in the conflict.",
     "traits": [
         "road"
     ],
-    "military": null,
-    "political": null,
-    "strength": "5",
-    "militaryBonus": null,
-    "politicalBonus": null,
-    "strengthBonus": null,
-    "glory": null,
-    "honor": null,
-    "fate": null,
-    "influencePool": null,
-    "influenceCost": null,
-    "deckLimit": 1,
-    "roleRestriction": null
+    "type": "province"
 }

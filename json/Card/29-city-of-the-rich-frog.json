@@ -1,30 +1,33 @@
 {
-    "id": "29-city-of-the-rich-frog",
-    "name": "City of the Rich Frog",
-    "cost": null,
-    "text": "Eminent. <i>(This province starts the game faceup and cannot be turned facedown. It cannot be a stronghold province.)</i><br>After setup, fill this province to 3 cards.<br>When you would refill this province, refill it to 3 cards instead of 1.",
-    "type": "province",
+    "allowed_clans": [
+        "*"
+    ],
     "clan": "neutral",
+    "cost": null,
+    "deck_limit": 1,
     "elements": [
         "earth",
         "void"
     ],
-    "unique": true,
+    "fate": null,
+    "glory": null,
+    "honor": null,
+    "id": "29-city-of-the-rich-frog",
+    "influence_cost": null,
+    "influence_pool": null,
+    "military": null,
+    "military_bonus": null,
+    "name": "City of the Rich Frog",
+    "political": null,
+    "political_bonus": null,
+    "role_restriction": null,
     "side": "province",
+    "strength": "3",
+    "strength_bonus": null,
+    "text": "Eminent. <i>(This province starts the game faceup and cannot be turned facedown. It cannot be a stronghold province.)</i><br>After setup, fill this province to 3 cards.<br>When you would refill this province, refill it to 3 cards instead of 1.",
     "traits": [
         "city"
     ],
-    "military": null,
-    "political": null,
-    "strength": "3",
-    "militaryBonus": null,
-    "politicalBonus": null,
-    "strengthBonus": null,
-    "glory": null,
-    "honor": null,
-    "fate": null,
-    "influencePool": null,
-    "influenceCost": null,
-    "deckLimit": 1,
-    "roleRestriction": null
+    "type": "province",
+    "unique": true
 }
